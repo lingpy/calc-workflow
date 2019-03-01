@@ -44,7 +44,7 @@
 ## @head:"Introduction"
 
 <p style="text-align:center">
-<img src="img/calc-7.png" alt="img" style="width:1000px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/edictor-tutorial/calc-7.png" alt="img" style="width:1000px;text-align:center;"></img>
 Workflows for Computer-Assisted Language Comparison
 </p>
 
