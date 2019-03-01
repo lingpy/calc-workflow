@@ -1,30 +1,44 @@
 # Workflows for Computer-Assisted Language Comparison
 
-@data-background:#e0e6f8
+@data-background:#d0ccd0
 @data-transition:concave
 @style:text-align:justify;
 @style:font-size:85%;
 
 ---
-@data-background:#2D6CA2
-@style:text-align:center;font-size:100%;
+@data-background:#d0ccd0
+@style:text-align:center;
+@style:font-size:100%;
 
 ## State of the Art
 ----
 
-<p style="text-align:center;color:LightYellow;font-weight:bold;font-size:110%;">Workflows for Computer-Assisted Language Comparison</p>
+<p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">Workflows for Computer-Assisted Language Comparison</p>
 <p style="text-align:center"> 
-<img src="img/edictor.png" alt="image" style="width:200px"></img>
+<img src="img/calc-yinyang.svg" alt="image" style="width:200px"></img>
 </p>
 
 
 ---
 
-## @head:"Agenda Bla"
+## @head:"Outline"
 
-* bla
-* bla
-* bla
+* Introduction
+* Workflows
+* Conclusion and Outlook
+
+--
+## @head:"Outline"
+### @subhead:"The Goal for this talk ..."
+
+* Understand the framework
+* Adapt the computer-assisted methods
+* Help us improve the framework by giving feedbacks.
+ 
+<p style="text-align:center">
+<img src="img/worktogether.jpg" alt="img" style="width:500px;text-align:center;"></img>
+</p>
+
 
 ---
 ## @head:"Introduction"
