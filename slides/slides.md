@@ -1,12 +1,12 @@
 # Workflows for Computer-Assisted Language Comparison
 
-@data-background:#d0ccd0
+@data-background:#f5f5f7
 @data-transition:concave
 @style:text-align:justify;
 @style:font-size:85%;
 
 ---
-@data-background:#d0ccd0
+@data-background:#f5f5f7
 @style:text-align:center;
 @style:font-size:100%;
 

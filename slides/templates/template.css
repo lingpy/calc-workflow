@@ -7,7 +7,8 @@
 	width: 960px;
 	text-align:justify;
 	display: block;
-	padding-left: 5px;
+	padding: 8px 16px!important;
+	box-sizing:border-box;
 	margin: 0;
 }
 .subhead {
@@ -18,7 +19,8 @@
 	background-color: #9ba7be;
 	width: 960px;
 	text-align: justify;
-	padding: 5px;
+	padding: 8px 16px!important;
+	box-sizing:border-box;
 	margin: 0;
 	display: block;
 }
