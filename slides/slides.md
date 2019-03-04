@@ -47,7 +47,7 @@ Classical approach
 * High accuracy
 * High flexibility
 
-Computer approach
+Computational approach
 
 * Suitable for large datasets. 
 * High consistency
@@ -57,59 +57,74 @@ Computer approach
 ## @head:"Introduction"
 ### @subhead:"What is a computer-assisted approach"
 
-A computer-assisted approach
+A workflow involves linguistic experts and computing power.
 
-* Large-scale linguistic datasets
-* Strickly follow the transparency guideline.
-* Create a loop between experts and computers. 
+* Analyse and manipulate large-scale linguistic datasets
+* Follow a transparency guideline when handling linguistic datasets. 
 
 --
 
 ## @head:"Introduction"
 ### @subhead:"The Goals"
 
-* Understand the framework
-* Adapt the computer-assisted methods
-* Help us improve the framework by giving feedbacks.
+* Introduce
+* Embrace
+* Feedback
 
 <p style="text-align:center">
 <img src="img/worktogether.jpg" alt="img" style="width:500px;text-align:center;"></img>
 </p> 
 
---
-## @head:"CALC Workflows"
-### @subhead:"Details"
-
-
 ---
-## @head:"Workflows"
+## @head:"CALC workflows"
 
 <p style="text-align:center">
-<img src="img/calc-7.png" alt="img" style="width:1000px;text-align:center;"></img>
+<img src="img/http://lingulist.de/documents/talks/img/logos/cldf.png" alt="img" style="width:1000px;text-align:center;"></img>
 Workflows for Computer-Assisted Language Comparison
 </p>
 
 --
-## @head:"CALC Workflows"
-### @subhead:"Segments to Bla"
+## @head:"CALC workflows"
+### @subhead:"From raw data to machine-readable data"
 
 --
-## @head:"CALC Workflows"
-### @subhead:"bla"
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
 
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
+--
+## @head:"CALC workflows"
+### @subhead:"From alignments to strict, cross-semantic cognates"
+
+--
+## @head:"CALC workflows"
+### @subhead:"From strict cognates to correspondence patterns"
+
+---
+## @head:"Conclusion and outlook" 
+
+
+--
+## @head:"Conclusion and outlook"
+### @subhead:"Conclusion"
+
+--
+## @head:"Conclusion and outlook"
+### @subhead:"Outlook"
 
 ---
 
-
-
----
-@data-background:#2D6CA2
-
-<p style="font-size:100px;color:white;text-align:center;font-weight:bold;">
+<p style="font-size:100px;color:#768ca0;text-align:center;font-weight:bold;">
 Thanks for Your Attention!
-</p>
-<p style="text-align:center"> 
-<img src="img/edictor.png" alt="image" style="width:200px"></img>
-</p>
 
-
+<p>CALC members:</p>
+<ul>                        
+<li> Dr. Johann-Mattis List (Group Leader)</li>    
+<li> Dr. Yunfan Lai (Post-Doc)</li>
+<li> Dr. Tiago Tresoldi (Post-Doc)</li>
+<li> Nathanael E.Schweikhard (Doctoral student)</li>
+<li> Mei-Shin Wu (Doctoral student)</li>
+</ul>
