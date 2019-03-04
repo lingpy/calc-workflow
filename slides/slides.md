@@ -84,6 +84,14 @@ A workflow involves linguistic experts and computing power.
 
 --
 ## @head:"CALC workflows"
+### @subhead:"Application: correspondence pattern detection"
+<p style="text-align:center">
+<img src="img/downstream.svg", alt="img"
+style="width:250px;text-align:center"></img>
+</p>
+
+--
+## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 
 --
