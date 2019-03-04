@@ -79,8 +79,7 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 
 <p style="text-align:center">
-<img src="img/http://lingulist.de/documents/talks/img/logos/cldf.png" alt="img" style="width:1000px;text-align:center;"></img>
-Workflows for Computer-Assisted Language Comparison
+<img src="img/flowchart.svg" alt="img" style="width:400px;text-align:center;"></img>
 </p>
 
 --
