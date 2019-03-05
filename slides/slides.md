@@ -46,10 +46,10 @@ Classical approach
 * Suitable for small datasets. 
 * High accuracy
 * High flexibility
+* Low efficiency and most of the tasks are repetitive.
 
 Computational approach
 
-* Suitable for large datasets. 
 * High consistency
 * High efficiency
 
@@ -59,17 +59,13 @@ Computational approach
 
 A workflow involves linguistic experts and computing power.
 
-* Analyse and manipulate large-scale linguistic datasets
+* Analyse and manipulate linguistic datasets
 * Follow a transparency guideline when handling linguistic datasets. 
 
 --
 
 ## @head:"Introduction"
 ### @subhead:"The Goals"
-
-* Introduce
-* Embrace
-* Feedback
 
 <p style="text-align:center">
 <img src="img/worktogether.jpg" alt="img" style="width:500px;text-align:center;"></img>
@@ -93,6 +89,14 @@ style="width:250px;text-align:center"></img>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
+|Books                                            | Web resources           |
+|-------------------------------------------------|-------------------------|
+|<img src="img/books.jpg" style="vertical-align:bottom;width:300px" alt="img1"></img>|<img src="img/chen_webpage.png" style="width:350px"></img>|
+
+--
+## @head:"CALC workflows"
+### @subhead:"From raw data to machine-readable data"
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8wOOZVbndQRmvupAuxmPnU6H9TWHzVocFMoC6DdVhFarzkIGyFFLuPIN734q7sgAtSWcUzlLNvSJk/pubhtml?widget=true&amp;headers=false" width="600px" height="600px"></iframe>
 
 --
 ## @head:"CALC workflows"
