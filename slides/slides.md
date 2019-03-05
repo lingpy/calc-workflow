@@ -74,16 +74,10 @@ A workflow involves linguistic experts and computing power.
 ---
 ## @head:"CALC workflows"
 
-<p style="text-align:center">
-<img src="img/flowchart.svg" alt="img" style="width:400px;text-align:center;"></img>
-</p>
+<p>Application: correspondence pattern detection</p> 
 
---
-## @head:"CALC workflows"
-### @subhead:"Application: correspondence pattern detection"
 <p style="text-align:center">
-<img src="img/downstream.svg", alt="img"
-style="width:250px;text-align:center"></img>
+<img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
 </p>
 
 --
@@ -91,12 +85,33 @@ style="width:250px;text-align:center"></img>
 ### @subhead:"From raw data to machine-readable data"
 |Books                                            | Web resources           |
 |-------------------------------------------------|-------------------------|
-|<img src="img/books.jpg" style="vertical-align:bottom;width:300px" alt="img1"></img>|<img src="img/chen_webpage.png" style="width:350px"></img>|
+|<img src="img/books.jpg" style="vertical-align:bottom;width:400px" alt="img1"></img>|<img src="img/chen_webpage.png" style="width:500px"></img>|
 
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8wOOZVbndQRmvupAuxmPnU6H9TWHzVocFMoC6DdVhFarzkIGyFFLuPIN734q7sgAtSWcUzlLNvSJk/pubhtml?widget=true&amp;headers=false" width="600px" height="600px"></iframe>
+
+<p>Wordlist format : a long format</p>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing"
+width="900px" height="400px"></iframe>
+
+
+--
+## @head:"CALC workflows"
+### @subhead:"From raw data to machine-readable data"
+
+<p>Orthography profile: a rule-book for segmentation (tokenization)</p>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1_j8aNwD7p9p6kswoqijwngVeKQh9bQvnPo72EvkSZMM/edit?usp=sharing" style="width:900px;height:400px"></iframe>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From raw data to machine-readable data"
+
+<p> Profile: an online software to inspect the accuracy of an orthography profile</p> 
+
+<iframe src="http://calc.digling.org/profile/" style="position:absolute; width:100%; height:100%; border:none; margin:0;"></iframe>
 
 --
 ## @head:"CALC workflows"
