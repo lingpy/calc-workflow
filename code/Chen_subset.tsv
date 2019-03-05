@@ -22,7 +22,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 12195	luobuoheeastern-Chen-2013-888-503-1		luobuoheeastern	Chen-2013-888-503	ɬa²⁴nen⁵⁵	ɬa²⁴nen⁵⁵	ɬ a ²⁴ + n e n ⁵⁵		Chen2013			七月	2850	JULY	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	七月	ɬa²⁴+nen⁵⁵
 12196	luobuohewestern-Chen-2013-888-503-1		luobuohewestern	Chen-2013-888-503	ɬɑ³⁵nen⁵⁵	ɬɑ³⁵nen⁵⁵	ɬ ɑ ³⁵ + n e n ⁵⁵		Chen2013			七月	2850	JULY	Luobuohe, Western	luop1235					Luobuohe, Western	七月	ɬɑ³⁵+nen⁵⁵
 12197	chuanqiandian-Chen-2013-888-503-1		chuanqiandian	Chen-2013-888-503	ɕaŋ⁴⁴ɬi⁴⁴	ɕaŋ⁴⁴ɬi⁴⁴	ɕ a ŋ ⁴⁴ + ɬ i ⁴⁴		Chen2013			七月	2850	JULY	Chuanqiandian	chua1256					Chuanqiandian	七月	ɕaŋ⁴⁴+ɬi⁴⁴
-12198	chuanqiandiancentralguizhou-Chen-2013-888-503-1		chuanqiandiancentralguizhou	Chen-2013-888-503	tɬɛ¹³ɬa⁴²	tɬɛ¹³ɬa⁴²	t ɬ ɛ ¹³ + ɬ a ⁴²		Chen2013			七月	2850	JULY	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	七月	tɬɛ¹³+ɬa⁴²
+12198	chuanqiandiancentralguizhou-Chen-2013-888-503-1		chuanqiandiancentralguizhou	Chen-2013-888-503	tɬɛ¹³ɬa⁴²	tɬɛ¹³ɬa⁴²	tɬ ɛ ¹³ + ɬ a ⁴²		Chen2013			七月	2850	JULY	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	七月	tɬɛ¹³+ɬa⁴²
 12199	chuanqiandiansouthernguizhou-Chen-2013-888-503-1		chuanqiandiansouthernguizhou	Chen-2013-888-503	ɬæ⁴²li³⁵	ɬæ⁴²li³⁵	ɬ æ ⁴² + l i ³⁵		Chen2013			七月	2850	JULY	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	七月	ɬæ⁴²+li³⁵
 12200	chuanqiandiannortheastyunnan-Chen-2013-888-503-1		chuanqiandiannortheastyunnan	Chen-2013-888-503	lu⁵⁵ɕaɯ¹¹ɬi³³	lu⁵⁵ɕaɯ¹¹ɬi³³	l u ⁵⁵ + ɕ a ɯ ¹¹ + ɬ i ³³		Chen2013			七月	2850	JULY	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	七月	lu⁵⁵+ɕaɯ¹¹+ɬi³³
 12204	qiandongeast-Chen-2013-888-503-1		qiandongeast	Chen-2013-888-503	la⁴⁴ɕuŋ⁵³	la⁴⁴ɕuŋ⁵³	l a ⁴⁴ + ɕ u ŋ ⁵³		Chen2013			七月	2850	JULY	Qiandong, East	east2370					Qiandong, East	七月	la⁴⁴+ɕuŋ⁵³
@@ -137,7 +137,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20426	qiandongwest-Chen-2013-888-840-1		qiandongwest	Chen-2013-888-840	ʑi²²	ʑi²²	ʑ i ²²		Chen2013			下（小猪）	1195	GIVE BIRTH	Qiandong, West						Qiandong, West	下（小猪）	ʑi²²
 20427	bahengwest-Chen-2013-888-840-1		bahengwest	Chen-2013-888-840	tu⁵⁵	tu⁵⁵	t u ⁵⁵		Chen2013			下（小猪）	1195	GIVE BIRTH	Baheng, West	pahn1237					Baheng, West	下（小猪）	tu⁵⁵
 20420	chuanqiandiansouthernguizhou-Chen-2013-888-840-1		chuanqiandiansouthernguizhou	Chen-2013-888-840	ȵəŋ¹¹	ȵəŋ¹¹	ȵ ə ŋ ¹¹		Chen2013			下（小猪）	1195	GIVE BIRTH	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	下（小猪）	ȵəŋ¹¹
-20419	chuanqiandiancentralguizhou-Chen-2013-888-840-1		chuanqiandiancentralguizhou	Chen-2013-888-840	tɬo²²	tɬo²²	t ɬ o ²²		Chen2013			下（小猪）	1195	GIVE BIRTH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	下（小猪）	tɬo²²
+20419	chuanqiandiancentralguizhou-Chen-2013-888-840-1		chuanqiandiancentralguizhou	Chen-2013-888-840	tɬo²²	tɬo²²	tɬ o ²²		Chen2013			下（小猪）	1195	GIVE BIRTH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	下（小猪）	tɬo²²
 20421	chuanqiandiannortheastyunnan-Chen-2013-888-840-1		chuanqiandiannortheastyunnan	Chen-2013-888-840	ɕaɯ³³	ɕaɯ³³	ɕ a ɯ ³³		Chen2013			下（小猪）	1195	GIVE BIRTH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	下（小猪）	ɕaɯ³³
 20428	bahengeast-Chen-2013-888-840-1		bahengeast	Chen-2013-888-840	tu⁵⁵	tu⁵⁵	t u ⁵⁵		Chen2013			下（小猪）	1195	GIVE BIRTH	Baheng, East	pahn1237					Baheng, East	下（小猪）	tu⁵⁵
 20369	luobuoheeastern-Chen-2013-888-838-1		luobuoheeastern	Chen-2013-888-838	ŋɢa⁵⁵	ŋɢa⁵⁵	ŋ ɢ a ⁵⁵		Chen2013			下（楼）	374	ONE TIME	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	下（楼）	ŋɢa⁵⁵
@@ -336,7 +336,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 12083	bahengeast-Chen-2013-888-498-1		bahengeast	Chen-2013-888-498	ŋ̥ŋ³¹ȵe³¹	ŋ̥ŋ³¹ȵe³¹	ŋ̥ ŋ ³¹ + ȵ e ³¹		Chen2013			二月	2037	FEBRUARY	Baheng, East	pahn1237					Baheng, East	二月	ŋ̥ŋ³¹+ȵe³¹
 101	luobuoheeastern-Chen-2013-888-5-1		luobuoheeastern	Chen-2013-888-5	ʔa⁰²tuŋ⁵⁵	ʔa⁰²tuŋ⁵⁵	ʔ a ²/⁰ + t u ŋ ⁵⁵		Chen2013			云	1489	CLOUD	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	云	ʔa²/⁰+tuŋ⁵⁵
 102	luobuohewestern-Chen-2013-888-5-1		luobuohewestern	Chen-2013-888-5	ʔə⁰²toŋ⁵⁵	ʔə⁰²toŋ⁵⁵	ʔ ə ²/⁰ + t o ŋ ⁵⁵		Chen2013			云	1489	CLOUD	Luobuohe, Western	luop1235					Luobuohe, Western	云	ʔə²/⁰+toŋ⁵⁵
-103	chuanqiandian-Chen-2013-888-5-1		chuanqiandian	Chen-2013-888-5	tɬaŋ⁴³ʔoŋ⁴⁴	tɬaŋ⁴³ʔoŋ⁴⁴	t ɬ a ŋ ⁴³ + ʔ o ŋ ⁴⁴		Chen2013			云	1489	CLOUD	Chuanqiandian	chua1256					Chuanqiandian	云	tɬaŋ⁴³+ʔoŋ⁴⁴
+103	chuanqiandian-Chen-2013-888-5-1		chuanqiandian	Chen-2013-888-5	tɬaŋ⁴³ʔoŋ⁴⁴	tɬaŋ⁴³ʔoŋ⁴⁴	tɬ a ŋ ⁴³ + ʔ o ŋ ⁴⁴		Chen2013			云	1489	CLOUD	Chuanqiandian	chua1256					Chuanqiandian	云	tɬaŋ⁴³+ʔoŋ⁴⁴
 104	chuanqiandiancentralguizhou-Chen-2013-888-5-1		chuanqiandiancentralguizhou	Chen-2013-888-5	tə⁰²ʔõ⁴²	tə⁰²ʔõ⁴²	t ə ²/⁰ + ʔ õ ⁴²		Chen2013			云	1489	CLOUD	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	云	tə²/⁰+ʔõ⁴²
 105	chuanqiandiansouthernguizhou-Chen-2013-888-5-1		chuanqiandiansouthernguizhou	Chen-2013-888-5	ʔaŋ⁵⁵	ʔaŋ⁵⁵	ʔ a ŋ ⁵⁵		Chen2013			云	1489	CLOUD	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	云	ʔaŋ⁵⁵
 106	chuanqiandiannortheastyunnan-Chen-2013-888-5-1		chuanqiandiannortheastyunnan	Chen-2013-888-5	haɯ⁵⁵po¹¹	haɯ⁵⁵po¹¹	h a ɯ ⁵⁵ + p o ¹¹		Chen2013			云	1489	CLOUD	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	云	haɯ⁵⁵+po¹¹
@@ -629,8 +629,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 1628	bahengeast-Chen-2013-888-67-1		bahengeast	Chen-2013-888-67	taŋ³⁵	taŋ³⁵	t a ŋ ³⁵		Chen2013			儿子	1620	SON	Baheng, East	pahn1237					Baheng, East	儿子	taŋ³⁵
 11335	luobuoheeastern-Chen-2013-888-468-1		luobuoheeastern	Chen-2013-888-468	ntsʰie³³	ntsʰie³³	n tsʰ i e ³³		Chen2013			元	1406	FAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	元	ntsʰie³³
 11336	luobuohewestern-Chen-2013-888-468-1		luobuohewestern	Chen-2013-888-468	ntsʰe³¹	ntsʰe³¹	n tsʰ e ³¹		Chen2013			元	1406	FAR	Luobuohe, Western	luop1235					Luobuohe, Western	元	ntsʰe³¹
-11337	chuanqiandian-Chen-2013-888-468-1		chuanqiandian	Chen-2013-888-468	tɬai²⁴	tɬai²⁴	t ɬ a i ²⁴		Chen2013			元	1406	FAR	Chuanqiandian	chua1256					Chuanqiandian	元	tɬai²⁴
-11338	chuanqiandiancentralguizhou-Chen-2013-888-468-1		chuanqiandiancentralguizhou	Chen-2013-888-468	tɬe⁵⁵	tɬe⁵⁵	t ɬ e ⁵⁵		Chen2013			元	1406	FAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	元	tɬe⁵⁵
+11337	chuanqiandian-Chen-2013-888-468-1		chuanqiandian	Chen-2013-888-468	tɬai²⁴	tɬai²⁴	tɬ a i ²⁴		Chen2013			元	1406	FAR	Chuanqiandian	chua1256					Chuanqiandian	元	tɬai²⁴
+11338	chuanqiandiancentralguizhou-Chen-2013-888-468-1		chuanqiandiancentralguizhou	Chen-2013-888-468	tɬe⁵⁵	tɬe⁵⁵	tɬ e ⁵⁵		Chen2013			元	1406	FAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	元	tɬe⁵⁵
 11339	chuanqiandiansouthernguizhou-Chen-2013-888-468-1		chuanqiandiansouthernguizhou	Chen-2013-888-468	ʑan²¹	ʑan²¹	ʑ a n ²¹		Chen2013			元	1406	FAR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	元	ʑan²¹
 11340	chuanqiandiannortheastyunnan-Chen-2013-888-468-1		chuanqiandiannortheastyunnan	Chen-2013-888-468	dlɦi³⁵	dlɦi³⁵	d l ɦ i ³⁵		Chen2013			元	1406	FAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	元	dlɦi³⁵
 11344	qiandongeast-Chen-2013-888-468-1		qiandongeast	Chen-2013-888-468	lan²¹²	lan²¹²	l a n ²¹²		Chen2013			元	1406	FAR	Qiandong, East	east2370					Qiandong, East	元	lan²¹²
@@ -698,7 +698,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 10480	chuanqiandian-Chen-2013-888-433-1		chuanqiandian	Chen-2013-888-433	ʈou⁴⁴	ʈou⁴⁴	ʈ o u ⁴⁴		Chen2013			六	1703	SIX	Chuanqiandian	chua1256					Chuanqiandian	六	ʈou⁴⁴
 10481	chuanqiandiancentralguizhou-Chen-2013-888-433-1		chuanqiandiancentralguizhou	Chen-2013-888-433	tʂə⁴²	tʂə⁴²	tʂ ə ⁴²		Chen2013			六	1703	SIX	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	六	tʂə⁴²
 10482	chuanqiandiansouthernguizhou-Chen-2013-888-433-1		chuanqiandiansouthernguizhou	Chen-2013-888-433	ʂu⁵⁵	ʂu⁵⁵	ʂ u ⁵⁵		Chen2013			六	1703	SIX	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	六	ʂu⁵⁵
-10483	chuanqiandiannortheastyunnan-Chen-2013-888-433-1		chuanqiandiannortheastyunnan	Chen-2013-888-433	tɬau¹¹	tɬau¹¹	t ɬ a u ¹¹		Chen2013			六	1703	SIX	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	六	tɬau¹¹
+10483	chuanqiandiannortheastyunnan-Chen-2013-888-433-1		chuanqiandiannortheastyunnan	Chen-2013-888-433	tɬau¹¹	tɬau¹¹	tɬ a u ¹¹		Chen2013			六	1703	SIX	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	六	tɬau¹¹
 10487	qiandongeast-Chen-2013-888-433-1		qiandongeast	Chen-2013-888-433	tjeu⁴⁴	tjeu⁴⁴	t j e u ⁴⁴		Chen2013			六	1703	SIX	Qiandong, East	east2370					Qiandong, East	六	tjeu⁴⁴
 10489	qiandongwest-Chen-2013-888-433-1		qiandongwest	Chen-2013-888-433	tju³³	tju³³	t j u ³³		Chen2013			六	1703	SIX	Qiandong, West						Qiandong, West	六	tju³³
 10490	bahengwest-Chen-2013-888-433-1		bahengwest	Chen-2013-888-433	tɕu⁵⁵	tɕu⁵⁵	tɕ u ⁵⁵		Chen2013			六	1703	SIX	Baheng, West	pahn1237					Baheng, West	六	tɕu⁵⁵
@@ -832,7 +832,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 8333	chuanqiandian-Chen-2013-888-343-1		chuanqiandian	Chen-2013-888-343	tʰui⁴³pau²⁴	tʰui⁴³pau²⁴	tʰ u i ⁴³ + p a u ²⁴		Chen2013			刨子			Chuanqiandian	chua1256					Chuanqiandian	刨子	tʰui⁴³+pau²⁴
 8334	chuanqiandiancentralguizhou-Chen-2013-888-343-1		chuanqiandiancentralguizhou	Chen-2013-888-343	tʰi²⁴pʰo⁴²	tʰi²⁴pʰo⁴²	tʰ i ²⁴ + pʰ o ⁴²		Chen2013			刨子			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	刨子	tʰi²⁴+pʰo⁴²
 8335	chuanqiandiansouthernguizhou-Chen-2013-888-343-1		chuanqiandiansouthernguizhou	Chen-2013-888-343	ʈua³²saŋ²³²	ʈua³²saŋ²³²	ʈ u a ³² s a ŋ ²³²		Chen2013			刨子			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	刨子	ʈua³²saŋ²³²
-8336	chuanqiandiannortheastyunnan-Chen-2013-888-343-1		chuanqiandiannortheastyunnan	Chen-2013-888-343	ʔa⁵⁵ndlɦai¹¹m̥au³³	ʔa⁵⁵ndlɦai¹¹m̥au³³	ʔ a ⁵⁵ + n d l ɦ a i ¹¹ + m̥ a u ³³		Chen2013			刨子			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	刨子	ʔa⁵⁵+ndlɦai¹¹+m̥au³³
+8336	chuanqiandiannortheastyunnan-Chen-2013-888-343-1		chuanqiandiannortheastyunnan	Chen-2013-888-343	ʔa⁵⁵ndlɦai¹¹m̥au³³	ʔa⁵⁵ndlɦai¹¹m̥au³³	ʔ a ⁵⁵ + ⁿd l ɦ a i ¹¹ + m̥ a u ³³		Chen2013			刨子			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	刨子	ʔa⁵⁵+ⁿdlɦai¹¹+m̥au³³
 8340	qiandongeast-Chen-2013-888-343-1		qiandongeast	Chen-2013-888-343	tʰue²⁴pau⁵³	tʰue²⁴pau⁵³	tʰ u e ²⁴ + p a u ⁵³		Chen2013			刨子			Qiandong, East	east2370					Qiandong, East	刨子	tʰue²⁴+pau⁵³
 8342	qiandongwest-Chen-2013-888-343-1		qiandongwest	Chen-2013-888-343	tʰue⁴⁴po²²	tʰue⁴⁴po²²	tʰ u e ⁴⁴ + p o ²²		Chen2013			刨子			Qiandong, West						Qiandong, West	刨子	tʰue⁴⁴+po²²
 8343	bahengwest-Chen-2013-888-343-1		bahengwest	Chen-2013-888-343	ʔa⁰³pʰaŋ⁵⁵	ʔa⁰³pʰaŋ⁵⁵	ʔ a ³/⁰ + pʰ a ŋ ⁵⁵		Chen2013			刨子			Baheng, West	pahn1237					Baheng, West	刨子	ʔa³/⁰+pʰaŋ⁵⁵
@@ -884,8 +884,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 5373	qiandongwest-Chen-2013-888-220-1		qiandongwest	Chen-2013-888-220	pu²¹	pu²¹	p u ²¹		Chen2013			刺	124	THORN	Qiandong, West						Qiandong, West	刺	pu²¹
 5374	bahengwest-Chen-2013-888-220-1		bahengwest	Chen-2013-888-220	ŋeŋ¹¹	ŋeŋ¹¹	ŋ e ŋ ¹¹		Chen2013			刺	124	THORN	Baheng, West	pahn1237					Baheng, West	刺	ŋeŋ¹¹
 5375	bahengeast-Chen-2013-888-220-1		bahengeast	Chen-2013-888-220	ȵtɕeŋ³¹³	ȵtɕeŋ³¹³	ȵ tɕ e ŋ ³¹³		Chen2013			刺	124	THORN	Baheng, East	pahn1237					Baheng, East	刺	ȵtɕeŋ³¹³
-16677	luobuoheeastern-Chen-2013-888-686-1		luobuoheeastern	Chen-2013-888-686	ndzaŋ⁵⁵	ndzaŋ⁵⁵	n d z a ŋ ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	剁	ndzaŋ⁵⁵
-16678	luobuohewestern-Chen-2013-888-686-1		luobuohewestern	Chen-2013-888-686	ndzɑŋ⁵⁵	ndzɑŋ⁵⁵	n d z ɑ ŋ ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Luobuohe, Western	luop1235					Luobuohe, Western	剁	ndzɑŋ⁵⁵
+16677	luobuoheeastern-Chen-2013-888-686-1		luobuoheeastern	Chen-2013-888-686	ndzaŋ⁵⁵	ndzaŋ⁵⁵	ⁿdz a ŋ ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	剁	ⁿdzaŋ⁵⁵
+16678	luobuohewestern-Chen-2013-888-686-1		luobuohewestern	Chen-2013-888-686	ndzɑŋ⁵⁵	ndzɑŋ⁵⁵	ⁿdz ɑ ŋ ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Luobuohe, Western	luop1235					Luobuohe, Western	剁	ⁿdzɑŋ⁵⁵
 16679	chuanqiandian-Chen-2013-888-686-1		chuanqiandian	Chen-2013-888-686	tʂua⁵⁵	tʂua⁵⁵	tʂ u a ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Chuanqiandian	chua1256					Chuanqiandian	剁	tʂua⁵⁵
 16680	chuanqiandiancentralguizhou-Chen-2013-888-686-1		chuanqiandiancentralguizhou	Chen-2013-888-686	sʰɯ¹³nzɯ²²	sʰɯ¹³nzɯ²²	sʰ ɯ ¹³ + n z ɯ ²²		Chen2013			剁	2149	CHOP (INTO PIECES)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	剁	sʰɯ¹³+nzɯ²²
 16681	chuanqiandiansouthernguizhou-Chen-2013-888-686-1		chuanqiandiansouthernguizhou	Chen-2013-888-686	nto⁵⁵; ʂəu³⁵	nto⁵⁵	n t o ⁵⁵		Chen2013			剁	2149	CHOP (INTO PIECES)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	剁	nto⁵⁵
@@ -992,10 +992,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 15299	bahengeast-Chen-2013-888-629-1		bahengeast	Chen-2013-888-629	ŋqe³¹	ŋqe³¹	ŋ q e ³¹		Chen2013			勤快	2077	DILIGENT	Baheng, East	pahn1237					Baheng, East	勤快	ŋqe³¹
 9289	luobuoheeastern-Chen-2013-888-383-1		luobuoheeastern	Chen-2013-888-383	ʔa⁰²qla⁵⁵ʔju³¹	ʔa⁰²qla⁵⁵ʔju³¹	ʔ a ²/⁰ + q l a ⁵⁵ + ʔ j u ³¹		Chen2013			勺子	1378	SPOON	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	勺子	ʔa²/⁰+qla⁵⁵+ʔju³¹
 9290	luobuohewestern-Chen-2013-888-383-1		luobuohewestern	Chen-2013-888-383	ʔə⁰²qlɑ⁵⁵	ʔə⁰²qlɑ⁵⁵	ʔ ə ²/⁰ + q l ɑ ⁵⁵		Chen2013			勺子	1378	SPOON	Luobuohe, Western	luop1235					Luobuohe, Western	勺子	ʔə²/⁰+qlɑ⁵⁵
-9291	chuanqiandian-Chen-2013-888-383-1		chuanqiandian	Chen-2013-888-383	tɬa⁵⁵	tɬa⁵⁵	t ɬ a ⁵⁵		Chen2013			勺子	1378	SPOON	Chuanqiandian	chua1256					Chuanqiandian	勺子	tɬa⁵⁵
-9292	chuanqiandiancentralguizhou-Chen-2013-888-383-1		chuanqiandiancentralguizhou	Chen-2013-888-383	tɬe¹³hɯ²⁴	tɬe¹³hɯ²⁴	t ɬ e ¹³ + h ɯ ²⁴		Chen2013			勺子	1378	SPOON	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	勺子	tɬe¹³+hɯ²⁴
+9291	chuanqiandian-Chen-2013-888-383-1		chuanqiandian	Chen-2013-888-383	tɬa⁵⁵	tɬa⁵⁵	tɬ a ⁵⁵		Chen2013			勺子	1378	SPOON	Chuanqiandian	chua1256					Chuanqiandian	勺子	tɬa⁵⁵
+9292	chuanqiandiancentralguizhou-Chen-2013-888-383-1		chuanqiandiancentralguizhou	Chen-2013-888-383	tɬe¹³hɯ²⁴	tɬe¹³hɯ²⁴	tɬ e ¹³ + h ɯ ²⁴		Chen2013			勺子	1378	SPOON	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	勺子	tɬe¹³+hɯ²⁴
 9293	chuanqiandiansouthernguizhou-Chen-2013-888-383-1		chuanqiandiansouthernguizhou	Chen-2013-888-383	ɬæn⁴²	ɬæn⁴²	ɬ æ n ⁴²		Chen2013			勺子	1378	SPOON	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	勺子	ɬæn⁴²
-9294	chuanqiandiannortheastyunnan-Chen-2013-888-383-1		chuanqiandiannortheastyunnan	Chen-2013-888-383	tɬie⁵⁵	tɬie⁵⁵	t ɬ i e ⁵⁵		Chen2013			勺子	1378	SPOON	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	勺子	tɬie⁵⁵
+9294	chuanqiandiannortheastyunnan-Chen-2013-888-383-1		chuanqiandiannortheastyunnan	Chen-2013-888-383	tɬie⁵⁵	tɬie⁵⁵	tɬ i e ⁵⁵		Chen2013			勺子	1378	SPOON	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	勺子	tɬie⁵⁵
 9298	qiandongeast-Chen-2013-888-383-1		qiandongeast	Chen-2013-888-383	tɕʰeu²¹²kan³³	tɕʰeu²¹²kan³³	tɕʰ e u ²¹² k a n ³³		Chen2013			勺子	1378	SPOON	Qiandong, East	east2370					Qiandong, East	勺子	tɕʰeu²¹²kan³³
 9300	qiandongwest-Chen-2013-888-383-1		qiandongwest	Chen-2013-888-383	tjɔ⁵³	tjɔ⁵³	t j ɔ ⁵³		Chen2013			勺子	1378	SPOON	Qiandong, West						Qiandong, West	勺子	tjɔ⁵³
 9301	bahengwest-Chen-2013-888-383-1		bahengwest	Chen-2013-888-383	lja³¹ʔe⁵³	lja³¹ʔe⁵³	l j a ³¹ + ʔ e ⁵³		Chen2013			勺子	1378	SPOON	Baheng, West	pahn1237					Baheng, West	勺子	lja³¹+ʔe⁵³
@@ -1169,7 +1169,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 12281	qiandongwest-Chen-2013-888-506-1		qiandongwest	Chen-2013-888-506	la³³tɕu⁵³	la³³tɕu⁵³	l a ³³ + tɕ u ⁵³		Chen2013			十月	2853	OCTOBER	Qiandong, West						Qiandong, West	十月	la³³+tɕu⁵³
 12282	bahengwest-Chen-2013-888-506-1		bahengwest	Chen-2013-888-506	ɬa⁵⁵ku⁴²	ɬa⁵⁵ku⁴²	ɬ a ⁵⁵ + k u ⁴²		Chen2013			十月	2853	OCTOBER	Baheng, West	pahn1237					Baheng, West	十月	ɬa⁵⁵+ku⁴²
 12283	bahengeast-Chen-2013-888-506-1		bahengeast	Chen-2013-888-506	ɕe³⁵ȵe³¹	ɕe³⁵ȵe³¹	ɕ e ³⁵ + ȵ e ³¹		Chen2013			十月	2853	OCTOBER	Baheng, East	pahn1237					Baheng, East	十月	ɕe³⁵+ȵe³¹
-11945	luobuoheeastern-Chen-2013-888-493-1		luobuoheeastern	Chen-2013-888-493	ʔi⁵⁵nduŋ²⁴muŋ²⁴	ʔi⁵⁵nduŋ²⁴muŋ²⁴	ʔ i ⁵⁵ + n d u ŋ ²⁴ + m u ŋ ²⁴		Chen2013			半夜	1233	NIGHT	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	半夜	ʔi⁵⁵+nduŋ²⁴+muŋ²⁴
+11945	luobuoheeastern-Chen-2013-888-493-1		luobuoheeastern	Chen-2013-888-493	ʔi⁵⁵nduŋ²⁴muŋ²⁴	ʔi⁵⁵nduŋ²⁴muŋ²⁴	ʔ i ⁵⁵ + ⁿd u ŋ ²⁴ + m u ŋ ²⁴		Chen2013			半夜	1233	NIGHT	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	半夜	ʔi⁵⁵+ⁿduŋ²⁴+muŋ²⁴
 11946	luobuohewestern-Chen-2013-888-493-1		luobuohewestern	Chen-2013-888-493	ɳʈoŋ³¹m̥oŋ³⁵	ɳʈoŋ³¹m̥oŋ³⁵	ɳ ʈ o ŋ ³¹ + m̥ o ŋ ³⁵		Chen2013			半夜	1233	NIGHT	Luobuohe, Western	luop1235					Luobuohe, Western	半夜	ɳʈoŋ³¹+m̥oŋ³⁵
 11947	chuanqiandian-Chen-2013-888-493-1		chuanqiandian	Chen-2013-888-493	taŋ¹³m̥au⁴⁴	taŋ¹³m̥au⁴⁴	t a ŋ ¹³ + m̥ a u ⁴⁴		Chen2013			半夜	1233	NIGHT	Chuanqiandian	chua1256					Chuanqiandian	半夜	taŋ¹³+m̥au⁴⁴
 11948	chuanqiandiancentralguizhou-Chen-2013-888-493-1		chuanqiandiancentralguizhou	Chen-2013-888-493	ʔi²⁴tõ³¹m̥õ⁴²	ʔi²⁴tõ³¹m̥õ⁴²	ʔ i ²⁴ + t õ ³¹ + m̥ õ ⁴²		Chen2013			半夜	1233	NIGHT	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	半夜	ʔi²⁴+tõ³¹+m̥õ⁴²
@@ -1274,7 +1274,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 15681	luobuohewestern-Chen-2013-888-645-1		luobuohewestern	Chen-2013-888-645	pjen³⁵	pjen³⁵	p j e n ³⁵		Chen2013			变	1264	CHANGE	Luobuohe, Western	luop1235					Luobuohe, Western	变	pjen³⁵
 15682	chuanqiandian-Chen-2013-888-645-1		chuanqiandian	Chen-2013-888-645	tsa⁴⁴	tsa⁴⁴	ts a ⁴⁴		Chen2013			变	1264	CHANGE	Chuanqiandian	chua1256					Chuanqiandian	变	tsa⁴⁴
 15683	chuanqiandiansouthernguizhou-Chen-2013-888-645-1		chuanqiandiansouthernguizhou	Chen-2013-888-645	pin⁵⁵	pin⁵⁵	p i n ⁵⁵		Chen2013			变	1264	CHANGE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	变	pin⁵⁵
-15684	chuanqiandiannortheastyunnan-Chen-2013-888-645-1		chuanqiandiannortheastyunnan	Chen-2013-888-645	tɬʰi¹¹	tɬʰi¹¹	t ɬʰ i ¹¹		Chen2013			变	1264	CHANGE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	变	tɬʰi¹¹
+15684	chuanqiandiannortheastyunnan-Chen-2013-888-645-1		chuanqiandiannortheastyunnan	Chen-2013-888-645	tɬʰi¹¹	tɬʰi¹¹	tɬʰ i ¹¹		Chen2013			变	1264	CHANGE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	变	tɬʰi¹¹
 15689	qiandongwest-Chen-2013-888-645-1		qiandongwest	Chen-2013-888-645	pin³³	pin³³	p i n ³³		Chen2013			变	1264	CHANGE	Qiandong, West						Qiandong, West	变	pin³³
 15690	bahengwest-Chen-2013-888-645-1		bahengwest	Chen-2013-888-645	tje⁵⁵	tje⁵⁵	t j e ⁵⁵		Chen2013			变	1264	CHANGE	Baheng, West	pahn1237					Baheng, West	变	tje⁵⁵
 15691	bahengeast-Chen-2013-888-645-1		bahengeast	Chen-2013-888-645	pje³⁵	pje³⁵	p j e ³⁵		Chen2013			变	1264	CHANGE	Baheng, East	pahn1237					Baheng, East	变	pje³⁵
@@ -1330,7 +1330,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4999	chuanqiandian-Chen-2013-888-205-1		chuanqiandian	Chen-2013-888-205	mploŋ³¹	mploŋ³¹	m p l o ŋ ³¹		Chen2013			叶子	628	LEAF	Chuanqiandian	chua1256					Chuanqiandian	叶子	mploŋ³¹
 5000	chuanqiandiancentralguizhou-Chen-2013-888-205-1		chuanqiandiancentralguizhou	Chen-2013-888-205	qə⁰²mplõ⁵⁵	qə⁰²mplõ⁵⁵	q ə ²/⁰ + m p l õ ⁵⁵		Chen2013			叶子	628	LEAF	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	叶子	qə²/⁰+mplõ⁵⁵
 5001	chuanqiandiansouthernguizhou-Chen-2013-888-205-1		chuanqiandiansouthernguizhou	Chen-2013-888-205	mplaŋ⁵³	mplaŋ⁵³	m p l a ŋ ⁵³		Chen2013			叶子	628	LEAF	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	叶子	mplaŋ⁵³
-5002	chuanqiandiannortheastyunnan-Chen-2013-888-205-1		chuanqiandiannortheastyunnan	Chen-2013-888-205	ʔa³³ndlɦau³⁵ntau³³	ʔa³³ndlɦau³⁵ntau³³	ʔ a ³³ + n d l ɦ a u ³⁵ + n t a u ³³		Chen2013			叶子	628	LEAF	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	叶子	ʔa³³+ndlɦau³⁵+ntau³³
+5002	chuanqiandiannortheastyunnan-Chen-2013-888-205-1		chuanqiandiannortheastyunnan	Chen-2013-888-205	ʔa³³ndlɦau³⁵ntau³³	ʔa³³ndlɦau³⁵ntau³³	ʔ a ³³ + ⁿd l ɦ a u ³⁵ + n t a u ³³		Chen2013			叶子	628	LEAF	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	叶子	ʔa³³+ⁿdlɦau³⁵+ntau³³
 5006	qiandongeast-Chen-2013-888-205-1		qiandongeast	Chen-2013-888-205	neu²²	neu²²	n e u ²²		Chen2013			叶子	628	LEAF	Qiandong, East	east2370					Qiandong, East	叶子	neu²²
 5008	qiandongwest-Chen-2013-888-205-1		qiandongwest	Chen-2013-888-205	qa³³neu⁵⁵teu³³	qa³³neu⁵⁵teu³³	q a ³³ + n e u ⁵⁵ + t e u ³³		Chen2013			叶子	628	LEAF	Qiandong, West						Qiandong, West	叶子	qa³³+neu⁵⁵+teu³³
 5009	bahengwest-Chen-2013-888-205-1		bahengwest	Chen-2013-888-205	qa⁰³njaŋ³³	qa⁰³njaŋ³³	q a ³/⁰ + n j a ŋ ³³		Chen2013			叶子	628	LEAF	Baheng, West	pahn1237					Baheng, West	叶子	qa³/⁰+njaŋ³³
@@ -1351,7 +1351,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 16512	chuanqiandiancentralguizhou-Chen-2013-888-679-1		chuanqiandiancentralguizhou	Chen-2013-888-679	ʑə²²	ʑə²²	ʑ ə ²²		Chen2013			吊	2884	HANG	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	吊	ʑə²²
 16514	chuanqiandiannortheastyunnan-Chen-2013-888-679-1		chuanqiandiannortheastyunnan	Chen-2013-888-679	tʂaɯ³³	tʂaɯ³³	tʂ a ɯ ³³		Chen2013			吊	2884	HANG	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	吊	tʂaɯ³³
 16522	bahengeast-Chen-2013-888-679-1		bahengeast	Chen-2013-888-679	tɕau⁵⁵	tɕau⁵⁵	tɕ a u ⁵⁵		Chen2013			吊	2884	HANG	Baheng, East	pahn1237					Baheng, East	吊	tɕau⁵⁵
-16511	chuanqiandian-Chen-2013-888-679-1		chuanqiandian	Chen-2013-888-679	tɬai⁴⁴	tɬai⁴⁴	t ɬ a i ⁴⁴		Chen2013			吊	2884	HANG	Chuanqiandian	chua1256					Chuanqiandian	吊	tɬai⁴⁴
+16511	chuanqiandian-Chen-2013-888-679-1		chuanqiandian	Chen-2013-888-679	tɬai⁴⁴	tɬai⁴⁴	tɬ a i ⁴⁴		Chen2013			吊	2884	HANG	Chuanqiandian	chua1256					Chuanqiandian	吊	tɬai⁴⁴
 16521	bahengwest-Chen-2013-888-679-1		bahengwest	Chen-2013-888-679	tɕo⁵⁵	tɕo⁵⁵	tɕ o ⁵⁵		Chen2013			吊	2884	HANG	Baheng, West	pahn1237					Baheng, West	吊	tɕo⁵⁵
 16513	chuanqiandiansouthernguizhou-Chen-2013-888-679-1		chuanqiandiansouthernguizhou	Chen-2013-888-679	xwæ⁵⁵	xwæ⁵⁵	xʷ æ ⁵⁵		Chen2013			吊	2884	HANG	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	吊	xʷæ⁵⁵
 1390	luobuoheeastern-Chen-2013-888-58-1		luobuoheeastern	Chen-2013-888-58	tə⁰²mpei²⁴	tə⁰²mpei²⁴	t ə ²/⁰ + m p ei ²⁴		Chen2013			名字	1405	NAME	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	名字	tə²/⁰+mpei²⁴
@@ -1497,10 +1497,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 18125	chuanqiandiannortheastyunnan-Chen-2013-888-746-1		chuanqiandiannortheastyunnan	Chen-2013-888-746	n̥au¹¹	n̥au¹¹	n̥ a u ¹¹		Chen2013			咳嗽	879	COUGH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	咳嗽	n̥au¹¹
 14924	luobuoheeastern-Chen-2013-888-614-1		luobuoheeastern	Chen-2013-888-614	ʔi³¹ŋa³¹	ʔi³¹ŋa³¹	ʔ i ³¹ + ŋ a ³¹		Chen2013			咸	1091	SALTY	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	咸	ʔi³¹+ŋa³¹
 14925	luobuohewestern-Chen-2013-888-614-1		luobuohewestern	Chen-2013-888-614	ŋɑ³¹	ŋɑ³¹	ŋ ɑ ³¹		Chen2013			咸	1091	SALTY	Luobuohe, Western	luop1235					Luobuohe, Western	咸	ŋɑ³¹
-14926	chuanqiandian-Chen-2013-888-614-1		chuanqiandian	Chen-2013-888-614	tɬeu²⁴ntʂe⁵⁵	tɬeu²⁴ntʂe⁵⁵	t ɬ e u ²⁴ + n tʂ e ⁵⁵		Chen2013			咸	1091	SALTY	Chuanqiandian	chua1256					Chuanqiandian	咸	tɬeu²⁴+ntʂe⁵⁵
-14927	chuanqiandiancentralguizhou-Chen-2013-888-614-1		chuanqiandiancentralguizhou	Chen-2013-888-614	tɬə⁴²; ʔẽ²⁴	tɬə⁴²	t ɬ ə ⁴²		Chen2013			咸	1091	SALTY	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	咸	tɬə⁴²
+14926	chuanqiandian-Chen-2013-888-614-1		chuanqiandian	Chen-2013-888-614	tɬeu²⁴ntʂe⁵⁵	tɬeu²⁴ntʂe⁵⁵	tɬ e u ²⁴ + n tʂ e ⁵⁵		Chen2013			咸	1091	SALTY	Chuanqiandian	chua1256					Chuanqiandian	咸	tɬeu²⁴+ntʂe⁵⁵
+14927	chuanqiandiancentralguizhou-Chen-2013-888-614-1		chuanqiandiancentralguizhou	Chen-2013-888-614	tɬə⁴²; ʔẽ²⁴	tɬə⁴²	tɬ ə ⁴²		Chen2013			咸	1091	SALTY	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	咸	tɬə⁴²
 14928	chuanqiandiansouthernguizhou-Chen-2013-888-614-1		chuanqiandiansouthernguizhou	Chen-2013-888-614	ɬə⁵⁵	ɬə⁵⁵	ɬ ə ⁵⁵		Chen2013			咸	1091	SALTY	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	咸	ɬə⁵⁵
-14929	chuanqiandiannortheastyunnan-Chen-2013-888-614-1		chuanqiandiannortheastyunnan	Chen-2013-888-614	tɬey³³	tɬey³³	t ɬ e y ³³		Chen2013			咸	1091	SALTY	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	咸	tɬey³³
+14929	chuanqiandiannortheastyunnan-Chen-2013-888-614-1		chuanqiandiannortheastyunnan	Chen-2013-888-614	tɬey³³	tɬey³³	tɬ e y ³³		Chen2013			咸	1091	SALTY	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	咸	tɬey³³
 14933	qiandongeast-Chen-2013-888-614-1		qiandongeast	Chen-2013-888-614	nja¹³	nja¹³	n j a ¹³		Chen2013			咸	1091	SALTY	Qiandong, East	east2370					Qiandong, East	咸	nja¹³
 14935	qiandongwest-Chen-2013-888-614-1		qiandongwest	Chen-2013-888-614	mja⁵³ɕɔ¹³	mja⁵³ɕɔ¹³	m j a ⁵³ + ɕ ɔ ¹³		Chen2013			咸	1091	SALTY	Qiandong, West						Qiandong, West	咸	mja⁵³+ɕɔ¹³
 14936	bahengwest-Chen-2013-888-614-1		bahengwest	Chen-2013-888-614	nai³⁵ȵo³¹	nai³⁵ȵo³¹	n a i ³⁵ + ȵ o ³¹		Chen2013			咸	1091	SALTY	Baheng, West	pahn1237					Baheng, West	咸	nai³⁵+ȵo³¹
@@ -1570,7 +1570,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 17383	bahengwest-Chen-2013-888-715-1		bahengwest	Chen-2013-888-715	wa⁵⁵	wa⁵⁵	w a ⁵⁵		Chen2013			哼			Baheng, West	pahn1237					Baheng, West	哼	wa⁵⁵
 17384	bahengeast-Chen-2013-888-715-1		bahengeast	Chen-2013-888-715	ŋwa⁵⁵	ŋwa⁵⁵	ŋʷ a ⁵⁵		Chen2013			哼			Baheng, East	pahn1237					Baheng, East	哼	ŋʷa⁵⁵
 17375	chuanqiandiansouthernguizhou-Chen-2013-888-715-1		chuanqiandiansouthernguizhou	Chen-2013-888-715	mpʐua⁵³	mpʐua⁵³	m pʐ u a ⁵³		Chen2013			哼			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	哼	mpʐua⁵³
-17376	chuanqiandiannortheastyunnan-Chen-2013-888-715-1		chuanqiandiannortheastyunnan	Chen-2013-888-715	ndzɦaɯ³⁵	ndzɦaɯ³⁵	n d z ɦ a ɯ ³⁵		Chen2013			哼			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	哼	ndzɦaɯ³⁵
+17376	chuanqiandiannortheastyunnan-Chen-2013-888-715-1		chuanqiandiannortheastyunnan	Chen-2013-888-715	ndzɦaɯ³⁵	ndzɦaɯ³⁵	ⁿdz ɦ a ɯ ³⁵		Chen2013			哼			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	哼	ⁿdzɦaɯ³⁵
 17373	chuanqiandian-Chen-2013-888-715-1		chuanqiandian	Chen-2013-888-715	nʈoŋ⁴⁴	nʈoŋ⁴⁴	n ʈ o ŋ ⁴⁴		Chen2013			哼			Chuanqiandian	chua1256					Chuanqiandian	哼	nʈoŋ⁴⁴
 15899	luobuoheeastern-Chen-2013-888-654-1		luobuoheeastern	Chen-2013-888-654	ʔa²⁴	ʔa²⁴	ʔ a ²⁴		Chen2013			唱	1261	SING	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	唱	ʔa²⁴
 15900	luobuohewestern-Chen-2013-888-654-1		luobuohewestern	Chen-2013-888-654	ʔɑ³⁵	ʔɑ³⁵	ʔ ɑ ³⁵		Chen2013			唱	1261	SING	Luobuohe, Western	luop1235					Luobuohe, Western	唱	ʔɑ³⁵
@@ -1685,7 +1685,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 10430	chuanqiandian-Chen-2013-888-431-1		chuanqiandian	Chen-2013-888-431	plou⁵⁴	plou⁵⁴	p l o u ⁵⁴		Chen2013			四	1500	FOUR	Chuanqiandian	chua1256					Chuanqiandian	四	plou⁵⁴
 10431	chuanqiandiancentralguizhou-Chen-2013-888-431-1		chuanqiandiancentralguizhou	Chen-2013-888-431	plo²⁴	plo²⁴	p l o ²⁴		Chen2013			四	1500	FOUR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	四	plo²⁴
 10432	chuanqiandiansouthernguizhou-Chen-2013-888-431-1		chuanqiandiansouthernguizhou	Chen-2013-888-431	plɔ³²	plɔ³²	p l ɔ ³²		Chen2013			四	1500	FOUR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	四	plɔ³²
-10433	chuanqiandiannortheastyunnan-Chen-2013-888-431-1		chuanqiandiannortheastyunnan	Chen-2013-888-431	tɬau⁵⁵	tɬau⁵⁵	t ɬ a u ⁵⁵		Chen2013			四	1500	FOUR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	四	tɬau⁵⁵
+10433	chuanqiandiannortheastyunnan-Chen-2013-888-431-1		chuanqiandiannortheastyunnan	Chen-2013-888-431	tɬau⁵⁵	tɬau⁵⁵	tɬ a u ⁵⁵		Chen2013			四	1500	FOUR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	四	tɬau⁵⁵
 10437	qiandongeast-Chen-2013-888-431-1		qiandongeast	Chen-2013-888-431	so²⁴	so²⁴	s o ²⁴		Chen2013			四	1500	FOUR	Qiandong, East	east2370					Qiandong, East	四	so²⁴
 10439	qiandongwest-Chen-2013-888-431-1		qiandongwest	Chen-2013-888-431	ɬɔ⁴⁴	ɬɔ⁴⁴	ɬ ɔ ⁴⁴		Chen2013			四	1500	FOUR	Qiandong, West						Qiandong, West	四	ɬɔ⁴⁴
 10440	bahengwest-Chen-2013-888-431-1		bahengwest	Chen-2013-888-431	tji³⁵	tji³⁵	t j i ³⁵		Chen2013			四	1500	FOUR	Baheng, West	pahn1237					Baheng, West	四	tji³⁵
@@ -1770,7 +1770,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 11097	luobuoheeastern-Chen-2013-888-458-1		luobuoheeastern	Chen-2013-888-458	ntsʰi³³	ntsʰi³³	n tsʰ i ³³		Chen2013			块	594	PIECE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	块	ntsʰi³³
 11098	luobuohewestern-Chen-2013-888-458-1		luobuohewestern	Chen-2013-888-458	ntsʰe³¹	ntsʰe³¹	n tsʰ e ³¹		Chen2013			块	594	PIECE	Luobuohe, Western	luop1235					Luobuohe, Western	块	ntsʰe³¹
 11099	chuanqiandian-Chen-2013-888-458-1		chuanqiandian	Chen-2013-888-458	tsʰi⁴³	tsʰi⁴³	tsʰ i ⁴³		Chen2013			块	594	PIECE	Chuanqiandian	chua1256					Chuanqiandian	块	tsʰi⁴³
-11100	chuanqiandiancentralguizhou-Chen-2013-888-458-1		chuanqiandiancentralguizhou	Chen-2013-888-458	tɬe⁵⁵	tɬe⁵⁵	t ɬ e ⁵⁵		Chen2013			块	594	PIECE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	块	tɬe⁵⁵
+11100	chuanqiandiancentralguizhou-Chen-2013-888-458-1		chuanqiandiancentralguizhou	Chen-2013-888-458	tɬe⁵⁵	tɬe⁵⁵	tɬ e ⁵⁵		Chen2013			块	594	PIECE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	块	tɬe⁵⁵
 11101	chuanqiandiansouthernguizhou-Chen-2013-888-458-1		chuanqiandiansouthernguizhou	Chen-2013-888-458	mple⁴⁴	mple⁴⁴	m p l e ⁴⁴		Chen2013			块	594	PIECE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	块	mple⁴⁴
 11102	chuanqiandiannortheastyunnan-Chen-2013-888-458-1		chuanqiandiannortheastyunnan	Chen-2013-888-458	tɕo⁵⁵	tɕo⁵⁵	tɕ o ⁵⁵		Chen2013			块	594	PIECE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	块	tɕo⁵⁵
 11106	qiandongeast-Chen-2013-888-458-1		qiandongeast	Chen-2013-888-458	lan²¹²	lan²¹²	l a n ²¹²		Chen2013			块	594	PIECE	Qiandong, East	east2370					Qiandong, East	块	lan²¹²
@@ -1927,7 +1927,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2017	chuanqiandian-Chen-2013-888-83-1		chuanqiandian	Chen-2013-888-83	plou⁴³hou⁴⁴	plou⁴³hou⁴⁴	p l o u ⁴³ + h o u ⁴⁴		Chen2013			头发	2648	HAIR (HEAD)	Chuanqiandian	chua1256					Chuanqiandian	头发	plou⁴³+hou⁴⁴
 2018	chuanqiandiancentralguizhou-Chen-2013-888-83-1		chuanqiandiancentralguizhou	Chen-2013-888-83	plo²⁴	plo²⁴	p l o ²⁴		Chen2013			头发	2648	HAIR (HEAD)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	头发	plo²⁴
 2019	chuanqiandiansouthernguizhou-Chen-2013-888-83-1		chuanqiandiansouthernguizhou	Chen-2013-888-83	plɔ³²wɔ³⁵	plɔ³²wɔ³⁵	p l ɔ ³² w ɔ ³⁵		Chen2013			头发	2648	HAIR (HEAD)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	头发	plɔ³²wɔ³⁵
-2020	chuanqiandiannortheastyunnan-Chen-2013-888-83-1		chuanqiandiannortheastyunnan	Chen-2013-888-83	tɬau⁵⁵fau³³	tɬau⁵⁵fau³³	t ɬ a u ⁵⁵ + f a u ³³		Chen2013			头发	2648	HAIR (HEAD)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	头发	tɬau⁵⁵+fau³³
+2020	chuanqiandiannortheastyunnan-Chen-2013-888-83-1		chuanqiandiannortheastyunnan	Chen-2013-888-83	tɬau⁵⁵fau³³	tɬau⁵⁵fau³³	tɬ a u ⁵⁵ + f a u ³³		Chen2013			头发	2648	HAIR (HEAD)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	头发	tɬau⁵⁵+fau³³
 2024	qiandongeast-Chen-2013-888-83-1		qiandongeast	Chen-2013-888-83	ɬjo²⁴	ɬjo²⁴	ɬ j o ²⁴		Chen2013			头发	2648	HAIR (HEAD)	Qiandong, East	east2370					Qiandong, East	头发	ɬjo²⁴
 2026	qiandongwest-Chen-2013-888-83-1		qiandongwest	Chen-2013-888-83	pjɔ⁴⁴hɔ¹³	pjɔ⁴⁴hɔ¹³	p j ɔ ⁴⁴ + h ɔ ¹³		Chen2013			头发	2648	HAIR (HEAD)	Qiandong, West						Qiandong, West	头发	pjɔ⁴⁴+hɔ¹³
 2027	bahengwest-Chen-2013-888-83-1		bahengwest	Chen-2013-888-83	ti³⁵	ti³⁵	t i ³⁵		Chen2013			头发	2648	HAIR (HEAD)	Baheng, West	pahn1237					Baheng, West	头发	ti³⁵
@@ -2072,7 +2072,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 1253	chuanqiandian-Chen-2013-888-52-1		chuanqiandian	Chen-2013-888-52	to⁴³ntʂua¹³	to⁴³ntʂua¹³	t o ⁴³ + n tʂ u a ¹³		Chen2013			孤儿	1149	ORPHAN	Chuanqiandian	chua1256					Chuanqiandian	孤儿	to⁴³+ntʂua¹³
 1254	chuanqiandiancentralguizhou-Chen-2013-888-52-1		chuanqiandiancentralguizhou	Chen-2013-888-52	tə̃²⁴mplu²²	tə̃²⁴mplu²²	t ə̃ ²⁴ + m p l u ²²		Chen2013			孤儿	1149	ORPHAN	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	孤儿	tə̃²⁴+mplu²²
 1255	chuanqiandiansouthernguizhou-Chen-2013-888-52-1		chuanqiandiansouthernguizhou	Chen-2013-888-52	toŋ³²mpʐə¹³	toŋ³²mpʐə¹³	t o ŋ ³² m pʐ ə ¹³		Chen2013			孤儿	1149	ORPHAN	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	孤儿	toŋ³²mpʐə¹³
-1256	chuanqiandiannortheastyunnan-Chen-2013-888-52-1		chuanqiandiannortheastyunnan	Chen-2013-888-52	ti⁵⁵ndzɦa¹¹	ti⁵⁵ndzɦa¹¹	t i ⁵⁵ + n d z ɦ a ¹¹		Chen2013			孤儿	1149	ORPHAN	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	孤儿	ti⁵⁵+ndzɦa¹¹
+1256	chuanqiandiannortheastyunnan-Chen-2013-888-52-1		chuanqiandiannortheastyunnan	Chen-2013-888-52	ti⁵⁵ndzɦa¹¹	ti⁵⁵ndzɦa¹¹	t i ⁵⁵ + ⁿd z ɦ a ¹¹		Chen2013			孤儿	1149	ORPHAN	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	孤儿	ti⁵⁵+ⁿdzɦa¹¹
 1261	qiandongwest-Chen-2013-888-52-1		qiandongwest	Chen-2013-888-52	ɬei⁴⁴mja²²	ɬei⁴⁴mja²²	ɬ ei ⁴⁴ + m j a ²²		Chen2013			孤儿	1149	ORPHAN	Qiandong, West						Qiandong, West	孤儿	ɬei⁴⁴+mja²²
 1262	bahengwest-Chen-2013-888-52-1		bahengwest	Chen-2013-888-52	taŋ³⁵ta¹¹seŋ³¹	taŋ³⁵ta¹¹seŋ³¹	t a ŋ ³⁵ + t a ¹¹ + s e ŋ ³¹		Chen2013			孤儿	1149	ORPHAN	Baheng, West	pahn1237					Baheng, West	孤儿	taŋ³⁵+ta¹¹+seŋ³¹
 1263	bahengeast-Chen-2013-888-52-1		bahengeast	Chen-2013-888-52	ku⁵⁵ʔe³¹	ku⁵⁵ʔe³¹	k u ⁵⁵ + ʔ e ³¹		Chen2013			孤儿	1149	ORPHAN	Baheng, East	pahn1237					Baheng, East	孤儿	ku⁵⁵+ʔe³¹
@@ -2080,7 +2080,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 16868	luobuohewestern-Chen-2013-888-694-1		luobuohewestern	Chen-2013-888-694	vɑ³⁵	vɑ³⁵	v ɑ ³⁵		Chen2013			孵	2075	BROOD (VERB)	Luobuohe, Western	luop1235					Luobuohe, Western	孵	vɑ³⁵
 16869	chuanqiandian-Chen-2013-888-694-1		chuanqiandian	Chen-2013-888-694	pua¹³	pua¹³	p u a ¹³		Chen2013			孵	2075	BROOD (VERB)	Chuanqiandian	chua1256					Chuanqiandian	孵	pua¹³
 16870	chuanqiandiancentralguizhou-Chen-2013-888-694-1		chuanqiandiancentralguizhou	Chen-2013-888-694	pu²²	pu²²	p u ²²		Chen2013			孵	2075	BROOD (VERB)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	孵	pu²²
-16872	chuanqiandiannortheastyunnan-Chen-2013-888-694-1		chuanqiandiannortheastyunnan	Chen-2013-888-694	tɬaɯ¹¹	tɬaɯ¹¹	t ɬ a ɯ ¹¹		Chen2013			孵	2075	BROOD (VERB)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	孵	tɬaɯ¹¹
+16872	chuanqiandiannortheastyunnan-Chen-2013-888-694-1		chuanqiandiannortheastyunnan	Chen-2013-888-694	tɬaɯ¹¹	tɬaɯ¹¹	tɬ a ɯ ¹¹		Chen2013			孵	2075	BROOD (VERB)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	孵	tɬaɯ¹¹
 16876	qiandongeast-Chen-2013-888-694-1		qiandongeast	Chen-2013-888-694	pou⁵³	pou⁵³	p o u ⁵³		Chen2013			孵	2075	BROOD (VERB)	Qiandong, East	east2370					Qiandong, East	孵	pou⁵³
 16871	chuanqiandiansouthernguizhou-Chen-2013-888-694-1		chuanqiandiansouthernguizhou	Chen-2013-888-694	pə¹³	pə¹³	p ə ¹³		Chen2013			孵	2075	BROOD (VERB)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	孵	pə¹³
 16878	qiandongwest-Chen-2013-888-694-1		qiandongwest	Chen-2013-888-694	pa²²	pa²²	p a ²²		Chen2013			孵	2075	BROOD (VERB)	Qiandong, West						Qiandong, West	孵	pa²²
@@ -2128,7 +2128,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 14765	bahengeast-Chen-2013-888-607-1		bahengeast	Chen-2013-888-607	ʑi⁵³tu⁵⁵	ʑi⁵³tu⁵⁵	ʑ i ⁵³ + t u ⁵⁵		Chen2013			容易	686	EASY	Baheng, East	pahn1237					Baheng, East	容易	ʑi⁵³+tu⁵⁵
 13040	luobuoheeastern-Chen-2013-888-537-1		luobuoheeastern	Chen-2013-888-537	tə⁰²qwen⁵⁵	tə⁰²qwen⁵⁵	t ə ²/⁰ + q w e n ⁵⁵		Chen2013			宽	1243	WIDE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	宽	tə²/⁰+qwen⁵⁵
 13041	luobuohewestern-Chen-2013-888-537-1		luobuohewestern	Chen-2013-888-537	qʰwɑŋ³¹	qʰwɑŋ³¹	qʰ w ɑ ŋ ³¹		Chen2013			宽	1243	WIDE	Luobuohe, Western	luop1235					Luobuohe, Western	宽	qʰwɑŋ³¹
-13042	chuanqiandian-Chen-2013-888-537-1		chuanqiandian	Chen-2013-888-537	tɬaŋ⁵⁵	tɬaŋ⁵⁵	t ɬ a ŋ ⁵⁵		Chen2013			宽	1243	WIDE	Chuanqiandian	chua1256					Chuanqiandian	宽	tɬaŋ⁵⁵
+13042	chuanqiandian-Chen-2013-888-537-1		chuanqiandian	Chen-2013-888-537	tɬaŋ⁵⁵	tɬaŋ⁵⁵	tɬ a ŋ ⁵⁵		Chen2013			宽	1243	WIDE	Chuanqiandian	chua1256					Chuanqiandian	宽	tɬaŋ⁵⁵
 13043	chuanqiandiancentralguizhou-Chen-2013-888-537-1		chuanqiandiancentralguizhou	Chen-2013-888-537	kõ¹³	kõ¹³	k õ ¹³		Chen2013			宽	1243	WIDE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	宽	kõ¹³
 13044	chuanqiandiansouthernguizhou-Chen-2013-888-537-1		chuanqiandiansouthernguizhou	Chen-2013-888-537	xwa⁴²	xwa⁴²	xʷ a ⁴²		Chen2013			宽	1243	WIDE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	宽	xʷa⁴²
 13045	chuanqiandiannortheastyunnan-Chen-2013-888-537-1		chuanqiandiannortheastyunnan	Chen-2013-888-537	faɯ⁵⁵	faɯ⁵⁵	f a ɯ ⁵⁵		Chen2013			宽	1243	WIDE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	宽	faɯ⁵⁵
@@ -2244,7 +2244,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 3429	chuanqiandian-Chen-2013-888-140-1		chuanqiandian	Chen-2013-888-140	ko⁴⁴tu⁵⁵	ko⁴⁴tu⁵⁵	k o ⁴⁴ + t u ⁵⁵		Chen2013			尾巴	1220	TAIL	Chuanqiandian	chua1256					Chuanqiandian	尾巴	ko⁴⁴+tu⁵⁵
 3430	chuanqiandiancentralguizhou-Chen-2013-888-140-1		chuanqiandiancentralguizhou	Chen-2013-888-140	qə⁰²tɯ¹³	qə⁰²tɯ¹³	q ə ²/⁰ + t ɯ ¹³		Chen2013			尾巴	1220	TAIL	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	尾巴	qə²/⁰+tɯ¹³
 3431	chuanqiandiansouthernguizhou-Chen-2013-888-140-1		chuanqiandiansouthernguizhou	Chen-2013-888-140	təu⁴²	təu⁴²	t ə u ⁴²		Chen2013			尾巴	1220	TAIL	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	尾巴	təu⁴²
-3432	chuanqiandiannortheastyunnan-Chen-2013-888-140-1		chuanqiandiannortheastyunnan	Chen-2013-888-140	ʔa⁵⁵ndzɦaɯ¹¹	ʔa⁵⁵ndzɦaɯ¹¹	ʔ a ⁵⁵ + n d z ɦ a ɯ ¹¹		Chen2013			尾巴	1220	TAIL	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	尾巴	ʔa⁵⁵+ndzɦaɯ¹¹
+3432	chuanqiandiannortheastyunnan-Chen-2013-888-140-1		chuanqiandiannortheastyunnan	Chen-2013-888-140	ʔa⁵⁵ndzɦaɯ¹¹	ʔa⁵⁵ndzɦaɯ¹¹	ʔ a ⁵⁵ + ⁿd z ɦ a ɯ ¹¹		Chen2013			尾巴	1220	TAIL	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	尾巴	ʔa⁵⁵+ⁿdzɦaɯ¹¹
 3436	qiandongeast-Chen-2013-888-140-1		qiandongeast	Chen-2013-888-140	qa³³tue³³	qa³³tue³³	q a ³³ + t u e ³³		Chen2013			尾巴	1220	TAIL	Qiandong, East	east2370					Qiandong, East	尾巴	qa³³+tue³³
 3438	qiandongwest-Chen-2013-888-140-1		qiandongwest	Chen-2013-888-140	qa³³tua¹³	qa³³tua¹³	q a ³³ + t u a ¹³		Chen2013			尾巴	1220	TAIL	Qiandong, West						Qiandong, West	尾巴	qa³³+tua¹³
 3439	bahengwest-Chen-2013-888-140-1		bahengwest	Chen-2013-888-140	tai³¹	tai³¹	t a i ³¹		Chen2013			尾巴	1220	TAIL	Baheng, West	pahn1237					Baheng, West	尾巴	tai³¹
@@ -2269,8 +2269,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2447	qiandongwest-Chen-2013-888-100-1		qiandongwest	Chen-2013-888-100	to⁵⁵qa¹³	to⁵⁵qa¹³	t o ⁵⁵ + q a ¹³		Chen2013			屁股	834	BUTTOCKS	Qiandong, West						Qiandong, West	屁股	to⁵⁵+qa¹³
 2448	bahengwest-Chen-2013-888-100-1		bahengwest	Chen-2013-888-100	ʔa⁰³pɔ³⁵qa³¹	ʔa⁰³pɔ³⁵qa³¹	ʔ a ³/⁰ + p ɔ ³⁵ + q a ³¹		Chen2013			屁股	834	BUTTOCKS	Baheng, West	pahn1237					Baheng, West	屁股	ʔa³/⁰+pɔ³⁵+qa³¹
 2449	bahengeast-Chen-2013-888-100-1		bahengeast	Chen-2013-888-100	qʰuŋ³¹³qa³¹³	qʰuŋ³¹³qa³¹³	qʰ u ŋ ³¹³ + q a ³¹³		Chen2013			屁股	834	BUTTOCKS	Baheng, East	pahn1237					Baheng, East	屁股	qʰuŋ³¹³+qa³¹³
-11147	luobuoheeastern-Chen-2013-888-460-1		luobuoheeastern	Chen-2013-888-460	ndzaŋ³¹	ndzaŋ³¹	n d z a ŋ ³¹		Chen2013			层			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	层	ndzaŋ³¹
-11148	luobuohewestern-Chen-2013-888-460-1		luobuohewestern	Chen-2013-888-460	ndzɑŋ³¹	ndzɑŋ³¹	n d z ɑ ŋ ³¹		Chen2013			层			Luobuohe, Western	luop1235					Luobuohe, Western	层	ndzɑŋ³¹
+11147	luobuoheeastern-Chen-2013-888-460-1		luobuoheeastern	Chen-2013-888-460	ndzaŋ³¹	ndzaŋ³¹	ⁿdz a ŋ ³¹		Chen2013			层			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	层	ⁿdzaŋ³¹
+11148	luobuohewestern-Chen-2013-888-460-1		luobuohewestern	Chen-2013-888-460	ndzɑŋ³¹	ndzɑŋ³¹	ⁿdz ɑ ŋ ³¹		Chen2013			层			Luobuohe, Western	luop1235					Luobuohe, Western	层	ⁿdzɑŋ³¹
 11149	chuanqiandian-Chen-2013-888-460-1		chuanqiandian	Chen-2013-888-460	tsʰen³¹	tsʰen³¹	tsʰ e n ³¹		Chen2013			层			Chuanqiandian	chua1256					Chuanqiandian	层	tsʰen³¹
 11150	chuanqiandiancentralguizhou-Chen-2013-888-460-1		chuanqiandiancentralguizhou	Chen-2013-888-460	nzə̃²²	nzə̃²²	n z ə̃ ²²		Chen2013			层			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	层	nzə̃²²
 11151	chuanqiandiansouthernguizhou-Chen-2013-888-460-1		chuanqiandiansouthernguizhou	Chen-2013-888-460	ŋkaŋ²³²	ŋkaŋ²³²	ŋ k a ŋ ²³²		Chen2013			层			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	层	ŋkaŋ²³²
@@ -2414,7 +2414,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 8914	bahengeast-Chen-2013-888-367-1		bahengeast	Chen-2013-888-367	tsuŋ³³	tsuŋ³³	ts u ŋ ³³		Chen2013			床	1663	BED	Baheng, East	pahn1237					Baheng, East	床	tsuŋ³³
 6982	luobuoheeastern-Chen-2013-888-287-1		luobuoheeastern	Chen-2013-888-287	ʔuŋ³¹mpu²⁴	ʔuŋ³¹mpu²⁴	ʔ u ŋ ³¹ + m p u ²⁴		Chen2013			开水			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	开水	ʔuŋ³¹+mpu²⁴
 6983	luobuohewestern-Chen-2013-888-287-1		luobuohewestern	Chen-2013-888-287	ʔoŋ³¹kɑŋ³¹	ʔoŋ³¹kɑŋ³¹	ʔ o ŋ ³¹ + k ɑ ŋ ³¹		Chen2013			开水			Luobuohe, Western	luop1235					Luobuohe, Western	开水	ʔoŋ³¹+kɑŋ³¹
-6984	chuanqiandian-Chen-2013-888-287-1		chuanqiandian	Chen-2013-888-287	tɬe³¹mpou⁴⁴	tɬe³¹mpou⁴⁴	t ɬ e ³¹ + m p o u ⁴⁴		Chen2013			开水			Chuanqiandian	chua1256					Chuanqiandian	开水	tɬe³¹+mpou⁴⁴
+6984	chuanqiandian-Chen-2013-888-287-1		chuanqiandian	Chen-2013-888-287	tɬe³¹mpou⁴⁴	tɬe³¹mpou⁴⁴	tɬ e ³¹ + m p o u ⁴⁴		Chen2013			开水			Chuanqiandian	chua1256					Chuanqiandian	开水	tɬe³¹+mpou⁴⁴
 6985	chuanqiandiancentralguizhou-Chen-2013-888-287-1		chuanqiandiancentralguizhou	Chen-2013-888-287	ʔõ²⁴mpo⁴²	ʔõ²⁴mpo⁴²	ʔ õ ²⁴ + m p o ⁴²		Chen2013			开水			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	开水	ʔõ²⁴+mpo⁴²
 6986	chuanqiandiansouthernguizhou-Chen-2013-888-287-1		chuanqiandiansouthernguizhou	Chen-2013-888-287	ʔaŋ³²mpɔ⁵⁵	ʔaŋ³²mpɔ⁵⁵	ʔ a ŋ ³² m p ɔ ⁵⁵		Chen2013			开水			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	开水	ʔaŋ³²mpɔ⁵⁵
 6987	chuanqiandiannortheastyunnan-Chen-2013-888-287-1		chuanqiandiannortheastyunnan	Chen-2013-888-287	ʔa⁵⁵ku⁵⁵	ʔa⁵⁵ku⁵⁵	ʔ a ⁵⁵ + k u ⁵⁵		Chen2013			开水			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	开水	ʔa⁵⁵+ku⁵⁵
@@ -2460,7 +2460,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 13465	bahengeast-Chen-2013-888-554-1		bahengeast	Chen-2013-888-554	ljei³¹³	ljei³¹³	l j ei ³¹³		Chen2013			弯	2004	BEND	Baheng, East	pahn1237					Baheng, East	弯	ljei³¹³
 1440	luobuoheeastern-Chen-2013-888-60-1		luobuoheeastern	Chen-2013-888-60	qʰa³¹la³¹wɛ²⁴	qʰa³¹la³¹wɛ²⁴	qʰ a ³¹ + l a ³¹ + w ɛ ²⁴		Chen2013			影子	1388	SHADE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	影子	qʰa³¹+la³¹+wɛ²⁴
 1441	luobuohewestern-Chen-2013-888-60-1		luobuohewestern	Chen-2013-888-60	kʰɑ³¹la³¹wæ³⁵	kʰɑ³¹la³¹wæ³⁵	kʰ ɑ ³¹ + l a ³¹ + w æ ³⁵		Chen2013			影子	1388	SHADE	Luobuohe, Western	luop1235					Luobuohe, Western	影子	kʰɑ³¹+la³¹+wæ³⁵
-1442	chuanqiandian-Chen-2013-888-60-1		chuanqiandian	Chen-2013-888-60	tɬua⁴³	tɬua⁴³	t ɬ u a ⁴³		Chen2013			影子	1388	SHADE	Chuanqiandian	chua1256					Chuanqiandian	影子	tɬua⁴³
+1442	chuanqiandian-Chen-2013-888-60-1		chuanqiandian	Chen-2013-888-60	tɬua⁴³	tɬua⁴³	tɬ u a ⁴³		Chen2013			影子	1388	SHADE	Chuanqiandian	chua1256					Chuanqiandian	影子	tɬua⁴³
 1443	chuanqiandiancentralguizhou-Chen-2013-888-60-1		chuanqiandiancentralguizhou	Chen-2013-888-60	qə⁰²vi³¹vã⁵⁵	qə⁰²vi³¹vã⁵⁵	q ə ²/⁰ + v i ³¹ + v ã ⁵⁵		Chen2013			影子	1388	SHADE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	影子	qə²/⁰+vi³¹+vã⁵⁵
 1444	chuanqiandiansouthernguizhou-Chen-2013-888-60-1		chuanqiandiansouthernguizhou	Chen-2013-888-60	ɭa³²	ɭa³²	ɭ a ³²		Chen2013			影子	1388	SHADE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	影子	ɭa³²
 1445	chuanqiandiannortheastyunnan-Chen-2013-888-60-1		chuanqiandiannortheastyunnan	Chen-2013-888-60	ʔa³³ntsau³³	ʔa³³ntsau³³	ʔ a ³³ + n ts a u ³³		Chen2013			影子	1388	SHADE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	影子	ʔa³³+ntsau³³
@@ -2655,7 +2655,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 13338	chuanqiandian-Chen-2013-888-549-1		chuanqiandian	Chen-2013-888-549	pla⁴³	pla⁴³	p l a ⁴³		Chen2013			扁	1633	FLAT	Chuanqiandian	chua1256					Chuanqiandian	扁	pla⁴³
 13339	chuanqiandiancentralguizhou-Chen-2013-888-549-1		chuanqiandiancentralguizhou	Chen-2013-888-549	pli²⁴	pli²⁴	p l i ²⁴		Chen2013			扁	1633	FLAT	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	扁	pli²⁴
 13340	chuanqiandiansouthernguizhou-Chen-2013-888-549-1		chuanqiandiansouthernguizhou	Chen-2013-888-549	plæn³²	plæn³²	p l æ n ³²		Chen2013			扁	1633	FLAT	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	扁	plæn³²
-13341	chuanqiandiannortheastyunnan-Chen-2013-888-549-1		chuanqiandiannortheastyunnan	Chen-2013-888-549	pi⁵⁵ndɦai³¹	pi⁵⁵ndɦai³¹	p i ⁵⁵ + n dʱ a i ³¹		Chen2013			扁	1633	FLAT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	扁	pi⁵⁵+ndʱai³¹
+13341	chuanqiandiannortheastyunnan-Chen-2013-888-549-1		chuanqiandiannortheastyunnan	Chen-2013-888-549	pi⁵⁵ndɦai³¹	pi⁵⁵ndɦai³¹	p i ⁵⁵ + ⁿd ɦ a i ³¹		Chen2013			扁	1633	FLAT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	扁	pi⁵⁵+ⁿdɦai³¹
 13345	qiandongeast-Chen-2013-888-549-1		qiandongeast	Chen-2013-888-549	pien³³	pien³³	p i e n ³³		Chen2013			扁	1633	FLAT	Qiandong, East	east2370					Qiandong, East	扁	pien³³
 13347	qiandongwest-Chen-2013-888-549-1		qiandongwest	Chen-2013-888-549	pæ̃⁵³pæ̃¹³	pæ̃⁵³pæ̃¹³	p æ̃ ⁵³ + p æ̃ ¹³		Chen2013			扁	1633	FLAT	Qiandong, West						Qiandong, West	扁	pæ̃⁵³+pæ̃¹³
 13348	bahengwest-Chen-2013-888-549-1		bahengwest	Chen-2013-888-549	mei¹¹	mei¹¹	m ei ¹¹		Chen2013			扁	1633	FLAT	Baheng, West	pahn1237					Baheng, West	扁	mei¹¹
@@ -2675,7 +2675,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 9541	chuanqiandian-Chen-2013-888-394-1		chuanqiandian	Chen-2013-888-394	ntsua²⁴	ntsua²⁴	n ts u a ²⁴		Chen2013			扇子	1971	FAN (OBJECT)	Chuanqiandian	chua1256					Chuanqiandian	扇子	ntsua²⁴
 9542	chuanqiandiancentralguizhou-Chen-2013-888-394-1		chuanqiandiancentralguizhou	Chen-2013-888-394	mpla⁵⁵	mpla⁵⁵	m p l a ⁵⁵		Chen2013			扇子	1971	FAN (OBJECT)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	扇子	mpla⁵⁵
 9543	chuanqiandiansouthernguizhou-Chen-2013-888-394-1		chuanqiandiansouthernguizhou	Chen-2013-888-394	mpja²¹	mpja²¹	m p j a ²¹		Chen2013			扇子	1971	FAN (OBJECT)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	扇子	mpja²¹
-9544	chuanqiandiannortheastyunnan-Chen-2013-888-394-1		chuanqiandiannortheastyunnan	Chen-2013-888-394	ndzɦa³⁵	ndzɦa³⁵	n d z ɦ a ³⁵		Chen2013			扇子	1971	FAN (OBJECT)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	扇子	ndzɦa³⁵
+9544	chuanqiandiannortheastyunnan-Chen-2013-888-394-1		chuanqiandiannortheastyunnan	Chen-2013-888-394	ndzɦa³⁵	ndzɦa³⁵	ⁿdz ɦ a ³⁵		Chen2013			扇子	1971	FAN (OBJECT)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	扇子	ⁿdzɦa³⁵
 9548	qiandongeast-Chen-2013-888-394-1		qiandongeast	Chen-2013-888-394	njin¹³	njin¹³	n j i n ¹³		Chen2013			扇子	1971	FAN (OBJECT)	Qiandong, East	east2370					Qiandong, East	扇子	njin¹³
 9550	qiandongwest-Chen-2013-888-394-1		qiandongwest	Chen-2013-888-394	mei⁵³	mei⁵³	m ei ⁵³		Chen2013			扇子	1971	FAN (OBJECT)	Qiandong, West						Qiandong, West	扇子	mei⁵³
 9551	bahengwest-Chen-2013-888-394-1		bahengwest	Chen-2013-888-394	ni⁴²ljoŋ³³	ni⁴²ljoŋ³³	n i ⁴² + l j o ŋ ³³		Chen2013			扇子	1971	FAN (OBJECT)	Baheng, West	pahn1237					Baheng, West	扇子	ni⁴²+ljoŋ³³
@@ -2882,7 +2882,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 15411	chuanqiandian-Chen-2013-888-634-1		chuanqiandian	Chen-2013-888-634	ʈʰo⁴⁴	ʈʰo⁴⁴	ʈʰ o ⁴⁴		Chen2013			拔	2325	PULL OUT	Chuanqiandian	chua1256					Chuanqiandian	拔	ʈʰo⁴⁴
 15412	chuanqiandiancentralguizhou-Chen-2013-888-634-1		chuanqiandiancentralguizhou	Chen-2013-888-634	tõ⁵⁵	tõ⁵⁵	t õ ⁵⁵		Chen2013			拔	2325	PULL OUT	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	拔	tõ⁵⁵
 15413	chuanqiandiansouthernguizhou-Chen-2013-888-634-1		chuanqiandiansouthernguizhou	Chen-2013-888-634	taŋ⁵³	taŋ⁵³	t a ŋ ⁵³		Chen2013			拔	2325	PULL OUT	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	拔	taŋ⁵³
-15414	chuanqiandiannortheastyunnan-Chen-2013-888-634-1		chuanqiandiannortheastyunnan	Chen-2013-888-634	tɬo⁵⁵	tɬo⁵⁵	t ɬ o ⁵⁵		Chen2013			拔	2325	PULL OUT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	拔	tɬo⁵⁵
+15414	chuanqiandiannortheastyunnan-Chen-2013-888-634-1		chuanqiandiannortheastyunnan	Chen-2013-888-634	tɬo⁵⁵	tɬo⁵⁵	tɬ o ⁵⁵		Chen2013			拔	2325	PULL OUT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	拔	tɬo⁵⁵
 15418	qiandongeast-Chen-2013-888-634-1		qiandongeast	Chen-2013-888-634	ɬjou¹³	ɬjou¹³	ɬ j o u ¹³		Chen2013			拔	2325	PULL OUT	Qiandong, East	east2370					Qiandong, East	拔	ɬjou¹³
 15420	qiandongwest-Chen-2013-888-634-1		qiandongwest	Chen-2013-888-634	ɬjo³³	ɬjo³³	ɬ j o ³³		Chen2013			拔	2325	PULL OUT	Qiandong, West						Qiandong, West	拔	ɬjo³³
 15421	bahengwest-Chen-2013-888-634-1		bahengwest	Chen-2013-888-634	ȵ̥o⁵⁵	ȵ̥o⁵⁵	ȵ̥ o ⁵⁵		Chen2013			拔	2325	PULL OUT	Baheng, West	pahn1237					Baheng, West	拔	ȵ̥o⁵⁵
@@ -2933,7 +2933,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 17236	bahengeast-Chen-2013-888-709-1		bahengeast	Chen-2013-888-709	kwai³¹	kwai³¹	k w a i ³¹		Chen2013			挂	357	HANG UP	Baheng, East	pahn1237					Baheng, East	挂	kwai³¹
 17224	luobuohewestern-Chen-2013-888-709-1		luobuohewestern	Chen-2013-888-709	qwæ³⁵	qwæ³⁵	qʷ æ ³⁵		Chen2013			挂	357	HANG UP	Luobuohe, Western	luop1235					Luobuohe, Western	挂	qʷæ³⁵
 17232	qiandongeast-Chen-2013-888-709-1		qiandongeast	Chen-2013-888-709	kua⁴⁴	kua⁴⁴	k u a ⁴⁴		Chen2013			挂	357	HANG UP	Qiandong, East	east2370					Qiandong, East	挂	kua⁴⁴
-17225	chuanqiandian-Chen-2013-888-709-1		chuanqiandian	Chen-2013-888-709	tɬai⁴⁴	tɬai⁴⁴	t ɬ a i ⁴⁴		Chen2013			挂	357	HANG UP	Chuanqiandian	chua1256					Chuanqiandian	挂	tɬai⁴⁴
+17225	chuanqiandian-Chen-2013-888-709-1		chuanqiandian	Chen-2013-888-709	tɬai⁴⁴	tɬai⁴⁴	tɬ a i ⁴⁴		Chen2013			挂	357	HANG UP	Chuanqiandian	chua1256					Chuanqiandian	挂	tɬai⁴⁴
 17223	luobuoheeastern-Chen-2013-888-709-1		luobuoheeastern	Chen-2013-888-709	ʁwen³¹	ʁwen³¹	ʁʷ e n ³¹		Chen2013			挂	357	HANG UP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	挂	ʁʷen³¹
 21086	luobuohewestern-Chen-2013-888-868-1		luobuohewestern	Chen-2013-888-868	to³⁵	to³⁵	t o ³⁵		Chen2013			指			Luobuohe, Western	luop1235					Luobuohe, Western	指	to³⁵
 21087	chuanqiandian-Chen-2013-888-868-1		chuanqiandian	Chen-2013-888-868	teu⁴⁴	teu⁴⁴	t e u ⁴⁴		Chen2013			指			Chuanqiandian	chua1256					Chuanqiandian	指	teu⁴⁴
@@ -3129,7 +3129,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 19493	bahengwest-Chen-2013-888-802-1		bahengwest	Chen-2013-888-802	sau³⁵	sau³⁵	s a u ³⁵		Chen2013			收（玉米）	694	GET	Baheng, West	pahn1237					Baheng, West	收（玉米）	sau³⁵
 16964	chuanqiandian-Chen-2013-888-698-1		chuanqiandian	Chen-2013-888-698	kai⁵⁵	kai⁵⁵	k a i ⁵⁵		Chen2013			改	2856	CHANGE (SOMETHING)	Chuanqiandian	chua1256					Chuanqiandian	改	kai⁵⁵
 16965	chuanqiandiansouthernguizhou-Chen-2013-888-698-1		chuanqiandiansouthernguizhou	Chen-2013-888-698	kæ⁴²	kæ⁴²	k æ ⁴²		Chen2013			改	2856	CHANGE (SOMETHING)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	改	kæ⁴²
-16966	chuanqiandiannortheastyunnan-Chen-2013-888-698-1		chuanqiandiannortheastyunnan	Chen-2013-888-698	tɬey¹¹	tɬey¹¹	t ɬ e y ¹¹		Chen2013			改	2856	CHANGE (SOMETHING)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	改	tɬey¹¹
+16966	chuanqiandiannortheastyunnan-Chen-2013-888-698-1		chuanqiandiannortheastyunnan	Chen-2013-888-698	tɬey¹¹	tɬey¹¹	tɬ e y ¹¹		Chen2013			改	2856	CHANGE (SOMETHING)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	改	tɬey¹¹
 16970	qiandongwest-Chen-2013-888-698-1		qiandongwest	Chen-2013-888-698	kæ⁵⁵	kæ⁵⁵	k æ ⁵⁵		Chen2013			改	2856	CHANGE (SOMETHING)	Qiandong, West						Qiandong, West	改	kæ⁵⁵
 16971	bahengwest-Chen-2013-888-698-1		bahengwest	Chen-2013-888-698	ke³¹	ke³¹	k e ³¹		Chen2013			改	2856	CHANGE (SOMETHING)	Baheng, West	pahn1237					Baheng, West	改	ke³¹
 16972	bahengeast-Chen-2013-888-698-1		bahengeast	Chen-2013-888-698	kai³¹³	kai³¹³	k a i ³¹³		Chen2013			改	2856	CHANGE (SOMETHING)	Baheng, East	pahn1237					Baheng, East	改	kai³¹³
@@ -3243,7 +3243,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 13289	luobuohewestern-Chen-2013-888-547-1		luobuohewestern	Chen-2013-888-547	sɿ³⁵fɑŋ⁵⁵	sɿ³⁵fɑŋ⁵⁵	s ɿ ³⁵ + f ɑ ŋ ⁵⁵		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Luobuohe, Western	luop1235					Luobuohe, Western	方	sɿ³⁵+fɑŋ⁵⁵
 13290	chuanqiandian-Chen-2013-888-547-1		chuanqiandian	Chen-2013-888-547	faŋ⁴³	faŋ⁴³	f a ŋ ⁴³		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Chuanqiandian	chua1256					Chuanqiandian	方	faŋ⁴³
 13291	chuanqiandiancentralguizhou-Chen-2013-888-547-1		chuanqiandiancentralguizhou	Chen-2013-888-547	plo¹³	plo¹³	p l o ¹³		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	方	plo¹³
-13292	chuanqiandiannortheastyunnan-Chen-2013-888-547-1		chuanqiandiannortheastyunnan	Chen-2013-888-547	tɬau⁵⁵ku⁵⁵	tɬau⁵⁵ku⁵⁵	t ɬ a u ⁵⁵ + k u ⁵⁵		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	方	tɬau⁵⁵+ku⁵⁵
+13292	chuanqiandiannortheastyunnan-Chen-2013-888-547-1		chuanqiandiannortheastyunnan	Chen-2013-888-547	tɬau⁵⁵ku⁵⁵	tɬau⁵⁵ku⁵⁵	tɬ a u ⁵⁵ + k u ⁵⁵		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	方	tɬau⁵⁵+ku⁵⁵
 13296	qiandongeast-Chen-2013-888-547-1		qiandongeast	Chen-2013-888-547	faŋ²⁴	faŋ²⁴	f a ŋ ²⁴		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Qiandong, East	east2370					Qiandong, East	方	faŋ²⁴
 13298	qiandongwest-Chen-2013-888-547-1		qiandongwest	Chen-2013-888-547	fʰaŋ⁴⁴	fʰaŋ⁴⁴	fʰ a ŋ ⁴⁴		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Qiandong, West						Qiandong, West	方	fʰaŋ⁴⁴
 13299	bahengwest-Chen-2013-888-547-1		bahengwest	Chen-2013-888-547	si⁵⁵hiaŋ⁵⁵	si⁵⁵hiaŋ⁵⁵	s i ⁵⁵ + h i a ŋ ⁵⁵		Chen2013			方	2757	ANGULAR (SQUAREFORMED)	Baheng, West	pahn1237					Baheng, West	方	si⁵⁵+hiaŋ⁵⁵
@@ -3381,7 +3381,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 11922	chuanqiandian-Chen-2013-888-492-1		chuanqiandian	Chen-2013-888-492	m̥au⁴⁴nto³¹	m̥au⁴⁴nto³¹	m̥ a u ⁴⁴ + n t o ³¹		Chen2013			晚上	1629	EVENING	Chuanqiandian	chua1256					Chuanqiandian	晚上	m̥au⁴⁴+nto³¹
 11923	chuanqiandiancentralguizhou-Chen-2013-888-492-1		chuanqiandiancentralguizhou	Chen-2013-888-492	m̥õ⁴²ŋqə̃⁵⁵	m̥õ⁴²ŋqə̃⁵⁵	m̥ õ ⁴² + ŋ q ə̃ ⁵⁵		Chen2013			晚上	1629	EVENING	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	晚上	m̥õ⁴²+ŋqə̃⁵⁵
 11924	chuanqiandiansouthernguizhou-Chen-2013-888-492-1		chuanqiandiansouthernguizhou	Chen-2013-888-492	tæn⁴²mɔ³⁵	tæn⁴²mɔ³⁵	t æ n ⁴² + m ɔ ³⁵		Chen2013			晚上	1629	EVENING	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	晚上	tæn⁴²+mɔ³⁵
-11925	chuanqiandiannortheastyunnan-Chen-2013-888-492-1		chuanqiandiannortheastyunnan	Chen-2013-888-492	m̥o³³ndɦu³⁵	m̥o³³ndɦu³⁵	m̥ o ³³ + n dʱ u ³⁵		Chen2013			晚上	1629	EVENING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	晚上	m̥o³³+ndʱu³⁵
+11925	chuanqiandiannortheastyunnan-Chen-2013-888-492-1		chuanqiandiannortheastyunnan	Chen-2013-888-492	m̥o³³ndɦu³⁵	m̥o³³ndɦu³⁵	m̥ o ³³ + ⁿd ɦ u ³⁵		Chen2013			晚上	1629	EVENING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	晚上	m̥o³³+ⁿdɦu³⁵
 11929	qiandongeast-Chen-2013-888-492-1		qiandongeast	Chen-2013-888-492	ɕi⁴⁴maŋ⁴⁴	ɕi⁴⁴maŋ⁴⁴	ɕ i ⁴⁴ + m a ŋ ⁴⁴		Chen2013			晚上	1629	EVENING	Qiandong, East	east2370					Qiandong, East	晚上	ɕi⁴⁴+maŋ⁴⁴
 11931	qiandongwest-Chen-2013-888-492-1		qiandongwest	Chen-2013-888-492	ʑi³³maŋ³³	ʑi³³maŋ³³	ʑ i ³³ + m a ŋ ³³		Chen2013			晚上	1629	EVENING	Qiandong, West						Qiandong, West	晚上	ʑi³³+maŋ³³
 11932	bahengwest-Chen-2013-888-492-1		bahengwest	Chen-2013-888-492	qa⁰³ma¹¹	qa⁰³ma¹¹	q a ³/⁰ + m a ¹¹		Chen2013			晚上	1629	EVENING	Baheng, West	pahn1237					Baheng, West	晚上	qa³/⁰+ma¹¹
@@ -3812,7 +3812,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 8962	bahengwest-Chen-2013-888-369-1		bahengwest	Chen-2013-888-369	tɕei⁴⁴	tɕei⁴⁴	tɕ ei ⁴⁴		Chen2013			椅子	1476	CHAIR	Baheng, West	pahn1237					Baheng, West	椅子	tɕei⁴⁴
 8963	bahengeast-Chen-2013-888-369-1		bahengeast	Chen-2013-888-369	la⁰³ʑi³¹³tsɿ⁰³	la⁰³ʑi³¹³tsɿ⁰³	l a ³/⁰ + ʑ i ³¹³ + ts ɿ ³/⁰		Chen2013			椅子	1476	CHAIR	Baheng, East	pahn1237					Baheng, East	椅子	la³/⁰+ʑi³¹³+tsɿ³/⁰
 7905	luobuoheeastern-Chen-2013-888-325-1		luobuoheeastern	Chen-2013-888-325	qo⁰⁵lo³¹	qo⁰⁵lo³¹	q o ⁵/⁰ + l o ³¹		Chen2013			楼			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	楼	qo⁵/⁰+lo³¹
-7906	luobuohewestern-Chen-2013-888-325-1		luobuohewestern	Chen-2013-888-325	ʔə⁰²nden³¹	ʔə⁰²nden³¹	ʔ ə ²/⁰ + n d e n ³¹		Chen2013			楼			Luobuohe, Western	luop1235					Luobuohe, Western	楼	ʔə²/⁰+nden³¹
+7906	luobuohewestern-Chen-2013-888-325-1		luobuohewestern	Chen-2013-888-325	ʔə⁰²nden³¹	ʔə⁰²nden³¹	ʔ ə ²/⁰ + ⁿd e n ³¹		Chen2013			楼			Luobuohe, Western	luop1235					Luobuohe, Western	楼	ʔə²/⁰+ⁿden³¹
 7907	chuanqiandian-Chen-2013-888-325-1		chuanqiandian	Chen-2013-888-325	ntʰaŋ⁴³	ntʰaŋ⁴³	n tʰ a ŋ ⁴³		Chen2013			楼			Chuanqiandian	chua1256					Chuanqiandian	楼	ntʰaŋ⁴³
 7908	chuanqiandiancentralguizhou-Chen-2013-888-325-1		chuanqiandiancentralguizhou	Chen-2013-888-325	lɯ⁵⁵	lɯ⁵⁵	l ɯ ⁵⁵		Chen2013			楼			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	楼	lɯ⁵⁵
 7909	chuanqiandiansouthernguizhou-Chen-2013-888-325-1		chuanqiandiansouthernguizhou	Chen-2013-888-325	ntua²²	ntua²²	n t u a ²²		Chen2013			楼			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	楼	ntua²²
@@ -3941,14 +3941,14 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 3404	chuanqiandian-Chen-2013-888-139-1		chuanqiandian	Chen-2013-888-139	plou⁴³	plou⁴³	p l o u ⁴³		Chen2013			毛	580	FUR	Chuanqiandian	chua1256					Chuanqiandian	毛	plou⁴³
 3405	chuanqiandiancentralguizhou-Chen-2013-888-139-1		chuanqiandiancentralguizhou	Chen-2013-888-139	plo²⁴	plo²⁴	p l o ²⁴		Chen2013			毛	580	FUR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	毛	plo²⁴
 3406	chuanqiandiansouthernguizhou-Chen-2013-888-139-1		chuanqiandiansouthernguizhou	Chen-2013-888-139	pɭɔ³²	pɭɔ³²	p ɭ ɔ ³²		Chen2013			毛	580	FUR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	毛	pɭɔ³²
-3407	chuanqiandiannortheastyunnan-Chen-2013-888-139-1		chuanqiandiannortheastyunnan	Chen-2013-888-139	tɬau⁵⁵	tɬau⁵⁵	t ɬ a u ⁵⁵		Chen2013			毛	580	FUR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	毛	tɬau⁵⁵
+3407	chuanqiandiannortheastyunnan-Chen-2013-888-139-1		chuanqiandiannortheastyunnan	Chen-2013-888-139	tɬau⁵⁵	tɬau⁵⁵	tɬ a u ⁵⁵		Chen2013			毛	580	FUR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	毛	tɬau⁵⁵
 3411	qiandongeast-Chen-2013-888-139-1		qiandongeast	Chen-2013-888-139	ɬjo²⁴	ɬjo²⁴	ɬ j o ²⁴		Chen2013			毛	580	FUR	Qiandong, East	east2370					Qiandong, East	毛	ɬjo²⁴
 3413	qiandongwest-Chen-2013-888-139-1		qiandongwest	Chen-2013-888-139	pjɔ⁴⁴	pjɔ⁴⁴	p j ɔ ⁴⁴		Chen2013			毛	580	FUR	Qiandong, West						Qiandong, West	毛	pjɔ⁴⁴
 3414	bahengwest-Chen-2013-888-139-1		bahengwest	Chen-2013-888-139	ti³⁵	ti³⁵	t i ³⁵		Chen2013			毛	580	FUR	Baheng, West	pahn1237					Baheng, West	毛	ti³⁵
 3415	bahengeast-Chen-2013-888-139-1		bahengeast	Chen-2013-888-139	pi³⁵	pi³⁵	p i ³⁵		Chen2013			毛	580	FUR	Baheng, East	pahn1237					Baheng, East	毛	pi³⁵
 737	luobuoheeastern-Chen-2013-888-31-1		luobuoheeastern	Chen-2013-888-31	qo⁰⁵ʔuŋ³¹	qo⁰⁵ʔuŋ³¹	q o ⁵/⁰ + ʔ u ŋ ³¹		Chen2013			水	948	WATER	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	水	qo⁵/⁰+ʔuŋ³¹
 738	luobuohewestern-Chen-2013-888-31-1		luobuohewestern	Chen-2013-888-31	ʔə⁰²ʔoŋ³¹	ʔə⁰²ʔoŋ³¹	ʔ ə ²/⁰ + ʔ o ŋ ³¹		Chen2013			水	948	WATER	Luobuohe, Western	luop1235					Luobuohe, Western	水	ʔə²/⁰+ʔoŋ³¹
-739	chuanqiandian-Chen-2013-888-31-1		chuanqiandian	Chen-2013-888-31	tɬe³¹	tɬe³¹	t ɬ e ³¹		Chen2013			水	948	WATER	Chuanqiandian	chua1256					Chuanqiandian	水	tɬe³¹
+739	chuanqiandian-Chen-2013-888-31-1		chuanqiandian	Chen-2013-888-31	tɬe³¹	tɬe³¹	tɬ e ³¹		Chen2013			水	948	WATER	Chuanqiandian	chua1256					Chuanqiandian	水	tɬe³¹
 740	chuanqiandiancentralguizhou-Chen-2013-888-31-1		chuanqiandiancentralguizhou	Chen-2013-888-31	ʔõ²⁴	ʔõ²⁴	ʔ õ ²⁴		Chen2013			水	948	WATER	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	水	ʔõ²⁴
 741	chuanqiandiansouthernguizhou-Chen-2013-888-31-1		chuanqiandiansouthernguizhou	Chen-2013-888-31	ʔaŋ³²	ʔaŋ³²	ʔ a ŋ ³²		Chen2013			水	948	WATER	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	水	ʔaŋ³²
 742	chuanqiandiannortheastyunnan-Chen-2013-888-31-1		chuanqiandiannortheastyunnan	Chen-2013-888-31	ʔau⁵⁵	ʔau⁵⁵	ʔ a u ⁵⁵		Chen2013			水	948	WATER	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	水	ʔau⁵⁵
@@ -4006,8 +4006,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 5398	qiandongwest-Chen-2013-888-221-1		qiandongwest	Chen-2013-888-221	nue⁵⁵	nue⁵⁵	n u e ⁵⁵		Chen2013			水稻	429	SWIDDEN FIELD	Qiandong, West						Qiandong, West	水稻	nue⁵⁵
 5399	bahengwest-Chen-2013-888-221-1		bahengwest	Chen-2013-888-221	ʔe⁵³liŋ³³	ʔe⁵³liŋ³³	ʔ e ⁵³ + l i ŋ ³³		Chen2013			水稻	429	SWIDDEN FIELD	Baheng, West	pahn1237					Baheng, West	水稻	ʔe⁵³+liŋ³³
 5400	bahengeast-Chen-2013-888-221-1		bahengeast	Chen-2013-888-221	pei¹¹	pei¹¹	p ei ¹¹		Chen2013			水稻	429	SWIDDEN FIELD	Baheng, East	pahn1237					Baheng, East	水稻	pei¹¹
-9360	luobuoheeastern-Chen-2013-888-386-1		luobuoheeastern	Chen-2013-888-386	tʰuŋ³³ndzuŋ³¹	tʰuŋ³³ndzuŋ³¹	tʰ u ŋ ³³ + n d z u ŋ ³¹		Chen2013			水缸			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	水缸	tʰuŋ³³+ndzuŋ³¹
-9361	luobuohewestern-Chen-2013-888-386-1		luobuohewestern	Chen-2013-888-386	tʰoŋ³¹ndzoŋ³¹	tʰoŋ³¹ndzoŋ³¹	tʰ o ŋ ³¹ + n d z o ŋ ³¹		Chen2013			水缸			Luobuohe, Western	luop1235					Luobuohe, Western	水缸	tʰoŋ³¹+ndzoŋ³¹
+9360	luobuoheeastern-Chen-2013-888-386-1		luobuoheeastern	Chen-2013-888-386	tʰuŋ³³ndzuŋ³¹	tʰuŋ³³ndzuŋ³¹	tʰ u ŋ ³³ + ⁿd z u ŋ ³¹		Chen2013			水缸			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	水缸	tʰuŋ³³+ⁿdzuŋ³¹
+9361	luobuohewestern-Chen-2013-888-386-1		luobuohewestern	Chen-2013-888-386	tʰoŋ³¹ndzoŋ³¹	tʰoŋ³¹ndzoŋ³¹	tʰ o ŋ ³¹ + ⁿd z o ŋ ³¹		Chen2013			水缸			Luobuohe, Western	luop1235					Luobuohe, Western	水缸	tʰoŋ³¹+ⁿdzoŋ³¹
 9362	chuanqiandian-Chen-2013-888-386-1		chuanqiandian	Chen-2013-888-386	ʈʰeu⁵⁵tɬe³¹	ʈʰeu⁵⁵tɬe³¹	ʈʰ e u ⁵⁵ + t ɬ e ³¹		Chen2013			水缸			Chuanqiandian	chua1256					Chuanqiandian	水缸	ʈʰeu⁵⁵+tɬe³¹
 9363	chuanqiandiancentralguizhou-Chen-2013-888-386-1		chuanqiandiancentralguizhou	Chen-2013-888-386	tʰõ²⁴ʔõ²⁴	tʰõ²⁴ʔõ²⁴	tʰ õ ²⁴ + ʔ õ ²⁴		Chen2013			水缸			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	水缸	tʰõ²⁴+ʔõ²⁴
 9364	chuanqiandiansouthernguizhou-Chen-2013-888-386-1		chuanqiandiansouthernguizhou	Chen-2013-888-386	taŋ²²	taŋ²²	t a ŋ ²²		Chen2013			水缸			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	水缸	taŋ²²
@@ -4105,7 +4105,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 18483	luobuoheeastern-Chen-2013-888-855-1		luobuoheeastern	Chen-2013-888-855	mo³¹ma³¹	mo³¹ma³¹	m o ³¹ + m a ³¹		Chen2013			没有	2329	LACK (NOT HAVE)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	没有	mo³¹+ma³¹
 494	luobuoheeastern-Chen-2013-888-21-1		luobuoheeastern	Chen-2013-888-21	ʁlei³¹	ʁlei³¹	ʁ l ei ³¹		Chen2013			河	666	RIVER	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	河	ʁlei³¹
 495	luobuohewestern-Chen-2013-888-21-1		luobuohewestern	Chen-2013-888-21	ʔə⁰²su³⁵ (大); ʔə⁰²ʁei³¹ (小)	ʔə⁰²su³⁵	ʔ ə ²/⁰ + s u ³⁵		Chen2013			河	666	RIVER	Luobuohe, Western	luop1235					Luobuohe, Western	河	ʔə²/⁰+su³⁵
-496	chuanqiandian-Chen-2013-888-21-1		chuanqiandian	Chen-2013-888-21	tɬe³¹	tɬe³¹	t ɬ e ³¹		Chen2013			河	666	RIVER	Chuanqiandian	chua1256					Chuanqiandian	河	tɬe³¹
+496	chuanqiandian-Chen-2013-888-21-1		chuanqiandian	Chen-2013-888-21	tɬe³¹	tɬe³¹	tɬ e ³¹		Chen2013			河	666	RIVER	Chuanqiandian	chua1256					Chuanqiandian	河	tɬe³¹
 497	chuanqiandiancentralguizhou-Chen-2013-888-21-1		chuanqiandiancentralguizhou	Chen-2013-888-21	tɕu²²	tɕu²²	tɕ u ²²		Chen2013			河	666	RIVER	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	河	tɕu²²
 498	chuanqiandiansouthernguizhou-Chen-2013-888-21-1		chuanqiandiansouthernguizhou	Chen-2013-888-21	kaŋ³²	kaŋ³²	k a ŋ ³²		Chen2013			河	666	RIVER	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	河	kaŋ³²
 499	chuanqiandiannortheastyunnan-Chen-2013-888-21-1		chuanqiandiannortheastyunnan	Chen-2013-888-21	dlɦi³⁵	dlɦi³⁵	d l ɦ i ³⁵		Chen2013			河	666	RIVER	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	河	dlɦi³⁵
@@ -4285,7 +4285,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20737	bahengeast-Chen-2013-888-853-1		bahengeast	Chen-2013-888-853	ʑu³³	ʑu³³	ʑ u ³³		Chen2013			游	1439	SWIM	Baheng, East	pahn1237					Baheng, East	游	ʑu³³
 20729	chuanqiandiannortheastyunnan-Chen-2013-888-853-1		chuanqiandiannortheastyunnan	Chen-2013-888-853	lɦa³¹	lɦa³¹	l ɦ a ³¹		Chen2013			游	1439	SWIM	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	游	lɦa³¹
 20733	qiandongeast-Chen-2013-888-853-1		qiandongeast	Chen-2013-888-853	tɕʰa²⁴	tɕʰa²⁴	tɕʰ a ²⁴		Chen2013			游	1439	SWIM	Qiandong, East	east2370					Qiandong, East	游	tɕʰa²⁴
-14075	luobuoheeastern-Chen-2013-888-579-1		luobuoheeastern	Chen-2013-888-579	tə⁰²ndzo³³	tə⁰²ndzo³³	t ə ²/⁰ + n d z o ³³		Chen2013			湿	1726	WET	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	湿	tə²/⁰+ndzo³³
+14075	luobuoheeastern-Chen-2013-888-579-1		luobuoheeastern	Chen-2013-888-579	tə⁰²ndzo³³	tə⁰²ndzo³³	t ə ²/⁰ + ⁿd z o ³³		Chen2013			湿	1726	WET	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	湿	tə²/⁰+ⁿdzo³³
 14076	luobuohewestern-Chen-2013-888-579-1		luobuohewestern	Chen-2013-888-579	tə⁰²ntɑŋ³¹	tə⁰²ntɑŋ³¹	t ə ²/⁰ + n t ɑ ŋ ³¹		Chen2013			湿	1726	WET	Luobuohe, Western	luop1235					Luobuohe, Western	湿	tə²/⁰+ntɑŋ³¹
 14077	chuanqiandian-Chen-2013-888-579-1		chuanqiandian	Chen-2013-888-579	nto⁴³	nto⁴³	n t o ⁴³		Chen2013			湿	1726	WET	Chuanqiandian	chua1256					Chuanqiandian	湿	nto⁴³
 14078	chuanqiandiancentralguizhou-Chen-2013-888-579-1		chuanqiandiancentralguizhou	Chen-2013-888-579	ntə̃²⁴	ntə̃²⁴	n t ə̃ ²⁴		Chen2013			湿	1726	WET	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	湿	ntə̃²⁴
@@ -4295,8 +4295,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 14086	qiandongwest-Chen-2013-888-579-1		qiandongwest	Chen-2013-888-579	neu³³	neu³³	n e u ³³		Chen2013			湿	1726	WET	Qiandong, West						Qiandong, West	湿	neu³³
 14087	bahengwest-Chen-2013-888-579-1		bahengwest	Chen-2013-888-579	wei⁴²	wei⁴²	w ei ⁴²		Chen2013			湿	1726	WET	Baheng, West	pahn1237					Baheng, West	湿	wei⁴²
 14088	bahengeast-Chen-2013-888-579-1		bahengeast	Chen-2013-888-579	ŋkwe⁵³	ŋkwe⁵³	ŋ k w e ⁵³		Chen2013			湿	1726	WET	Baheng, East	pahn1237					Baheng, East	湿	ŋkwe⁵³
-17275	chuanqiandian-Chen-2013-888-711-1		chuanqiandian	Chen-2013-888-711	tɬau⁵⁵	tɬau⁵⁵	t ɬ a u ⁵⁵		Chen2013			滚	827	ROLL	Chuanqiandian	chua1256					Chuanqiandian	滚	tɬau⁵⁵
-17276	chuanqiandiancentralguizhou-Chen-2013-888-711-1		chuanqiandiancentralguizhou	Chen-2013-888-711	tɬõ¹³	tɬõ¹³	t ɬ õ ¹³		Chen2013			滚	827	ROLL	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	滚	tɬõ¹³
+17275	chuanqiandian-Chen-2013-888-711-1		chuanqiandian	Chen-2013-888-711	tɬau⁵⁵	tɬau⁵⁵	tɬ a u ⁵⁵		Chen2013			滚	827	ROLL	Chuanqiandian	chua1256					Chuanqiandian	滚	tɬau⁵⁵
+17276	chuanqiandiancentralguizhou-Chen-2013-888-711-1		chuanqiandiancentralguizhou	Chen-2013-888-711	tɬõ¹³	tɬõ¹³	tɬ õ ¹³		Chen2013			滚	827	ROLL	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	滚	tɬõ¹³
 17277	chuanqiandiansouthernguizhou-Chen-2013-888-711-1		chuanqiandiansouthernguizhou	Chen-2013-888-711	ɭoŋ¹³	ɭoŋ¹³	ɭ o ŋ ¹³		Chen2013			滚	827	ROLL	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	滚	ɭoŋ¹³
 17284	qiandongwest-Chen-2013-888-711-1		qiandongwest	Chen-2013-888-711	ta²¹kun²¹	ta²¹kun²¹	t a ²¹ + k u n ²¹		Chen2013			滚	827	ROLL	Qiandong, West						Qiandong, West	滚	ta²¹+kun²¹
 17286	bahengeast-Chen-2013-888-711-1		bahengeast	Chen-2013-888-711	ljei³⁵	ljei³⁵	l j ei ³⁵		Chen2013			滚	827	ROLL	Baheng, East	pahn1237					Baheng, East	滚	ljei³⁵
@@ -4322,7 +4322,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 18343	chuanqiandiannortheastyunnan-Chen-2013-888-755-1		chuanqiandiannortheastyunnan	Chen-2013-888-755	sau³³	sau³³	s a u ³³		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	漏	sau³³
 18347	qiandongeast-Chen-2013-888-755-1		qiandongeast	Chen-2013-888-755	leu⁵³	leu⁵³	l e u ⁵³		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Qiandong, East	east2370					Qiandong, East	漏	leu⁵³
 18349	qiandongwest-Chen-2013-888-755-1		qiandongwest	Chen-2013-888-755	xuŋ³³	xuŋ³³	x u ŋ ³³		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Qiandong, West						Qiandong, West	漏	xuŋ³³
-18341	chuanqiandiancentralguizhou-Chen-2013-888-755-1		chuanqiandiancentralguizhou	Chen-2013-888-755	tɬʰã⁴²	tɬʰã⁴²	t ɬʰ ã ⁴²		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	漏	tɬʰã⁴²
+18341	chuanqiandiancentralguizhou-Chen-2013-888-755-1		chuanqiandiancentralguizhou	Chen-2013-888-755	tɬʰã⁴²	tɬʰã⁴²	tɬʰ ã ⁴²		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	漏	tɬʰã⁴²
 18350	bahengwest-Chen-2013-888-755-1		bahengwest	Chen-2013-888-755	koŋ³¹	koŋ³¹	k o ŋ ³¹		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Baheng, West	pahn1237					Baheng, West	漏	koŋ³¹
 18351	bahengeast-Chen-2013-888-755-1		bahengeast	Chen-2013-888-755	so⁵³; ŋqo³⁵	so⁵³	s o ⁵³		Chen2013			漏	2253	DRIP (EMIT LIQUID)	Baheng, East	pahn1237					Baheng, East	漏	so⁵³
 323	luobuoheeastern-Chen-2013-888-14-1		luobuoheeastern	Chen-2013-888-14	qo⁰⁵zo⁵⁵	qo⁰⁵zo⁵⁵	q o ⁵/⁰ + z o ⁵⁵		Chen2013			火	221	FIRE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	火	qo⁵/⁰+zo⁵⁵
@@ -4453,8 +4453,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 14689	qiandongwest-Chen-2013-888-604-1		qiandongwest	Chen-2013-888-604	kʰi⁴⁴	kʰi⁴⁴	kʰ i ⁴⁴		Chen2013			热	1286	HOT	Qiandong, West						Qiandong, West	热	kʰi⁴⁴
 14690	bahengwest-Chen-2013-888-604-1		bahengwest	Chen-2013-888-604	mɔ⁵³qaŋ³⁵	mɔ⁵³qaŋ³⁵	m ɔ ⁵³ + q a ŋ ³⁵		Chen2013			热	1286	HOT	Baheng, West	pahn1237					Baheng, West	热	mɔ⁵³+qaŋ³⁵
 14691	bahengeast-Chen-2013-888-604-1		bahengeast	Chen-2013-888-604	ɕo³¹³	ɕo³¹³	ɕ o ³¹³		Chen2013			热	1286	HOT	Baheng, East	pahn1237					Baheng, East	热	ɕo³¹³
-787	luobuoheeastern-Chen-2013-888-33-1		luobuoheeastern	Chen-2013-888-33	qo⁰⁵ndza³³	qo⁰⁵ndza³³	q o ⁵/⁰ + n d z a ³³		Chen2013			煤	2658	COAL	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	煤	qo⁵/⁰+ndza³³
-788	luobuohewestern-Chen-2013-888-33-1		luobuohewestern	Chen-2013-888-33	ʔə⁰²ndzɑ³¹	ʔə⁰²ndzɑ³¹	ʔ ə ²/⁰ + n d z ɑ ³¹		Chen2013			煤	2658	COAL	Luobuohe, Western	luop1235					Luobuohe, Western	煤	ʔə²/⁰+ndzɑ³¹
+787	luobuoheeastern-Chen-2013-888-33-1		luobuoheeastern	Chen-2013-888-33	qo⁰⁵ndza³³	qo⁰⁵ndza³³	q o ⁵/⁰ + ⁿd z a ³³		Chen2013			煤	2658	COAL	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	煤	qo⁵/⁰+ⁿdza³³
+788	luobuohewestern-Chen-2013-888-33-1		luobuohewestern	Chen-2013-888-33	ʔə⁰²ndzɑ³¹	ʔə⁰²ndzɑ³¹	ʔ ə ²/⁰ + ⁿd z ɑ ³¹		Chen2013			煤	2658	COAL	Luobuohe, Western	luop1235					Luobuohe, Western	煤	ʔə²/⁰+ⁿdzɑ³¹
 789	chuanqiandian-Chen-2013-888-33-1		chuanqiandian	Chen-2013-888-33	ntʂua²⁴	ntʂua²⁴	n tʂ u a ²⁴		Chen2013			煤	2658	COAL	Chuanqiandian	chua1256					Chuanqiandian	煤	ntʂua²⁴
 790	chuanqiandiancentralguizhou-Chen-2013-888-33-1		chuanqiandiancentralguizhou	Chen-2013-888-33	nzu⁵⁵	nzu⁵⁵	n z u ⁵⁵		Chen2013			煤	2658	COAL	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	煤	nzu⁵⁵
 791	chuanqiandiansouthernguizhou-Chen-2013-888-33-1		chuanqiandiansouthernguizhou	Chen-2013-888-33	mei²¹tʰan¹³	mei²¹tʰan¹³	m ei ²¹ + tʰ a n ¹³		Chen2013			煤	2658	COAL	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	煤	mei²¹+tʰan¹³
@@ -4484,10 +4484,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 21153	luobuohewestern-Chen-2013-888-871-1		luobuohewestern	Chen-2013-888-871	tɕo⁵⁵	tɕo⁵⁵	tɕ o ⁵⁵		Chen2013			煮	1100	COOK (SOMETHING)	Luobuohe, Western	luop1235					Luobuohe, Western	煮	tɕo⁵⁵
 21161	qiandongeast-Chen-2013-888-871-1		qiandongeast	Chen-2013-888-871	ho⁴⁴	ho⁴⁴	h o ⁴⁴		Chen2013			煮	1100	COOK (SOMETHING)	Qiandong, East	east2370					Qiandong, East	煮	ho⁴⁴
 3874	luobuoheeastern-Chen-2013-888-158-1		luobuoheeastern	Chen-2013-888-158	ʔa⁰²qle³³	ʔa⁰²qle³³	ʔ a ²/⁰ + q l e ³³		Chen2013			熊	1820	BEAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	熊	ʔa²/⁰+qle³³
-3875	chuanqiandian-Chen-2013-888-158-1		chuanqiandian	Chen-2013-888-158	tɬai³³	tɬai³³	t ɬ a i ³³		Chen2013			熊	1820	BEAR	Chuanqiandian	chua1256					Chuanqiandian	熊	tɬai³³
-3876	chuanqiandiancentralguizhou-Chen-2013-888-158-1		chuanqiandiancentralguizhou	Chen-2013-888-158	tɬe⁴²	tɬe⁴²	t ɬ e ⁴²		Chen2013			熊	1820	BEAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	熊	tɬe⁴²
+3875	chuanqiandian-Chen-2013-888-158-1		chuanqiandian	Chen-2013-888-158	tɬai³³	tɬai³³	tɬ a i ³³		Chen2013			熊	1820	BEAR	Chuanqiandian	chua1256					Chuanqiandian	熊	tɬai³³
+3876	chuanqiandiancentralguizhou-Chen-2013-888-158-1		chuanqiandiancentralguizhou	Chen-2013-888-158	tɬe⁴²	tɬe⁴²	tɬ e ⁴²		Chen2013			熊	1820	BEAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	熊	tɬe⁴²
 3877	chuanqiandiansouthernguizhou-Chen-2013-888-158-1		chuanqiandiansouthernguizhou	Chen-2013-888-158	ɬe⁴⁴	ɬe⁴⁴	ɬ e ⁴⁴		Chen2013			熊	1820	BEAR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	熊	ɬe⁴⁴
-3878	chuanqiandiannortheastyunnan-Chen-2013-888-158-1		chuanqiandiannortheastyunnan	Chen-2013-888-158	tɬai¹¹	tɬai¹¹	t ɬ a i ¹¹		Chen2013			熊	1820	BEAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	熊	tɬai¹¹
+3878	chuanqiandiannortheastyunnan-Chen-2013-888-158-1		chuanqiandiannortheastyunnan	Chen-2013-888-158	tɬai¹¹	tɬai¹¹	tɬ a i ¹¹		Chen2013			熊	1820	BEAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	熊	tɬai¹¹
 3883	qiandongwest-Chen-2013-888-158-1		qiandongwest	Chen-2013-888-158	ɬje¹¹	ɬje¹¹	ɬ j e ¹¹		Chen2013			熊	1820	BEAR	Qiandong, West						Qiandong, West	熊	ɬje¹¹
 3884	bahengwest-Chen-2013-888-158-1		bahengwest	Chen-2013-888-158	ŋe³³kwaŋ⁴⁴	ŋe³³kwaŋ⁴⁴	ŋ e ³³ + k w a ŋ ⁴⁴		Chen2013			熊	1820	BEAR	Baheng, West	pahn1237					Baheng, West	熊	ŋe³³+kwaŋ⁴⁴
 3885	bahengeast-Chen-2013-888-158-1		bahengeast	Chen-2013-888-158	ɕuŋ³⁵	ɕuŋ³⁵	ɕ u ŋ ³⁵		Chen2013			熊	1820	BEAR	Baheng, East	pahn1237					Baheng, East	熊	ɕuŋ³⁵
@@ -4653,10 +4653,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4000	bahengeast-Chen-2013-888-163-1		bahengeast	Chen-2013-888-163	ʑa³¹³ke³¹³	ʑa³¹³ke³¹³	ʑ a ³¹³ + k e ³¹³		Chen2013			狐狸	1312	FOX	Baheng, East	pahn1237					Baheng, East	狐狸	ʑa³¹³+ke³¹³
 3527	luobuoheeastern-Chen-2013-888-144-1		luobuoheeastern	Chen-2013-888-144	qo⁰⁵qlei⁵⁵	qo⁰⁵qlei⁵⁵	q o ⁵/⁰ + q l ei ⁵⁵		Chen2013			狗	2009	DOG	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	狗	qo⁵/⁰+qlei⁵⁵
 3528	luobuohewestern-Chen-2013-888-144-1		luobuohewestern	Chen-2013-888-144	ʔə⁰²qlei⁵⁵	ʔə⁰²qlei⁵⁵	ʔ ə ²/⁰ + q l ei ⁵⁵		Chen2013			狗	2009	DOG	Luobuohe, Western	luop1235					Luobuohe, Western	狗	ʔə²/⁰+qlei⁵⁵
-3529	chuanqiandian-Chen-2013-888-144-1		chuanqiandian	Chen-2013-888-144	tɬe⁵⁵	tɬe⁵⁵	t ɬ e ⁵⁵		Chen2013			狗	2009	DOG	Chuanqiandian	chua1256					Chuanqiandian	狗	tɬe⁵⁵
-3530	chuanqiandiancentralguizhou-Chen-2013-888-144-1		chuanqiandiancentralguizhou	Chen-2013-888-144	tɬɛ¹³	tɬɛ¹³	t ɬ ɛ ¹³		Chen2013			狗	2009	DOG	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	狗	tɬɛ¹³
+3529	chuanqiandian-Chen-2013-888-144-1		chuanqiandian	Chen-2013-888-144	tɬe⁵⁵	tɬe⁵⁵	tɬ e ⁵⁵		Chen2013			狗	2009	DOG	Chuanqiandian	chua1256					Chuanqiandian	狗	tɬe⁵⁵
+3530	chuanqiandiancentralguizhou-Chen-2013-888-144-1		chuanqiandiancentralguizhou	Chen-2013-888-144	tɬɛ¹³	tɬɛ¹³	tɬ ɛ ¹³		Chen2013			狗	2009	DOG	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	狗	tɬɛ¹³
 3531	chuanqiandiansouthernguizhou-Chen-2013-888-144-1		chuanqiandiansouthernguizhou	Chen-2013-888-144	ɬæ⁴²	ɬæ⁴²	ɬ æ ⁴²		Chen2013			狗	2009	DOG	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	狗	ɬæ⁴²
-3532	chuanqiandiannortheastyunnan-Chen-2013-888-144-1		chuanqiandiannortheastyunnan	Chen-2013-888-144	tɬi⁵⁵	tɬi⁵⁵	t ɬ i ⁵⁵		Chen2013			狗	2009	DOG	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	狗	tɬi⁵⁵
+3532	chuanqiandiannortheastyunnan-Chen-2013-888-144-1		chuanqiandiannortheastyunnan	Chen-2013-888-144	tɬi⁵⁵	tɬi⁵⁵	tɬ i ⁵⁵		Chen2013			狗	2009	DOG	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	狗	tɬi⁵⁵
 3536	qiandongeast-Chen-2013-888-144-1		qiandongeast	Chen-2013-888-144	sɛ³³	sɛ³³	s ɛ ³³		Chen2013			狗	2009	DOG	Qiandong, East	east2370					Qiandong, East	狗	sɛ³³
 3538	qiandongwest-Chen-2013-888-144-1		qiandongwest	Chen-2013-888-144	ɬue¹³	ɬue¹³	ɬ u e ¹³		Chen2013			狗	2009	DOG	Qiandong, West						Qiandong, West	狗	ɬue¹³
 3539	bahengwest-Chen-2013-888-144-1		bahengwest	Chen-2013-888-144	qa⁰³ljaŋ⁴²	qa⁰³ljaŋ⁴²	q a ³/⁰ + l j a ŋ ⁴²		Chen2013			狗	2009	DOG	Baheng, West	pahn1237					Baheng, West	狗	qa³/⁰+ljaŋ⁴²
@@ -4846,7 +4846,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 19407	luobuohewestern-Chen-2013-888-799-1		luobuohewestern	Chen-2013-888-799	ʑaŋ³⁵	ʑaŋ³⁵	ʑ a ŋ ³⁵		Chen2013			生（小孩）	1195	GIVE BIRTH	Luobuohe, Western	luop1235					Luobuohe, Western	生（小孩）	ʑaŋ³⁵
 19406	luobuoheeastern-Chen-2013-888-799-1		luobuoheeastern	Chen-2013-888-799	ʑuŋ³¹	ʑuŋ³¹	ʑ u ŋ ³¹		Chen2013			生（小孩）	1195	GIVE BIRTH	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	生（小孩）	ʑuŋ³¹
 19408	chuanqiandian-Chen-2013-888-799-1		chuanqiandian	Chen-2013-888-799	ʑo¹³	ʑo¹³	ʑ o ¹³		Chen2013			生（小孩）	1195	GIVE BIRTH	Chuanqiandian	chua1256					Chuanqiandian	生（小孩）	ʑo¹³
-19409	chuanqiandiancentralguizhou-Chen-2013-888-799-1		chuanqiandiancentralguizhou	Chen-2013-888-799	tɬo²²	tɬo²²	t ɬ o ²²		Chen2013			生（小孩）	1195	GIVE BIRTH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	生（小孩）	tɬo²²
+19409	chuanqiandiancentralguizhou-Chen-2013-888-799-1		chuanqiandiancentralguizhou	Chen-2013-888-799	tɬo²²	tɬo²²	tɬ o ²²		Chen2013			生（小孩）	1195	GIVE BIRTH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	生（小孩）	tɬo²²
 19410	chuanqiandiansouthernguizhou-Chen-2013-888-799-1		chuanqiandiansouthernguizhou	Chen-2013-888-799	tɔ⁵⁵	tɔ⁵⁵	t ɔ ⁵⁵		Chen2013			生（小孩）	1195	GIVE BIRTH	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	生（小孩）	tɔ⁵⁵
 19411	chuanqiandiannortheastyunnan-Chen-2013-888-799-1		chuanqiandiannortheastyunnan	Chen-2013-888-799	ʂau³³	ʂau³³	ʂ a u ³³		Chen2013			生（小孩）	1195	GIVE BIRTH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	生（小孩）	ʂau³³
 19419	bahengeast-Chen-2013-888-799-1		bahengeast	Chen-2013-888-799	tu⁵⁵	tu⁵⁵	t u ⁵⁵		Chen2013			生（小孩）	1195	GIVE BIRTH	Baheng, East	pahn1237					Baheng, East	生（小孩）	tu⁵⁵
@@ -4892,8 +4892,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20610	chuanqiandiancentralguizhou-Chen-2013-888-848-1		chuanqiandiancentralguizhou	Chen-2013-888-848	tə⁰²kʰə⁴²	tə⁰²kʰə⁴²	t ə ²/⁰ + kʰ ə ⁴²		Chen2013			痒	148	ITCH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	痒	tə²/⁰+kʰə⁴²
 20612	chuanqiandiannortheastyunnan-Chen-2013-888-848-1		chuanqiandiannortheastyunnan	Chen-2013-888-848	kʰau¹¹kʰau¹¹	kʰau¹¹kʰau¹¹	kʰ a u ¹¹ + kʰ a u ¹¹		Chen2013			痒	148	ITCH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	痒	kʰau¹¹+kʰau¹¹
 20619	bahengeast-Chen-2013-888-848-1		bahengeast	Chen-2013-888-848	ŋku⁵³	ŋku⁵³	ŋ k u ⁵³		Chen2013			痒	148	ITCH	Baheng, East	pahn1237					Baheng, East	痒	ŋku⁵³
-14025	luobuoheeastern-Chen-2013-888-577-1		luobuoheeastern	Chen-2013-888-577	tə⁰²ndza⁵⁵	tə⁰²ndza⁵⁵	t ə ²/⁰ + n d z a ⁵⁵		Chen2013			痩	1400	THIN (SLIM)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	痩	tə²/⁰+ndza⁵⁵
-14026	luobuohewestern-Chen-2013-888-577-1		luobuohewestern	Chen-2013-888-577	ndzɑ³⁵	ndzɑ³⁵	n d z ɑ ³⁵		Chen2013			痩	1400	THIN (SLIM)	Luobuohe, Western	luop1235					Luobuohe, Western	痩	ndzɑ³⁵
+14025	luobuoheeastern-Chen-2013-888-577-1		luobuoheeastern	Chen-2013-888-577	tə⁰²ndza⁵⁵	tə⁰²ndza⁵⁵	t ə ²/⁰ + ⁿd z a ⁵⁵		Chen2013			痩	1400	THIN (SLIM)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	痩	tə²/⁰+ⁿdza⁵⁵
+14026	luobuohewestern-Chen-2013-888-577-1		luobuohewestern	Chen-2013-888-577	ndzɑ³⁵	ndzɑ³⁵	ⁿdz ɑ ³⁵		Chen2013			痩	1400	THIN (SLIM)	Luobuohe, Western	luop1235					Luobuohe, Western	痩	ⁿdzɑ³⁵
 14027	chuanqiandian-Chen-2013-888-577-1		chuanqiandian	Chen-2013-888-577	ntsou¹³	ntsou¹³	n ts o u ¹³		Chen2013			痩	1400	THIN (SLIM)	Chuanqiandian	chua1256					Chuanqiandian	痩	ntsou¹³
 14028	chuanqiandiancentralguizhou-Chen-2013-888-577-1		chuanqiandiancentralguizhou	Chen-2013-888-577	nzo²²	nzo²²	n z o ²²		Chen2013			痩	1400	THIN (SLIM)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	痩	nzo²²
 14029	chuanqiandiansouthernguizhou-Chen-2013-888-577-1		chuanqiandiansouthernguizhou	Chen-2013-888-577	ntso¹³	ntso¹³	n ts o ¹³		Chen2013			痩	1400	THIN (SLIM)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	痩	ntso¹³
@@ -4902,7 +4902,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 14036	qiandongwest-Chen-2013-888-577-1		qiandongwest	Chen-2013-888-577	sɔ³³	sɔ³³	s ɔ ³³		Chen2013			痩	1400	THIN (SLIM)	Qiandong, West						Qiandong, West	痩	sɔ³³
 14037	bahengwest-Chen-2013-888-577-1		bahengwest	Chen-2013-888-577	tʰɔ⁵⁵	tʰɔ⁵⁵	tʰ ɔ ⁵⁵		Chen2013			痩	1400	THIN (SLIM)	Baheng, West	pahn1237					Baheng, West	痩	tʰɔ⁵⁵
 14038	bahengeast-Chen-2013-888-577-1		bahengeast	Chen-2013-888-577	tʰau⁵⁵	tʰau⁵⁵	tʰ a u ⁵⁵		Chen2013			痩	1400	THIN (SLIM)	Baheng, East	pahn1237					Baheng, East	痩	tʰau⁵⁵
-6574	luobuoheeastern-Chen-2013-888-270-1		luobuoheeastern	Chen-2013-888-270	ŋɢɛ³¹ndza⁵⁵	ŋɢɛ³¹ndza⁵⁵	ŋ ɢ ɛ ³¹ + n d z a ⁵⁵		Chen2013			瘦肉	2219	LEAN (MEAT)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	瘦肉	ŋɢɛ³¹+ndza⁵⁵
+6574	luobuoheeastern-Chen-2013-888-270-1		luobuoheeastern	Chen-2013-888-270	ŋɢɛ³¹ndza⁵⁵	ŋɢɛ³¹ndza⁵⁵	ŋ ɢ ɛ ³¹ + ⁿd z a ⁵⁵		Chen2013			瘦肉	2219	LEAN (MEAT)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	瘦肉	ŋɢɛ³¹+ⁿdza⁵⁵
 6575	luobuohewestern-Chen-2013-888-270-1		luobuohewestern	Chen-2013-888-270	kɑŋ³⁵tə⁰²ȵɑ³⁵	kɑŋ³⁵tə⁰²ȵɑ³⁵	k ɑ ŋ ³⁵ + t ə ²/⁰ + ȵ ɑ ³⁵		Chen2013			瘦肉	2219	LEAN (MEAT)	Luobuohe, Western	luop1235					Luobuohe, Western	瘦肉	kɑŋ³⁵+tə²/⁰+ȵɑ³⁵
 6576	chuanqiandian-Chen-2013-888-270-1		chuanqiandian	Chen-2013-888-270	ŋqai³¹ntʂʰi⁵⁵	ŋqai³¹ntʂʰi⁵⁵	ŋ q a i ³¹ + n tʂʰ i ⁵⁵		Chen2013			瘦肉	2219	LEAN (MEAT)	Chuanqiandian	chua1256					Chuanqiandian	瘦肉	ŋqai³¹+ntʂʰi⁵⁵
 6577	chuanqiandiancentralguizhou-Chen-2013-888-270-1		chuanqiandiancentralguizhou	Chen-2013-888-270	ŋqe⁵⁵sʰi¹³	ŋqe⁵⁵sʰi¹³	ŋ q e ⁵⁵ + sʰ i ¹³		Chen2013			瘦肉	2219	LEAN (MEAT)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	瘦肉	ŋqe⁵⁵+sʰi¹³
@@ -4913,15 +4913,15 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6586	bahengeast-Chen-2013-888-270-1		bahengeast	Chen-2013-888-270	ŋqai³³ntsɿ³¹	ŋqai³³ntsɿ³¹	ŋ q a i ³³ + n ts ɿ ³¹		Chen2013			瘦肉	2219	LEAN (MEAT)	Baheng, East	pahn1237					Baheng, East	瘦肉	ŋqai³³+ntsɿ³¹
 13501	luobuoheeastern-Chen-2013-888-556-1		luobuoheeastern	Chen-2013-888-556	tə⁰²qlo³¹	tə⁰²qlo³¹	t ə ²/⁰ + q l o ³¹		Chen2013			白	1335	WHITE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	白	tə²/⁰+qlo³¹
 13502	luobuohewestern-Chen-2013-888-556-1		luobuohewestern	Chen-2013-888-556	tə⁰²qlo³¹	tə⁰²qlo³¹	t ə ²/⁰ + q l o ³¹		Chen2013			白	1335	WHITE	Luobuohe, Western	luop1235					Luobuohe, Western	白	tə²/⁰+qlo³¹
-13503	chuanqiandian-Chen-2013-888-556-1		chuanqiandian	Chen-2013-888-556	tɬo⁴³	tɬo⁴³	t ɬ o ⁴³		Chen2013			白	1335	WHITE	Chuanqiandian	chua1256					Chuanqiandian	白	tɬo⁴³
-13504	chuanqiandiancentralguizhou-Chen-2013-888-556-1		chuanqiandiancentralguizhou	Chen-2013-888-556	tɬə²⁴	tɬə²⁴	t ɬ ə ²⁴		Chen2013			白	1335	WHITE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	白	tɬə²⁴
+13503	chuanqiandian-Chen-2013-888-556-1		chuanqiandian	Chen-2013-888-556	tɬo⁴³	tɬo⁴³	tɬ o ⁴³		Chen2013			白	1335	WHITE	Chuanqiandian	chua1256					Chuanqiandian	白	tɬo⁴³
+13504	chuanqiandiancentralguizhou-Chen-2013-888-556-1		chuanqiandiancentralguizhou	Chen-2013-888-556	tɬə²⁴	tɬə²⁴	tɬ ə ²⁴		Chen2013			白	1335	WHITE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	白	tɬə²⁴
 13505	chuanqiandiansouthernguizhou-Chen-2013-888-556-1		chuanqiandiansouthernguizhou	Chen-2013-888-556	ɬə³²	ɬə³²	ɬ ə ³²		Chen2013			白	1335	WHITE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	白	ɬə³²
-13506	chuanqiandiannortheastyunnan-Chen-2013-888-556-1		chuanqiandiannortheastyunnan	Chen-2013-888-556	tɬey⁵⁵	tɬey⁵⁵	t ɬ e y ⁵⁵		Chen2013			白	1335	WHITE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	白	tɬey⁵⁵
+13506	chuanqiandiannortheastyunnan-Chen-2013-888-556-1		chuanqiandiannortheastyunnan	Chen-2013-888-556	tɬey⁵⁵	tɬey⁵⁵	tɬ e y ⁵⁵		Chen2013			白	1335	WHITE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	白	tɬey⁵⁵
 13510	qiandongeast-Chen-2013-888-556-1		qiandongeast	Chen-2013-888-556	so²⁴	so²⁴	s o ²⁴		Chen2013			白	1335	WHITE	Qiandong, East	east2370					Qiandong, East	白	so²⁴
 13512	qiandongwest-Chen-2013-888-556-1		qiandongwest	Chen-2013-888-556	ɬo⁴⁴	ɬo⁴⁴	ɬ o ⁴⁴		Chen2013			白	1335	WHITE	Qiandong, West						Qiandong, West	白	ɬo⁴⁴
 13513	bahengwest-Chen-2013-888-556-1		bahengwest	Chen-2013-888-556	kɔ³⁵	kɔ³⁵	k ɔ ³⁵		Chen2013			白	1335	WHITE	Baheng, West	pahn1237					Baheng, West	白	kɔ³⁵
 13514	bahengeast-Chen-2013-888-556-1		bahengeast	Chen-2013-888-556	kwau³⁵	kwau³⁵	k w a u ³⁵		Chen2013			白	1335	WHITE	Baheng, East	pahn1237					Baheng, East	白	kwau³⁵
-6698	luobuoheeastern-Chen-2013-888-275-1		luobuoheeastern	Chen-2013-888-275	ʔa⁰²ndaŋ³¹qlo³¹	ʔa⁰²ndaŋ³¹qlo³¹	ʔ a ²/⁰ + n d a ŋ ³¹ + q l o ³¹		Chen2013			白糖			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	白糖	ʔa²/⁰+ndaŋ³¹+qlo³¹
+6698	luobuoheeastern-Chen-2013-888-275-1		luobuoheeastern	Chen-2013-888-275	ʔa⁰²ndaŋ³¹qlo³¹	ʔa⁰²ndaŋ³¹qlo³¹	ʔ a ²/⁰ + ⁿd a ŋ ³¹ + q l o ³¹		Chen2013			白糖			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	白糖	ʔa²/⁰+ⁿdaŋ³¹+qlo³¹
 6699	luobuohewestern-Chen-2013-888-275-1		luobuohewestern	Chen-2013-888-275	lɑŋ³¹qlo³¹	lɑŋ³¹qlo³¹	l ɑ ŋ ³¹ + q l o ³¹		Chen2013			白糖			Luobuohe, Western	luop1235					Luobuohe, Western	白糖	lɑŋ³¹+qlo³¹
 6700	chuanqiandian-Chen-2013-888-275-1		chuanqiandian	Chen-2013-888-275	tʰaŋ³¹tɬeu⁴³	tʰaŋ³¹tɬeu⁴³	tʰ a ŋ ³¹ + t ɬ e u ⁴³		Chen2013			白糖			Chuanqiandian	chua1256					Chuanqiandian	白糖	tʰaŋ³¹+tɬeu⁴³
 6701	chuanqiandiancentralguizhou-Chen-2013-888-275-1		chuanqiandiancentralguizhou	Chen-2013-888-275	mpa³¹ʐa²⁴tɬə²⁴	mpa³¹ʐa²⁴tɬə²⁴	m p a ³¹ + ʐ a ²⁴ + t ɬ ə ²⁴		Chen2013			白糖			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	白糖	mpa³¹+ʐa²⁴+tɬə²⁴
@@ -5025,7 +5025,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2065	chuanqiandian-Chen-2013-888-85-1		chuanqiandian	Chen-2013-888-85	plou⁴³mua¹³	plou⁴³mua¹³	p l o u ⁴³ + m u a ¹³		Chen2013			眉毛	1173	EYEBROW	Chuanqiandian	chua1256					Chuanqiandian	眉毛	plou⁴³+mua¹³
 2066	chuanqiandiancentralguizhou-Chen-2013-888-85-1		chuanqiandiancentralguizhou	Chen-2013-888-85	sõ¹³mə̃²²	sõ¹³mə̃²²	s õ ¹³ + m ə̃ ²²		Chen2013			眉毛	1173	EYEBROW	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	眉毛	sõ¹³+mə̃²²
 2067	chuanqiandiansouthernguizhou-Chen-2013-888-85-1		chuanqiandiansouthernguizhou	Chen-2013-888-85	pɭɔ³²moŋ¹³	pɭɔ³²moŋ¹³	p ɭ ɔ ³² m o ŋ ¹³		Chen2013			眉毛	1173	EYEBROW	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	眉毛	pɭɔ³²moŋ¹³
-2068	chuanqiandiannortheastyunnan-Chen-2013-888-85-1		chuanqiandiannortheastyunnan	Chen-2013-888-85	tɬau⁵⁵mɦa¹¹	tɬau⁵⁵mɦa¹¹	t ɬ a u ⁵⁵ + m ɦ a ¹¹		Chen2013			眉毛	1173	EYEBROW	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	眉毛	tɬau⁵⁵+mɦa¹¹
+2068	chuanqiandiannortheastyunnan-Chen-2013-888-85-1		chuanqiandiannortheastyunnan	Chen-2013-888-85	tɬau⁵⁵mɦa¹¹	tɬau⁵⁵mɦa¹¹	tɬ a u ⁵⁵ + m ɦ a ¹¹		Chen2013			眉毛	1173	EYEBROW	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	眉毛	tɬau⁵⁵+mɦa¹¹
 2072	qiandongeast-Chen-2013-888-85-1		qiandongeast	Chen-2013-888-85	ɬjo²⁴mi⁵³	ɬjo²⁴mi⁵³	ɬ j o ²⁴ + m i ⁵³		Chen2013			眉毛	1173	EYEBROW	Qiandong, East	east2370					Qiandong, East	眉毛	ɬjo²⁴+mi⁵³
 2074	qiandongwest-Chen-2013-888-85-1		qiandongwest	Chen-2013-888-85	hɔ¹³ni⁵⁵	hɔ¹³ni⁵⁵	h ɔ ¹³ + n i ⁵⁵		Chen2013			眉毛	1173	EYEBROW	Qiandong, West						Qiandong, West	眉毛	hɔ¹³+ni⁵⁵
 2075	bahengwest-Chen-2013-888-85-1		bahengwest	Chen-2013-888-85	ti³⁵mei⁴⁴	ti³⁵mei⁴⁴	t i ³⁵ + m ei ⁴⁴		Chen2013			眉毛	1173	EYEBROW	Baheng, West	pahn1237					Baheng, West	眉毛	ti³⁵+mei⁴⁴
@@ -5093,7 +5093,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 1130	luobuoheeastern-Chen-2013-888-47-1		luobuoheeastern	Chen-2013-888-47	ʔa⁰²zo²⁴ma²⁴	ʔa⁰²zo²⁴ma²⁴	ʔ a ²/⁰ + z o ²⁴ + m a ²⁴		Chen2013			瞎子	457	BLIND PERSON	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	瞎子	ʔa²/⁰+zo²⁴+ma²⁴
 1131	luobuohewestern-Chen-2013-888-47-1		luobuohewestern	Chen-2013-888-47	ʔə⁰²ðo³⁵mɑ³⁵	ʔə⁰²ðo³⁵mɑ³⁵	ʔ ə ²/⁰ + ð o ³⁵ + m ɑ ³⁵		Chen2013			瞎子	457	BLIND PERSON	Luobuohe, Western	luop1235					Luobuohe, Western	瞎子	ʔə²/⁰+ðo³⁵+mɑ³⁵
 1132	chuanqiandian-Chen-2013-888-47-1		chuanqiandian	Chen-2013-888-47	ɬi¹³mua¹³	ɬi¹³mua¹³	ɬ i ¹³ + m u a ¹³		Chen2013			瞎子	457	BLIND PERSON	Chuanqiandian	chua1256					Chuanqiandian	瞎子	ɬi¹³+mua¹³
-1133	chuanqiandiancentralguizhou-Chen-2013-888-47-1		chuanqiandiancentralguizhou	Chen-2013-888-47	tɬi²²mə̃²²	tɬi²²mə̃²²	t ɬ i ²² + m ə̃ ²²		Chen2013			瞎子	457	BLIND PERSON	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	瞎子	tɬi²²+mə̃²²
+1133	chuanqiandiancentralguizhou-Chen-2013-888-47-1		chuanqiandiancentralguizhou	Chen-2013-888-47	tɬi²²mə̃²²	tɬi²²mə̃²²	tɬ i ²² + m ə̃ ²²		Chen2013			瞎子	457	BLIND PERSON	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	瞎子	tɬi²²+mə̃²²
 1134	chuanqiandiansouthernguizhou-Chen-2013-888-47-1		chuanqiandiansouthernguizhou	Chen-2013-888-47	ɬi¹³moŋ¹³	ɬi¹³moŋ¹³	ɬ i ¹³ + m o ŋ ¹³		Chen2013			瞎子	457	BLIND PERSON	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	瞎子	ɬi¹³+moŋ¹³
 1135	chuanqiandiannortheastyunnan-Chen-2013-888-47-1		chuanqiandiannortheastyunnan	Chen-2013-888-47	tu⁵⁵na⁵⁵my⁵⁵	tu⁵⁵na⁵⁵my⁵⁵	t u ⁵⁵ + n a ⁵⁵ + m y ⁵⁵		Chen2013			瞎子	457	BLIND PERSON	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	瞎子	tu⁵⁵+na⁵⁵+my⁵⁵
 1139	qiandongeast-Chen-2013-888-47-1		qiandongeast	Chen-2013-888-47	ha¹³tsɿ³³	ha¹³tsɿ³³	h a ¹³ + ts ɿ ³³		Chen2013			瞎子	457	BLIND PERSON	Qiandong, East	east2370					Qiandong, East	瞎子	ha¹³+tsɿ³³
@@ -5159,14 +5159,14 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 17978	chuanqiandiansouthernguizhou-Chen-2013-888-740-1		chuanqiandiansouthernguizhou	Chen-2013-888-740	nto⁴²	nto⁴²	n t o ⁴²		Chen2013			砍（树）	1432	CUT (WITH AXE)	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	砍（树）	nto⁴²
 17987	bahengeast-Chen-2013-888-740-1		bahengeast	Chen-2013-888-740	nto³¹³	nto³¹³	n t o ³¹³		Chen2013			砍（树）	1432	CUT (WITH AXE)	Baheng, East	pahn1237					Baheng, East	砍（树）	nto³¹³
 18011	bahengwest-Chen-2013-888-741-1		bahengwest	Chen-2013-888-741	pʰa⁵³	pʰa⁵³	pʰ a ⁵³		Chen2013			砍（骨头）	155	CHOP	Baheng, West	pahn1237					Baheng, West	砍（骨头）	pʰa⁵³
-18000	luobuohewestern-Chen-2013-888-741-1		luobuohewestern	Chen-2013-888-741	ndzɑŋ⁵⁵	ndzɑŋ⁵⁵	n d z ɑ ŋ ⁵⁵		Chen2013			砍（骨头）	155	CHOP	Luobuohe, Western	luop1235					Luobuohe, Western	砍（骨头）	ndzɑŋ⁵⁵
+18000	luobuohewestern-Chen-2013-888-741-1		luobuohewestern	Chen-2013-888-741	ndzɑŋ⁵⁵	ndzɑŋ⁵⁵	ⁿdz ɑ ŋ ⁵⁵		Chen2013			砍（骨头）	155	CHOP	Luobuohe, Western	luop1235					Luobuohe, Western	砍（骨头）	ⁿdzɑŋ⁵⁵
 18001	chuanqiandian-Chen-2013-888-741-1		chuanqiandian	Chen-2013-888-741	ntso²¹	ntso²¹	n ts o ²¹		Chen2013			砍（骨头）	155	CHOP	Chuanqiandian	chua1256					Chuanqiandian	砍（骨头）	ntso²¹
 18002	chuanqiandiancentralguizhou-Chen-2013-888-741-1		chuanqiandiancentralguizhou	Chen-2013-888-741	pʰa⁴²	pʰa⁴²	pʰ a ⁴²		Chen2013			砍（骨头）	155	CHOP	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	砍（骨头）	pʰa⁴²
 18004	chuanqiandiannortheastyunnan-Chen-2013-888-741-1		chuanqiandiannortheastyunnan	Chen-2013-888-741	pʰa³³	pʰa³³	pʰ a ³³		Chen2013			砍（骨头）	155	CHOP	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	砍（骨头）	pʰa³³
 18008	qiandongeast-Chen-2013-888-741-1		qiandongeast	Chen-2013-888-741	ma¹³	ma¹³	m a ¹³		Chen2013			砍（骨头）	155	CHOP	Qiandong, East	east2370					Qiandong, East	砍（骨头）	ma¹³
 18010	qiandongwest-Chen-2013-888-741-1		qiandongwest	Chen-2013-888-741	ma⁵³	ma⁵³	m a ⁵³		Chen2013			砍（骨头）	155	CHOP	Qiandong, West						Qiandong, West	砍（骨头）	ma⁵³
 18012	bahengeast-Chen-2013-888-741-1		bahengeast	Chen-2013-888-741	pʰa⁵³	pʰa⁵³	pʰ a ⁵³		Chen2013			砍（骨头）	155	CHOP	Baheng, East	pahn1237					Baheng, East	砍（骨头）	pʰa⁵³
-17999	luobuoheeastern-Chen-2013-888-741-1		luobuoheeastern	Chen-2013-888-741	ndzaŋ⁵⁵	ndzaŋ⁵⁵	n d z a ŋ ⁵⁵		Chen2013			砍（骨头）	155	CHOP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	砍（骨头）	ndzaŋ⁵⁵
+17999	luobuoheeastern-Chen-2013-888-741-1		luobuoheeastern	Chen-2013-888-741	ndzaŋ⁵⁵	ndzaŋ⁵⁵	ⁿdz a ŋ ⁵⁵		Chen2013			砍（骨头）	155	CHOP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	砍（骨头）	ⁿdzaŋ⁵⁵
 18003	chuanqiandiansouthernguizhou-Chen-2013-888-741-1		chuanqiandiansouthernguizhou	Chen-2013-888-741	se²¹; pʐa¹³; ntsoŋ¹¹	se²¹	s e ²¹		Chen2013			砍（骨头）	155	CHOP	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	砍（骨头）	se²¹
 7832	luobuoheeastern-Chen-2013-888-322-1		luobuoheeastern	Chen-2013-888-322	qo⁰⁵tɕyɛ³³	qo⁰⁵tɕyɛ³³	q o ⁵/⁰ + tɕ y ɛ ³³		Chen2013			砖	1006	BRICK	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	砖	qo⁵/⁰+tɕyɛ³³
 7833	luobuohewestern-Chen-2013-888-322-1		luobuohewestern	Chen-2013-888-322	tsuã⁵⁵	tsuã⁵⁵	ts u ã ⁵⁵		Chen2013			砖	1006	BRICK	Luobuohe, Western	luop1235					Luobuohe, Western	砖	tsuã⁵⁵
@@ -5178,7 +5178,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 7843	qiandongwest-Chen-2013-888-322-1		qiandongwest	Chen-2013-888-322	pɔ¹¹ɕuæ̃⁴⁴	pɔ¹¹ɕuæ̃⁴⁴	p ɔ ¹¹ + ɕ u æ̃ ⁴⁴		Chen2013			砖	1006	BRICK	Qiandong, West						Qiandong, West	砖	pɔ¹¹+ɕuæ̃⁴⁴
 7844	bahengwest-Chen-2013-888-322-1		bahengwest	Chen-2013-888-322	tɕe⁵⁵tʰo³⁵	tɕe⁵⁵tʰo³⁵	tɕ e ⁵⁵ + tʰ o ³⁵		Chen2013			砖	1006	BRICK	Baheng, West	pahn1237					Baheng, West	砖	tɕe⁵⁵+tʰo³⁵
 7845	bahengeast-Chen-2013-888-322-1		bahengeast	Chen-2013-888-322	tɕe⁵⁵	tɕe⁵⁵	tɕ e ⁵⁵		Chen2013			砖	1006	BRICK	Baheng, East	pahn1237					Baheng, East	砖	tɕe⁵⁵
-18264	luobuoheeastern-Chen-2013-888-752-1		luobuoheeastern	Chen-2013-888-752	ndzuŋ²⁴	ndzuŋ²⁴	n d z u ŋ ²⁴		Chen2013			破裂	680	BREAK (DESTROY OR GET DESTROYED)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	破裂	ndzuŋ²⁴
+18264	luobuoheeastern-Chen-2013-888-752-1		luobuoheeastern	Chen-2013-888-752	ndzuŋ²⁴	ndzuŋ²⁴	ⁿdz u ŋ ²⁴		Chen2013			破裂	680	BREAK (DESTROY OR GET DESTROYED)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	破裂	ⁿdzuŋ²⁴
 18265	luobuohewestern-Chen-2013-888-752-1		luobuohewestern	Chen-2013-888-752	ɳʈe³⁵	ɳʈe³⁵	ɳ ʈ e ³⁵		Chen2013			破裂	680	BREAK (DESTROY OR GET DESTROYED)	Luobuohe, Western	luop1235					Luobuohe, Western	破裂	ɳʈe³⁵
 18266	chuanqiandian-Chen-2013-888-752-1		chuanqiandian	Chen-2013-888-752	teu¹³	teu¹³	t e u ¹³		Chen2013			破裂	680	BREAK (DESTROY OR GET DESTROYED)	Chuanqiandian	chua1256					Chuanqiandian	破裂	teu¹³
 18267	chuanqiandiancentralguizhou-Chen-2013-888-752-1		chuanqiandiancentralguizhou	Chen-2013-888-752	tə²²	tə²²	t ə ²²		Chen2013			破裂	680	BREAK (DESTROY OR GET DESTROYED)	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	破裂	tə²²
@@ -5281,7 +5281,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 5439	chuanqiandian-Chen-2013-888-223-1		chuanqiandian	Chen-2013-888-223	ʑo⁴³	ʑo⁴³	ʑ o ⁴³		Chen2013			秧	3050	SEEDLING	Chuanqiandian	chua1256					Chuanqiandian	秧	ʑo⁴³
 5440	chuanqiandiancentralguizhou-Chen-2013-888-223-1		chuanqiandiancentralguizhou	Chen-2013-888-223	ʑə̃²⁴	ʑə̃²⁴	ʑ ə̃ ²⁴		Chen2013			秧	3050	SEEDLING	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	秧	ʑə̃²⁴
 5441	chuanqiandiansouthernguizhou-Chen-2013-888-223-1		chuanqiandiansouthernguizhou	Chen-2013-888-223	ʑoŋ³²	ʑoŋ³²	ʑ o ŋ ³²		Chen2013			秧	3050	SEEDLING	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	秧	ʑoŋ³²
-5442	chuanqiandiannortheastyunnan-Chen-2013-888-223-1		chuanqiandiannortheastyunnan	Chen-2013-888-223	ʑu⁵⁵ndlɦi³⁵	ʑu⁵⁵ndlɦi³⁵	ʑ u ⁵⁵ + n d l ɦ i ³⁵		Chen2013			秧	3050	SEEDLING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	秧	ʑu⁵⁵+ndlɦi³⁵
+5442	chuanqiandiannortheastyunnan-Chen-2013-888-223-1		chuanqiandiannortheastyunnan	Chen-2013-888-223	ʑu⁵⁵ndlɦi³⁵	ʑu⁵⁵ndlɦi³⁵	ʑ u ⁵⁵ + ⁿd l ɦ i ³⁵		Chen2013			秧	3050	SEEDLING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	秧	ʑu⁵⁵+ⁿdlɦi³⁵
 5446	qiandongeast-Chen-2013-888-223-1		qiandongeast	Chen-2013-888-223	ʑi²⁴	ʑi²⁴	ʑ i ²⁴		Chen2013			秧	3050	SEEDLING	Qiandong, East	east2370					Qiandong, East	秧	ʑi²⁴
 5448	qiandongwest-Chen-2013-888-223-1		qiandongwest	Chen-2013-888-223	ʑi⁴⁴	ʑi⁴⁴	ʑ i ⁴⁴		Chen2013			秧	3050	SEEDLING	Qiandong, West						Qiandong, West	秧	ʑi⁴⁴
 5449	bahengwest-Chen-2013-888-223-1		bahengwest	Chen-2013-888-223	jaŋ³⁵	jaŋ³⁵	j a ŋ ³⁵		Chen2013			秧	3050	SEEDLING	Baheng, West	pahn1237					Baheng, West	秧	jaŋ³⁵
@@ -5429,7 +5429,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20501	bahengwest-Chen-2013-888-843-1		bahengwest	Chen-2013-888-843	tɕa⁵³	tɕa⁵³	tɕ a ⁵³		Chen2013			笑	1355	LAUGH	Baheng, West	pahn1237					Baheng, West	笑	tɕa⁵³
 20491	chuanqiandian-Chen-2013-888-843-1		chuanqiandian	Chen-2013-888-843	ʈo³³	ʈo³³	ʈ o ³³		Chen2013			笑	1355	LAUGH	Chuanqiandian	chua1256					Chuanqiandian	笑	ʈo³³
 20493	chuanqiandiansouthernguizhou-Chen-2013-888-843-1		chuanqiandiansouthernguizhou	Chen-2013-888-843	ʂo⁴⁴	ʂo⁴⁴	ʂ o ⁴⁴		Chen2013			笑	1355	LAUGH	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	笑	ʂo⁴⁴
-20494	chuanqiandiannortheastyunnan-Chen-2013-888-843-1		chuanqiandiannortheastyunnan	Chen-2013-888-843	tɬo¹¹	tɬo¹¹	t ɬ o ¹¹		Chen2013			笑	1355	LAUGH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	笑	tɬo¹¹
+20494	chuanqiandiannortheastyunnan-Chen-2013-888-843-1		chuanqiandiannortheastyunnan	Chen-2013-888-843	tɬo¹¹	tɬo¹¹	tɬ o ¹¹		Chen2013			笑	1355	LAUGH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	笑	tɬo¹¹
 20492	chuanqiandiancentralguizhou-Chen-2013-888-843-1		chuanqiandiancentralguizhou	Chen-2013-888-843	tʂə⁴²	tʂə⁴²	tʂ ə ⁴²		Chen2013			笑	1355	LAUGH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	笑	tʂə⁴²
 20500	qiandongwest-Chen-2013-888-843-1		qiandongwest	Chen-2013-888-843	tjeu¹¹	tjeu¹¹	t j e u ¹¹		Chen2013			笑	1355	LAUGH	Qiandong, West						Qiandong, West	笑	tjeu¹¹
 20502	bahengeast-Chen-2013-888-843-1		bahengeast	Chen-2013-888-843	tja⁵³	tja⁵³	t j a ⁵³		Chen2013			笑	1355	LAUGH	Baheng, East	pahn1237					Baheng, East	笑	tja⁵³
@@ -5595,12 +5595,12 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6381	chuanqiandian-Chen-2013-888-262-1		chuanqiandian	Chen-2013-888-262	kua⁴⁴tɬi³³	kua⁴⁴tɬi³³	k u a ⁴⁴ + t ɬ i ³³		Chen2013			粥	2049	CONGEE	Chuanqiandian	chua1256					Chuanqiandian	粥	kua⁴⁴+tɬi³³
 6382	chuanqiandiancentralguizhou-Chen-2013-888-262-1		chuanqiandiancentralguizhou	Chen-2013-888-262	qə⁰²ʑo⁴²	qə⁰²ʑo⁴²	q ə ²/⁰ + ʑ o ⁴²		Chen2013			粥	2049	CONGEE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	粥	qə²/⁰+ʑo⁴²
 6383	chuanqiandiansouthernguizhou-Chen-2013-888-262-1		chuanqiandiansouthernguizhou	Chen-2013-888-262	ka⁴²huei⁴⁴	ka⁴²huei⁴⁴	k a ⁴² + h u ei ⁴⁴		Chen2013			粥	2049	CONGEE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	粥	ka⁴²+huei⁴⁴
-6384	chuanqiandiannortheastyunnan-Chen-2013-888-262-1		chuanqiandiannortheastyunnan	Chen-2013-888-262	tɬi¹¹	tɬi¹¹	t ɬ i ¹¹		Chen2013			粥	2049	CONGEE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	粥	tɬi¹¹
+6384	chuanqiandiannortheastyunnan-Chen-2013-888-262-1		chuanqiandiannortheastyunnan	Chen-2013-888-262	tɬi¹¹	tɬi¹¹	tɬ i ¹¹		Chen2013			粥	2049	CONGEE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	粥	tɬi¹¹
 6388	qiandongeast-Chen-2013-888-262-1		qiandongeast	Chen-2013-888-262	kɛ³³lue²²	kɛ³³lue²²	k ɛ ³³ + l u e ²²		Chen2013			粥	2049	CONGEE	Qiandong, East	east2370					Qiandong, East	粥	kɛ³³+lue²²
 6390	qiandongwest-Chen-2013-888-262-1		qiandongwest	Chen-2013-888-262	ka¹³lju⁵³	ka¹³lju⁵³	k a ¹³ + l j u ⁵³		Chen2013			粥	2049	CONGEE	Qiandong, West						Qiandong, West	粥	ka¹³+lju⁵³
 6391	bahengwest-Chen-2013-888-262-1		bahengwest	Chen-2013-888-262	kaŋ⁵⁵	kaŋ⁵⁵	k a ŋ ⁵⁵		Chen2013			粥	2049	CONGEE	Baheng, West	pahn1237					Baheng, West	粥	kaŋ⁵⁵
 6392	bahengeast-Chen-2013-888-262-1		bahengeast	Chen-2013-888-262	kaŋ³⁵	kaŋ³⁵	k a ŋ ³⁵		Chen2013			粥	2049	CONGEE	Baheng, East	pahn1237					Baheng, East	粥	kaŋ³⁵
-6673	luobuoheeastern-Chen-2013-888-274-1		luobuoheeastern	Chen-2013-888-274	ʔa⁰²ndaŋ³¹	ʔa⁰²ndaŋ³¹	ʔ a ²/⁰ + n d a ŋ ³¹		Chen2013			糖	862	SUGAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	糖	ʔa²/⁰+ndaŋ³¹
+6673	luobuoheeastern-Chen-2013-888-274-1		luobuoheeastern	Chen-2013-888-274	ʔa⁰²ndaŋ³¹	ʔa⁰²ndaŋ³¹	ʔ a ²/⁰ + ⁿd a ŋ ³¹		Chen2013			糖	862	SUGAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	糖	ʔa²/⁰+ⁿdaŋ³¹
 6674	luobuohewestern-Chen-2013-888-274-1		luobuohewestern	Chen-2013-888-274	lə⁰²lɑŋ³¹	lə⁰²lɑŋ³¹	l ə ²/⁰ + l ɑ ŋ ³¹		Chen2013			糖	862	SUGAR	Luobuohe, Western	luop1235					Luobuohe, Western	糖	lə²/⁰+lɑŋ³¹
 6675	chuanqiandian-Chen-2013-888-274-1		chuanqiandian	Chen-2013-888-274	tʰaŋ³¹	tʰaŋ³¹	tʰ a ŋ ³¹		Chen2013			糖	862	SUGAR	Chuanqiandian	chua1256					Chuanqiandian	糖	tʰaŋ³¹
 6676	chuanqiandiancentralguizhou-Chen-2013-888-274-1		chuanqiandiancentralguizhou	Chen-2013-888-274	mpa³¹ʐa²⁴	mpa³¹ʐa²⁴	m p a ³¹ + ʐ a ²⁴		Chen2013			糖	862	SUGAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	糖	mpa³¹+ʐa²⁴
@@ -5625,7 +5625,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6332	chuanqiandian-Chen-2013-888-260-1		chuanqiandian	Chen-2013-888-260	ntʂa⁴³mplou²⁴	ntʂa⁴³mplou²⁴	n tʂ a ⁴³ + m p l o u ²⁴		Chen2013			糯米	2750	GLUTINOUS RICE	Chuanqiandian	chua1256					Chuanqiandian	糯米	ntʂa⁴³+mplou²⁴
 6333	chuanqiandiancentralguizhou-Chen-2013-888-260-1		chuanqiandiancentralguizhou	Chen-2013-888-260	qə⁰²mplə⁵⁵	qə⁰²mplə⁵⁵	q ə ²/⁰ + m p l ə ⁵⁵		Chen2013			糯米	2750	GLUTINOUS RICE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	糯米	qə²/⁰+mplə⁵⁵
 6334	chuanqiandiansouthernguizhou-Chen-2013-888-260-1		chuanqiandiansouthernguizhou	Chen-2013-888-260	soŋ²³²mplu²¹	soŋ²³²mplu²¹	s o ŋ ²³² + m p l u ²¹		Chen2013			糯米	2750	GLUTINOUS RICE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	糯米	soŋ²³²+mplu²¹
-6335	chuanqiandiannortheastyunnan-Chen-2013-888-260-1		chuanqiandiannortheastyunnan	Chen-2013-888-260	ndlɦi³⁵ndlɦau³¹	ndlɦi³⁵ndlɦau³¹	n d l ɦ i ³⁵ + n d l ɦ a u ³¹		Chen2013			糯米	2750	GLUTINOUS RICE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	糯米	ndlɦi³⁵+ndlɦau³¹
+6335	chuanqiandiannortheastyunnan-Chen-2013-888-260-1		chuanqiandiannortheastyunnan	Chen-2013-888-260	ndlɦi³⁵ndlɦau³¹	ndlɦi³⁵ndlɦau³¹	n d l ɦ i ³⁵ + ⁿd l ɦ a u ³¹		Chen2013			糯米	2750	GLUTINOUS RICE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	糯米	ndlɦi³⁵+ⁿdlɦau³¹
 6339	qiandongeast-Chen-2013-888-260-1		qiandongeast	Chen-2013-888-260	sei³³neu¹³	sei³³neu¹³	s ei ³³ + n e u ¹³		Chen2013			糯米	2750	GLUTINOUS RICE	Qiandong, East	east2370					Qiandong, East	糯米	sei³³+neu¹³
 6341	qiandongwest-Chen-2013-888-260-1		qiandongwest	Chen-2013-888-260	sʰei¹³neu⁵³	sʰei¹³neu⁵³	sʰ ei ¹³ + n e u ⁵³		Chen2013			糯米	2750	GLUTINOUS RICE	Qiandong, West						Qiandong, West	糯米	sʰei¹³+neu⁵³
 6342	bahengwest-Chen-2013-888-260-1		bahengwest	Chen-2013-888-260	ȵu⁵⁵nju⁴²	ȵu⁵⁵nju⁴²	ȵ u ⁵⁵ + n j u ⁴²		Chen2013			糯米	2750	GLUTINOUS RICE	Baheng, West	pahn1237					Baheng, West	糯米	ȵu⁵⁵+nju⁴²
@@ -5644,7 +5644,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 15194	chuanqiandian-Chen-2013-888-625-1		chuanqiandian	Chen-2013-888-625	tʂo¹³ʂa⁵⁵	tʂo¹³ʂa⁵⁵	tʂ o ¹³ + ʂ a ⁵⁵		Chen2013			累	1757	TIRED	Chuanqiandian	chua1256					Chuanqiandian	累	tʂo¹³+ʂa⁵⁵
 15195	chuanqiandiancentralguizhou-Chen-2013-888-625-1		chuanqiandiancentralguizhou	Chen-2013-888-625	kʰẽ⁴²	kʰẽ⁴²	kʰ ẽ ⁴²		Chen2013			累	1757	TIRED	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	累	kʰẽ⁴²
 15196	chuanqiandiansouthernguizhou-Chen-2013-888-625-1		chuanqiandiansouthernguizhou	Chen-2013-888-625	tɯ³⁵	tɯ³⁵	t ɯ ³⁵		Chen2013			累	1757	TIRED	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	累	tɯ³⁵
-15197	chuanqiandiannortheastyunnan-Chen-2013-888-625-1		chuanqiandiannortheastyunnan	Chen-2013-888-625	tɬʰa¹¹	tɬʰa¹¹	t ɬʰ a ¹¹		Chen2013			累	1757	TIRED	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	累	tɬʰa¹¹
+15197	chuanqiandiannortheastyunnan-Chen-2013-888-625-1		chuanqiandiannortheastyunnan	Chen-2013-888-625	tɬʰa¹¹	tɬʰa¹¹	tɬʰ a ¹¹		Chen2013			累	1757	TIRED	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	累	tɬʰa¹¹
 15201	qiandongeast-Chen-2013-888-625-1		qiandongeast	Chen-2013-888-625	lei⁵³	lei⁵³	l ei ⁵³		Chen2013			累	1757	TIRED	Qiandong, East	east2370					Qiandong, East	累	lei⁵³
 15203	qiandongwest-Chen-2013-888-625-1		qiandongwest	Chen-2013-888-625	ɕɔ²²ɣu²²	ɕɔ²²ɣu²²	ɕ ɔ ²² + ɣ u ²²		Chen2013			累	1757	TIRED	Qiandong, West						Qiandong, West	累	ɕɔ²²+ɣu²²
 15204	bahengwest-Chen-2013-888-625-1		bahengwest	Chen-2013-888-625	tɕu³³ja⁴⁴	tɕu³³ja⁴⁴	tɕ u ³³ + j a ⁴⁴		Chen2013			累	1757	TIRED	Baheng, West	pahn1237					Baheng, West	累	tɕu³³+ja⁴⁴
@@ -5659,7 +5659,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 13537	qiandongwest-Chen-2013-888-557-1		qiandongwest	Chen-2013-888-557	ɕʰẽ³³	ɕʰẽ³³	ɕʰ ẽ ³³		Chen2013			红	156	RED	Qiandong, West						Qiandong, West	红	ɕʰẽ³³
 13538	bahengwest-Chen-2013-888-557-1		bahengwest	Chen-2013-888-557	tai⁴⁴	tai⁴⁴	t a i ⁴⁴		Chen2013			红	156	RED	Baheng, West	pahn1237					Baheng, West	红	tai⁴⁴
 13539	bahengeast-Chen-2013-888-557-1		bahengeast	Chen-2013-888-557	tai³¹	tai³¹	t a i ³¹		Chen2013			红	156	RED	Baheng, East	pahn1237					Baheng, East	红	tai³¹
-6723	luobuoheeastern-Chen-2013-888-276-1		luobuoheeastern	Chen-2013-888-276	ʔa⁰²ndaŋ³¹ʔlɛ³¹	ʔa⁰²ndaŋ³¹ʔlɛ³¹	ʔ a ²/⁰ + n d a ŋ ³¹ + ʔ l ɛ ³¹		Chen2013			红糖			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	红糖	ʔa²/⁰+ndaŋ³¹+ʔlɛ³¹
+6723	luobuoheeastern-Chen-2013-888-276-1		luobuoheeastern	Chen-2013-888-276	ʔa⁰²ndaŋ³¹ʔlɛ³¹	ʔa⁰²ndaŋ³¹ʔlɛ³¹	ʔ a ²/⁰ + ⁿd a ŋ ³¹ + ʔ l ɛ ³¹		Chen2013			红糖			Luobuohe, Eastern	luop1235					Luobuohe, Eastern	红糖	ʔa²/⁰+ⁿdaŋ³¹+ʔlɛ³¹
 6724	luobuohewestern-Chen-2013-888-276-1		luobuohewestern	Chen-2013-888-276	lɑŋ³¹ʔle³¹	lɑŋ³¹ʔle³¹	l ɑ ŋ ³¹ + ʔ l e ³¹		Chen2013			红糖			Luobuohe, Western	luop1235					Luobuohe, Western	红糖	lɑŋ³¹+ʔle³¹
 6725	chuanqiandian-Chen-2013-888-276-1		chuanqiandian	Chen-2013-888-276	tʰaŋ³¹la⁴³	tʰaŋ³¹la⁴³	tʰ a ŋ ³¹ + l a ⁴³		Chen2013			红糖			Chuanqiandian	chua1256					Chuanqiandian	红糖	tʰaŋ³¹+la⁴³
 6726	chuanqiandiancentralguizhou-Chen-2013-888-276-1		chuanqiandiancentralguizhou	Chen-2013-888-276	mpa³¹ʐa²⁴lẽ²⁴	mpa³¹ʐa²⁴lẽ²⁴	m p a ³¹ + ʐ a ²⁴ + l ẽ ²⁴		Chen2013			红糖			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	红糖	mpa³¹+ʐa²⁴+lẽ²⁴
@@ -5669,7 +5669,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6734	qiandongwest-Chen-2013-888-276-1		qiandongwest	Chen-2013-888-276	taŋ⁵⁵ɕʰen³³	taŋ⁵⁵ɕʰen³³	t a ŋ ⁵⁵ + ɕʰ e n ³³		Chen2013			红糖			Qiandong, West						Qiandong, West	红糖	taŋ⁵⁵+ɕʰen³³
 6735	bahengwest-Chen-2013-888-276-1		bahengwest	Chen-2013-888-276	njei³³ȵu³¹tai⁴⁴	njei³³ȵu³¹tai⁴⁴	n j ei ³³ + ȵ u ³¹ + t a i ⁴⁴		Chen2013			红糖			Baheng, West	pahn1237					Baheng, West	红糖	njei³³+ȵu³¹+tai⁴⁴
 6736	bahengeast-Chen-2013-888-276-1		bahengeast	Chen-2013-888-276	mpei³³kwei³³	mpei³³kwei³³	m p ei ³³ + k w ei ³³		Chen2013			红糖			Baheng, East	pahn1237					Baheng, East	红糖	mpei³³+kwei³³
-5798	luobuoheeastern-Chen-2013-888-238-1		luobuoheeastern	Chen-2013-888-238	ʔa⁰²nda³¹	ʔa⁰²nda³¹	ʔ a ²/⁰ + n d a ³¹		Chen2013			红薯	159	SWEET POTATO	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	红薯	ʔa²/⁰+nda³¹
+5798	luobuoheeastern-Chen-2013-888-238-1		luobuoheeastern	Chen-2013-888-238	ʔa⁰²nda³¹	ʔa⁰²nda³¹	ʔ a ²/⁰ + ⁿd a ³¹		Chen2013			红薯	159	SWEET POTATO	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	红薯	ʔa²/⁰+ⁿda³¹
 5799	luobuohewestern-Chen-2013-888-238-1		luobuohewestern	Chen-2013-888-238	ʔə⁰²wo³⁵	ʔə⁰²wo³⁵	ʔ ə ²/⁰ + w o ³⁵		Chen2013			红薯	159	SWEET POTATO	Luobuohe, Western	luop1235					Luobuohe, Western	红薯	ʔə²/⁰+wo³⁵
 5800	chuanqiandian-Chen-2013-888-238-1		chuanqiandian	Chen-2013-888-238	qau³³la⁴³	qau³³la⁴³	q a u ³³ + l a ⁴³		Chen2013			红薯	159	SWEET POTATO	Chuanqiandian	chua1256					Chuanqiandian	红薯	qau³³+la⁴³
 5801	chuanqiandiancentralguizhou-Chen-2013-888-238-1		chuanqiandiancentralguizhou	Chen-2013-888-238	ku¹³ntu⁵⁵	ku¹³ntu⁵⁵	k u ¹³ + n t u ⁵⁵		Chen2013			红薯	159	SWEET POTATO	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	红薯	ku¹³+ntu⁵⁵
@@ -5943,10 +5943,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 3837	bahengeast-Chen-2013-888-156-1		bahengeast	Chen-2013-888-156	pau⁵⁵ŋqai³³	pau⁵⁵ŋqai³³	p a u ⁵⁵ + ŋ q a i ³³		Chen2013			老虎	846	TIGER	Baheng, East	pahn1237					Baheng, East	老虎	pau⁵⁵+ŋqai³³
 4058	luobuoheeastern-Chen-2013-888-166-1		luobuoheeastern	Chen-2013-888-166	qo⁰⁵len³¹	qo⁰⁵len³¹	q o ⁵/⁰ + l e n ³¹		Chen2013			老鹰	1905	EAGLE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	老鹰	qo⁵/⁰+len³¹
 4059	luobuohewestern-Chen-2013-888-166-1		luobuohewestern	Chen-2013-888-166	ʔə⁰²qɑŋ³¹len³¹	ʔə⁰²qɑŋ³¹len³¹	ʔ ə ²/⁰ + q ɑ ŋ ³¹ + l e n ³¹		Chen2013			老鹰	1905	EAGLE	Luobuohe, Western	luop1235					Luobuohe, Western	老鹰	ʔə²/⁰+qɑŋ³¹+len³¹
-4060	chuanqiandian-Chen-2013-888-166-1		chuanqiandian	Chen-2013-888-166	tɬaŋ⁵⁵	tɬaŋ⁵⁵	t ɬ a ŋ ⁵⁵		Chen2013			老鹰	1905	EAGLE	Chuanqiandian	chua1256					Chuanqiandian	老鹰	tɬaŋ⁵⁵
+4060	chuanqiandian-Chen-2013-888-166-1		chuanqiandian	Chen-2013-888-166	tɬaŋ⁵⁵	tɬaŋ⁵⁵	tɬ a ŋ ⁵⁵		Chen2013			老鹰	1905	EAGLE	Chuanqiandian	chua1256					Chuanqiandian	老鹰	tɬaŋ⁵⁵
 4061	chuanqiandiancentralguizhou-Chen-2013-888-166-1		chuanqiandiancentralguizhou	Chen-2013-888-166	plõ¹³	plõ¹³	p l õ ¹³		Chen2013			老鹰	1905	EAGLE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	老鹰	plõ¹³
 4062	chuanqiandiansouthernguizhou-Chen-2013-888-166-1		chuanqiandiansouthernguizhou	Chen-2013-888-166	ɬua⁴²	ɬua⁴²	ɬ u a ⁴²		Chen2013			老鹰	1905	EAGLE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	老鹰	ɬua⁴²
-4063	chuanqiandiannortheastyunnan-Chen-2013-888-166-1		chuanqiandiannortheastyunnan	Chen-2013-888-166	tɬaɯ⁵⁵	tɬaɯ⁵⁵	t ɬ a ɯ ⁵⁵		Chen2013			老鹰	1905	EAGLE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	老鹰	tɬaɯ⁵⁵
+4063	chuanqiandiannortheastyunnan-Chen-2013-888-166-1		chuanqiandiannortheastyunnan	Chen-2013-888-166	tɬaɯ⁵⁵	tɬaɯ⁵⁵	tɬ a ɯ ⁵⁵		Chen2013			老鹰	1905	EAGLE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	老鹰	tɬaɯ⁵⁵
 4067	qiandongeast-Chen-2013-888-166-1		qiandongeast	Chen-2013-888-166	ʑin²⁴	ʑin²⁴	ʑ i n ²⁴		Chen2013			老鹰	1905	EAGLE	Qiandong, East	east2370					Qiandong, East	老鹰	ʑin²⁴
 4069	qiandongwest-Chen-2013-888-166-1		qiandongwest	Chen-2013-888-166	ɬẽ¹³	ɬẽ¹³	ɬ ẽ ¹³		Chen2013			老鹰	1905	EAGLE	Qiandong, West						Qiandong, West	老鹰	ɬẽ¹³
 4070	bahengwest-Chen-2013-888-166-1		bahengwest	Chen-2013-888-166	ŋ̩¹¹kwe³¹	ŋ̩¹¹kwe³¹	ŋ̩ ¹¹ + k w e ³¹		Chen2013			老鹰	1905	EAGLE	Baheng, West	pahn1237					Baheng, West	老鹰	ŋ̩¹¹+kwe³¹
@@ -6010,7 +6010,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 1190	qiandongwest-Chen-2013-888-49-1		qiandongwest	Chen-2013-888-49	ɬuŋ⁵⁵me⁵⁵	ɬuŋ⁵⁵me⁵⁵	ɬ u ŋ ⁵⁵ + m e ⁵⁵		Chen2013			聋子	458	DEAF PERSON	Qiandong, West						Qiandong, West	聋子	ɬuŋ⁵⁵+me⁵⁵
 1191	bahengwest-Chen-2013-888-49-1		bahengwest	Chen-2013-888-49	loŋ³³	loŋ³³	l o ŋ ³³		Chen2013			聋子	458	DEAF PERSON	Baheng, West	pahn1237					Baheng, West	聋子	loŋ³³
 1192	bahengeast-Chen-2013-888-49-1		bahengeast	Chen-2013-888-49	luŋ⁵⁵tsɿ⁰³	luŋ⁵⁵tsɿ⁰³	l u ŋ ⁵⁵ + ts ɿ ³/⁰		Chen2013			聋子	458	DEAF PERSON	Baheng, East	pahn1237					Baheng, East	聋子	luŋ⁵⁵+tsɿ³/⁰
-15241	luobuoheeastern-Chen-2013-888-627-1		luobuoheeastern	Chen-2013-888-627	ndzen²⁴	ndzen²⁴	n d z e n ²⁴		Chen2013			聪明	2530	SMART	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	聪明	ndzen²⁴
+15241	luobuoheeastern-Chen-2013-888-627-1		luobuoheeastern	Chen-2013-888-627	ndzen²⁴	ndzen²⁴	ⁿdz e n ²⁴		Chen2013			聪明	2530	SMART	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	聪明	ⁿdzen²⁴
 15242	luobuohewestern-Chen-2013-888-627-1		luobuohewestern	Chen-2013-888-627	zo³¹	zo³¹	z o ³¹		Chen2013			聪明	2530	SMART	Luobuohe, Western	luop1235					Luobuohe, Western	聪明	zo³¹
 15243	chuanqiandian-Chen-2013-888-627-1		chuanqiandian	Chen-2013-888-627	ʐua¹³	ʐua¹³	ʐ u a ¹³		Chen2013			聪明	2530	SMART	Chuanqiandian	chua1256					Chuanqiandian	聪明	ʐua¹³
 15244	chuanqiandiancentralguizhou-Chen-2013-888-627-1		chuanqiandiancentralguizhou	Chen-2013-888-627	nzi¹³	nzi¹³	n z i ¹³		Chen2013			聪明	2530	SMART	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	聪明	nzi¹³
@@ -6186,7 +6186,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2215	chuanqiandian-Chen-2013-888-91-1		chuanqiandian	Chen-2013-888-91	fu³¹tsi⁵⁵	fu³¹tsi⁵⁵	f u ³¹ + ts i ⁵⁵		Chen2013			胡须	678	BEARD	Chuanqiandian	chua1256					Chuanqiandian	胡须	fu³¹+tsi⁵⁵
 2216	chuanqiandiancentralguizhou-Chen-2013-888-91-1		chuanqiandiancentralguizhou	Chen-2013-888-91	sʰã¹³ȵã²²	sʰã¹³ȵã²²	sʰ ã ¹³ + ȵ ã ²²		Chen2013			胡须	678	BEARD	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	胡须	sʰã¹³+ȵã²²
 2217	chuanqiandiansouthernguizhou-Chen-2013-888-91-1		chuanqiandiansouthernguizhou	Chen-2013-888-91	ȵa³³	ȵa³³	ȵ a ³³		Chen2013			胡须	678	BEARD	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	胡须	ȵa³³
-2218	chuanqiandiannortheastyunnan-Chen-2013-888-91-1		chuanqiandiannortheastyunnan	Chen-2013-888-91	tɬau⁵⁵ʔa³³ȵdʑɦau³⁵	tɬau⁵⁵ʔa³³ȵdʑɦau³⁵	t ɬ a u ⁵⁵ + ʔ a ³³ + ȵ dʑʱ a u ³⁵		Chen2013			胡须	678	BEARD	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	胡须	tɬau⁵⁵+ʔa³³+ȵdʑʱau³⁵
+2218	chuanqiandiannortheastyunnan-Chen-2013-888-91-1		chuanqiandiannortheastyunnan	Chen-2013-888-91	tɬau⁵⁵ʔa³³ȵdʑɦau³⁵	tɬau⁵⁵ʔa³³ȵdʑɦau³⁵	tɬ a u ⁵⁵ + ʔ a ³³ + ȵ dʑʱ a u ³⁵		Chen2013			胡须	678	BEARD	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	胡须	tɬau⁵⁵+ʔa³³+ȵdʑʱau³⁵
 2222	qiandongeast-Chen-2013-888-91-1		qiandongeast	Chen-2013-888-91	heu³⁵njan⁵³	heu³⁵njan⁵³	h e u ³⁵ + n j a n ⁵³		Chen2013			胡须	678	BEARD	Qiandong, East	east2370					Qiandong, East	胡须	heu³⁵+njan⁵³
 2224	qiandongwest-Chen-2013-888-91-1		qiandongwest	Chen-2013-888-91	teu³³ni²²	teu³³ni²²	t e u ³³ + n i ²²		Chen2013			胡须	678	BEARD	Qiandong, West						Qiandong, West	胡须	teu³³+ni²²
 2225	bahengwest-Chen-2013-888-91-1		bahengwest	Chen-2013-888-91	ȵi⁴⁴	ȵi⁴⁴	ȵ i ⁴⁴		Chen2013			胡须	678	BEARD	Baheng, West	pahn1237					Baheng, West	胡须	ȵi⁴⁴
@@ -6262,8 +6262,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20150	chuanqiandiannortheastyunnan-Chen-2013-888-829-1		chuanqiandiannortheastyunnan	Chen-2013-888-829	ɬy⁵⁵	ɬy⁵⁵	ɬ y ⁵⁵		Chen2013			脱（皮）	1755	UNDRESS	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	脱（皮）	ɬy⁵⁵
 20146	luobuohewestern-Chen-2013-888-829-1		luobuohewestern	Chen-2013-888-829	tʰɑ³⁵	tʰɑ³⁵	tʰ ɑ ³⁵		Chen2013			脱（皮）	1755	UNDRESS	Luobuohe, Western	luop1235					Luobuohe, Western	脱（皮）	tʰɑ³⁵
 20123	chuanqiandian-Chen-2013-888-828-1		chuanqiandian	Chen-2013-888-828	ɬe⁴⁴	ɬe⁴⁴	ɬ e ⁴⁴		Chen2013			脱（衣）	1755	UNDRESS	Chuanqiandian	chua1256					Chuanqiandian	脱（衣）	ɬe⁴⁴
-20124	chuanqiandiancentralguizhou-Chen-2013-888-828-1		chuanqiandiancentralguizhou	Chen-2013-888-828	tɬʰɛ⁴²	tɬʰɛ⁴²	t ɬʰ ɛ ⁴²		Chen2013			脱（衣）	1755	UNDRESS	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	脱（衣）	tɬʰɛ⁴²
-20126	chuanqiandiannortheastyunnan-Chen-2013-888-828-1		chuanqiandiannortheastyunnan	Chen-2013-888-828	tɬey¹¹	tɬey¹¹	t ɬ e y ¹¹		Chen2013			脱（衣）	1755	UNDRESS	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	脱（衣）	tɬey¹¹
+20124	chuanqiandiancentralguizhou-Chen-2013-888-828-1		chuanqiandiancentralguizhou	Chen-2013-888-828	tɬʰɛ⁴²	tɬʰɛ⁴²	tɬʰ ɛ ⁴²		Chen2013			脱（衣）	1755	UNDRESS	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	脱（衣）	tɬʰɛ⁴²
+20126	chuanqiandiannortheastyunnan-Chen-2013-888-828-1		chuanqiandiannortheastyunnan	Chen-2013-888-828	tɬey¹¹	tɬey¹¹	tɬ e y ¹¹		Chen2013			脱（衣）	1755	UNDRESS	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	脱（衣）	tɬey¹¹
 20130	qiandongeast-Chen-2013-888-828-1		qiandongeast	Chen-2013-888-828	tʰo³³	tʰo³³	tʰ o ³³		Chen2013			脱（衣）	1755	UNDRESS	Qiandong, East	east2370					Qiandong, East	脱（衣）	tʰo³³
 20132	qiandongwest-Chen-2013-888-828-1		qiandongwest	Chen-2013-888-828	lo³³	lo³³	l o ³³		Chen2013			脱（衣）	1755	UNDRESS	Qiandong, West						Qiandong, West	脱（衣）	lo³³
 20133	bahengwest-Chen-2013-888-828-1		bahengwest	Chen-2013-888-828	qe³¹	qe³¹	q e ³¹		Chen2013			脱（衣）	1755	UNDRESS	Baheng, West	pahn1237					Baheng, West	脱（衣）	qe³¹
@@ -6276,17 +6276,17 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2165	chuanqiandian-Chen-2013-888-89-1		chuanqiandian	Chen-2013-888-89	pʰlo⁴⁴	pʰlo⁴⁴	pʰ l o ⁴⁴		Chen2013			脸	1560	FACE	Chuanqiandian	chua1256					Chuanqiandian	脸	pʰlo⁴⁴
 2166	chuanqiandiancentralguizhou-Chen-2013-888-89-1		chuanqiandiancentralguizhou	Chen-2013-888-89	qə⁰²pə³¹	qə⁰²pə³¹	q ə ²/⁰ + p ə ³¹		Chen2013			脸	1560	FACE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	脸	qə²/⁰+pə³¹
 2167	chuanqiandiansouthernguizhou-Chen-2013-888-89-1		chuanqiandiansouthernguizhou	Chen-2013-888-89	pɯ¹¹	pɯ¹¹	p ɯ ¹¹		Chen2013			脸	1560	FACE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	脸	pɯ¹¹
-2168	chuanqiandiannortheastyunnan-Chen-2013-888-89-1		chuanqiandiannortheastyunnan	Chen-2013-888-89	tɬʰu³³	tɬʰu³³	t ɬʰ u ³³		Chen2013			脸	1560	FACE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	脸	tɬʰu³³
+2168	chuanqiandiannortheastyunnan-Chen-2013-888-89-1		chuanqiandiannortheastyunnan	Chen-2013-888-89	tɬʰu³³	tɬʰu³³	tɬʰ u ³³		Chen2013			脸	1560	FACE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	脸	tɬʰu³³
 2172	qiandongeast-Chen-2013-888-89-1		qiandongeast	Chen-2013-888-89	maŋ²¹²mi⁵³	maŋ²¹²mi⁵³	m a ŋ ²¹² m i ⁵³		Chen2013			脸	1560	FACE	Qiandong, East	east2370					Qiandong, East	脸	maŋ²¹²mi⁵³
 2174	qiandongwest-Chen-2013-888-89-1		qiandongwest	Chen-2013-888-89	pɔ¹¹pa²²	pɔ¹¹pa²²	p ɔ ¹¹ + p a ²²		Chen2013			脸	1560	FACE	Qiandong, West						Qiandong, West	脸	pɔ¹¹+pa²²
 2175	bahengwest-Chen-2013-888-89-1		bahengwest	Chen-2013-888-89	ʔa⁰³moŋ¹¹	ʔa⁰³moŋ¹¹	ʔ a ³/⁰ + m o ŋ ¹¹		Chen2013			脸	1560	FACE	Baheng, West	pahn1237					Baheng, West	脸	ʔa³/⁰+moŋ¹¹
 2176	bahengeast-Chen-2013-888-89-1		bahengeast	Chen-2013-888-89	muŋ¹¹	muŋ¹¹	m u ŋ ¹¹		Chen2013			脸	1560	FACE	Baheng, East	pahn1237					Baheng, East	脸	muŋ¹¹
 2411	luobuoheeastern-Chen-2013-888-99-1		luobuoheeastern	Chen-2013-888-99	tə⁰²qla⁵⁵	tə⁰²qla⁵⁵	t ə ²/⁰ + q l a ⁵⁵		Chen2013			腰	1681	WAIST	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	腰	tə²/⁰+qla⁵⁵
 2412	luobuohewestern-Chen-2013-888-99-1		luobuohewestern	Chen-2013-888-99	tə⁰²qla⁵⁵	tə⁰²qla⁵⁵	t ə ²/⁰ + q l a ⁵⁵		Chen2013			腰	1681	WAIST	Luobuohe, Western	luop1235					Luobuohe, Western	腰	tə²/⁰+qla⁵⁵
-2413	chuanqiandian-Chen-2013-888-99-1		chuanqiandian	Chen-2013-888-99	tɬua⁵⁵	tɬua⁵⁵	t ɬ u a ⁵⁵		Chen2013			腰	1681	WAIST	Chuanqiandian	chua1256					Chuanqiandian	腰	tɬua⁵⁵
-2414	chuanqiandiancentralguizhou-Chen-2013-888-99-1		chuanqiandiancentralguizhou	Chen-2013-888-99	tɬu¹³	tɬu¹³	t ɬ u ¹³		Chen2013			腰	1681	WAIST	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	腰	tɬu¹³
+2413	chuanqiandian-Chen-2013-888-99-1		chuanqiandian	Chen-2013-888-99	tɬua⁵⁵	tɬua⁵⁵	tɬ u a ⁵⁵		Chen2013			腰	1681	WAIST	Chuanqiandian	chua1256					Chuanqiandian	腰	tɬua⁵⁵
+2414	chuanqiandiancentralguizhou-Chen-2013-888-99-1		chuanqiandiancentralguizhou	Chen-2013-888-99	tɬu¹³	tɬu¹³	tɬ u ¹³		Chen2013			腰	1681	WAIST	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	腰	tɬu¹³
 2415	chuanqiandiansouthernguizhou-Chen-2013-888-99-1		chuanqiandiansouthernguizhou	Chen-2013-888-99	ɬa⁴²	ɬa⁴²	ɬ a ⁴²		Chen2013			腰	1681	WAIST	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	腰	ɬa⁴²
-2416	chuanqiandiannortheastyunnan-Chen-2013-888-99-1		chuanqiandiannortheastyunnan	Chen-2013-888-99	tɬa⁵⁵	tɬa⁵⁵	t ɬ a ⁵⁵		Chen2013			腰	1681	WAIST	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	腰	tɬa⁵⁵
+2416	chuanqiandiannortheastyunnan-Chen-2013-888-99-1		chuanqiandiannortheastyunnan	Chen-2013-888-99	tɬa⁵⁵	tɬa⁵⁵	tɬ a ⁵⁵		Chen2013			腰	1681	WAIST	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	腰	tɬa⁵⁵
 2420	qiandongeast-Chen-2013-888-99-1		qiandongeast	Chen-2013-888-99	tjuŋ²⁴tjeu²⁴	tjuŋ²⁴tjeu²⁴	t j u ŋ ²⁴ + t j e u ²⁴		Chen2013			腰	1681	WAIST	Qiandong, East	east2370					Qiandong, East	腰	tjuŋ²⁴+tjeu²⁴
 2422	qiandongwest-Chen-2013-888-99-1		qiandongwest	Chen-2013-888-99	qa³³ɬa¹³	qa³³ɬa¹³	q a ³³ + ɬ a ¹³		Chen2013			腰	1681	WAIST	Qiandong, West						Qiandong, West	腰	qa³³+ɬa¹³
 2423	bahengwest-Chen-2013-888-99-1		bahengwest	Chen-2013-888-99	ʔa⁰³qei³⁵la³¹	ʔa⁰³qei³⁵la³¹	ʔ a ³/⁰ + q ei ³⁵ + l a ³¹		Chen2013			腰	1681	WAIST	Baheng, West	pahn1237					Baheng, West	腰	ʔa³/⁰+qei³⁵+la³¹
@@ -6364,7 +6364,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2760	chuanqiandian-Chen-2013-888-113-1		chuanqiandian	Chen-2013-888-113	mplai²⁴	mplai²⁴	m p l a i ²⁴		Chen2013			舌	1205	TONGUE	Chuanqiandian	chua1256					Chuanqiandian	舌	mplai²⁴
 2761	chuanqiandiancentralguizhou-Chen-2013-888-113-1		chuanqiandiancentralguizhou	Chen-2013-888-113	qə⁰²mple⁵⁵	qə⁰²mple⁵⁵	q ə ²/⁰ + m p l e ⁵⁵		Chen2013			舌	1205	TONGUE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	舌	qə²/⁰+mple⁵⁵
 2762	chuanqiandiansouthernguizhou-Chen-2013-888-113-1		chuanqiandiansouthernguizhou	Chen-2013-888-113	mple²¹	mple²¹	m p l e ²¹		Chen2013			舌	1205	TONGUE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	舌	mple²¹
-2763	chuanqiandiannortheastyunnan-Chen-2013-888-113-1		chuanqiandiannortheastyunnan	Chen-2013-888-113	ʔa⁵⁵ndlɦai¹¹	ʔa⁵⁵ndlɦai¹¹	ʔ a ⁵⁵ + n d l ɦ a i ¹¹		Chen2013			舌	1205	TONGUE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	舌	ʔa⁵⁵+ndlɦai¹¹
+2763	chuanqiandiannortheastyunnan-Chen-2013-888-113-1		chuanqiandiannortheastyunnan	Chen-2013-888-113	ʔa⁵⁵ndlɦai¹¹	ʔa⁵⁵ndlɦai¹¹	ʔ a ⁵⁵ + ⁿd l ɦ a i ¹¹		Chen2013			舌	1205	TONGUE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	舌	ʔa⁵⁵+ⁿdlɦai¹¹
 2767	qiandongeast-Chen-2013-888-113-1		qiandongeast	Chen-2013-888-113	qa³³nja¹³	qa³³nja¹³	q a ³³ + n j a ¹³		Chen2013			舌	1205	TONGUE	Qiandong, East	east2370					Qiandong, East	舌	qa³³+nja¹³
 2769	qiandongwest-Chen-2013-888-113-1		qiandongwest	Chen-2013-888-113	qa³³mje⁵³	qa³³mje⁵³	q a ³³ + m j e ⁵³		Chen2013			舌	1205	TONGUE	Qiandong, West						Qiandong, West	舌	qa³³+mje⁵³
 2770	bahengwest-Chen-2013-888-113-1		bahengwest	Chen-2013-888-113	nei⁴²	nei⁴²	n ei ⁴²		Chen2013			舌	1205	TONGUE	Baheng, West	pahn1237					Baheng, West	舌	nei⁴²
@@ -6429,8 +6429,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4572	qiandongwest-Chen-2013-888-187-1		qiandongwest	Chen-2013-888-187	kæ̃⁴⁴læ³³qa¹³	kæ̃⁴⁴læ³³qa¹³	k æ̃ ⁴⁴ + l æ ³³ + q a ¹³		Chen2013			苍蝇	1504	FLY (INSECT)	Qiandong, West						Qiandong, West	苍蝇	kæ̃⁴⁴+læ³³+qa¹³
 4573	bahengwest-Chen-2013-888-187-1		bahengwest	Chen-2013-888-187	ma¹¹sei⁵³	ma¹¹sei⁵³	m a ¹¹ + s ei ⁵³		Chen2013			苍蝇	1504	FLY (INSECT)	Baheng, West	pahn1237					Baheng, West	苍蝇	ma¹¹+sei⁵³
 4574	bahengeast-Chen-2013-888-187-1		bahengeast	Chen-2013-888-187	ma⁰³qa³⁵	ma⁰³qa³⁵	m a ³/⁰ + q a ³⁵		Chen2013			苍蝇	1504	FLY (INSECT)	Baheng, East	pahn1237					Baheng, East	苍蝇	ma³/⁰+qa³⁵
-5337	luobuoheeastern-Chen-2013-888-219-1		luobuoheeastern	Chen-2013-888-219	qo⁰⁵nda²⁴	qo⁰⁵nda²⁴	q o ⁵/⁰ + n d a ²⁴		Chen2013			苎麻	3063	RAMIE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	苎麻	qo⁵/⁰+nda²⁴
-5338	luobuohewestern-Chen-2013-888-219-1		luobuohewestern	Chen-2013-888-219	ʔə⁰²ndɑ³⁵	ʔə⁰²ndɑ³⁵	ʔ ə ²/⁰ + n d ɑ ³⁵		Chen2013			苎麻	3063	RAMIE	Luobuohe, Western	luop1235					Luobuohe, Western	苎麻	ʔə²/⁰+ndɑ³⁵
+5337	luobuoheeastern-Chen-2013-888-219-1		luobuoheeastern	Chen-2013-888-219	qo⁰⁵nda²⁴	qo⁰⁵nda²⁴	q o ⁵/⁰ + ⁿd a ²⁴		Chen2013			苎麻	3063	RAMIE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	苎麻	qo⁵/⁰+ⁿda²⁴
+5338	luobuohewestern-Chen-2013-888-219-1		luobuohewestern	Chen-2013-888-219	ʔə⁰²ndɑ³⁵	ʔə⁰²ndɑ³⁵	ʔ ə ²/⁰ + ⁿd ɑ ³⁵		Chen2013			苎麻	3063	RAMIE	Luobuohe, Western	luop1235					Luobuohe, Western	苎麻	ʔə²/⁰+ⁿdɑ³⁵
 5339	chuanqiandian-Chen-2013-888-219-1		chuanqiandian	Chen-2013-888-219	ntua¹³	ntua¹³	n t u a ¹³		Chen2013			苎麻	3063	RAMIE	Chuanqiandian	chua1256					Chuanqiandian	苎麻	ntua¹³
 5340	chuanqiandiancentralguizhou-Chen-2013-888-219-1		chuanqiandiancentralguizhou	Chen-2013-888-219	ntu²²	ntu²²	n t u ²²		Chen2013			苎麻	3063	RAMIE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	苎麻	ntu²²
 5341	chuanqiandiansouthernguizhou-Chen-2013-888-219-1		chuanqiandiansouthernguizhou	Chen-2013-888-219	ntə¹³	ntə¹³	n t ə ¹³		Chen2013			苎麻	3063	RAMIE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	苎麻	ntə¹³
@@ -6463,7 +6463,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6189	chuanqiandian-Chen-2013-888-254-1		chuanqiandian	Chen-2013-888-254	ŋqen⁴³	ŋqen⁴³	ŋ q e n ⁴³		Chen2013			茅草	279	THATCH	Chuanqiandian	chua1256					Chuanqiandian	茅草	ŋqen⁴³
 6190	chuanqiandiancentralguizhou-Chen-2013-888-254-1		chuanqiandiancentralguizhou	Chen-2013-888-254	ŋqĩ²⁴	ŋqĩ²⁴	ŋ q ĩ ²⁴		Chen2013			茅草	279	THATCH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	茅草	ŋqĩ²⁴
 6191	chuanqiandiansouthernguizhou-Chen-2013-888-254-1		chuanqiandiansouthernguizhou	Chen-2013-888-254	ŋkæn³²	ŋkæn³²	ŋ k æ n ³²		Chen2013			茅草	279	THATCH	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	茅草	ŋkæn³²
-6192	chuanqiandiannortheastyunnan-Chen-2013-888-254-1		chuanqiandiannortheastyunnan	Chen-2013-888-254	tɬau⁵⁵ŋqɯ⁵⁵	tɬau⁵⁵ŋqɯ⁵⁵	t ɬ a u ⁵⁵ + ŋ q ɯ ⁵⁵		Chen2013			茅草	279	THATCH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	茅草	tɬau⁵⁵+ŋqɯ⁵⁵
+6192	chuanqiandiannortheastyunnan-Chen-2013-888-254-1		chuanqiandiannortheastyunnan	Chen-2013-888-254	tɬau⁵⁵ŋqɯ⁵⁵	tɬau⁵⁵ŋqɯ⁵⁵	tɬ a u ⁵⁵ + ŋ q ɯ ⁵⁵		Chen2013			茅草	279	THATCH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	茅草	tɬau⁵⁵+ŋqɯ⁵⁵
 6196	qiandongeast-Chen-2013-888-254-1		qiandongeast	Chen-2013-888-254	njaŋ²²qei²⁴	njaŋ²²qei²⁴	n j a ŋ ²² + q ei ²⁴		Chen2013			茅草	279	THATCH	Qiandong, East	east2370					Qiandong, East	茅草	njaŋ²²+qei²⁴
 6198	qiandongwest-Chen-2013-888-254-1		qiandongwest	Chen-2013-888-254	mjaŋ⁵⁵qei⁴⁴	mjaŋ⁵⁵qei⁴⁴	m j a ŋ ⁵⁵ + q ei ⁴⁴		Chen2013			茅草	279	THATCH	Qiandong, West						Qiandong, West	茅草	mjaŋ⁵⁵+qei⁴⁴
 6199	bahengwest-Chen-2013-888-254-1		bahengwest	Chen-2013-888-254	so³¹qa⁰³ŋe³⁵	so³¹qa⁰³ŋe³⁵	s o ³¹ + q a ³/⁰ + ŋ e ³⁵		Chen2013			茅草	279	THATCH	Baheng, West	pahn1237					Baheng, West	茅草	so³¹+qa³/⁰+ŋe³⁵
@@ -6483,7 +6483,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6942	chuanqiandian-Chen-2013-888-285-1		chuanqiandian	Chen-2013-888-285	mploŋ³¹tʂʰua³¹	mploŋ³¹tʂʰua³¹	m p l o ŋ ³¹ + tʂʰ u a ³¹		Chen2013			茶叶			Chuanqiandian	chua1256					Chuanqiandian	茶叶	mploŋ³¹+tʂʰua³¹
 6943	chuanqiandiancentralguizhou-Chen-2013-888-285-1		chuanqiandiancentralguizhou	Chen-2013-888-285	qo⁰²mplõ⁵⁵ki³¹	qo⁰²mplõ⁵⁵ki³¹	q o ²/⁰ + m p l õ ⁵⁵ + k i ³¹		Chen2013			茶叶			Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	茶叶	qo²/⁰+mplõ⁵⁵+ki³¹
 6944	chuanqiandiansouthernguizhou-Chen-2013-888-285-1		chuanqiandiansouthernguizhou	Chen-2013-888-285	mplaŋ⁵³tɕi¹¹	mplaŋ⁵³tɕi¹¹	m p l a ŋ ⁵³ + tɕ i ¹¹		Chen2013			茶叶			Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	茶叶	mplaŋ⁵³+tɕi¹¹
-6945	chuanqiandiannortheastyunnan-Chen-2013-888-285-1		chuanqiandiannortheastyunnan	Chen-2013-888-285	ʔa³³ndlɦau³⁵tʂʰa³¹	ʔa³³ndlɦau³⁵tʂʰa³¹	ʔ a ³³ + n d l ɦ a u ³⁵ + tʂʰ a ³¹		Chen2013			茶叶			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	茶叶	ʔa³³+ndlɦau³⁵+tʂʰa³¹
+6945	chuanqiandiannortheastyunnan-Chen-2013-888-285-1		chuanqiandiannortheastyunnan	Chen-2013-888-285	ʔa³³ndlɦau³⁵tʂʰa³¹	ʔa³³ndlɦau³⁵tʂʰa³¹	ʔ a ³³ + ⁿd l ɦ a u ³⁵ + tʂʰ a ³¹		Chen2013			茶叶			Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	茶叶	ʔa³³+ⁿdlɦau³⁵+tʂʰa³¹
 6949	qiandongeast-Chen-2013-888-285-1		qiandongeast	Chen-2013-888-285	neu²²tɕin²¹²	neu²²tɕin²¹²	n e u ²² + tɕ i n ²¹²		Chen2013			茶叶			Qiandong, East	east2370					Qiandong, East	茶叶	neu²²+tɕin²¹²
 6951	bahengwest-Chen-2013-888-285-1		bahengwest	Chen-2013-888-285	qa⁰³njaŋ³³tɕi¹¹	qa⁰³njaŋ³³tɕi¹¹	q a ³/⁰ + n j a ŋ ³³ + tɕ i ¹¹		Chen2013			茶叶			Baheng, West	pahn1237					Baheng, West	茶叶	qa³/⁰+njaŋ³³+tɕi¹¹
 6162	luobuoheeastern-Chen-2013-888-253-1		luobuoheeastern	Chen-2013-888-253	qo⁰⁵ɳɖuŋ³¹	qo⁰⁵ɳɖuŋ³¹	q o ⁵/⁰ + ɳ ɖ u ŋ ³¹		Chen2013			草	606	GRASS	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	草	qo⁵/⁰+ɳɖuŋ³¹
@@ -6536,7 +6536,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 5546	bahengwest-Chen-2013-888-227-1		bahengwest	Chen-2013-888-227	ji³⁵	ji³⁵	j i ³⁵		Chen2013			菜	924	VEGETABLES	Baheng, West	pahn1237					Baheng, West	菜	ji³⁵
 5547	bahengeast-Chen-2013-888-227-1		bahengeast	Chen-2013-888-227	ʑi³⁵	ʑi³⁵	ʑ i ³⁵		Chen2013			菜	924	VEGETABLES	Baheng, East	pahn1237					Baheng, East	菜	ʑi³⁵
 9215	luobuoheeastern-Chen-2013-888-380-1		luobuoheeastern	Chen-2013-888-380	ʔa⁰²ntin⁵⁵pa⁵⁵	ʔa⁰²ntin⁵⁵pa⁵⁵	ʔ a ²/⁰ + n t i n ⁵⁵ + p a ⁵⁵		Chen2013			菜刀	2772	VEGETABLE KNIFE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	菜刀	ʔa²/⁰+ntin⁵⁵+pa⁵⁵
-9216	luobuohewestern-Chen-2013-888-380-1		luobuohewestern	Chen-2013-888-380	ʔə⁰²ndzoŋ⁵⁵	ʔə⁰²ndzoŋ⁵⁵	ʔ ə ²/⁰ + n d z o ŋ ⁵⁵		Chen2013			菜刀	2772	VEGETABLE KNIFE	Luobuohe, Western	luop1235					Luobuohe, Western	菜刀	ʔə²/⁰+ndzoŋ⁵⁵
+9216	luobuohewestern-Chen-2013-888-380-1		luobuohewestern	Chen-2013-888-380	ʔə⁰²ndzoŋ⁵⁵	ʔə⁰²ndzoŋ⁵⁵	ʔ ə ²/⁰ + ⁿd z o ŋ ⁵⁵		Chen2013			菜刀	2772	VEGETABLE KNIFE	Luobuohe, Western	luop1235					Luobuohe, Western	菜刀	ʔə²/⁰+ⁿdzoŋ⁵⁵
 9217	chuanqiandian-Chen-2013-888-380-1		chuanqiandian	Chen-2013-888-380	ʈa¹³	ʈa¹³	ʈ a ¹³		Chen2013			菜刀	2772	VEGETABLE KNIFE	Chuanqiandian	chua1256					Chuanqiandian	菜刀	ʈa¹³
 9218	chuanqiandiancentralguizhou-Chen-2013-888-380-1		chuanqiandiancentralguizhou	Chen-2013-888-380	qə⁰²tʂẽ²²	qə⁰²tʂẽ²²	q ə ²/⁰ + tʂ ẽ ²²		Chen2013			菜刀	2772	VEGETABLE KNIFE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	菜刀	qə²/⁰+tʂẽ²²
 9219	chuanqiandiansouthernguizhou-Chen-2013-888-380-1		chuanqiandiansouthernguizhou	Chen-2013-888-380	po²¹tɔ³²	po²¹tɔ³²	p o ²¹ + t ɔ ³²		Chen2013			菜刀	2772	VEGETABLE KNIFE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	菜刀	po²¹+tɔ³²
@@ -6564,8 +6564,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6634	qiandongwest-Chen-2013-888-272-1		qiandongwest	Chen-2013-888-272	tjaŋ⁵⁵ɣɔ⁴⁴	tjaŋ⁵⁵ɣɔ⁴⁴	t j a ŋ ⁵⁵ + ɣ ɔ ⁴⁴		Chen2013			菜油	2555	OIL (FROM PLANTS)	Qiandong, West						Qiandong, West	菜油	tjaŋ⁵⁵+ɣɔ⁴⁴
 6635	bahengwest-Chen-2013-888-272-1		bahengwest	Chen-2013-888-272	jeu³³ji³⁵	jeu³³ji³⁵	j e u ³³ + j i ³⁵		Chen2013			菜油	2555	OIL (FROM PLANTS)	Baheng, West	pahn1237					Baheng, West	菜油	jeu³³+ji³⁵
 6636	bahengeast-Chen-2013-888-272-1		bahengeast	Chen-2013-888-272	tsʰai³⁵ʑeu³³	tsʰai³⁵ʑeu³³	tsʰ a i ³⁵ + ʑ e u ³³		Chen2013			菜油	2555	OIL (FROM PLANTS)	Baheng, East	pahn1237					Baheng, East	菜油	tsʰai³⁵+ʑeu³³
-5630	luobuoheeastern-Chen-2013-888-231-1		luobuoheeastern	Chen-2013-888-231	qei⁵⁵ndaŋ²⁴	qei⁵⁵ndaŋ²⁴	q ei ⁵⁵ + n d a ŋ ²⁴		Chen2013			萝卜	3062	TURNIP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	萝卜	qei⁵⁵+ndaŋ²⁴
-5631	luobuohewestern-Chen-2013-888-231-1		luobuohewestern	Chen-2013-888-231	qo⁰⁵ndɑŋ³⁵	qo⁰⁵ndɑŋ³⁵	q o ⁵/⁰ + n d ɑ ŋ ³⁵		Chen2013			萝卜	3062	TURNIP	Luobuohe, Western	luop1235					Luobuohe, Western	萝卜	qo⁵/⁰+ndɑŋ³⁵
+5630	luobuoheeastern-Chen-2013-888-231-1		luobuoheeastern	Chen-2013-888-231	qei⁵⁵ndaŋ²⁴	qei⁵⁵ndaŋ²⁴	q ei ⁵⁵ + ⁿd a ŋ ²⁴		Chen2013			萝卜	3062	TURNIP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	萝卜	qei⁵⁵+ⁿdaŋ²⁴
+5631	luobuohewestern-Chen-2013-888-231-1		luobuohewestern	Chen-2013-888-231	qo⁰⁵ndɑŋ³⁵	qo⁰⁵ndɑŋ³⁵	q o ⁵/⁰ + ⁿd ɑ ŋ ³⁵		Chen2013			萝卜	3062	TURNIP	Luobuohe, Western	luop1235					Luobuohe, Western	萝卜	qo⁵/⁰+ⁿdɑŋ³⁵
 5632	chuanqiandian-Chen-2013-888-231-1		chuanqiandian	Chen-2013-888-231	hou⁵⁵pu²¹ʐou⁴³	hou⁵⁵pu²¹ʐou⁴³	h o u ⁵⁵ + p u ²¹ + ʐ o u ⁴³		Chen2013			萝卜	3062	TURNIP	Chuanqiandian	chua1256					Chuanqiandian	萝卜	hou⁵⁵+pu²¹+ʐou⁴³
 5633	chuanqiandiancentralguizhou-Chen-2013-888-231-1		chuanqiandiancentralguizhou	Chen-2013-888-231	qə⁰²ntə̃²²	qə⁰²ntə̃²²	q ə ²/⁰ + n t ə̃ ²²		Chen2013			萝卜	3062	TURNIP	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	萝卜	qə²/⁰+ntə̃²²
 5634	chuanqiandiansouthernguizhou-Chen-2013-888-231-1		chuanqiandiansouthernguizhou	Chen-2013-888-231	ʐɔ³²ha⁴⁴po¹¹	ʐɔ³²ha⁴⁴po¹¹	ʐ ɔ ³² h a ⁴⁴ + p o ¹¹		Chen2013			萝卜	3062	TURNIP	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	萝卜	ʐɔ³²ha⁴⁴+po¹¹
@@ -6605,7 +6605,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 6008	bahengeast-Chen-2013-888-246-1		bahengeast	Chen-2013-888-246	pjei³¹³mpo³³	pjei³¹³mpo³³	p j ei ³¹³ + m p o ³³		Chen2013			葫芦	411	GOURD	Baheng, East	pahn1237					Baheng, East	葫芦	pjei³¹³+mpo³³
 5725	luobuoheeastern-Chen-2013-888-235-1		luobuoheeastern	Chen-2013-888-235	qo⁰⁵tsʰuŋ³³	qo⁰⁵tsʰuŋ³³	q o ⁵/⁰ + tsʰ u ŋ ³³		Chen2013			葱	2366	ONION	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	葱	qo⁵/⁰+tsʰuŋ³³
 5726	luobuohewestern-Chen-2013-888-235-1		luobuohewestern	Chen-2013-888-235	ʔə⁰²tsʰoŋ³¹	ʔə⁰²tsʰoŋ³¹	ʔ ə ²/⁰ + tsʰ o ŋ ³¹		Chen2013			葱	2366	ONION	Luobuohe, Western	luop1235					Luobuohe, Western	葱	ʔə²/⁰+tsʰoŋ³¹
-5727	chuanqiandian-Chen-2013-888-235-1		chuanqiandian	Chen-2013-888-235	tɬau²¹ʈaŋ³¹	tɬau²¹ʈaŋ³¹	t ɬ a u ²¹ + ʈ a ŋ ³¹		Chen2013			葱	2366	ONION	Chuanqiandian	chua1256					Chuanqiandian	葱	tɬau²¹+ʈaŋ³¹
+5727	chuanqiandian-Chen-2013-888-235-1		chuanqiandian	Chen-2013-888-235	tɬau²¹ʈaŋ³¹	tɬau²¹ʈaŋ³¹	tɬ a u ²¹ + ʈ a ŋ ³¹		Chen2013			葱	2366	ONION	Chuanqiandian	chua1256					Chuanqiandian	葱	tɬau²¹+ʈaŋ³¹
 5728	chuanqiandiancentralguizhou-Chen-2013-888-235-1		chuanqiandiancentralguizhou	Chen-2013-888-235	qə⁰²tʂã²²	qə⁰²tʂã²²	q ə ²/⁰ + tʂ ã ²²		Chen2013			葱	2366	ONION	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	葱	qə²/⁰+tʂã²²
 5729	chuanqiandiansouthernguizhou-Chen-2013-888-235-1		chuanqiandiansouthernguizhou	Chen-2013-888-235	hei⁵³ɬoŋ¹³	hei⁵³ɬoŋ¹³	h ei ⁵³ + ɬ o ŋ ¹³		Chen2013			葱	2366	ONION	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	葱	hei⁵³+ɬoŋ¹³
 5730	chuanqiandiannortheastyunnan-Chen-2013-888-235-1		chuanqiandiannortheastyunnan	Chen-2013-888-235	ɢɦɯ³⁵ɖɦaɯ³⁵	ɢɦɯ³⁵ɖɦaɯ³⁵	ɢ ɦ ɯ ³⁵ + ɖ ɦ a ɯ ³⁵		Chen2013			葱	2366	ONION	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	葱	ɢɦɯ³⁵+ɖɦaɯ³⁵
@@ -6740,7 +6740,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4391	luobuohewestern-Chen-2013-888-180-1		luobuohewestern	Chen-2013-888-180	tɕin³¹ȵɑ³⁵tsʰe³¹	tɕin³¹ȵɑ³⁵tsʰe³¹	tɕ i n ³¹ + ȵ ɑ ³⁵ + tsʰ e ³¹		Chen2013			虾	2349	SHRIMP	Luobuohe, Western	luop1235					Luobuohe, Western	虾	tɕin³¹+ȵɑ³⁵+tsʰe³¹
 4392	chuanqiandian-Chen-2013-888-180-1		chuanqiandian	Chen-2013-888-180	kaŋ⁴³tɕu³³	kaŋ⁴³tɕu³³	k a ŋ ⁴³ + tɕ u ³³		Chen2013			虾	2349	SHRIMP	Chuanqiandian	chua1256					Chuanqiandian	虾	kaŋ⁴³+tɕu³³
 4393	chuanqiandiansouthernguizhou-Chen-2013-888-180-1		chuanqiandiansouthernguizhou	Chen-2013-888-180	kua³²tɕəu⁴⁴	kua³²tɕəu⁴⁴	k u a ³² tɕ ə u ⁴⁴		Chen2013			虾	2349	SHRIMP	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	虾	kua³²tɕəu⁴⁴
-4394	chuanqiandiannortheastyunnan-Chen-2013-888-180-1		chuanqiandiannortheastyunnan	Chen-2013-888-180	tɬau⁵⁵mbə³¹	tɬau⁵⁵mbə³¹	t ɬ a u ⁵⁵ + m b ə ³¹		Chen2013			虾	2349	SHRIMP	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	虾	tɬau⁵⁵+mbə³¹
+4394	chuanqiandiannortheastyunnan-Chen-2013-888-180-1		chuanqiandiannortheastyunnan	Chen-2013-888-180	tɬau⁵⁵mbə³¹	tɬau⁵⁵mbə³¹	tɬ a u ⁵⁵ + m b ə ³¹		Chen2013			虾	2349	SHRIMP	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	虾	tɬau⁵⁵+mbə³¹
 4399	qiandongwest-Chen-2013-888-180-1		qiandongwest	Chen-2013-888-180	kæ̃⁴⁴tɕi²²	kæ̃⁴⁴tɕi²²	k æ̃ ⁴⁴ + tɕ i ²²		Chen2013			虾	2349	SHRIMP	Qiandong, West						Qiandong, West	虾	kæ̃⁴⁴+tɕi²²
 4400	bahengwest-Chen-2013-888-180-1		bahengwest	Chen-2013-888-180	qai³⁵koŋ⁵⁵	qai³⁵koŋ⁵⁵	q a i ³⁵ + k o ŋ ⁵⁵		Chen2013			虾	2349	SHRIMP	Baheng, West	pahn1237					Baheng, West	虾	qai³⁵+koŋ⁵⁵
 4401	bahengeast-Chen-2013-888-180-1		bahengeast	Chen-2013-888-180	miŋ³³ha⁵⁵	miŋ³³ha⁵⁵	m i ŋ ³³ + h a ⁵⁵		Chen2013			虾	2349	SHRIMP	Baheng, East	pahn1237					Baheng, East	虾	miŋ³³+ha⁵⁵
@@ -6749,7 +6749,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4710	chuanqiandian-Chen-2013-888-193-1		chuanqiandian	Chen-2013-888-193	ntʂou²⁴	ntʂou²⁴	n tʂ o u ²⁴		Chen2013			蚂蚁	587	ANT	Chuanqiandian	chua1256					Chuanqiandian	蚂蚁	ntʂou²⁴
 4711	chuanqiandiancentralguizhou-Chen-2013-888-193-1		chuanqiandiancentralguizhou	Chen-2013-888-193	ku³¹mpla²²	ku³¹mpla²²	k u ³¹ + m p l a ²²		Chen2013			蚂蚁	587	ANT	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	蚂蚁	ku³¹+mpla²²
 4712	chuanqiandiansouthernguizhou-Chen-2013-888-193-1		chuanqiandiansouthernguizhou	Chen-2013-888-193	kua³²mpʐɔ²¹	kua³²mpʐɔ²¹	k u a ³² m pʐ ɔ ²¹		Chen2013			蚂蚁	587	ANT	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	蚂蚁	kua³²mpʐɔ²¹
-4713	chuanqiandiannortheastyunnan-Chen-2013-888-193-1		chuanqiandiannortheastyunnan	Chen-2013-888-193	ki⁵⁵ndzɦau³¹	ki⁵⁵ndzɦau³¹	k i ⁵⁵ + n d z ɦ a u ³¹		Chen2013			蚂蚁	587	ANT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	蚂蚁	ki⁵⁵+ndzɦau³¹
+4713	chuanqiandiannortheastyunnan-Chen-2013-888-193-1		chuanqiandiannortheastyunnan	Chen-2013-888-193	ki⁵⁵ndzɦau³¹	ki⁵⁵ndzɦau³¹	k i ⁵⁵ + ⁿd z ɦ a u ³¹		Chen2013			蚂蚁	587	ANT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	蚂蚁	ki⁵⁵+ⁿdzɦau³¹
 4717	qiandongeast-Chen-2013-888-193-1		qiandongeast	Chen-2013-888-193	kan²⁴pʰen³³	kan²⁴pʰen³³	k a n ²⁴ + pʰ e n ³³		Chen2013			蚂蚁	587	ANT	Qiandong, East	east2370					Qiandong, East	蚂蚁	kan²⁴+pʰen³³
 4719	qiandongwest-Chen-2013-888-193-1		qiandongwest	Chen-2013-888-193	kæ̃⁴⁴mjɔ²²	kæ̃⁴⁴mjɔ²²	k æ̃ ⁴⁴ + m j ɔ ²²		Chen2013			蚂蚁	587	ANT	Qiandong, West						Qiandong, West	蚂蚁	kæ̃⁴⁴+mjɔ²²
 4720	bahengwest-Chen-2013-888-193-1		bahengwest	Chen-2013-888-193	qa⁰³ȵ̥ei³¹	qa⁰³ȵ̥ei³¹	q a ³/⁰ + ȵ̥ ei ³¹		Chen2013			蚂蚁	587	ANT	Baheng, West	pahn1237					Baheng, West	蚂蚁	qa³/⁰+ȵ̥ei³¹
@@ -6759,7 +6759,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4463	chuanqiandian-Chen-2013-888-183-1		chuanqiandian	Chen-2013-888-183	ha⁴³	ha⁴³	h a ⁴³		Chen2013			蚂蟥	2273	LEECH	Chuanqiandian	chua1256					Chuanqiandian	蚂蟥	ha⁴³
 4464	chuanqiandiancentralguizhou-Chen-2013-888-183-1		chuanqiandiancentralguizhou	Chen-2013-888-183	mpla³¹	mpla³¹	m p l a ³¹		Chen2013			蚂蟥	2273	LEECH	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	蚂蟥	mpla³¹
 4465	chuanqiandiansouthernguizhou-Chen-2013-888-183-1		chuanqiandiansouthernguizhou	Chen-2013-888-183	mplə¹¹	mplə¹¹	m p l ə ¹¹		Chen2013			蚂蟥	2273	LEECH	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	蚂蟥	mplə¹¹
-4466	chuanqiandiannortheastyunnan-Chen-2013-888-183-1		chuanqiandiannortheastyunnan	Chen-2013-888-183	ʔa⁵⁵ndlɦa¹¹	ʔa⁵⁵ndlɦa¹¹	ʔ a ⁵⁵ + n d l ɦ a ¹¹		Chen2013			蚂蟥	2273	LEECH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	蚂蟥	ʔa⁵⁵+ndlɦa¹¹
+4466	chuanqiandiannortheastyunnan-Chen-2013-888-183-1		chuanqiandiannortheastyunnan	Chen-2013-888-183	ʔa⁵⁵ndlɦa¹¹	ʔa⁵⁵ndlɦa¹¹	ʔ a ⁵⁵ + ⁿd l ɦ a ¹¹		Chen2013			蚂蟥	2273	LEECH	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	蚂蟥	ʔa⁵⁵+ⁿdlɦa¹¹
 4470	qiandongeast-Chen-2013-888-183-1		qiandongeast	Chen-2013-888-183	kan²⁴njin²¹²	kan²⁴njin²¹²	k a n ²⁴ + n j i n ²¹²		Chen2013			蚂蟥	2273	LEECH	Qiandong, East	east2370					Qiandong, East	蚂蟥	kan²⁴+njin²¹²
 4472	qiandongwest-Chen-2013-888-183-1		qiandongwest	Chen-2013-888-183	kæ̃⁴⁴mei²¹	kæ̃⁴⁴mei²¹	k æ̃ ⁴⁴ + m ei ²¹		Chen2013			蚂蟥	2273	LEECH	Qiandong, West						Qiandong, West	蚂蟥	kæ̃⁴⁴+mei²¹
 4473	bahengwest-Chen-2013-888-183-1		bahengwest	Chen-2013-888-183	tiŋ³⁵	tiŋ³⁵	t i ŋ ³⁵		Chen2013			蚂蟥	2273	LEECH	Baheng, West	pahn1237					Baheng, West	蚂蟥	tiŋ³⁵
@@ -6981,7 +6981,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 7262	bahengeast-Chen-2013-888-298-1		bahengeast	Chen-2013-888-298	n̥eŋ³⁵	n̥eŋ³⁵	n̥ e ŋ ³⁵		Chen2013			衣袋	1851	POCKET	Baheng, East	pahn1237					Baheng, East	衣袋	n̥eŋ³⁵
 7178	luobuoheeastern-Chen-2013-888-295-1		luobuoheeastern	Chen-2013-888-295	qʰu⁵⁵lju⁵⁵pen⁵⁵	qʰu⁵⁵lju⁵⁵pen⁵⁵	qʰ u ⁵⁵ + l j u ⁵⁵ + p e n ⁵⁵		Chen2013			衣领	2012	COLLAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	衣领	qʰu⁵⁵+lju⁵⁵+pen⁵⁵
 7179	luobuohewestern-Chen-2013-888-295-1		luobuohewestern	Chen-2013-888-295	ʔə⁰²pen⁵⁵ʐu³⁵	ʔə⁰²pen⁵⁵ʐu³⁵	ʔ ə ²/⁰ + p e n ⁵⁵ + ʐ u ³⁵		Chen2013			衣领	2012	COLLAR	Luobuohe, Western	luop1235					Luobuohe, Western	衣领	ʔə²/⁰+pen⁵⁵+ʐu³⁵
-7180	chuanqiandian-Chen-2013-888-295-1		chuanqiandian	Chen-2013-888-295	tɬaŋ⁴³tʂʰau⁴⁴	tɬaŋ⁴³tʂʰau⁴⁴	t ɬ a ŋ ⁴³ + tʂʰ a u ⁴⁴		Chen2013			衣领	2012	COLLAR	Chuanqiandian	chua1256					Chuanqiandian	衣领	tɬaŋ⁴³+tʂʰau⁴⁴
+7180	chuanqiandian-Chen-2013-888-295-1		chuanqiandian	Chen-2013-888-295	tɬaŋ⁴³tʂʰau⁴⁴	tɬaŋ⁴³tʂʰau⁴⁴	tɬ a ŋ ⁴³ + tʂʰ a u ⁴⁴		Chen2013			衣领	2012	COLLAR	Chuanqiandian	chua1256					Chuanqiandian	衣领	tɬaŋ⁴³+tʂʰau⁴⁴
 7181	chuanqiandiancentralguizhou-Chen-2013-888-295-1		chuanqiandiancentralguizhou	Chen-2013-888-295	qə⁰²qɯ²⁴lɛ⁵⁵	qə⁰²qɯ²⁴lɛ⁵⁵	q ə ²/⁰ + q ɯ ²⁴ + l ɛ ⁵⁵		Chen2013			衣领	2012	COLLAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	衣领	qə²/⁰+qɯ²⁴+lɛ⁵⁵
 7182	chuanqiandiansouthernguizhou-Chen-2013-888-295-1		chuanqiandiansouthernguizhou	Chen-2013-888-295	ʑi⁵⁵lin⁴²	ʑi⁵⁵lin⁴²	ʑ i ⁵⁵ + l i n ⁴²		Chen2013			衣领	2012	COLLAR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	衣领	ʑi⁵⁵+lin⁴²
 7183	chuanqiandiannortheastyunnan-Chen-2013-888-295-1		chuanqiandiannortheastyunnan	Chen-2013-888-295	ʔa⁵⁵lɦau³¹tʂʰo³³	ʔa⁵⁵lɦau³¹tʂʰo³³	ʔ a ⁵⁵ + l ɦ a u ³¹ + tʂʰ o ³³		Chen2013			衣领	2012	COLLAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	衣领	ʔa⁵⁵+lɦau³¹+tʂʰo³³
@@ -7086,9 +7086,9 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 20683	chuanqiandian-Chen-2013-888-851-1		chuanqiandian	Chen-2013-888-851	ʑua⁵⁵	ʑua⁵⁵	ʑ u a ⁵⁵		Chen2013			要	1784	WANT	Chuanqiandian	chua1256					Chuanqiandian	要	ʑua⁵⁵
 20692	bahengeast-Chen-2013-888-851-1		bahengeast	Chen-2013-888-851	ʑa³¹³	ʑa³¹³	ʑ a ³¹³		Chen2013			要	1784	WANT	Baheng, East	pahn1237					Baheng, East	要	ʑa³¹³
 17780	luobuohewestern-Chen-2013-888-732-1		luobuohewestern	Chen-2013-888-732	ntʰɑ⁵⁵lɑ⁵⁵	ntʰɑ⁵⁵lɑ⁵⁵	n tʰ ɑ ⁵⁵ + l ɑ ⁵⁵		Chen2013			解开	352	UNTIE	Luobuohe, Western	luop1235					Luobuohe, Western	解开	ntʰɑ⁵⁵+lɑ⁵⁵
-17781	chuanqiandian-Chen-2013-888-732-1		chuanqiandian	Chen-2013-888-732	tɬeu³³	tɬeu³³	t ɬ e u ³³		Chen2013			解开	352	UNTIE	Chuanqiandian	chua1256					Chuanqiandian	解开	tɬeu³³
-17782	chuanqiandiancentralguizhou-Chen-2013-888-732-1		chuanqiandiancentralguizhou	Chen-2013-888-732	tɬə⁴²	tɬə⁴²	t ɬ ə ⁴²		Chen2013			解开	352	UNTIE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	解开	tɬə⁴²
-17784	chuanqiandiannortheastyunnan-Chen-2013-888-732-1		chuanqiandiannortheastyunnan	Chen-2013-888-732	tɬey¹¹	tɬey¹¹	t ɬ e y ¹¹		Chen2013			解开	352	UNTIE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	解开	tɬey¹¹
+17781	chuanqiandian-Chen-2013-888-732-1		chuanqiandian	Chen-2013-888-732	tɬeu³³	tɬeu³³	tɬ e u ³³		Chen2013			解开	352	UNTIE	Chuanqiandian	chua1256					Chuanqiandian	解开	tɬeu³³
+17782	chuanqiandiancentralguizhou-Chen-2013-888-732-1		chuanqiandiancentralguizhou	Chen-2013-888-732	tɬə⁴²	tɬə⁴²	tɬ ə ⁴²		Chen2013			解开	352	UNTIE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	解开	tɬə⁴²
+17784	chuanqiandiannortheastyunnan-Chen-2013-888-732-1		chuanqiandiannortheastyunnan	Chen-2013-888-732	tɬey¹¹	tɬey¹¹	tɬ e y ¹¹		Chen2013			解开	352	UNTIE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	解开	tɬey¹¹
 17788	qiandongeast-Chen-2013-888-732-1		qiandongeast	Chen-2013-888-732	tʰa³³	tʰa³³	tʰ a ³³		Chen2013			解开	352	UNTIE	Qiandong, East	east2370					Qiandong, East	解开	tʰa³³
 17790	qiandongwest-Chen-2013-888-732-1		qiandongwest	Chen-2013-888-732	tʰa¹³	tʰa¹³	tʰ a ¹³		Chen2013			解开	352	UNTIE	Qiandong, West						Qiandong, West	解开	tʰa¹³
 17791	bahengwest-Chen-2013-888-732-1		bahengwest	Chen-2013-888-732	qe³¹	qe³¹	q e ³¹		Chen2013			解开	352	UNTIE	Baheng, West	pahn1237					Baheng, West	解开	qe³¹
@@ -7184,7 +7184,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 9930	chuanqiandian-Chen-2013-888-410-1		chuanqiandian	Chen-2013-888-410	nto³¹te⁴³	nto³¹te⁴³	n t o ³¹ + t e ⁴³		Chen2013			货物	1082	MERCHANT 	Chuanqiandian	chua1256					Chuanqiandian	货物	nto³¹+te⁴³
 9931	chuanqiandiancentralguizhou-Chen-2013-888-410-1		chuanqiandiancentralguizhou	Chen-2013-888-410	kã²⁴kɛ¹³	kã²⁴kɛ¹³	k ã ²⁴ + k ɛ ¹³		Chen2013			货物	1082	MERCHANT 	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	货物	kã²⁴+kɛ¹³
 9932	chuanqiandiansouthernguizhou-Chen-2013-888-410-1		chuanqiandiansouthernguizhou	Chen-2013-888-410	haŋ⁴²nɔ⁵³sæn³²	haŋ⁴²nɔ⁵³sæn³²	h a ŋ ⁴² + n ɔ ⁵³ + s æ n ³²		Chen2013			货物	1082	MERCHANT 	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	货物	haŋ⁴²+nɔ⁵³+sæn³²
-9933	chuanqiandiannortheastyunnan-Chen-2013-888-410-1		chuanqiandiannortheastyunnan	Chen-2013-888-410	tɬaɯ⁵⁵nɯ⁵⁵	tɬaɯ⁵⁵nɯ⁵⁵	t ɬ a ɯ ⁵⁵ + n ɯ ⁵⁵		Chen2013			货物	1082	MERCHANT 	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	货物	tɬaɯ⁵⁵+nɯ⁵⁵
+9933	chuanqiandiannortheastyunnan-Chen-2013-888-410-1		chuanqiandiannortheastyunnan	Chen-2013-888-410	tɬaɯ⁵⁵nɯ⁵⁵	tɬaɯ⁵⁵nɯ⁵⁵	tɬ a ɯ ⁵⁵ + n ɯ ⁵⁵		Chen2013			货物	1082	MERCHANT 	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	货物	tɬaɯ⁵⁵+nɯ⁵⁵
 9937	qiandongeast-Chen-2013-888-410-1		qiandongeast	Chen-2013-888-410	ho³⁵	ho³⁵	h o ³⁵		Chen2013			货物	1082	MERCHANT 	Qiandong, East	east2370					Qiandong, East	货物	ho³⁵
 9939	qiandongwest-Chen-2013-888-410-1		qiandongwest	Chen-2013-888-410	ho³³	ho³³	h o ³³		Chen2013			货物	1082	MERCHANT 	Qiandong, West						Qiandong, West	货物	ho³³
 9940	bahengwest-Chen-2013-888-410-1		bahengwest	Chen-2013-888-410	hau³⁵	hau³⁵	h a u ³⁵		Chen2013			货物	1082	MERCHANT 	Baheng, West	pahn1237					Baheng, West	货物	hau³⁵
@@ -7305,13 +7305,13 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 604	bahengeast-Chen-2013-888-25-1		bahengeast	Chen-2013-888-25	tə⁰³qo³¹³	tə⁰³qo³¹³	t ə ³/⁰ + q o ³¹³		Chen2013			路	667	ROAD	Baheng, East	pahn1237					Baheng, East	路	tə³/⁰+qo³¹³
 19921	luobuoheeastern-Chen-2013-888-820-1		luobuoheeastern	Chen-2013-888-820	nte²⁴	nte²⁴	n t e ²⁴		Chen2013			跳	1829	JUMP	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	跳	nte²⁴
 19925	chuanqiandiansouthernguizhou-Chen-2013-888-820-1		chuanqiandiansouthernguizhou	Chen-2013-888-820	ntei⁵⁵	ntei⁵⁵	n t ei ⁵⁵		Chen2013			跳	1829	JUMP	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	跳	ntei⁵⁵
-19926	chuanqiandiannortheastyunnan-Chen-2013-888-820-1		chuanqiandiannortheastyunnan	Chen-2013-888-820	tɬʰie³³	tɬʰie³³	t ɬʰ i e ³³		Chen2013			跳	1829	JUMP	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	跳	tɬʰie³³
+19926	chuanqiandiannortheastyunnan-Chen-2013-888-820-1		chuanqiandiannortheastyunnan	Chen-2013-888-820	tɬʰie³³	tɬʰie³³	tɬʰ i e ³³		Chen2013			跳	1829	JUMP	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	跳	tɬʰie³³
 19930	qiandongeast-Chen-2013-888-820-1		qiandongeast	Chen-2013-888-820	ʑan³³	ʑan³³	ʑ a n ³³		Chen2013			跳	1829	JUMP	Qiandong, East	east2370					Qiandong, East	跳	ʑan³³
 19932	qiandongwest-Chen-2013-888-820-1		qiandongwest	Chen-2013-888-820	tje²²	tje²²	t j e ²²		Chen2013			跳	1829	JUMP	Qiandong, West						Qiandong, West	跳	tje²²
 19933	bahengwest-Chen-2013-888-820-1		bahengwest	Chen-2013-888-820	tjaŋ⁵³	tjaŋ⁵³	t j a ŋ ⁵³		Chen2013			跳	1829	JUMP	Baheng, West	pahn1237					Baheng, West	跳	tjaŋ⁵³
 19934	bahengeast-Chen-2013-888-820-1		bahengeast	Chen-2013-888-820	tɕʰeu³⁵	tɕʰeu³⁵	tɕʰ e u ³⁵		Chen2013			跳	1829	JUMP	Baheng, East	pahn1237					Baheng, East	跳	tɕʰeu³⁵
 19922	luobuohewestern-Chen-2013-888-820-1		luobuohewestern	Chen-2013-888-820	nte³⁵	nte³⁵	n t e ³⁵		Chen2013			跳	1829	JUMP	Luobuohe, Western	luop1235					Luobuohe, Western	跳	nte³⁵
-19923	chuanqiandian-Chen-2013-888-820-1		chuanqiandian	Chen-2013-888-820	tɬʰa⁴⁴	tɬʰa⁴⁴	t ɬʰ a ⁴⁴		Chen2013			跳	1829	JUMP	Chuanqiandian	chua1256					Chuanqiandian	跳	tɬʰa⁴⁴
+19923	chuanqiandian-Chen-2013-888-820-1		chuanqiandian	Chen-2013-888-820	tɬʰa⁴⁴	tɬʰa⁴⁴	tɬʰ a ⁴⁴		Chen2013			跳	1829	JUMP	Chuanqiandian	chua1256					Chuanqiandian	跳	tɬʰa⁴⁴
 19924	chuanqiandiancentralguizhou-Chen-2013-888-820-1		chuanqiandiancentralguizhou	Chen-2013-888-820	plə⁴²; nti⁴²	plə⁴²	p l ə ⁴²		Chen2013			跳	1829	JUMP	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	跳	plə⁴²
 15777	luobuoheeastern-Chen-2013-888-649-1		luobuoheeastern	Chen-2013-888-649	zaŋ³¹	zaŋ³¹	z a ŋ ³¹		Chen2013			踩	2065	STEP (VERB)	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	踩	zaŋ³¹
 15778	luobuohewestern-Chen-2013-888-649-1		luobuohewestern	Chen-2013-888-649	ȵdʑe³¹	ȵdʑe³¹	ȵ dʑ e ³¹		Chen2013			踩	2065	STEP (VERB)	Luobuohe, Western	luop1235					Luobuohe, Western	踩	ȵdʑe³¹
@@ -7434,12 +7434,12 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 2041	luobuohewestern-Chen-2013-888-84-1		luobuohewestern	Chen-2013-888-84	mben⁵⁵	mben⁵⁵	m b e n ⁵⁵		Chen2013			辫子	333	PLAIT	Luobuohe, Western	luop1235					Luobuohe, Western	辫子	mben⁵⁵
 2042	chuanqiandian-Chen-2013-888-84-1		chuanqiandian	Chen-2013-888-84	mau³¹tua²⁴	mau³¹tua²⁴	m a u ³¹ + t u a ²⁴		Chen2013			辫子	333	PLAIT	Chuanqiandian	chua1256					Chuanqiandian	辫子	mau³¹+tua²⁴
 2043	chuanqiandiansouthernguizhou-Chen-2013-888-84-1		chuanqiandiansouthernguizhou	Chen-2013-888-84	mpin¹¹	mpin¹¹	m p i n ¹¹		Chen2013			辫子	333	PLAIT	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	辫子	mpin¹¹
-2044	chuanqiandiannortheastyunnan-Chen-2013-888-84-1		chuanqiandiannortheastyunnan	Chen-2013-888-84	ndzie³³	ndzie³³	n d z i e ³³		Chen2013			辫子	333	PLAIT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	辫子	ndzie³³
+2044	chuanqiandiannortheastyunnan-Chen-2013-888-84-1		chuanqiandiannortheastyunnan	Chen-2013-888-84	ndzie³³	ndzie³³	ⁿdz i e ³³		Chen2013			辫子	333	PLAIT	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	辫子	ⁿdzie³³
 2047	qiandongeast-Chen-2013-888-84-1		qiandongeast	Chen-2013-888-84	peŋ²¹²peŋ²¹²	peŋ²¹²peŋ²¹²	p e ŋ ²¹² p e ŋ ²¹²		Chen2013			辫子	333	PLAIT	Qiandong, East	east2370					Qiandong, East	辫子	peŋ²¹²peŋ²¹²
 2049	qiandongwest-Chen-2013-888-84-1		qiandongwest	Chen-2013-888-84	pjɔ⁴⁴me²¹	pjɔ⁴⁴me²¹	p j ɔ ⁴⁴ + m e ²¹		Chen2013			辫子	333	PLAIT	Qiandong, West						Qiandong, West	辫子	pjɔ⁴⁴+me²¹
 2050	bahengwest-Chen-2013-888-84-1		bahengwest	Chen-2013-888-84	qeŋ³⁵ti³⁵	qeŋ³⁵ti³⁵	q e ŋ ³⁵ + t i ³⁵		Chen2013			辫子	333	PLAIT	Baheng, West	pahn1237					Baheng, West	辫子	qeŋ³⁵+ti³⁵
 2051	bahengeast-Chen-2013-888-84-1		bahengeast	Chen-2013-888-84	tei³³tsei³¹³pi³⁵	tei³³tsei³¹³pi³⁵	t ei ³³ + ts ei ³¹³ + p i ³⁵		Chen2013			辫子	333	PLAIT	Baheng, East	pahn1237					Baheng, East	辫子	tei³³+tsei³¹³+pi³⁵
-17300	chuanqiandian-Chen-2013-888-712-1		chuanqiandian	Chen-2013-888-712	tɬua⁴⁴	tɬua⁴⁴	t ɬ u a ⁴⁴		Chen2013			过（桥）	1367	CROSS	Chuanqiandian	chua1256					Chuanqiandian	过（桥）	tɬua⁴⁴
+17300	chuanqiandian-Chen-2013-888-712-1		chuanqiandian	Chen-2013-888-712	tɬua⁴⁴	tɬua⁴⁴	tɬ u a ⁴⁴		Chen2013			过（桥）	1367	CROSS	Chuanqiandian	chua1256					Chuanqiandian	过（桥）	tɬua⁴⁴
 17301	chuanqiandiancentralguizhou-Chen-2013-888-712-1		chuanqiandiancentralguizhou	Chen-2013-888-712	ku⁴²	ku⁴²	k u ⁴²		Chen2013			过（桥）	1367	CROSS	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	过（桥）	ku⁴²
 17302	chuanqiandiansouthernguizhou-Chen-2013-888-712-1		chuanqiandiansouthernguizhou	Chen-2013-888-712	kwo¹³; ɭə²¹ʔoŋ³²	kwo¹³	k w o ¹³		Chen2013			过（桥）	1367	CROSS	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	过（桥）	kwo¹³
 17309	qiandongwest-Chen-2013-888-712-1		qiandongwest	Chen-2013-888-712	tju⁵⁵	tju⁵⁵	t j u ⁵⁵		Chen2013			过（桥）	1367	CROSS	Qiandong, West						Qiandong, West	过（桥）	tju⁵⁵
@@ -7491,10 +7491,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 17828	luobuoheeastern-Chen-2013-888-734-1		luobuoheeastern	Chen-2013-888-734	tɕʰe³¹li²⁴	tɕʰe³¹li²⁴	tɕʰ e ³¹ + l i ²⁴		Chen2013			进（屋）	749	ENTER	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	进（屋）	tɕʰe³¹+li²⁴
 12990	luobuoheeastern-Chen-2013-888-535-1		luobuoheeastern	Chen-2013-888-535	tə⁰²qwei³¹	tə⁰²qwei³¹	t ə ²/⁰ + q w ei ³¹		Chen2013			远	1406	FAR	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	远	tə²/⁰+qwei³¹
 12991	luobuohewestern-Chen-2013-888-535-1		luobuohewestern	Chen-2013-888-535	tə⁰²qwei³¹	tə⁰²qwei³¹	t ə ²/⁰ + q w ei ³¹		Chen2013			远	1406	FAR	Luobuohe, Western	luop1235					Luobuohe, Western	远	tə²/⁰+qwei³¹
-12992	chuanqiandian-Chen-2013-888-535-1		chuanqiandian	Chen-2013-888-535	tɬe⁴³	tɬe⁴³	t ɬ e ⁴³		Chen2013			远	1406	FAR	Chuanqiandian	chua1256					Chuanqiandian	远	tɬe⁴³
+12992	chuanqiandian-Chen-2013-888-535-1		chuanqiandian	Chen-2013-888-535	tɬe⁴³	tɬe⁴³	tɬ e ⁴³		Chen2013			远	1406	FAR	Chuanqiandian	chua1256					Chuanqiandian	远	tɬe⁴³
 12993	chuanqiandiancentralguizhou-Chen-2013-888-535-1		chuanqiandiancentralguizhou	Chen-2013-888-535	kɛ²⁴	kɛ²⁴	k ɛ ²⁴		Chen2013			远	1406	FAR	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	远	kɛ²⁴
 12994	chuanqiandiansouthernguizhou-Chen-2013-888-535-1		chuanqiandiansouthernguizhou	Chen-2013-888-535	huæ³²	huæ³²	h u æ ³²		Chen2013			远	1406	FAR	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	远	huæ³²
-12995	chuanqiandiannortheastyunnan-Chen-2013-888-535-1		chuanqiandiannortheastyunnan	Chen-2013-888-535	tɬi⁵⁵	tɬi⁵⁵	t ɬ i ⁵⁵		Chen2013			远	1406	FAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	远	tɬi⁵⁵
+12995	chuanqiandiannortheastyunnan-Chen-2013-888-535-1		chuanqiandiannortheastyunnan	Chen-2013-888-535	tɬi⁵⁵	tɬi⁵⁵	tɬ i ⁵⁵		Chen2013			远	1406	FAR	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	远	tɬi⁵⁵
 12999	qiandongeast-Chen-2013-888-535-1		qiandongeast	Chen-2013-888-535	fue²⁴	fue²⁴	f u e ²⁴		Chen2013			远	1406	FAR	Qiandong, East	east2370					Qiandong, East	远	fue²⁴
 13001	qiandongwest-Chen-2013-888-535-1		qiandongwest	Chen-2013-888-535	kui⁴⁴	kui⁴⁴	k u i ⁴⁴		Chen2013			远	1406	FAR	Qiandong, West						Qiandong, West	远	kui⁴⁴
 13002	bahengwest-Chen-2013-888-535-1		bahengwest	Chen-2013-888-535	ko³⁵	ko³⁵	k o ³⁵		Chen2013			远	1406	FAR	Baheng, West	pahn1237					Baheng, West	远	ko³⁵
@@ -7771,7 +7771,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 8448	luobuoheeastern-Chen-2013-888-348-1		luobuoheeastern	Chen-2013-888-348	ʔa⁰²tsʰo³¹	ʔa⁰²tsʰo³¹	ʔ a ²/⁰ + tsʰ o ³¹		Chen2013			锄头	284	HOE	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	锄头	ʔa²/⁰+tsʰo³¹
 8449	luobuohewestern-Chen-2013-888-348-1		luobuohewestern	Chen-2013-888-348	ʔə⁰²qo⁵⁵tsʰo³¹	ʔə⁰²qo⁵⁵tsʰo³¹	ʔ ə ²/⁰ + q o ⁵⁵ + tsʰ o ³¹		Chen2013			锄头	284	HOE	Luobuohe, Western	luop1235					Luobuohe, Western	锄头	ʔə²/⁰+qo⁵⁵+tsʰo³¹
 8450	chuanqiandian-Chen-2013-888-348-1		chuanqiandian	Chen-2013-888-348	ɬou⁴⁴	ɬou⁴⁴	ɬ o u ⁴⁴		Chen2013			锄头	284	HOE	Chuanqiandian	chua1256					Chuanqiandian	锄头	ɬou⁴⁴
-8451	chuanqiandiancentralguizhou-Chen-2013-888-348-1		chuanqiandiancentralguizhou	Chen-2013-888-348	tɬɛ⁵⁵sʰə²⁴	tɬɛ⁵⁵sʰə²⁴	t ɬ ɛ ⁵⁵ + sʰ ə ²⁴		Chen2013			锄头	284	HOE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	锄头	tɬɛ⁵⁵+sʰə²⁴
+8451	chuanqiandiancentralguizhou-Chen-2013-888-348-1		chuanqiandiancentralguizhou	Chen-2013-888-348	tɬɛ⁵⁵sʰə²⁴	tɬɛ⁵⁵sʰə²⁴	tɬ ɛ ⁵⁵ + sʰ ə ²⁴		Chen2013			锄头	284	HOE	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	锄头	tɬɛ⁵⁵+sʰə²⁴
 8452	chuanqiandiansouthernguizhou-Chen-2013-888-348-1		chuanqiandiansouthernguizhou	Chen-2013-888-348	lu³⁵	lu³⁵	l u ³⁵		Chen2013			锄头	284	HOE	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	锄头	lu³⁵
 8453	chuanqiandiannortheastyunnan-Chen-2013-888-348-1		chuanqiandiannortheastyunnan	Chen-2013-888-348	ɬau³³	ɬau³³	ɬ a u ³³		Chen2013			锄头	284	HOE	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	锄头	ɬau³³
 8457	qiandongeast-Chen-2013-888-348-1		qiandongeast	Chen-2013-888-348	ɬjeu³³	ɬjeu³³	ɬ j e u ³³		Chen2013			锄头	284	HOE	Qiandong, East	east2370					Qiandong, East	锄头	ɬjeu³³
@@ -7934,7 +7934,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 175	chuanqiandian-Chen-2013-888-8-1		chuanqiandian	Chen-2013-888-8	lai²⁴so⁴³	lai²⁴so⁴³	l a i ²⁴ + s o ⁴³		Chen2013			闪	1654	LIGHTNING	Chuanqiandian	chua1256					Chuanqiandian	闪	lai²⁴+so⁴³
 176	chuanqiandiancentralguizhou-Chen-2013-888-8-1		chuanqiandiancentralguizhou	Chen-2013-888-8	sʰə²⁴le⁵⁵	sʰə²⁴le⁵⁵	sʰ ə ²⁴ + l e ⁵⁵		Chen2013			闪	1654	LIGHTNING	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	闪	sʰə²⁴+le⁵⁵
 177	chuanqiandiansouthernguizhou-Chen-2013-888-8-1		chuanqiandiansouthernguizhou	Chen-2013-888-8	so²²ɭe²¹	so²²ɭe²¹	s o ²² + ɭ e ²¹		Chen2013			闪	1654	LIGHTNING	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	闪	so²²+ɭe²¹
-178	chuanqiandiannortheastyunnan-Chen-2013-888-8-1		chuanqiandiannortheastyunnan	Chen-2013-888-8	so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵	so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵	s o ⁵⁵ + p i ¹¹ + l ɦ a i ¹¹ + n dʱ a ɯ ³⁵		Chen2013			闪	1654	LIGHTNING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	闪	so⁵⁵+pi¹¹+lɦai¹¹+ndʱaɯ³⁵
+178	chuanqiandiannortheastyunnan-Chen-2013-888-8-1		chuanqiandiannortheastyunnan	Chen-2013-888-8	so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵	so⁵⁵pi¹¹lɦai¹¹ndɦaɯ³⁵	s o ⁵⁵ + p i ¹¹ + l ɦ a i ¹¹ + ⁿd ɦ a ɯ ³⁵		Chen2013			闪	1654	LIGHTNING	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	闪	so⁵⁵+pi¹¹+lɦai¹¹+ⁿdɦaɯ³⁵
 182	qiandongeast-Chen-2013-888-8-1		qiandongeast	Chen-2013-888-8	ho³³ɕen³³	ho³³ɕen³³	h o ³³ + ɕ e n ³³		Chen2013			闪	1654	LIGHTNING	Qiandong, East	east2370					Qiandong, East	闪	ho³³+ɕen³³
 184	qiandongwest-Chen-2013-888-8-1		qiandongwest	Chen-2013-888-8	lje⁵³	lje⁵³	l j e ⁵³		Chen2013			闪	1654	LIGHTNING	Qiandong, West						Qiandong, West	闪	lje⁵³
 185	bahengwest-Chen-2013-888-8-1		bahengwest	Chen-2013-888-8	je⁴²	je⁴²	j e ⁴²		Chen2013			闪	1654	LIGHTNING	Baheng, West	pahn1237					Baheng, West	闪	je⁴²
@@ -8241,8 +8241,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 5500	bahengeast-Chen-2013-888-225-1		bahengeast	Chen-2013-888-225	kau³³ljuŋ³³	kau³³ljuŋ³³	k a u ³³ + l j u ŋ ³³		Chen2013			高粱	347	SORGHUM	Baheng, East	pahn1237					Baheng, East	高粱	kau³³+ljuŋ³³
 1490	luobuoheeastern-Chen-2013-888-62-1		luobuoheeastern	Chen-2013-888-62	qo⁰⁵qlen³¹	qo⁰⁵qlen³¹	q o ⁵/⁰ + q l e n ³¹		Chen2013			鬼	1175	GHOST	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	鬼	qo⁵/⁰+qlen³¹
 1491	luobuohewestern-Chen-2013-888-62-1		luobuohewestern	Chen-2013-888-62	ʔə⁰²qlen³¹	ʔə⁰²qlen³¹	ʔ ə ²/⁰ + q l e n ³¹		Chen2013			鬼	1175	GHOST	Luobuohe, Western	luop1235					Luobuohe, Western	鬼	ʔə²/⁰+qlen³¹
-1492	chuanqiandian-Chen-2013-888-62-1		chuanqiandian	Chen-2013-888-62	tɬaŋ⁴³	tɬaŋ⁴³	t ɬ a ŋ ⁴³		Chen2013			鬼	1175	GHOST	Chuanqiandian	chua1256					Chuanqiandian	鬼	tɬaŋ⁴³
-1493	chuanqiandiancentralguizhou-Chen-2013-888-62-1		chuanqiandiancentralguizhou	Chen-2013-888-62	tɬõ²⁴	tɬõ²⁴	t ɬ õ ²⁴		Chen2013			鬼	1175	GHOST	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	鬼	tɬõ²⁴
+1492	chuanqiandian-Chen-2013-888-62-1		chuanqiandian	Chen-2013-888-62	tɬaŋ⁴³	tɬaŋ⁴³	tɬ a ŋ ⁴³		Chen2013			鬼	1175	GHOST	Chuanqiandian	chua1256					Chuanqiandian	鬼	tɬaŋ⁴³
+1493	chuanqiandiancentralguizhou-Chen-2013-888-62-1		chuanqiandiancentralguizhou	Chen-2013-888-62	tɬõ²⁴	tɬõ²⁴	tɬ õ ²⁴		Chen2013			鬼	1175	GHOST	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	鬼	tɬõ²⁴
 1494	chuanqiandiansouthernguizhou-Chen-2013-888-62-1		chuanqiandiansouthernguizhou	Chen-2013-888-62	ɬua³²	ɬua³²	ɬ u a ³²		Chen2013			鬼	1175	GHOST	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	鬼	ɬua³²
 1495	chuanqiandiannortheastyunnan-Chen-2013-888-62-1		chuanqiandiannortheastyunnan	Chen-2013-888-62	pi⁵⁵tɬaɯ⁵⁵	pi⁵⁵tɬaɯ⁵⁵	p i ⁵⁵ + t ɬ a ɯ ⁵⁵		Chen2013			鬼	1175	GHOST	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	鬼	pi⁵⁵+tɬaɯ⁵⁵
 1499	qiandongeast-Chen-2013-888-62-1		qiandongeast	Chen-2013-888-62	ɬjan²⁴	ɬjan²⁴	ɬ j a n ²⁴		Chen2013			鬼	1175	GHOST	Qiandong, East	east2370					Qiandong, East	鬼	ɬjan²⁴
@@ -8343,8 +8343,8 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 1213	qiandongwest-Chen-2013-888-50-1		qiandongwest	Chen-2013-888-50	qa³³teu⁵³	qa³³teu⁵³	q a ³³ + t e u ⁵³		Chen2013			麻子			Qiandong, West						Qiandong, West	麻子	qa³³+teu⁵³
 1214	bahengwest-Chen-2013-888-50-1		bahengwest	Chen-2013-888-50	qa⁰³ljeu⁵⁵	qa⁰³ljeu⁵⁵	q a ³/⁰ + l j e u ⁵⁵		Chen2013			麻子			Baheng, West	pahn1237					Baheng, West	麻子	qa³/⁰+ljeu⁵⁵
 1215	bahengeast-Chen-2013-888-50-1		bahengeast	Chen-2013-888-50	ma³³tsɿ⁰³	ma³³tsɿ⁰³	m a ³³ + ts ɿ ³/⁰		Chen2013			麻子			Baheng, East	pahn1237					Baheng, East	麻子	ma³³+tsɿ³/⁰
-8548	luobuoheeastern-Chen-2013-888-352-1		luobuoheeastern	Chen-2013-888-352	ʔa⁰²ɬy³³nda²⁴	ʔa⁰²ɬy³³nda²⁴	ʔ a ²/⁰ + ɬ y ³³ + n d a ²⁴		Chen2013			麻袋	2990	SACK	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	麻袋	ʔa²/⁰+ɬy³³+nda²⁴
-8549	luobuohewestern-Chen-2013-888-352-1		luobuohewestern	Chen-2013-888-352	ʔə⁰²ɬu⁵⁵ndɑ³⁵	ʔə⁰²ɬu⁵⁵ndɑ³⁵	ʔ ə ²/⁰ + ɬ u ⁵⁵ + n d ɑ ³⁵		Chen2013			麻袋	2990	SACK	Luobuohe, Western	luop1235					Luobuohe, Western	麻袋	ʔə²/⁰+ɬu⁵⁵+ndɑ³⁵
+8548	luobuoheeastern-Chen-2013-888-352-1		luobuoheeastern	Chen-2013-888-352	ʔa⁰²ɬy³³nda²⁴	ʔa⁰²ɬy³³nda²⁴	ʔ a ²/⁰ + ɬ y ³³ + ⁿd a ²⁴		Chen2013			麻袋	2990	SACK	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	麻袋	ʔa²/⁰+ɬy³³+ⁿda²⁴
+8549	luobuohewestern-Chen-2013-888-352-1		luobuohewestern	Chen-2013-888-352	ʔə⁰²ɬu⁵⁵ndɑ³⁵	ʔə⁰²ɬu⁵⁵ndɑ³⁵	ʔ ə ²/⁰ + ɬ u ⁵⁵ + ⁿd ɑ ³⁵		Chen2013			麻袋	2990	SACK	Luobuohe, Western	luop1235					Luobuohe, Western	麻袋	ʔə²/⁰+ɬu⁵⁵+ⁿdɑ³⁵
 8550	chuanqiandian-Chen-2013-888-352-1		chuanqiandian	Chen-2013-888-352	ʂen⁵⁵ntua¹³	ʂen⁵⁵ntua¹³	ʂ e n ⁵⁵ + n t u a ¹³		Chen2013			麻袋	2990	SACK	Chuanqiandian	chua1256					Chuanqiandian	麻袋	ʂen⁵⁵+ntua¹³
 8551	chuanqiandiancentralguizhou-Chen-2013-888-352-1		chuanqiandiancentralguizhou	Chen-2013-888-352	ɬɯ²⁴	ɬɯ²⁴	ɬ ɯ ²⁴		Chen2013			麻袋	2990	SACK	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	麻袋	ɬɯ²⁴
 8552	chuanqiandiansouthernguizhou-Chen-2013-888-352-1		chuanqiandiansouthernguizhou	Chen-2013-888-352	na²²saŋ²³²	na²²saŋ²³²	n a ²² + s a ŋ ²³²		Chen2013			麻袋	2990	SACK	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	麻袋	na²²+saŋ²³²
@@ -8354,7 +8354,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 8560	bahengwest-Chen-2013-888-352-1		bahengwest	Chen-2013-888-352	ʔa⁰³n̥eŋ³⁵nju⁴⁴	ʔa⁰³n̥eŋ³⁵nju⁴⁴	ʔ a ³/⁰ + n̥ e ŋ ³⁵ + n j u ⁴⁴		Chen2013			麻袋	2990	SACK	Baheng, West	pahn1237					Baheng, West	麻袋	ʔa³/⁰+n̥eŋ³⁵+nju⁴⁴
 8561	bahengeast-Chen-2013-888-352-1		bahengeast	Chen-2013-888-352	n̥eŋ³⁵nto³¹	n̥eŋ³⁵nto³¹	n̥ e ŋ ³⁵ + n t o ³¹		Chen2013			麻袋	2990	SACK	Baheng, East	pahn1237					Baheng, East	麻袋	n̥eŋ³⁵+nto³¹
 4131	luobuoheeastern-Chen-2013-888-169-1		luobuoheeastern	Chen-2013-888-169	qo⁰⁵no²⁴	qo⁰⁵no²⁴	q o ⁵/⁰ + n o ²⁴		Chen2013			麻雀	1854	SPARROW	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	麻雀	qo⁵/⁰+no²⁴
-4132	luobuohewestern-Chen-2013-888-169-1		luobuohewestern	Chen-2013-888-169	ʔə⁰²ndzɑŋ³¹lɑŋ³⁵	ʔə⁰²ndzɑŋ³¹lɑŋ³⁵	ʔ ə ²/⁰ + n d z ɑ ŋ ³¹ + l ɑ ŋ ³⁵		Chen2013			麻雀	1854	SPARROW	Luobuohe, Western	luop1235					Luobuohe, Western	麻雀	ʔə²/⁰+ndzɑŋ³¹+lɑŋ³⁵
+4132	luobuohewestern-Chen-2013-888-169-1		luobuohewestern	Chen-2013-888-169	ʔə⁰²ndzɑŋ³¹lɑŋ³⁵	ʔə⁰²ndzɑŋ³¹lɑŋ³⁵	ʔ ə ²/⁰ + ⁿd z ɑ ŋ ³¹ + l ɑ ŋ ³⁵		Chen2013			麻雀	1854	SPARROW	Luobuohe, Western	luop1235					Luobuohe, Western	麻雀	ʔə²/⁰+ⁿdzɑŋ³¹+lɑŋ³⁵
 4133	chuanqiandian-Chen-2013-888-169-1		chuanqiandian	Chen-2013-888-169	ȵtɕou⁴³ʐi¹³	ȵtɕou⁴³ʐi¹³	ȵ tɕ o u ⁴³ + ʐ i ¹³		Chen2013			麻雀	1854	SPARROW	Chuanqiandian	chua1256					Chuanqiandian	麻雀	ȵtɕou⁴³+ʐi¹³
 4134	chuanqiandiancentralguizhou-Chen-2013-888-169-1		chuanqiandiancentralguizhou	Chen-2013-888-169	qə⁰²nzẽ⁴²lo⁵⁵	qə⁰²nzẽ⁴²lo⁵⁵	q ə ²/⁰ + n z ẽ ⁴² + l o ⁵⁵		Chen2013			麻雀	1854	SPARROW	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	麻雀	qə²/⁰+nzẽ⁴²+lo⁵⁵
 4135	chuanqiandiansouthernguizhou-Chen-2013-888-169-1		chuanqiandiansouthernguizhou	Chen-2013-888-169	pʐei²¹	pʐei²¹	p ʐ ei ²¹		Chen2013			麻雀	1854	SPARROW	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	麻雀	pʐei²¹
@@ -8365,7 +8365,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 4144	bahengeast-Chen-2013-888-169-1		bahengeast	Chen-2013-888-169	taŋ³⁵tɕu⁵³	taŋ³⁵tɕu⁵³	t a ŋ ³⁵ + tɕ u ⁵³		Chen2013			麻雀	1854	SPARROW	Baheng, East	pahn1237					Baheng, East	麻雀	taŋ³⁵+tɕu⁵³
 13551	luobuoheeastern-Chen-2013-888-558-1		luobuoheeastern	Chen-2013-888-558	tə⁰²ʁwen³¹	tə⁰²ʁwen³¹	t ə ²/⁰ + ʁ w e n ³¹		Chen2013			黄	1424	YELLOW	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	黄	tə²/⁰+ʁwen³¹
 13552	luobuohewestern-Chen-2013-888-558-1		luobuohewestern	Chen-2013-888-558	tə⁰²ʁwen³¹	tə⁰²ʁwen³¹	t ə ²/⁰ + ʁ w e n ³¹		Chen2013			黄	1424	YELLOW	Luobuohe, Western	luop1235					Luobuohe, Western	黄	tə²/⁰+ʁwen³¹
-13553	chuanqiandian-Chen-2013-888-558-1		chuanqiandian	Chen-2013-888-558	tɬaŋ³¹	tɬaŋ³¹	t ɬ a ŋ ³¹		Chen2013			黄	1424	YELLOW	Chuanqiandian	chua1256					Chuanqiandian	黄	tɬaŋ³¹
+13553	chuanqiandian-Chen-2013-888-558-1		chuanqiandian	Chen-2013-888-558	tɬaŋ³¹	tɬaŋ³¹	tɬ a ŋ ³¹		Chen2013			黄	1424	YELLOW	Chuanqiandian	chua1256					Chuanqiandian	黄	tɬaŋ³¹
 13554	chuanqiandiancentralguizhou-Chen-2013-888-558-1		chuanqiandiancentralguizhou	Chen-2013-888-558	kõ⁵⁵	kõ⁵⁵	k õ ⁵⁵		Chen2013			黄	1424	YELLOW	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	黄	kõ⁵⁵
 13555	chuanqiandiansouthernguizhou-Chen-2013-888-558-1		chuanqiandiansouthernguizhou	Chen-2013-888-558	xwa⁵³	xwa⁵³	xʷ a ⁵³		Chen2013			黄	1424	YELLOW	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	黄	xʷa⁵³
 13556	chuanqiandiannortheastyunnan-Chen-2013-888-558-1		chuanqiandiannortheastyunnan	Chen-2013-888-558	vɦaɯ³⁵	vɦaɯ³⁵	v ɦ a ɯ ³⁵		Chen2013			黄	1424	YELLOW	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	黄	vɦaɯ³⁵
@@ -8385,7 +8385,7 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 3242	bahengeast-Chen-2013-888-132-1		bahengeast	Chen-2013-888-132	ŋ̩³³kwe³³	ŋ̩³³kwe³³	ŋ̩ ³³ + k w e ³³		Chen2013			黄牛	1153	CATTLE	Baheng, East	pahn1237					Baheng, East	黄牛	ŋ̩³³+kwe³³
 5970	luobuoheeastern-Chen-2013-888-245-1		luobuoheeastern	Chen-2013-888-245	qwa³¹wen³¹	qwa³¹wen³¹	qʷ a ³¹ + w e n ³¹		Chen2013			黄瓜	496	CUCUMBER	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	黄瓜	qʷa³¹+wen³¹
 5971	luobuohewestern-Chen-2013-888-245-1		luobuohewestern	Chen-2013-888-245	ʔə⁰²qwɑ³¹	ʔə⁰²qwɑ³¹	ʔ ə ²/⁰ + q w ɑ ³¹		Chen2013			黄瓜	496	CUCUMBER	Luobuohe, Western	luop1235					Luobuohe, Western	黄瓜	ʔə²/⁰+qwɑ³¹
-5972	chuanqiandian-Chen-2013-888-245-1		chuanqiandian	Chen-2013-888-245	tɬi⁴³	tɬi⁴³	t ɬ i ⁴³		Chen2013			黄瓜	496	CUCUMBER	Chuanqiandian	chua1256					Chuanqiandian	黄瓜	tɬi⁴³
+5972	chuanqiandian-Chen-2013-888-245-1		chuanqiandian	Chen-2013-888-245	tɬi⁴³	tɬi⁴³	tɬ i ⁴³		Chen2013			黄瓜	496	CUCUMBER	Chuanqiandian	chua1256					Chuanqiandian	黄瓜	tɬi⁴³
 5973	chuanqiandiancentralguizhou-Chen-2013-888-245-1		chuanqiandiancentralguizhou	Chen-2013-888-245	ka²⁴	ka²⁴	k a ²⁴		Chen2013			黄瓜	496	CUCUMBER	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	黄瓜	ka²⁴
 5974	chuanqiandiansouthernguizhou-Chen-2013-888-245-1		chuanqiandiansouthernguizhou	Chen-2013-888-245	huei³²ŋkəu⁴⁴	huei³²ŋkəu⁴⁴	h u ei ³² ŋ k ə u ⁴⁴		Chen2013			黄瓜	496	CUCUMBER	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	黄瓜	huei³²ŋkəu⁴⁴
 5975	chuanqiandiannortheastyunnan-Chen-2013-888-245-1		chuanqiandiannortheastyunnan	Chen-2013-888-245	ki⁵⁵tɬi⁵⁵	ki⁵⁵tɬi⁵⁵	k i ⁵⁵ + t ɬ i ⁵⁵		Chen2013			黄瓜	496	CUCUMBER	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	黄瓜	ki⁵⁵+tɬi⁵⁵
@@ -8422,10 +8422,10 @@ ID	ID	LOCAL_ID	LANGUAGE_ID	PARAMETER_ID	VALUE	FORM	SEGMENTS	COMMENT	SOURCE	COGNA
 3981	bahengeast-Chen-2013-888-162-1		bahengeast	Chen-2013-888-162	qa⁰³lja³⁵	qa⁰³lja³⁵	q a ³/⁰ + l j a ³⁵		Chen2013			黄鼠狼			Baheng, East	pahn1237					Baheng, East	黄鼠狼	qa³/⁰+lja³⁵
 13476	luobuoheeastern-Chen-2013-888-555-1		luobuoheeastern	Chen-2013-888-555	tə⁰²qlaŋ³¹	tə⁰²qlaŋ³¹	t ə ²/⁰ + q l a ŋ ³¹		Chen2013			黑	163	BLACK	Luobuohe, Eastern	luop1235					Luobuohe, Eastern	黑	tə²/⁰+qlaŋ³¹
 13477	luobuohewestern-Chen-2013-888-555-1		luobuohewestern	Chen-2013-888-555	tə⁰²qlɑŋ³¹	tə⁰²qlɑŋ³¹	t ə ²/⁰ + q l ɑ ŋ ³¹		Chen2013			黑	163	BLACK	Luobuohe, Western	luop1235					Luobuohe, Western	黑	tə²/⁰+qlɑŋ³¹
-13478	chuanqiandian-Chen-2013-888-555-1		chuanqiandian	Chen-2013-888-555	tɬeu⁴³	tɬeu⁴³	t ɬ e u ⁴³		Chen2013			黑	163	BLACK	Chuanqiandian	chua1256					Chuanqiandian	黑	tɬeu⁴³
-13479	chuanqiandiancentralguizhou-Chen-2013-888-555-1		chuanqiandiancentralguizhou	Chen-2013-888-555	tɬə̃²⁴	tɬə̃²⁴	t ɬ ə̃ ²⁴		Chen2013			黑	163	BLACK	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	黑	tɬə̃²⁴
+13478	chuanqiandian-Chen-2013-888-555-1		chuanqiandian	Chen-2013-888-555	tɬeu⁴³	tɬeu⁴³	tɬ e u ⁴³		Chen2013			黑	163	BLACK	Chuanqiandian	chua1256					Chuanqiandian	黑	tɬeu⁴³
+13479	chuanqiandiancentralguizhou-Chen-2013-888-555-1		chuanqiandiancentralguizhou	Chen-2013-888-555	tɬə̃²⁴	tɬə̃²⁴	tɬ ə̃ ²⁴		Chen2013			黑	163	BLACK	Chuanqiandian, Central Guizhou	nort2749					Chuanqiandian, Central Guizhou	黑	tɬə̃²⁴
 13480	chuanqiandiansouthernguizhou-Chen-2013-888-555-1		chuanqiandiansouthernguizhou	Chen-2013-888-555	ɬoŋ³²	ɬoŋ³²	ɬ o ŋ ³²		Chen2013			黑	163	BLACK	Chuanqiandian, Southern Guizhou	cent1394					Chuanqiandian, Southern Guizhou	黑	ɬoŋ³²
-13481	chuanqiandiannortheastyunnan-Chen-2013-888-555-1		chuanqiandiannortheastyunnan	Chen-2013-888-555	tɬu⁵⁵	tɬu⁵⁵	t ɬ u ⁵⁵		Chen2013			黑	163	BLACK	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	黑	tɬu⁵⁵
+13481	chuanqiandiannortheastyunnan-Chen-2013-888-555-1		chuanqiandiannortheastyunnan	Chen-2013-888-555	tɬu⁵⁵	tɬu⁵⁵	tɬ u ⁵⁵		Chen2013			黑	163	BLACK	Chuanqiandian, Northeast Yunnan	larg1235					Chuanqiandian, Northeast Yunnan	黑	tɬu⁵⁵
 13485	qiandongeast-Chen-2013-888-555-1		qiandongeast	Chen-2013-888-555	sei²⁴	sei²⁴	s ei ²⁴		Chen2013			黑	163	BLACK	Qiandong, East	east2370					Qiandong, East	黑	sei²⁴
 13487	qiandongwest-Chen-2013-888-555-1		qiandongwest	Chen-2013-888-555	ɬuŋ²²	ɬuŋ²²	ɬ u ŋ ²²		Chen2013			黑	163	BLACK	Qiandong, West						Qiandong, West	黑	ɬuŋ²²
 13488	bahengwest-Chen-2013-888-555-1		bahengwest	Chen-2013-888-555	kwaŋ⁴⁴	kwaŋ⁴⁴	k w a ŋ ⁴⁴		Chen2013			黑	163	BLACK	Baheng, West	pahn1237					Baheng, West	黑	kwaŋ⁴⁴

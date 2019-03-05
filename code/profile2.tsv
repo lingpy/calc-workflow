@@ -1,545 +1,735 @@
 Grapheme	Segments	CLPA	Structure	Unicode	Frequency	Reflexes	Examples
-⁵⁵	⁵⁵	⁵⁵	t	U+2075 U+2075	1593	Chuanqiandian, Central Guizhou,Qiandong, West,Chuanqiandian,Baheng, East,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	vei⁵⁵, ntuŋ⁵⁵, ŋqə̃∼⁵⁵, ɬi⁵⁵, to⁵⁵
-³¹	³¹	³¹	t	U+00b3 U+00b9	1574	Chuanqiandian, Central Guizhou,Baheng, East,Chuanqiandian,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	nto³¹, ŋɢwaŋ³¹, ŋɢwɑŋ³¹, na³¹, ʔlu³¹
-³³	³³	³³	t	U+00b3 U+00b3	991	Luobuohe, Western,Chuanqiandian,Luobuohe, Eastern,Baheng, West,Baheng, East,Qiandong, East,Qiandong, West	pau³³, qa³³, waŋ³³, waŋ³³, ʔuŋ³³
-³⁵	³⁵	³⁵	t	U+00b3 U+2075	954	Qiandong, East,Luobuohe, Western,Baheng, West,Baheng, East	tu³⁵, qaŋ³⁵, ho³⁵, heu³⁵, ʔa³⁵
-²⁴	²⁴	²⁴	t	U+00b2 U+2074	903	Chuanqiandian,Qiandong, East,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	zəu²⁴, lã∼²⁴, ljo²⁴, ɬa²⁴, ku²⁴
-⁴⁴	⁴⁴	⁴⁴	t	U+2074 U+2074	700	Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Luobuohe, Western,Baheng, East,Baheng, West,Qiandong, East,Chuanqiandian,Qiandong, West	tei⁴⁴, ljɔ⁴⁴, ɬi⁴⁴, la⁴⁴, la⁴⁴
-⁰²	⁰²	⁰²	t	U+2070 U+00b2	675	Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Luobuohe, Western	ʔə⁰², ʔa⁰², ʔə⁰², tə⁰², tə⁰²
-¹³	¹³	¹³	t	U+00b9 U+00b3	544	Baheng, West,Qiandong, East,Chuanqiandian,Qiandong, West,Chuanqiandian, Central Guizhou	tso¹³, ɬa¹³, qou¹³, lje¹³, naŋ¹³
-²²	²²	²²	t	U+00b2 U+00b2	373	Chuanqiandian, Central Guizhou,Qiandong, West,Qiandong, East	ʑi²², me²², ʑin²², ʑə²², vuŋ²²
-⁵³	⁵³	⁵³	t	U+2075 U+00b3	328	Baheng, West,Qiandong, West,Baheng, East,Qiandong, East	sou⁵³, lje⁵³, sau⁵³, nuŋ⁵³, ʔe⁵³
-⁴²	⁴²	⁴²	t	U+2074 U+00b2	278	Baheng, West,Chuanqiandian, Central Guizhou	ta⁴², ʔõ∼⁴², hə⁴², je⁴², tɕa⁴²
-⁰³	⁰³	⁰³	t	U+2070 U+00b3	277	Baheng, East,Baheng, West	ʔa⁰³, la⁰³, la⁰³, qa⁰³, la⁰³
-⁴³	⁴³	⁴³	t	U+2074 U+00b3	265	Chuanqiandian, Central Guizhou,Chuanqiandian	n̥o⁴³, qo⁴³, tɬaŋ⁴³, n̥o⁴³, so⁴³
-¹¹	¹¹	¹¹	t	U+00b9 U+00b9	220	Luobuohe, Western,Baheng, East,Baheng, West,Qiandong, West	teŋ¹¹, ʔu¹¹, pɔ¹¹, ljoŋ¹¹, ɣe¹¹
-²¹	²¹	²¹	t	U+00b2 U+00b9	176	Chuanqiandian,Qiandong, West	taŋ²¹, teu²¹, to²¹, paŋ²¹, ʐau²¹
-³¹³	³¹³	³¹³	t	U+00b3 U+00b9 U+00b3	168	Baheng, East	tau³¹³, ʑa³¹³, qʰuŋ³¹³, kai³¹³, qo³¹³
-⁰⁵	⁰⁵	⁰⁵	t	U+2070 U+2075	165	Luobuohe, Western,Luobuohe, Eastern	qo⁰⁵, qo⁰⁵, qo⁰⁵, qo⁰⁵, pə⁰⁵
+⁵⁵	⁵⁵	⁵⁵	t	U+2075 U+2075	2256	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, West,Chuanqiandian,Baheng, East,Baheng, West,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Northeast Yunnan	vei⁵⁵, ntuŋ⁵⁵, mi⁵⁵, m̥en⁵⁵, ŋqə̃∼⁵⁵
+³¹	³¹	³¹	t	U+00b3 U+00b9	1704	Chuanqiandian, Central Guizhou,Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	ŋɢʷaŋ³¹, ŋɢʷɑŋ³¹, nto³¹, na³¹, ʔlu³¹
+³³	³³	³³	t	U+00b3 U+00b3	1293	Luobuohe, Western,Chuanqiandian, Southern Guizhou,Chuanqiandian,Luobuohe, Eastern,Baheng, West,Baheng, East,Qiandong, East,Qiandong, West,Chuanqiandian, Northeast Yunnan	tau³³, qa³³, waŋ³³, waŋ³³, ʔuŋ³³
+³⁵	³⁵	³⁵	t	U+00b3 U+2075	1131	Qiandong, East,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Baheng, West,Baheng, East	tu³⁵, qaŋ³⁵, ho³⁵, zɦaɯ³⁵, heu³⁵
+⁰	⁰	⁰	t	U+2070	1104	Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern	/⁰, /⁰, /⁰, /⁰, /⁰
+²⁴	²⁴	²⁴	t	U+00b2 U+2074	899	Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, East,Luobuohe, Eastern	zəu²⁴, lã∼²⁴, ljo²⁴, tju²⁴, ʔeu²⁴
+⁴⁴	⁴⁴	⁴⁴	t	U+2074 U+2074	770	Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western,Baheng, East,Chuanqiandian, Southern Guizhou,Baheng, West,Qiandong, East,Chuanqiandian,Qiandong, West	ljɔ⁴⁴, tou⁴⁴, tue⁴⁴, tei⁴⁴, qei⁴⁴
+¹³	¹³	¹³	t	U+00b9 U+00b3	688	Baheng, West,Chuanqiandian, Northeast Yunnan,Qiandong, East,Chuanqiandian,Chuanqiandian, Southern Guizhou,Qiandong, West,Chuanqiandian, Central Guizhou	tso¹³, ɬa¹³, qou¹³, ho¹³, lje¹³
+²	²	²	t	U+00b2	664	Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Luobuohe, Western	ʔə², tə², tə², ʔa², ʔə²
+¹¹	¹¹	¹¹	t	U+00b9 U+00b9	513	Luobuohe, Western,Baheng, East,Baheng, West,Qiandong, West,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan	ȵdʑʱau¹¹, teŋ¹¹, po¹¹, ɬoŋ¹¹, pi¹¹
+⁵³	⁵³	⁵³	t	U+2075 U+00b3	481	Chuanqiandian, Northeast Yunnan,Baheng, West,Qiandong, West,Baheng, East,Qiandong, East,Chuanqiandian, Southern Guizhou	sou⁵³, ntoŋ⁵³, zo⁵³, lje⁵³, sau⁵³
+²²	²²	²²	t	U+00b2 U+00b2	462	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, West,Qiandong, East	ʑi²², me²², ʑin²², ʑə²², vuŋ²²
+⁴²	⁴²	⁴²	t	U+2074 U+00b2	409	Baheng, West,Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	tæn⁴², ta⁴², ʔõ∼⁴², je⁴², tɕa⁴²
+³	³	³	t	U+00b3	277	Baheng, East,Baheng, West	ʔa³, la³, la³, qa³, la³
+⁴³	⁴³	⁴³	t	U+2074 U+00b3	265	Chuanqiandian, Central Guizhou,Chuanqiandian	n̥o⁴³, qo⁴³, tɬaŋ⁴³, n̥o⁴³, tʂʰua⁴³
+²¹	²¹	²¹	t	U+00b2 U+00b9	258	Chuanqiandian, Southern Guizhou,Chuanqiandian,Qiandong, West	ɭe²¹, teu²¹, to²¹, paŋ²¹, mei²¹
+³²	³²	³²	t	U+00b3 U+00b2	197	Chuanqiandian, Southern Guizhou	li³², hoŋ³², pu³², koŋ³², tæ³²
+³¹³	³¹³	³¹³	t	U+00b3 U+00b9 U+00b3	168	Baheng, East	tau³¹³, ʑa³¹³, qʰuŋ³¹³, kai³¹³, va³¹³
+⁵	⁵	⁵	t	U+2075	163	Luobuohe, Western,Luobuohe, Eastern	zu⁵, qo⁵, qo⁵, qo⁵, qo⁵
 ²¹²	²¹²	²¹²	t	U+00b2 U+00b9 U+00b2	74	Qiandong, East	ljaŋ²¹², to²¹², lo²¹², lo²¹², lo²¹²
-⁰⁴	⁰⁴	⁰⁴	t	U+2070 U+2074	1	Baheng, West	ʔa⁰⁴
-³³³	³³³	³³³	t	U+00b3 U+00b3 U+00b3	1	Qiandong, West	puẽ∼³³³
-⁵⁴	⁵⁴	⁵⁴	t	U+2075 U+2074	1	Chuanqiandian	plou⁵⁴
+²³²	²³²	²³²	t	U+00b2 U+00b3 U+00b2	44	Chuanqiandian, Southern Guizhou	hoŋ²³², saŋ²³², ʐæ²³², ɦo²³², hoŋ²³²
+²⁰+ⁿd³¹	²⁰+ⁿd³¹	²⁰+ⁿd³¹	t	U+00b2 U+2070 U+002b U+207f U+0064 U+00b3 U+00b9	5	Luobuohe, Western,Luobuohe, Eastern	ʔa²/⁰+ⁿda³¹, ʔa²/⁰+ⁿdaŋ³¹, ʔa²/⁰+ⁿdaŋ³¹, ʔa²/⁰+ⁿdaŋ³¹, ʔə²/⁰+ⁿden³¹
+⁵⁵+ⁿd¹¹	⁵⁵+ⁿd¹¹	⁵⁵+ⁿd¹¹	t	U+2075 U+2075 U+002b U+207f U+0064 U+00b9 U+00b9	3	Chuanqiandian, Northeast Yunnan	ʔa⁵⁵+ⁿdlɦa¹¹, ʔa⁵⁵+ⁿdlɦai¹¹, ʔa⁵⁵+ⁿdlɦai¹¹
+³³+ⁿd³⁵	³³+ⁿd³⁵	³³+ⁿd³⁵	t	U+00b3 U+00b3 U+002b U+207f U+0064 U+00b3 U+2075	3	Chuanqiandian, Northeast Yunnan	ʔa³³+ⁿdlɦau³⁵, ʔa³³+ⁿdlɦau³⁵, m̥o³³+ⁿdɦu³⁵
+²⁰+ⁿdz⁵⁵	²⁰+ⁿdz⁵⁵	²⁰+ⁿdz⁵⁵	t	U+00b2 U+2070 U+002b U+207f U+0064 U+007a U+2075 U+2075	2	Luobuohe, Western,Luobuohe, Eastern	ʔə²/⁰+ⁿdzoŋ⁵⁵, tə²/⁰+ⁿdza⁵⁵
+²⁰+ⁿdz³¹	²⁰+ⁿdz³¹	²⁰+ⁿdz³¹	t	U+00b2 U+2070 U+002b U+207f U+0064 U+007a U+00b3 U+00b9	2	Luobuohe, Western	ʔə²/⁰+ⁿdzɑ³¹, ʔə²/⁰+ⁿdzɑŋ³¹
+⁵⁵+ⁿd²⁴	⁵⁵+ⁿd²⁴	⁵⁵+ⁿd²⁴	t	U+2075 U+2075 U+002b U+207f U+0064 U+00b2 U+2074	2	Luobuohe, Eastern	qei⁵⁵+ⁿdaŋ²⁴, ʔi⁵⁵+ⁿduŋ²⁴
+⁵⁵+ⁿd³⁵	⁵⁵+ⁿd³⁵	⁵⁵+ⁿd³⁵	t	U+2075 U+2075 U+002b U+207f U+0064 U+00b3 U+2075	2	Luobuohe, Western,Chuanqiandian, Northeast Yunnan	ʑu⁵⁵+ⁿdlɦi³⁵, ɬu⁵⁵+ⁿdɑ³⁵
+⁵⁵+ⁿdz¹¹	⁵⁵+ⁿdz¹¹	⁵⁵+ⁿdz¹¹	t	U+2075 U+2075 U+002b U+207f U+0064 U+007a U+00b9 U+00b9	2	Chuanqiandian, Northeast Yunnan	ti⁵⁵+ⁿdzɦa¹¹, ʔa⁵⁵+ⁿdzɦaɯ¹¹
+³³+ⁿdz³¹	³³+ⁿdz³¹	³³+ⁿdz³¹	t	U+00b3 U+00b3 U+002b U+207f U+0064 U+007a U+00b3 U+00b9	1	Luobuohe, Eastern	tʰuŋ³³+ⁿdzuŋ³¹
 ²³¹	²³¹	²³¹	t	U+00b2 U+00b3 U+00b9	1	Baheng, East	nuŋ²³¹
-⁵	⁵	⁵	t	U+2075	1	Luobuohe, Western	zu⁵
-aŋ	a ŋ	a ŋ	n c	U+0061 U+0020 U+014b	463	Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, West,Qiandong, East,Luobuohe, Eastern,Baheng, East,Chuanqiandian,Baheng, West	taŋ³¹, qaŋ³¹, taŋ²¹, qaŋ³⁵, taŋ⁵⁵
-uŋ	u ŋ	u ŋ	n c	U+0075 U+0020 U+014b	247	Qiandong, East,Qiandong, West,Baheng, East,Luobuohe, Eastern	puŋ³¹, ʔuŋ³³, vuŋ²², nuŋ⁵³, nuŋ²²
-oŋ	o ŋ	o ŋ	n c	U+006f U+0020 U+014b	199	Baheng, East,Qiandong, East,Chuanqiandian,Baheng, West,Luobuohe, Western	toŋ⁵⁵, ʔoŋ⁴⁴, toŋ⁵⁵, toŋ²⁴, qʰoŋ³¹
-en	e n	e n	n c	U+0065 U+0020 U+006e	188	Baheng, West,Baheng, East,Qiandong, West,Chuanqiandian,Qiandong, East,Luobuohe, Eastern,Luobuohe, Western	pen⁵⁵, ʑen²⁴, ʑen²⁴, fen²⁴, men³³
-õ	õ ∼	õ ∼	n c	U+00f5 U+0020 U+223c	108	Chuanqiandian, Central Guizhou	ʔõ∼⁴², ʔõ∼²⁴, ʔõ∼²⁴, sõ∼⁴², ʑõ∼⁴²
-eŋ	e ŋ	e ŋ	n c	U+0065 U+0020 U+014b	101	Baheng, West,Baheng, East,Qiandong, East	teŋ¹¹, leŋ²⁴, seŋ³¹, leŋ³¹³, peŋ¹³
-in	i n	i n	n c	U+0069 U+0020 U+006e	101	Baheng, West,Chuanqiandian,Qiandong, West,Qiandong, East,Luobuohe, Eastern,Luobuohe, Western	ʑin²², ʔʑin³⁵, tɕin³¹, ʑin³¹, nin²²
-ã	ã ∼	ã ∼	n c	U+00e3 U+0020 U+223c	81	Chuanqiandian, Central Guizhou	lã∼²⁴, ʐã∼⁵⁵, nã∼²², hã∼¹³, qã∼¹³
-ɑŋ	ɑ ŋ	ɑ ŋ	n c	U+0251 U+0020 U+014b	69	Luobuohe, Eastern,Luobuohe, Western	tɑŋ³¹, qɑŋ³¹, tɑŋ³⁵, kɑŋ³¹, ʑɑŋ³¹
-ẽ	ẽ ∼	ẽ ∼	n c	U+1ebd U+0020 U+223c	69	Qiandong, West,Chuanqiandian, Central Guizhou	kʰẽ∼⁵⁵, lẽ∼⁵⁵, sẽ∼¹³, sʰẽ∼²⁴, sʰẽ∼⁴²
-an	a n	a n	n c	U+0061 U+0020 U+006e	66	Baheng, West,Qiandong, East	kan³³, ɕan⁵³, van²², san³⁵, han²⁴
-ə̃	ə̃ ∼	ə̃ ∼	n c	U+0259 U+0303 U+0020 U+223c	61	Chuanqiandian, Central Guizhou	tə̃∼⁴², sʰə̃∼⁴², pə̃∼⁴², qə̃∼²⁴, n̥ə̃∼²⁴
-æ̃	æ̃ ∼	æ̃ ∼	n c	U+00e6 U+0303 U+0020 U+223c	42	Qiandong, West	khæ̃∼⁴⁴, væ̃∼⁵⁵, tæ̃∼³³, qæ̃∼¹³, kæ̃∼⁴⁴
+⁵⁰+ⁿd²⁴	⁵⁰+ⁿd²⁴	⁵⁰+ⁿd²⁴	t	U+2075 U+2070 U+002b U+207f U+0064 U+00b2 U+2074	1	Luobuohe, Eastern	qo⁵/⁰+ⁿda²⁴
+³²³	³²³	³²³	t	U+00b3 U+00b2 U+00b3	1	Chuanqiandian, Southern Guizhou	ȵoŋ³²³
+³⁵+ⁿd³¹	³⁵+ⁿd³¹	³⁵+ⁿd³¹	t	U+00b3 U+2075 U+002b U+207f U+0064 U+00b3 U+00b9	1	Chuanqiandian, Northeast Yunnan	ndlɦi³⁵+ⁿdlɦau³¹
+³³+ⁿd²⁴	³³+ⁿd²⁴	³³+ⁿd²⁴	t	U+00b3 U+00b3 U+002b U+207f U+0064 U+00b2 U+2074	1	Luobuohe, Eastern	ɬy³³+ⁿda²⁴
+⁵²	⁵²	⁵²	t	U+2075 U+00b2	1	Chuanqiandian, Southern Guizhou	tæ⁵²
+³¹+ⁿdz³¹	³¹+ⁿdz³¹	³¹+ⁿdz³¹	t	U+00b3 U+00b9 U+002b U+207f U+0064 U+007a U+00b3 U+00b9	1	Luobuohe, Western	tʰoŋ³¹+ⁿdzoŋ³¹
+¹¹+ⁿd³⁵	¹¹+ⁿd³⁵	¹¹+ⁿd³⁵	t	U+00b9 U+00b9 U+002b U+207f U+0064 U+00b3 U+2075	1	Chuanqiandian, Northeast Yunnan	lɦai¹¹+ⁿdɦaɯ³⁵
+²⁰+ⁿdz³³	²⁰+ⁿdz³³	²⁰+ⁿdz³³	t	U+00b2 U+2070 U+002b U+207f U+0064 U+007a U+00b3 U+00b3	1	Luobuohe, Eastern	tə²/⁰+ⁿdzo³³
+⁵⁰+ⁿd³⁵	⁵⁰+ⁿd³⁵	⁵⁰+ⁿd³⁵	t	U+2075 U+2070 U+002b U+207f U+0064 U+00b3 U+2075	1	Luobuohe, Western	qo⁵/⁰+ⁿdɑŋ³⁵
+⁵⁰+ⁿdz³³	⁵⁰+ⁿdz³³	⁵⁰+ⁿdz³³	t	U+2075 U+2070 U+002b U+207f U+0064 U+007a U+00b3 U+00b3	1	Luobuohe, Eastern	qo⁵/⁰+ⁿdza³³
+⁵⁵+ⁿdz³¹	⁵⁵+ⁿdz³¹	⁵⁵+ⁿdz³¹	t	U+2075 U+2075 U+002b U+207f U+0064 U+007a U+00b3 U+00b9	1	Chuanqiandian, Northeast Yunnan	ki⁵⁵+ⁿdzɦau³¹
+¹³¹	¹³¹	¹³¹	t	U+00b9 U+00b3 U+00b9	1	Chuanqiandian, Southern Guizhou	nəŋ¹³¹
+²⁰+ⁿd³⁵	²⁰+ⁿd³⁵	²⁰+ⁿd³⁵	t	U+00b2 U+2070 U+002b U+207f U+0064 U+00b3 U+2075	1	Luobuohe, Western	ʔə²/⁰+ⁿdɑ³⁵
+⁵⁵+ⁿd³¹	⁵⁵+ⁿd³¹	⁵⁵+ⁿd³¹	t	U+2075 U+2075 U+002b U+207f U+0064 U+00b3 U+00b9	1	Chuanqiandian, Northeast Yunnan	pi⁵⁵+ⁿdɦai³¹
+⁴	⁴	⁴	t	U+2074	1	Baheng, West	ʔa⁴
+³¹+ⁿdz⁵⁵	³¹+ⁿdz⁵⁵	³¹+ⁿdz⁵⁵	t	U+00b3 U+00b9 U+002b U+207f U+0064 U+007a U+2075 U+2075	1	Luobuohe, Eastern	ŋɢɛ³¹+ⁿdza⁵⁵
+⁵⁴	⁵⁴	⁵⁴	t	U+2075 U+2074	1	Chuanqiandian	plou⁵⁴
+aŋ	a ŋ	a ŋ	n c	U+0061 U+0020 U+014b	575	Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, West,Qiandong, East,Baheng, East,Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Southern Guizhou,Baheng, West	taŋ³¹, qaŋ³¹, qaŋ³⁵, ʔaŋ⁵⁵, taŋ⁵⁵
+oŋ	o ŋ	o ŋ	n c	U+006f U+0020 U+014b	298	Chuanqiandian, Northeast Yunnan,Baheng, East,Qiandong, East,Chuanqiandian,Baheng, West,Luobuohe, Western,Chuanqiandian, Southern Guizhou	hoŋ³², toŋ⁵⁵, ʔoŋ⁴⁴, toŋ⁵⁵, toŋ²⁴
+uŋ	u ŋ	u ŋ	n c	U+0075 U+0020 U+014b	247	Qiandong, East,Qiandong, West,Baheng, East,Luobuohe, Eastern	tuŋ⁵⁵, ʔuŋ³³, vuŋ²², nuŋ⁵³, nuŋ²²
+en	e n	e n	n c	U+0065 U+0020 U+006e	224	Baheng, West,Baheng, East,Qiandong, West,Chuanqiandian,Chuanqiandian, Southern Guizhou,Qiandong, East,Luobuohe, Western,Luobuohe, Eastern	m̥en⁵⁵, ʁʷen³¹, ʑen²⁴, ʑen²⁴, fen²⁴
+õ	õ ∼	õ ∼	n c	U+00f5 U+0020 U+223c	108	Chuanqiandian, Central Guizhou	ʔõ∼⁴², ʔõ∼²⁴, sõ∼⁴², ʑõ∼⁴², ʐõ∼⁵⁵
+in	i n	i n	n c	U+0069 U+0020 U+006e	107	Baheng, West,Chuanqiandian,Chuanqiandian, Southern Guizhou,Qiandong, West,Qiandong, East,Luobuohe, Eastern,Luobuohe, Western	ʑin²², ʔʑin³⁵, ʑin¹³, ʑin³¹, nin²²
+eŋ	e ŋ	e ŋ	n c	U+0065 U+0020 U+014b	101	Baheng, West,Qiandong, East,Baheng, East	teŋ¹¹, leŋ²⁴, seŋ³¹, leŋ³¹³, peŋ¹³
+ã	ã ∼	ã ∼	n c	U+00e3 U+0020 U+223c	81	Chuanqiandian, Central Guizhou	lã∼²⁴, nã∼²², hã∼¹³, qã∼¹³, pã∼⁴²
+ɑŋ	ɑ ŋ	ɑ ŋ	n c	U+0251 U+0020 U+014b	75	Luobuohe, Eastern,Luobuohe, Western	tɑŋ³¹, qɑŋ³¹, tɑŋ³⁵, ⁿdzɑŋ⁵⁵, kɑŋ³¹
+an	a n	a n	n c	U+0061 U+0020 U+006e	71	Baheng, West,Chuanqiandian, Southern Guizhou,Qiandong, East	kan⁴², kan³³, ɕan⁵³, tʰan¹³, van²²
+ẽ	ẽ ∼	ẽ ∼	n c	U+1ebd U+0020 U+223c	69	Qiandong, West,Chuanqiandian, Central Guizhou	kʰẽ∼⁵⁵, lẽ∼⁵⁵, tɕẽ∼²⁴, sẽ∼¹³, sʰẽ∼²⁴
+ə̃	ə̃ ∼	ə̃ ∼	n c	U+0259 U+0303 U+0020 U+223c	61	Chuanqiandian, Central Guizhou	tə̃∼⁴², nə̃∼²⁴, sʰə̃∼⁴², pə̃∼⁴², qə̃∼²⁴
+æ̃	æ̃ ∼	æ̃ ∼	n c	U+00e6 U+0303 U+0020 U+223c	42	Qiandong, West	tæ̃∼³³, kæ̃∼⁴⁴, kæ̃∼⁴⁴, kæ̃∼⁴⁴, kæ̃∼⁴⁴
+æn	æ n	æ n	n c	U+00e6 U+0020 U+006e	38	Chuanqiandian, Southern Guizhou	tæn⁴², ɭæn⁵³, sæn⁴², ʐæn³², læn³²
 iŋ	i ŋ	i ŋ	n c	U+0069 U+0020 U+014b	25	Baheng, East,Baheng, West	tɕiŋ³¹, liŋ³³, liŋ³³, tɕiŋ³³, m̥iŋ³¹³
-ĩ	ĩ ∼	ĩ ∼	n c	U+0129 U+0020 U+223c	14	Chuanqiandian, Central Guizhou	ʑĩ∼¹³, tĩ∼²², tĩ∼³¹, nĩ∼³¹, mĩ∼³¹
+əŋ	ə ŋ	ə ŋ	n c	U+0259 U+0020 U+014b	18	Chuanqiandian, Southern Guizhou	nəŋ¹³¹, məŋ²², məŋ²², məŋ²², nəŋ¹³
+ĩ	ĩ ∼	ĩ ∼	n c	U+0129 U+0020 U+223c	15	Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou	ʑĩ∼¹³, tĩ∼²², tĩ∼³¹, nĩ∼³¹, hĩ∼¹¹
 un	u n	u n	n c	U+0075 U+0020 U+006e	8	Qiandong, East,Qiandong, West	kʰun³³, kun²¹, kun³³, tʰun³³, ɕun⁵³
+aa/ŋ	aa /ŋ	aa /ŋ	n c	U+0061 U+0061 U+0020 U+002f U+014b	3	Luobuohe, Eastern	ʔa²/⁰+ⁿdaŋ³¹, ʔa²/⁰+ⁿdaŋ³¹, ʔa²/⁰+ⁿdaŋ³¹
+ilɦ	i lɦ	i lɦ	n c	U+0069 U+0020 U+006c U+0266	3	Chuanqiandian, Northeast Yunnan	dlɦi³⁵, dlɦi³⁵, dlɦi³⁵
+aailɦ	aai lɦ	aai lɦ	n c	U+0061 U+0061 U+0069 U+0020 U+006c U+0266	2	Chuanqiandian, Northeast Yunnan	ʔa⁵⁵+ⁿdlɦai¹¹, ʔa⁵⁵+ⁿdlɦai¹¹
+əɑ/	əɑ /	əɑ /	n c	U+0259 U+0251 U+0020 U+002f	2	Luobuohe, Western	ʔə²/⁰+ⁿdzɑ³¹, ʔə²/⁰+ⁿdɑ³⁵
+aulɦ	au lɦ	au lɦ	n c	U+0061 U+0075 U+0020 U+006c U+0266	2	Chuanqiandian, Northeast Yunnan	dlɦau³⁵, dlɦau³⁵
+aaulɦ	aau lɦ	aau lɦ	n c	U+0061 U+0061 U+0075 U+0020 U+006c U+0266	2	Chuanqiandian, Northeast Yunnan	ʔa³³+ⁿdlɦau³⁵, ʔa³³+ⁿdlɦau³⁵
+oa/	oa /	oa /	n c	U+006f U+0061 U+0020 U+002f	2	Luobuohe, Eastern	qo⁵/⁰+ⁿdza³³, qo⁵/⁰+ⁿda²⁴
 am	a m	a m	n c	U+0061 U+0020 U+006d	1	Qiandong, West	ʔam⁵³
-ɛŋ	ɛ ŋ	ɛ ŋ	n c	U+025b U+0020 U+014b	1	Baheng, West	nɛŋ¹¹
-ar	a r	a r	n c	U+0061 U+0020 U+0072	1	Luobuohe, Eastern	ar⁵⁵
+əɑ/ŋ	əɑ /ŋ	əɑ /ŋ	n c	U+0259 U+0251 U+0020 U+002f U+014b	1	Luobuohe, Western	ʔə²/⁰+ⁿdzɑŋ³¹
+aɯlɦ	aɯ lɦ	aɯ lɦ	n c	U+0061 U+026f U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	dlɦaɯ³⁵
+eiaŋ	eia ŋ	eia ŋ	n c	U+0065 U+0069 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	qei⁵⁵+ⁿdaŋ²⁴
 utŋ	u tŋ	u tŋ	n c	U+0075 U+0020 U+0074 U+014b	1	Luobuohe, Eastern	nutŋ²⁴
-a	a	a	n	U+0061	1221	Luobuohe, Western,Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, East,Baheng, East,Qiandong, West,Luobuohe, Eastern,Baheng, West	na³¹, ɬa¹³, ʔa⁰², ɬa²⁴, ta⁴²
-o	o	o	n	U+006f	924	Chuanqiandian, Central Guizhou,Qiandong, West,Baheng, East,Qiandong, East,Baheng, West,Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern	qo⁰⁵, tso¹³, qo⁰⁵, to⁵⁵, to⁵⁵
-ə	ə	ə	n	U+0259	678	Qiandong, East,Chuanqiandian,Baheng, East,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western	ʔə⁰², ʔə⁰², tə⁰², ʑə²², hə⁴²
-i	i	i	n	U+0069	620	Chuanqiandian, Central Guizhou,Qiandong, East,Baheng, West,Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Qiandong, West,Chuanqiandian	ɬi⁵⁵, ɬi⁴⁴, ʑi²², tɕi³⁵, tɕi³³
-u	u	u	n	U+0075	529	Qiandong, East,Chuanqiandian,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	zu⁵, tu³⁵, ku²⁴, tu⁵⁵, tu⁵⁵
-e	e	e	n	U+0065	446	Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Qiandong, East,Chuanqiandian,Luobuohe, Western,Baheng, West,Baheng, East,Qiandong, West	me²², ve⁵⁵, ve⁵⁵, le⁵⁵, ʔe⁴⁴
-ei	ei	ei	n	U+0065 U+0069	381	Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Qiandong, East,Baheng, West,Qiandong, West	vei⁵⁵, tei⁴⁴, vei⁵⁵, nei²⁴, nei⁴⁴
+ar	a r	a r	n c	U+0061 U+0020 U+0072	1	Luobuohe, Eastern	ar⁵⁵
+iuŋ	iu ŋ	iu ŋ	n c	U+0069 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ʔi⁵⁵+ⁿduŋ²⁴
+əa/	əa /	əa /	n c	U+0259 U+0061 U+0020 U+002f	1	Luobuohe, Eastern	tə²/⁰+ⁿdza⁵⁵
+olɦ	o lɦ	o lɦ	n c	U+006f U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	dlɦo³⁵
+alɦ	a lɦ	a lɦ	n c	U+0061 U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	dlɦa³⁵
+aa/	aa /	aa /	n c	U+0061 U+0061 U+0020 U+002f	1	Luobuohe, Eastern	ʔa²/⁰+ⁿda³¹
+əe/n	əe /n	əe /n	n c	U+0259 U+0065 U+0020 U+002f U+006e	1	Luobuohe, Western	ʔə²/⁰+ⁿden³¹
+əo/ŋ	əo /ŋ	əo /ŋ	n c	U+0259 U+006f U+0020 U+002f U+014b	1	Luobuohe, Western	ʔə²/⁰+ⁿdzoŋ⁵⁵
+uilɦ	ui lɦ	ui lɦ	n c	U+0075 U+0069 U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	ʑu⁵⁵+ⁿdlɦi³⁵
+əo/	əo /	əo /	n c	U+0259 U+006f U+0020 U+002f	1	Luobuohe, Eastern	tə²/⁰+ⁿdzo³³
+oɑ/ŋ	oɑ /ŋ	oɑ /ŋ	n c	U+006f U+0251 U+0020 U+002f U+014b	1	Luobuohe, Western	qo⁵/⁰+ⁿdɑŋ³⁵
+uuŋŋ	uu ŋŋ	uu ŋŋ	n c	U+0075 U+0075 U+0020 U+014b U+014b	1	Luobuohe, Eastern	tʰuŋ³³+ⁿdzuŋ³¹
+ɛŋ	ɛ ŋ	ɛ ŋ	n c	U+025b U+0020 U+014b	1	Baheng, West	nɛŋ¹¹
+aalɦ	aa lɦ	aa lɦ	n c	U+0061 U+0061 U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	ʔa⁵⁵+ⁿdlɦa¹¹
+ooŋŋ	oo ŋŋ	oo ŋŋ	n c	U+006f U+006f U+0020 U+014b U+014b	1	Luobuohe, Western	tʰoŋ³¹+ⁿdzoŋ³¹
+a	a	a	n	U+0061	1525	Luobuohe, Western,Chuanqiandian,Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, East,Baheng, East,Qiandong, West,Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Baheng, West	na³¹, ɬa¹³, ta⁴², qa³³, ʔa³
+o	o	o	n	U+006f	1044	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, West,Chuanqiandian, Northeast Yunnan,Baheng, East,Qiandong, East,Baheng, West,Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern	tso¹³, qo⁵, qo⁵, to⁵⁵, to⁵⁵
+i	i	i	n	U+0069	815	Chuanqiandian, Central Guizhou,Chuanqiandian, Southern Guizhou,Qiandong, East,Baheng, West,Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Qiandong, West,Chuanqiandian,Chuanqiandian, Northeast Yunnan	mi⁵⁵, ɬi⁵⁵, li³², ɬi⁵⁵, ʑi²²
+ə	ə	ə	n	U+0259	743	Qiandong, East,Chuanqiandian,Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western	ʔə², tə², tə², ʔə², tə²
+u	u	u	n	U+0075	687	Qiandong, East,Chuanqiandian,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	zu⁵, tu³⁵, tu⁵⁵, tu⁵⁵, n̥u⁵⁵
+e	e	e	n	U+0065	497	Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Qiandong, East,Chuanqiandian, Southern Guizhou,Chuanqiandian,Luobuohe, Western,Baheng, West,Baheng, East,Qiandong, West	me²², ve⁵⁵, ve⁵⁵, ɭe²¹, ʔe⁴⁴
+ei	ei	ei	n	U+0065 U+0069	420	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Baheng, East,Qiandong, East,Baheng, West,Qiandong, West	vei⁵⁵, tei⁴⁴, qei⁴⁴, vei⁵⁵, nei²⁴
+au	au	au	n	U+0061 U+0075	317	Luobuohe, Eastern,Qiandong, East,Baheng, West,Baheng, East,Chuanqiandian,Chuanqiandian, Northeast Yunnan	tau³³, tɕau⁵⁵, ɢau³¹, tau³¹³, sau⁵³
 eu	eu	eu	n	U+0065 U+0075	261	Baheng, West,Baheng, East,Chuanqiandian,Qiandong, West,Qiandong, East	ʔeu²⁴, heu³⁵, ʔeu²⁴, tsʰeu³³, ʔeu⁴⁴
-au	au	au	n	U+0061 U+0075	184	Luobuohe, Eastern,Qiandong, East,Baheng, West,Baheng, East,Chuanqiandian	pau³³, tɕau⁵⁵, tau³¹³, sau⁵³, tau¹¹
-ɛ	ɛ	ɛ	n	U+025b	172	Qiandong, West,Baheng, West,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Qiandong, East	tɛ⁴², tɛ²⁴, tɛ²⁴, pɛ³¹, kɛ³³
-ou	ou	ou	n	U+006f U+0075	147	Qiandong, East,Chuanqiandian	sou⁵³, qou¹³, tou⁴⁴, tʂʰou⁵⁵, pou⁵³
-ɔ	ɔ	ɔ	n	U+0254	143	Baheng, West,Qiandong, West	nɔ³¹, sɔ⁴², pɔ¹¹, ɕʰɔ¹³, pɔ¹¹
-ɑ	ɑ	ɑ	n	U+0251	133	Luobuohe, Eastern,Luobuohe, Western	n̥ɑ³¹, ɬɑ³⁵, vɑ³⁵, lɑ³¹, ȵɑ³⁵
-ai	ai	ai	n	U+0061 U+0069	113	Luobuohe, Eastern,Chuanqiandian,Baheng, West,Baheng, East	lai²⁴, tai²⁴, fai⁴³, kai⁵⁵, kai³¹³
-ɿ	ɿ	ɿ	n	U+027f	65	Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Qiandong, East,Baheng, East	tsɿ³³, tsɿ³³, tsɿ⁰³, tsɿ³³, tsɿ⁰³
-æ	æ	æ	n	U+00e6	62	Luobuohe, Western,Qiandong, West	kæ⁵⁵, kæ⁵⁵, kʰæ⁴⁴, tæ²¹, pæ⁴⁴
-ɯ	ɯ	ɯ	n	U+026f	43	Chuanqiandian, Central Guizhou	tʂɯ²², sʰɯ¹³, nzɯ²², lɯ⁵⁵, nzɯ³¹
-y	y	y	n	U+0079	29	Luobuohe, Western,Qiandong, East,Luobuohe, Eastern	tsʰy⁵⁵, tsy⁵⁵, tsy⁵⁵, ly³¹, sy²⁴
-əu	əu	əu	n	U+0259 U+0075	28	Luobuohe, Western,Luobuohe, Eastern	zəu²⁴, ləu⁵⁵, zəu³³, səu³¹, təu³¹
-oi	oi	oi	n	U+006f U+0069	18	Qiandong, West	poi⁴⁴, moi⁵⁵, poi³³, poi²¹, poi²¹
-eɯ	eɯ	eɯ	n	U+0065 U+026f	16	Qiandong, West	leɯ¹³, leɯ²¹, leɯ²², xʰeɯ¹¹, ʔeɯ¹¹
+ɔ	ɔ	ɔ	n	U+0254	204	Baheng, West,Chuanqiandian, Southern Guizhou,Qiandong, West	tɔ⁵⁵, nɔ³¹, sɔ⁴², pɔ¹¹, sɔ²²
+ɛ	ɛ	ɛ	n	U+025b	173	Qiandong, West,Baheng, West,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Qiandong, East	tɛ⁴², tɛ²⁴, tɛ²⁴, pɛ³¹, kɛ³³
+ou	ou	ou	n	U+006f U+0075	147	Qiandong, East,Chuanqiandian	sou⁵³, tou⁴⁴, qou¹³, tɕou⁴⁴, tʂʰou⁵⁵
+ai	ai	ai	n	U+0061 U+0069	141	Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Northeast Yunnan,Baheng, West,Baheng, East	fai⁴³, fai³³, kai⁵⁵, kai⁵⁵, kai³¹³
+ɑ	ɑ	ɑ	n	U+0251	137	Luobuohe, Eastern,Luobuohe, Western	n̥ɑ³¹, ɬɑ³⁵, vɑ³⁵, lɑ³¹, qʷɑ³¹
+æ	æ	æ	n	U+00e6	120	Luobuohe, Western,Qiandong, West,Chuanqiandian, Southern Guizhou	xʷæ⁵⁵, tɕæ⁴², tæ³², kæ⁵⁵, kæ⁴²
+ɿ	ɿ	ɿ	n	U+027f	99	Baheng, West,Chuanqiandian, Southern Guizhou,Luobuohe, Western,Luobuohe, Eastern,Qiandong, East,Chuanqiandian, Northeast Yunnan,Baheng, East	tsɿ³³, tsɿ³, tsɿ³, tsɿ³³, tsɿ³
+ɯ	ɯ	ɯ	n	U+026f	91	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou	tʂɯ²², sʰɯ¹³, nzɯ²², tɯ¹¹, qɯ³³
+aɯ	aɯ	aɯ	n	U+0061 U+026f	69	Chuanqiandian, Northeast Yunnan	haɯ⁵⁵, tʂaɯ³³, naɯ⁵³, paɯ³³, ʑaɯ³³
+y	y	y	n	U+0079	62	Luobuohe, Western,Qiandong, East,Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan	ly⁵³, tsʰy⁵⁵, gy⁵⁵, tʰy¹¹, my⁵⁵
+əu	əu	əu	n	U+0259 U+0075	51	Luobuohe, Western,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	zəu²⁴, ləu⁵⁵, ʔəu⁵⁵, zəu³³, kəu⁴²
+ey	ey	ey	n	U+0065 U+0079	37	Chuanqiandian, Northeast Yunnan	tsʰey¹¹, dey³³, sey¹¹, ley⁵⁵, tɕey¹¹
+oi	oi	oi	n	U+006f U+0069	18	Qiandong, West	poi⁴⁴, poi⁴⁴, moi⁵⁵, poi³³, poi²¹
+ɪ	ɪ	ɪ	n	U+026a	16	Chuanqiandian, Southern Guizhou	lɪ¹³, hɪ²², ʐɪ¹¹, tɪ⁴⁴, lɪ¹³
+eɯ	eɯ	eɯ	n	U+0065 U+026f	16	Qiandong, West	leɯ¹³, leɯ²¹, leɯ²², xʰeɯ¹¹, leɯ¹³
+ʅ	ʅ	ʅ	n	U+0285	12	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan	tʅ¹¹, tʂʅ⁵⁵, tʂʅ³³, ɖʅ⁵³, ʂʅ¹¹
 ø	ø	ø	n	U+00f8	3	Luobuohe, Western	m̥ø³¹, ʔø³¹, pø³¹
 ɑu	ɑu	ɑu	n	U+0251 U+0075	2	Luobuohe, Western	pɑu³⁵, kʰɑu⁵⁵
+ya	ya	ya	n	U+0079 U+0061	1	Luobuohe, Eastern	ɬy³³+ⁿda²⁴
+uɑ	uɑ	uɑ	n	U+0075 U+0251	1	Luobuohe, Western	ɬu⁵⁵+ⁿdɑ³⁵
 jaŋ	j a ŋ	j a ŋ	m n c	U+006a U+0020 U+0061 U+0020 U+014b	65	Luobuohe, Eastern,Baheng, East,Baheng, West,Qiandong, East,Qiandong, West	ljaŋ²², ljaŋ²¹², tjaŋ³⁵, ljaŋ²², tjaŋ³³
-juŋ	j u ŋ	j u ŋ	m n c	U+006a U+0020 U+0075 U+0020 U+014b	39	Baheng, West,Baheng, East,Luobuohe, Eastern,Qiandong, West,Qiandong, East	juŋ³¹, ʔjuŋ²⁴, tjuŋ²⁴, tjuŋ²², njuŋ²²
-wen	w e n	w e n	m n c	U+0077 U+0020 U+0065 U+0020 U+006e	24	Baheng, West,Luobuohe, Western,Luobuohe, Eastern	ʁwen³¹, ʁwen³¹, wen³³, ʁwen³¹, wen³¹
-toŋ	t o ŋ	t o ŋ	m n c	U+0074 U+0020 U+006f U+0020 U+014b	21	Chuanqiandian,Luobuohe, Western	ntoŋ³⁵, ntoŋ³⁵, ntoŋ⁴⁴, ntoŋ³⁵, ntoŋ⁴⁴
+juŋ	j u ŋ	j u ŋ	m n c	U+006a U+0020 U+0075 U+0020 U+014b	39	Baheng, West,Baheng, East,Luobuohe, Eastern,Qiandong, West,Qiandong, East	ljuŋ³¹³, ʔjuŋ²⁴, tjuŋ²⁴, tjuŋ²², njuŋ²²
+toŋ	t o ŋ	t o ŋ	m n c	U+0074 U+0020 U+006f U+0020 U+014b	25	Chuanqiandian, Southern Guizhou,Chuanqiandian,Luobuohe, Western	ntoŋ⁵³, ntoŋ³⁵, ntoŋ³⁵, ntoŋ⁴⁴, ntoŋ³⁵
+wen	w e n	w e n	m n c	U+0077 U+0020 U+0065 U+0020 U+006e	18	Baheng, West,Luobuohe, Western,Luobuohe, Eastern	wen³³, ʁwen³¹, wen³¹, qʰwen⁵⁵, wen⁵⁵
 tuŋ	t u ŋ	t u ŋ	m n c	U+0074 U+0020 U+0075 U+0020 U+014b	14	Baheng, East,Luobuohe, Eastern	ntuŋ⁵⁵, ntuŋ²⁴, ntuŋ²⁴, ntuŋ²⁴, ntuŋ²⁴
-waŋ	w a ŋ	w a ŋ	m n c	U+0077 U+0020 U+0061 U+0020 U+014b	13	Luobuohe, Eastern,Baheng, East,Baheng, West	waŋ³³, waŋ³³, χwaŋ³¹, kwaŋ⁴⁴, waŋ⁵⁵
-ɬaŋ	ɬ a ŋ	ɬ a ŋ	m n c	U+026c U+0020 U+0061 U+0020 U+014b	11	Chuanqiandian	tɬaŋ⁴³, tɬaŋ⁴³, tɬaŋ⁴³, tɬaŋ⁵⁵, tɬaŋ³¹
+waŋ	w a ŋ	w a ŋ	m n c	U+0077 U+0020 U+0061 U+0020 U+014b	11	Luobuohe, Eastern,Baheng, West,Baheng, East	waŋ³³, waŋ³³, kwaŋ⁴⁴, waŋ⁵⁵, waŋ³³
+ɬaŋ	ɬ a ŋ	ɬ a ŋ	m n c	U+026c U+0020 U+0061 U+0020 U+014b	11	Chuanqiandian	tɬaŋ⁴³, tɬaŋ⁴³, tɬaŋ³¹, tɬaŋ⁴³, tɬaŋ³¹
+joŋ	j o ŋ	j o ŋ	m n c	U+006a U+0020 U+006f U+0020 U+014b	10	Luobuohe, Western,Baheng, West	ljoŋ¹¹, joŋ³¹, ljoŋ³¹, vjoŋ³¹, joŋ³³
+jen	j e n	j e n	m n c	U+006a U+0020 U+0065 U+0020 U+006e	10	Luobuohe, Eastern,Qiandong, East,Luobuohe, Western	tjen²², mjen²⁴, ljen²², njen²², ljen⁴⁴
 ien	i e n	i e n	m n c	U+0069 U+0020 U+0065 U+0020 U+006e	10	Qiandong, East	mien¹³, mien²², mien²², mien²², pien²⁴
-jen	j e n	j e n	m n c	U+006a U+0020 U+0065 U+0020 U+006e	10	Luobuohe, Eastern,Qiandong, East,Luobuohe, Western	njen²², tjen²², ljen⁴⁴, mjen²⁴, ljen²²
-joŋ	j o ŋ	j o ŋ	m n c	U+006a U+0020 U+006f U+0020 U+014b	10	Baheng, West,Luobuohe, Western	ljoŋ¹¹, joŋ³¹, joŋ³³, ljoŋ³¹, vjoŋ³¹
-jan	j a n	j a n	m n c	U+006a U+0020 U+0061 U+0020 U+006e	9	Qiandong, East	ɬjan²⁴, njan²⁴, njan³³, njan⁵³, njan⁵³
-uan	u a n	u a n	m n c	U+0075 U+0020 U+0061 U+0020 U+006e	9	Qiandong, East	tɕuan²², tʰuan⁴⁴, kuan²⁴, tuan⁵³, suan⁴⁴
+uan	u a n	u a n	m n c	U+0075 U+0020 U+0061 U+0020 U+006e	9	Qiandong, East	tɕuan²², tʰuan⁴⁴, kuan²⁴, suan⁴⁴, tuan⁵³
+jan	j a n	j a n	m n c	U+006a U+0020 U+0061 U+0020 U+006e	9	Qiandong, East	njan²⁴, njan³³, njan⁵³, njan⁵³, ɬjan²⁴
 uæ̃	u æ̃ ∼	u æ̃ ∼	m n c	U+0075 U+0020 U+00e6 U+0303 U+0020 U+223c	8	Qiandong, West	kuæ̃∼⁴⁴, tɕuæ̃∼³³, kuæ̃∼⁴⁴, ɕuæ̃∼⁴⁴, ɕuæ̃∼³³
 laŋ	l a ŋ	l a ŋ	m n c	U+006c U+0020 U+0061 U+0020 U+014b	8	Luobuohe, Eastern,Chuanqiandian	plaŋ⁴³, plaŋ⁴³, plaŋ³³, ʔlaŋ³¹, ʔlaŋ³¹
 jin	j i n	j i n	m n c	U+006a U+0020 U+0069 U+0020 U+006e	7	Qiandong, West,Qiandong, East	njin⁵³, njin⁵³, ɬjin⁴⁴, njin²², njin²²
+ʈoŋ	ʈ o ŋ	ʈ o ŋ	m n c	U+0288 U+0020 U+006f U+0020 U+014b	7	Chuanqiandian, Southern Guizhou,Chuanqiandian,Luobuohe, Western	nʈoŋ⁴⁴, ɳʈoŋ³², ɳʈoŋ³¹, ɳʈoŋ³¹, ɳʈoŋ³¹
+uẽ	u ẽ ∼	u ẽ ∼	m n c	U+0075 U+0020 U+1ebd U+0020 U+223c	6	Qiandong, West	puẽ∼³³, tɕuẽ∼²², luẽ∼⁵³, tuẽ∼³³, ɕʰuẽ∼¹³
 len	l e n	l e n	m n c	U+006c U+0020 U+0065 U+0020 U+006e	6	Luobuohe, Western,Luobuohe, Eastern	qlen³¹, qlen³¹, ʔlen²⁴, ʔlen²⁴, ʔlen³¹
+taŋ	t a ŋ	t a ŋ	m n c	U+0074 U+0020 U+0061 U+0020 U+014b	6	Chuanqiandian, Southern Guizhou,Baheng, East,Chuanqiandian	ntaŋ⁴³, ntaŋ³¹³, ntaŋ⁴³, ntaŋ³³, ntaŋ⁴⁴
 jẽ	j ẽ ∼	j ẽ ∼	m n c	U+006a U+0020 U+1ebd U+0020 U+223c	6	Qiandong, West	mjẽ∼⁵⁵, njẽ∼²², tʰjẽ∼⁵³, tjẽ∼³³, tjẽ∼²²
-ʈoŋ	ʈ o ŋ	ʈ o ŋ	m n c	U+0288 U+0020 U+006f U+0020 U+014b	6	Chuanqiandian,Luobuohe, Western	nʈoŋ⁴⁴, ɳʈoŋ³¹, ɳʈoŋ³¹, ɳʈoŋ³¹, ɳʈoŋ³¹
-wɑŋ	w ɑ ŋ	w ɑ ŋ	m n c	U+0077 U+0020 U+0251 U+0020 U+014b	6	Luobuohe, Western	qʰwɑŋ⁵⁵, χwɑŋ³¹, wɑŋ⁵⁵, qʰwɑŋ³¹, qwɑŋ³⁵
-uẽ	u ẽ ∼	u ẽ ∼	m n c	U+0075 U+0020 U+1ebd U+0020 U+223c	6	Qiandong, West	puẽ∼³³³, ɕʰuẽ∼¹³, tɕuẽ∼²², tuẽ∼³³, luẽ∼⁵³
-taŋ	t a ŋ	t a ŋ	m n c	U+0074 U+0020 U+0061 U+0020 U+014b	5	Baheng, East,Chuanqiandian	ntaŋ⁴³, ntaŋ³¹³, ntaŋ⁴³, ntaŋ³³, ntaŋ⁴⁴
-lõ	l õ ∼	l õ ∼	m n c	U+006c U+0020 U+00f5 U+0020 U+223c	4	Chuanqiandian, Central Guizhou	plõ∼²⁴, mlõ∼²², plõ∼¹³, plõ∼¹³
-tjuŋ	tj u ŋ	tj u ŋ	m n c	U+0074 U+006a U+0020 U+0075 U+0020 U+014b	4	Baheng, East	ntjuŋ³⁵, ntjuŋ³⁵, ntjuŋ³⁵, ntjuŋ³¹³
-dzɑŋ	dz ɑ ŋ	dz ɑ ŋ	m n c	U+0064 U+007a U+0020 U+0251 U+0020 U+014b	4	Luobuohe, Western	ndzɑŋ⁵⁵, ndzɑŋ³¹, ndzɑŋ⁵⁵, ndzɑŋ³¹
-jæ̃	j æ̃ ∼	j æ̃ ∼	m n c	U+006a U+0020 U+00e6 U+0303 U+0020 U+223c	4	Qiandong, West	tjæ̃∼⁴⁴, tjæ̃∼⁴⁴, tjæ̃∼⁴⁴, ɬʰjæ̃∼³³
-daŋ	d a ŋ	d a ŋ	m n c	U+0064 U+0020 U+0061 U+0020 U+014b	4	Luobuohe, Eastern	ndaŋ²⁴, ndaŋ³¹, ndaŋ³¹, ndaŋ³¹
-guŋ	g u ŋ	g u ŋ	m n c	U+0067 U+0020 U+0075 U+0020 U+014b	4	Luobuohe, Eastern	ŋguŋ³¹, ŋguŋ³¹, ŋguŋ³¹, ŋguŋ²⁴
+ʈaŋ	ʈ a ŋ	ʈ a ŋ	m n c	U+0288 U+0020 U+0061 U+0020 U+014b	5	Chuanqiandian,Chuanqiandian, Southern Guizhou	ɳʈaŋ³², ɳʈaŋ²², ɳʈaŋ⁴⁴, nʈaŋ⁴³, ɳʈaŋ³²
+tɕaŋ	tɕ a ŋ	tɕ a ŋ	m n c	U+0074 U+0255 U+0020 U+0061 U+0020 U+014b	5	Chuanqiandian,Baheng, East,Chuanqiandian, Southern Guizhou	ȵtɕaŋ¹³, ȵtɕaŋ⁵⁵, ȵtɕaŋ¹¹, ȵtɕaŋ⁴⁴, ȵtɕaŋ³¹
+kaŋ	k a ŋ	k a ŋ	m n c	U+006b U+0020 U+0061 U+0020 U+014b	5	Chuanqiandian,Chuanqiandian, Southern Guizhou	ŋkaŋ¹³, ŋkaŋ¹³, ŋkaŋ³⁵, ŋkaŋ⁵⁵, ŋkaŋ²³²
 lɑŋ	l ɑ ŋ	l ɑ ŋ	m n c	U+006c U+0020 U+0251 U+0020 U+014b	4	Luobuohe, Western	qlɑŋ³¹, ʔlɑŋ³¹, ʔlɑŋ⁵⁵, qlɑŋ³¹
-tɕin	tɕ i n	tɕ i n	m n c	U+0074 U+0255 U+0020 U+0069 U+0020 U+006e	3	Luobuohe, Western	ȵtɕin³⁵, ȵtɕin³⁵, ȵtɕin³⁵
+lõ	l õ ∼	l õ ∼	m n c	U+006c U+0020 U+00f5 U+0020 U+223c	4	Chuanqiandian, Central Guizhou	plõ∼²⁴, mlõ∼²², plõ∼¹³, plõ∼¹³
+guŋ	g u ŋ	g u ŋ	m n c	U+0067 U+0020 U+0075 U+0020 U+014b	4	Luobuohe, Eastern	ŋguŋ³¹, ŋguŋ³¹, ŋguŋ³¹, ŋguŋ²⁴
+jæ̃	j æ̃ ∼	j æ̃ ∼	m n c	U+006a U+0020 U+00e6 U+0303 U+0020 U+223c	4	Qiandong, West	tjæ̃∼⁴⁴, tjæ̃∼⁴⁴, tjæ̃∼⁴⁴, ɬʰjæ̃∼³³
+tjuŋ	tj u ŋ	tj u ŋ	m n c	U+0074 U+006a U+0020 U+0075 U+0020 U+014b	4	Baheng, East	ntjuŋ³⁵, ntjuŋ³⁵, ntjuŋ³⁵, ntjuŋ³¹³
 ben	b e n	b e n	m n c	U+0062 U+0020 U+0065 U+0020 U+006e	3	Luobuohe, Western	mben³¹, mben⁵⁵, mben⁵⁵
-luŋ	l u ŋ	l u ŋ	m n c	U+006c U+0020 U+0075 U+0020 U+014b	3	Luobuohe, Eastern	qluŋ⁵⁵, pluŋ⁵⁵, qluŋ⁵⁵
-dzaŋ	dz a ŋ	dz a ŋ	m n c	U+0064 U+007a U+0020 U+0061 U+0020 U+014b	3	Luobuohe, Eastern	ndzaŋ⁵⁵, ndzaŋ⁵⁵, ndzaŋ³¹
-plõ	pl õ ∼	pl õ ∼	m n c	U+0070 U+006c U+0020 U+00f5 U+0020 U+223c	3	Chuanqiandian, Central Guizhou	mplõ∼⁵⁵, mplõ∼⁵⁵, mplõ∼⁵⁵
+tsaŋ	ts a ŋ	ts a ŋ	m n c	U+0074 U+0073 U+0020 U+0061 U+0020 U+014b	3	Chuanqiandian, Southern Guizhou	ntsaŋ¹³, ntsaŋ¹³, ntsaŋ¹³
 goŋ	g o ŋ	g o ŋ	m n c	U+0067 U+0020 U+006f U+0020 U+014b	3	Luobuohe, Western	ŋgoŋ³¹, ŋgoŋ³¹, ŋgoŋ³⁵
-ɢwaŋ	ɢw a ŋ	ɢw a ŋ	m n c	U+0262 U+0077 U+0020 U+0061 U+0020 U+014b	3	Luobuohe, Eastern	ŋɢwaŋ³¹, ŋɢwaŋ²⁴, ŋɢwaŋ²⁴
+luŋ	l u ŋ	l u ŋ	m n c	U+006c U+0020 U+0075 U+0020 U+014b	3	Luobuohe, Eastern	qluŋ⁵⁵, pluŋ⁵⁵, qluŋ⁵⁵
+plõ	pl õ ∼	pl õ ∼	m n c	U+0070 U+006c U+0020 U+00f5 U+0020 U+223c	3	Chuanqiandian, Central Guizhou	mplõ∼⁵⁵, mplõ∼⁵⁵, mplõ∼⁵⁵
+ploŋ	pl o ŋ	pl o ŋ	m n c	U+0070 U+006c U+0020 U+006f U+0020 U+014b	3	Chuanqiandian, Southern Guizhou,Chuanqiandian	mploŋ³¹, mploŋ³¹, mploŋ⁵⁵
+tɕin	tɕ i n	tɕ i n	m n c	U+0074 U+0255 U+0020 U+0069 U+0020 U+006e	3	Luobuohe, Western	ȵtɕin³⁵, ȵtɕin³⁵, ȵtɕin³⁵
 tõ	t õ ∼	t õ ∼	m n c	U+0074 U+0020 U+00f5 U+0020 U+223c	3	Chuanqiandian, Central Guizhou	ntõ∼¹³, ntõ∼²², ntõ∼⁴²
-qĩ	q ĩ ∼	q ĩ ∼	m n c	U+0071 U+0020 U+0129 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqĩ∼²⁴, ŋqĩ∼²⁴
-iaŋ	i a ŋ	i a ŋ	m n c	U+0069 U+0020 U+0061 U+0020 U+014b	2	Baheng, West,Luobuohe, Eastern	siaŋ⁵⁵, hiaŋ⁵⁵
-tɕã	tɕ ã ∼	tɕ ã ∼	m n c	U+0074 U+0255 U+0020 U+00e3 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ȵtɕã∼²², ȵtɕã∼²⁴
-tʂõ	tʂ õ ∼	tʂ õ ∼	m n c	U+0074 U+0282 U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntʂõ∼²², ntʂõ∼²²
-dʑin	dʑ i n	dʑ i n	m n c	U+0064 U+0291 U+0020 U+0069 U+0020 U+006e	2	Luobuohe, Eastern,Luobuohe, Western	ȵdʑin³¹, ȵdʑin³¹
-ʈʰoŋ	ʈʰ o ŋ	ʈʰ o ŋ	m n c	U+0288 U+02b0 U+0020 U+006f U+0020 U+014b	2	Luobuohe, Western,Chuanqiandian	ɳʈʰoŋ³¹, nʈʰoŋ⁴³
-tɑŋ	t ɑ ŋ	t ɑ ŋ	m n c	U+0074 U+0020 U+0251 U+0020 U+014b	2	Luobuohe, Western	ntɑŋ³¹, ntɑŋ⁵⁵
-woŋ	w o ŋ	w o ŋ	m n c	U+0077 U+0020 U+006f U+0020 U+014b	2	Baheng, West	woŋ³⁵, woŋ³⁵
-tə̃	t ə̃ ∼	t ə̃ ∼	m n c	U+0074 U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntə̃∼²², ntə̃∼²⁴
-kaŋ	k a ŋ	k a ŋ	m n c	U+006b U+0020 U+0061 U+0020 U+014b	2	Chuanqiandian	ŋkaŋ¹³, ŋkaŋ¹³
+wɑŋ	w ɑ ŋ	w ɑ ŋ	m n c	U+0077 U+0020 U+0251 U+0020 U+014b	3	Luobuohe, Western	qʰwɑŋ⁵⁵, wɑŋ⁵⁵, qʰwɑŋ³¹
+plaŋ	pl a ŋ	pl a ŋ	m n c	U+0070 U+006c U+0020 U+0061 U+0020 U+014b	3	Chuanqiandian, Southern Guizhou	mplaŋ⁵³, mplaŋ⁵³, mplaŋ⁵³
+ɢʷaŋ	ɢʷ a ŋ	ɢʷ a ŋ	m n c	U+0262 U+02b7 U+0020 U+0061 U+0020 U+014b	3	Luobuohe, Eastern	ŋɢʷaŋ³¹, ŋɢʷaŋ²⁴, ŋɢʷaŋ²⁴
+qõ	q õ ∼	q õ ∼	m n c	U+0071 U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqõ∼⁴², ŋqõ∼⁴²
+qen	q e n	q e n	m n c	U+0071 U+0020 U+0065 U+0020 U+006e	2	Chuanqiandian	ŋqen⁴³, ŋqen⁴³
+tʂã	tʂ ã ∼	tʂ ã ∼	m n c	U+0074 U+0282 U+0020 U+00e3 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntʂã∼²⁴, ntʂã∼²⁴
 tsʰen	tsʰ e n	tsʰ e n	m n c	U+0074 U+0073 U+02b0 U+0020 U+0065 U+0020 U+006e	2	Luobuohe, Eastern,Luobuohe, Western	ntsʰen⁴⁴, ntsʰen⁴⁴
+ɬə̃	ɬ ə̃ ∼	ɬ ə̃ ∼	m n c	U+026c U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	tɬə̃∼²⁴, tɬə̃∼⁵⁵
+pin	p i n	p i n	m n c	U+0070 U+0020 U+0069 U+0020 U+006e	2	Chuanqiandian, Southern Guizhou	mpin¹¹, mpin¹¹
+tʂõ	tʂ õ ∼	tʂ õ ∼	m n c	U+0074 U+0282 U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntʂõ∼²², ntʂõ∼²²
+uaŋ	u a ŋ	u a ŋ	m n c	U+0075 U+0020 U+0061 U+0020 U+014b	2	Luobuohe, Eastern,Chuanqiandian	tʂuaŋ⁴³, tsʰuaŋ³³
+ken	k e n	k e n	m n c	U+006b U+0020 U+0065 U+0020 U+006e	2	Chuanqiandian, Southern Guizhou,Chuanqiandian	ŋken³², ŋken²¹
+kæn	k æ n	k æ n	m n c	U+006b U+0020 U+00e6 U+0020 U+006e	2	Chuanqiandian, Southern Guizhou	ŋkæn³², ŋkæn⁵⁵
+lə̃	l ə̃ ∼	l ə̃ ∼	m n c	U+006c U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	mlə̃∼²², mlə̃∼³¹
+dʑin	dʑ i n	dʑ i n	m n c	U+0064 U+0291 U+0020 U+0069 U+0020 U+006e	2	Luobuohe, Eastern,Luobuohe, Western	ȵdʑin³¹, ȵdʑin³¹
+woŋ	w o ŋ	w o ŋ	m n c	U+0077 U+0020 U+006f U+0020 U+014b	2	Baheng, West	woŋ³⁵, woŋ³⁵
+bloŋ	bl o ŋ	bl o ŋ	m n c	U+0062 U+006c U+0020 U+006f U+0020 U+014b	2	Luobuohe, Western	mbloŋ³¹, mbloŋ³¹
+bluŋ	bl u ŋ	bl u ŋ	m n c	U+0062 U+006c U+0020 U+0075 U+0020 U+014b	2	Luobuohe, Eastern	mbluŋ³¹, mbluŋ³¹
+qə̃	q ə̃ ∼	q ə̃ ∼	m n c	U+0071 U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqə̃∼⁵⁵, ŋqə̃∼⁵⁵
+tɑŋ	t ɑ ŋ	t ɑ ŋ	m n c	U+0074 U+0020 U+0251 U+0020 U+014b	2	Luobuohe, Western	ntɑŋ³¹, ntɑŋ⁵⁵
+tə̃	t ə̃ ∼	t ə̃ ∼	m n c	U+0074 U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntə̃∼²², ntə̃∼²⁴
+paŋ	p a ŋ	p a ŋ	m n c	U+0070 U+0020 U+0061 U+0020 U+014b	2	Luobuohe, Eastern,Baheng, East	mpaŋ²⁴, mpaŋ⁵⁵
 lɛn	l ɛ n	l ɛ n	m n c	U+006c U+0020 U+025b U+0020 U+006e	2	Luobuohe, Eastern	qlɛn⁵⁵, qlɛn⁵⁵
 põ	p õ ∼	p õ ∼	m n c	U+0070 U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	mpõ∼³¹, mpõ∼⁴²
-wuŋ	w u ŋ	w u ŋ	m n c	U+0077 U+0020 U+0075 U+0020 U+014b	2	Baheng, East	wuŋ³³, wuŋ³³
-tʂã	tʂ ã ∼	tʂ ã ∼	m n c	U+0074 U+0282 U+0020 U+00e3 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ntʂã∼²⁴, ntʂã∼²⁴
-qõ	q õ ∼	q õ ∼	m n c	U+0071 U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqõ∼⁴², ŋqõ∼⁴²
-ploŋ	pl o ŋ	pl o ŋ	m n c	U+0070 U+006c U+0020 U+006f U+0020 U+014b	2	Chuanqiandian	mploŋ³¹, mploŋ³¹
-lə̃	l ə̃ ∼	l ə̃ ∼	m n c	U+006c U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	mlə̃∼²², mlə̃∼³¹
-bloŋ	bl o ŋ	bl o ŋ	m n c	U+0062 U+006c U+0020 U+006f U+0020 U+014b	2	Luobuohe, Western	mbloŋ³¹, mbloŋ³¹
-qə̃	q ə̃ ∼	q ə̃ ∼	m n c	U+0071 U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqə̃∼⁵⁵, ŋqə̃∼⁵⁵
-ʁen	ʁ e n	ʁ e n	m n c	U+0281 U+0020 U+0065 U+0020 U+006e	2	Luobuohe, Eastern	qʁen³³, qʁen³³
-ɬə̃	ɬ ə̃ ∼	ɬ ə̃ ∼	m n c	U+026c U+0020 U+0259 U+0303 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	tɬə̃∼⁵⁵, tɬə̃∼²⁴
-uaŋ	u a ŋ	u a ŋ	m n c	U+0075 U+0020 U+0061 U+0020 U+014b	2	Luobuohe, Eastern,Chuanqiandian	tʂuaŋ⁴³, tsʰuaŋ³³
 baŋ	b a ŋ	b a ŋ	m n c	U+0062 U+0020 U+0061 U+0020 U+014b	2	Luobuohe, Eastern	mbaŋ³¹, mbaŋ²⁴
-dzoŋ	dz o ŋ	dz o ŋ	m n c	U+0064 U+007a U+0020 U+006f U+0020 U+014b	2	Luobuohe, Western	ndzoŋ⁵⁵, ndzoŋ³¹
-bluŋ	bl u ŋ	bl u ŋ	m n c	U+0062 U+006c U+0020 U+0075 U+0020 U+014b	2	Luobuohe, Eastern	mbluŋ³¹, mbluŋ³¹
+qĩ	q ĩ ∼	q ĩ ∼	m n c	U+0071 U+0020 U+0129 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ŋqĩ∼²⁴, ŋqĩ∼²⁴
+tɕoŋ	tɕ o ŋ	tɕ o ŋ	m n c	U+0074 U+0255 U+0020 U+006f U+0020 U+014b	2	Chuanqiandian, Southern Guizhou,Chuanqiandian	ȵtɕoŋ⁴⁴, ȵtɕoŋ⁵⁵
 ɬõ	ɬ õ ∼	ɬ õ ∼	m n c	U+026c U+0020 U+00f5 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	tɬõ∼¹³, tɬõ∼²⁴
-tɕaŋ	tɕ a ŋ	tɕ a ŋ	m n c	U+0074 U+0255 U+0020 U+0061 U+0020 U+014b	2	Baheng, East,Chuanqiandian	ȵtɕaŋ¹¹, ȵtɕaŋ³¹
-paŋ	p a ŋ	p a ŋ	m n c	U+0070 U+0020 U+0061 U+0020 U+014b	2	Baheng, East,Luobuohe, Eastern	mpaŋ²⁴, mpaŋ⁵⁵
-qen	q e n	q e n	m n c	U+0071 U+0020 U+0065 U+0020 U+006e	2	Chuanqiandian	ŋqen⁴³, ŋqen⁴³
-dzuŋ	dz u ŋ	dz u ŋ	m n c	U+0064 U+007a U+0020 U+0075 U+0020 U+014b	2	Luobuohe, Eastern	ndzuŋ²⁴, ndzuŋ³¹
-tɕeŋ	tɕ e ŋ	tɕ e ŋ	m n c	U+0074 U+0255 U+0020 U+0065 U+0020 U+014b	1	Baheng, East	ȵtɕeŋ³¹³
-ɹen	ɹ e n	ɹ e n	m n c	U+0279 U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Eastern	qɹen³¹
-jiŋ	j i ŋ	j i ŋ	m n c	U+006a U+0020 U+0069 U+0020 U+014b	1	Baheng, West	jiŋ¹¹
-jun	j u n	j u n	m n c	U+006a U+0020 U+0075 U+0020 U+006e	1	Qiandong, West	ɬjun³³
-ɢaŋ	ɢ a ŋ	ɢ a ŋ	m n c	U+0262 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋɢaŋ³¹
-jeŋ	j e ŋ	j e ŋ	m n c	U+006a U+0020 U+0065 U+0020 U+014b	1	Qiandong, East	njeŋ²²
-tʂə̃	tʂ ə̃ ∼	tʂ ə̃ ∼	m n c	U+0074 U+0282 U+0020 U+0259 U+0303 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ntʂə̃∼²²
-ɹaŋ	ɹ a ŋ	ɹ a ŋ	m n c	U+0279 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	qɹaŋ²⁴
-kĩ	k ĩ ∼	k ĩ ∼	m n c	U+006b U+0020 U+0129 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋkĩ∼³¹
-duŋ	d u ŋ	d u ŋ	m n c	U+0064 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	nduŋ²⁴
-loŋ	l o ŋ	l o ŋ	m n c	U+006c U+0020 U+006f U+0020 U+014b	1	Luobuohe, Western	qloŋ⁵⁵
-buŋ	b u ŋ	b u ŋ	m n c	U+0062 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	mbuŋ²⁴
-tsʰaŋ	tsʰ a ŋ	tsʰ a ŋ	m n c	U+0074 U+0073 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ntsʰaŋ⁵⁵
-pʰeŋ	pʰ e ŋ	pʰ e ŋ	m n c	U+0070 U+02b0 U+0020 U+0065 U+0020 U+014b	1	Baheng, East	mpʰeŋ³¹³
-ɖaŋ	ɖ a ŋ	ɖ a ŋ	m n c	U+0256 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ɳɖaŋ³¹
-tin	t i n	t i n	m n c	U+0074 U+0020 U+0069 U+0020 U+006e	1	Luobuohe, Eastern	ntin⁵⁵
-boŋ	b o ŋ	b o ŋ	m n c	U+0062 U+0020 U+006f U+0020 U+014b	1	Luobuohe, Western	mboŋ³⁵
-tɕõ	tɕ õ ∼	tɕ õ ∼	m n c	U+0074 U+0255 U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ȵtɕõ∼⁴²
-kuŋ	k u ŋ	k u ŋ	m n c	U+006b U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ŋkuŋ³³
-uen	u e n	u e n	m n c	U+0075 U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian	ʑuen³¹
-bin	b i n	b i n	m n c	U+0062 U+0020 U+0069 U+0020 U+006e	1	Luobuohe, Eastern	mbin³¹
-tʰaŋ	tʰ a ŋ	tʰ a ŋ	m n c	U+0074 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ntʰaŋ⁴³
-qã	q ã ∼	q ã ∼	m n c	U+0071 U+0020 U+00e3 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋqã∼²⁴
-uã	u ã ∼	u ã ∼	m n c	U+0075 U+0020 U+00e3 U+0020 U+223c	1	Luobuohe, Western	tsuã∼⁵⁵
-qaŋ	q a ŋ	q a ŋ	m n c	U+0071 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ŋqaŋ⁴⁴
-pẽ	p ẽ ∼	p ẽ ∼	m n c	U+0070 U+0020 U+1ebd U+0020 U+223c	1	Chuanqiandian, Central Guizhou	mpẽ∼³¹
-gaŋ	g a ŋ	g a ŋ	m n c	U+0067 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋgaŋ⁵⁵
-tʂʰõ	tʂʰ õ ∼	tʂʰ õ ∼	m n c	U+0074 U+0282 U+02b0 U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ntʂʰõ∼²⁴
-lẽ	l ẽ ∼	l ẽ ∼	m n c	U+006c U+0020 U+1ebd U+0020 U+223c	1	Chuanqiandian, Central Guizhou	plẽ∼³¹
-tʂʰaŋ	tʂʰ a ŋ	tʂʰ a ŋ	m n c	U+0074 U+0282 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ntʂʰaŋ⁵⁵
-dʑoŋ	dʑ o ŋ	dʑ o ŋ	m n c	U+0064 U+0291 U+0020 U+006f U+0020 U+014b	1	Luobuohe, Western	ȵdʑoŋ³⁵
-qʰen	qʰ e n	qʰ e n	m n c	U+0071 U+02b0 U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Western	ŋqʰen³¹
-pə̃	p ə̃ ∼	p ə̃ ∼	m n c	U+0070 U+0020 U+0259 U+0303 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	mpə̃∼⁴²
-tsʰɑŋ	tsʰ ɑ ŋ	tsʰ ɑ ŋ	m n c	U+0074 U+0073 U+02b0 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ntsʰɑŋ⁵⁵
-tʰjuŋ	tʰj u ŋ	tʰj u ŋ	m n c	U+0074 U+02b0 U+006a U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ntʰjuŋ³⁵
-kõ	k õ ∼	k õ ∼	m n c	U+006b U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋkõ∼²²
-qwaŋ	qw a ŋ	qw a ŋ	m n c	U+0071 U+0077 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋqwaŋ²⁴
-ɬʰã	ɬʰ ã ∼	ɬʰ ã ∼	m n c	U+026c U+02b0 U+0020 U+00e3 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	tɬʰã∼⁴²
-tɕoŋ	tɕ o ŋ	tɕ o ŋ	m n c	U+0074 U+0255 U+0020 U+006f U+0020 U+014b	1	Chuanqiandian	ȵtɕoŋ⁴⁴
-tɕuŋ	tɕ u ŋ	tɕ u ŋ	m n c	U+0074 U+0255 U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ȵtɕuŋ³⁵
+wuŋ	w u ŋ	w u ŋ	m n c	U+0077 U+0020 U+0075 U+0020 U+014b	2	Baheng, East	wuŋ³³, wuŋ³³
+loŋ	l o ŋ	l o ŋ	m n c	U+006c U+0020 U+006f U+0020 U+014b	2	Chuanqiandian, Southern Guizhou,Luobuohe, Western	ploŋ⁴², qloŋ⁵⁵
+ʈʰoŋ	ʈʰ o ŋ	ʈʰ o ŋ	m n c	U+0288 U+02b0 U+0020 U+006f U+0020 U+014b	2	Luobuohe, Western,Chuanqiandian	ɳʈʰoŋ³¹, nʈʰoŋ⁴³
+ʁen	ʁ e n	ʁ e n	m n c	U+0281 U+0020 U+0065 U+0020 U+006e	2	Luobuohe, Eastern	qʁen³³, qʁen³³
+tɕã	tɕ ã ∼	tɕ ã ∼	m n c	U+0074 U+0255 U+0020 U+00e3 U+0020 U+223c	2	Chuanqiandian, Central Guizhou	ȵtɕã∼²², ȵtɕã∼²⁴
+iaŋ	i a ŋ	i a ŋ	m n c	U+0069 U+0020 U+0061 U+0020 U+014b	2	Luobuohe, Eastern,Baheng, West	siaŋ⁵⁵, hiaŋ⁵⁵
 pɑŋ	p ɑ ŋ	p ɑ ŋ	m n c	U+0070 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	mpɑŋ³⁵
-ɢwɑŋ	ɢw ɑ ŋ	ɢw ɑ ŋ	m n c	U+0262 U+0077 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ŋɢwɑŋ³¹
-dʑuŋ	dʑ u ŋ	dʑ u ŋ	m n c	U+0064 U+0291 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ȵdʑuŋ²⁴
-qlaŋ	ql a ŋ	ql a ŋ	m n c	U+0071 U+006c U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋqlaŋ³¹
-dɑŋ	d ɑ ŋ	d ɑ ŋ	m n c	U+0064 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ndɑŋ³⁵
-dʑaŋ	dʑ a ŋ	dʑ a ŋ	m n c	U+0064 U+0291 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ȵdʑaŋ³¹
-ʈaŋ	ʈ a ŋ	ʈ a ŋ	m n c	U+0288 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	nʈaŋ⁴³
-dzen	dz e n	dz e n	m n c	U+0064 U+007a U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Eastern	ndzen²⁴
-blen	bl e n	bl e n	m n c	U+0062 U+006c U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Western	mblen³⁵
-ken	k e n	k e n	m n c	U+006b U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian	ŋken²¹
-ʈɑŋ	ʈ ɑ ŋ	ʈ ɑ ŋ	m n c	U+0288 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ɳʈɑŋ⁵⁵
-gɑŋ	g ɑ ŋ	g ɑ ŋ	m n c	U+0067 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ŋgɑŋ⁵⁵
-dʑɑŋ	dʑ ɑ ŋ	dʑ ɑ ŋ	m n c	U+0064 U+0291 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ȵdʑɑŋ³¹
-ɖuŋ	ɖ u ŋ	ɖ u ŋ	m n c	U+0256 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳɖuŋ³¹
-jøŋ	j ø ŋ	j ø ŋ	m n c	U+006a U+0020 U+00f8 U+0020 U+014b	1	Luobuohe, Western	jøŋ³¹
-den	d e n	d e n	m n c	U+0064 U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Western	nden³¹
-tɕʰaŋ	tɕʰ a ŋ	tɕʰ a ŋ	m n c	U+0074 U+0255 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Baheng, East	ȵtɕʰaŋ⁵⁵
-jɑŋ	j ɑ ŋ	j ɑ ŋ	m n c	U+006a U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	jɑŋ⁵⁵
-ʈʰuŋ	ʈʰ u ŋ	ʈʰ u ŋ	m n c	U+0288 U+02b0 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳʈʰuŋ³¹
-ʈuŋ	ʈ u ŋ	ʈ u ŋ	m n c	U+0288 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳʈuŋ³¹
-ɖɑŋ	ɖ ɑ ŋ	ɖ ɑ ŋ	m n c	U+0256 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ɳɖɑŋ³⁵
+pə̃	p ə̃ ∼	p ə̃ ∼	m n c	U+0070 U+0020 U+0259 U+0303 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	mpə̃∼⁴²
 tsen	ts e n	ts e n	m n c	U+0074 U+0073 U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian	ntsen⁵⁵
-ua	u a	u a	m n	U+0075 U+0020 U+0061	137	Luobuohe, Eastern,Baheng, West,Baheng, East,Qiandong, East,Qiandong, West,Chuanqiandian	tɕua⁴⁴, tʂua⁵⁵, tʂʰua⁴³, pua¹³, ʂua⁴³
-ja	j a	j a	m n	U+006a U+0020 U+0061	80	Luobuohe, Eastern,Luobuohe, Western,Baheng, East,Qiandong, East,Baheng, West,Qiandong, West	lja⁵⁵, lja⁵⁵, pja³³, lja⁴⁴, lja⁴⁴
-je	j e	j e	m n	U+006a U+0020 U+0065	73	Qiandong, East,Luobuohe, Eastern,Qiandong, West,Baheng, West,Baheng, East,Luobuohe, Western	tje⁵⁵, lje⁵³, je⁴², lje¹³, je³³
-jei	j ei	j ei	m n	U+006a U+0020 U+0065 U+0069	68	Qiandong, East,Baheng, East,Baheng, West	njei³³, ljei³⁵, jei³³, ljei³³, tjei⁵⁵
-jo	j o	j o	m n	U+006a U+0020 U+006f	60	Luobuohe, Eastern,Qiandong, East,Qiandong, West,Baheng, East,Baheng, West	ljo²⁴, njo³¹, jo³⁵, jo³⁵, pʰjo³⁵
-ju	j u	j u	m n	U+006a U+0020 U+0075	49	Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Baheng, West,Qiandong, West	tju²⁴, tju³³, tju³³, ʔju⁵⁵, ʔju⁵⁵
-ue	u e	u e	m n	U+0075 U+0020 U+0065	48	Qiandong, East,Qiandong, West	tue³³, tue⁴⁴, pʰue²⁴, pue²⁴, ɬue²¹
+kõ	k õ ∼	k õ ∼	m n c	U+006b U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋkõ∼²²
+dʑɑŋ	dʑ ɑ ŋ	dʑ ɑ ŋ	m n c	U+0064 U+0291 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ȵdʑɑŋ³¹
+pẽ	p ẽ ∼	p ẽ ∼	m n c	U+0070 U+0020 U+1ebd U+0020 U+223c	1	Chuanqiandian, Central Guizhou	mpẽ∼³¹
+ɖuŋ	ɖ u ŋ	ɖ u ŋ	m n c	U+0256 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳɖuŋ³¹
+ʈʰuŋ	ʈʰ u ŋ	ʈʰ u ŋ	m n c	U+0288 U+02b0 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳʈʰuŋ³¹
+kəŋ	k ə ŋ	k ə ŋ	m n c	U+006b U+0020 U+0259 U+0020 U+014b	1	Chuanqiandian, Southern Guizhou	ŋkəŋ¹³
+lẽ	l ẽ ∼	l ẽ ∼	m n c	U+006c U+0020 U+1ebd U+0020 U+223c	1	Chuanqiandian, Central Guizhou	plẽ∼³¹
+tæn	t æ n	t æ n	m n c	U+0074 U+0020 U+00e6 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	ntæn⁵⁵
+koŋ	k o ŋ	k o ŋ	m n c	U+006b U+0020 U+006f U+0020 U+014b	1	Chuanqiandian, Southern Guizhou	ŋkoŋ⁵³
+tɕen	tɕ e n	tɕ e n	m n c	U+0074 U+0255 U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	ȵtɕen¹¹
+jɑŋ	j ɑ ŋ	j ɑ ŋ	m n c	U+006a U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	jɑŋ⁵⁵
+bin	b i n	b i n	m n c	U+0062 U+0020 U+0069 U+0020 U+006e	1	Luobuohe, Eastern	mbin³¹
+dʑaŋ	dʑ a ŋ	dʑ a ŋ	m n c	U+0064 U+0291 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ȵdʑaŋ³¹
+tsæn	ts æ n	ts æ n	m n c	U+0074 U+0073 U+0020 U+00e6 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	ntsæn²²
+tɕeŋ	tɕ e ŋ	tɕ e ŋ	m n c	U+0074 U+0255 U+0020 U+0065 U+0020 U+014b	1	Baheng, East	ȵtɕeŋ³¹³
+tʂʰaŋ	tʂʰ a ŋ	tʂʰ a ŋ	m n c	U+0074 U+0282 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ntʂʰaŋ⁵⁵
+qwaŋ	qw a ŋ	qw a ŋ	m n c	U+0071 U+0077 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋqwaŋ²⁴
+ɖɑŋ	ɖ ɑ ŋ	ɖ ɑ ŋ	m n c	U+0256 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ɳɖɑŋ³⁵
+tɕuŋ	tɕ u ŋ	tɕ u ŋ	m n c	U+0074 U+0255 U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ȵtɕuŋ³⁵
+blen	bl e n	bl e n	m n c	U+0062 U+006c U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Western	mblen³⁵
+pʰeŋ	pʰ e ŋ	pʰ e ŋ	m n c	U+0070 U+02b0 U+0020 U+0065 U+0020 U+014b	1	Baheng, East	mpʰeŋ³¹³
+kuŋ	k u ŋ	k u ŋ	m n c	U+006b U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ŋkuŋ³³
+gaŋ	g a ŋ	g a ŋ	m n c	U+0067 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋgaŋ⁵⁵
+læn	l æ n	l æ n	m n c	U+006c U+0020 U+00e6 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	plæn³²
+kĩ	k ĩ ∼	k ĩ ∼	m n c	U+006b U+0020 U+0129 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋkĩ∼³¹
+gɑŋ	g ɑ ŋ	g ɑ ŋ	m n c	U+0067 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ŋgɑŋ⁵⁵
+tʂʰõ	tʂʰ õ ∼	tʂʰ õ ∼	m n c	U+0074 U+0282 U+02b0 U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ntʂʰõ∼²⁴
+qaŋ	q a ŋ	q a ŋ	m n c	U+0071 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ŋqaŋ⁴⁴
+plæn	pl æ n	pl æ n	m n c	U+0070 U+006c U+0020 U+00e6 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	mplæn⁵³
+ɹaŋ	ɹ a ŋ	ɹ a ŋ	m n c	U+0279 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	qɹaŋ²⁴
+ian	i a n	i a n	m n c	U+0069 U+0020 U+0061 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	tʰian²¹
+ɬʰã	ɬʰ ã ∼	ɬʰ ã ∼	m n c	U+026c U+02b0 U+0020 U+00e3 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	tɬʰã∼⁴²
+qlaŋ	ql a ŋ	ql a ŋ	m n c	U+0071 U+006c U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋqlaŋ³¹
+ʈɑŋ	ʈ ɑ ŋ	ʈ ɑ ŋ	m n c	U+0288 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ɳʈɑŋ⁵⁵
+poŋ	p o ŋ	p o ŋ	m n c	U+0070 U+0020 U+006f U+0020 U+014b	1	Chuanqiandian, Southern Guizhou	mpoŋ⁵⁵
+tʰaŋ	tʰ a ŋ	tʰ a ŋ	m n c	U+0074 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian	ntʰaŋ⁴³
+buŋ	b u ŋ	b u ŋ	m n c	U+0062 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	mbuŋ²⁴
+dʑuŋ	dʑ u ŋ	dʑ u ŋ	m n c	U+0064 U+0291 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ȵdʑuŋ²⁴
+tsʰaŋ	tsʰ a ŋ	tsʰ a ŋ	m n c	U+0074 U+0073 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ntsʰaŋ⁵⁵
+jeŋ	j e ŋ	j e ŋ	m n c	U+006a U+0020 U+0065 U+0020 U+014b	1	Qiandong, East	njeŋ²²
+ɢʷɑŋ	ɢʷ ɑ ŋ	ɢʷ ɑ ŋ	m n c	U+0262 U+02b7 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ŋɢʷɑŋ³¹
+uã	u ã ∼	u ã ∼	m n c	U+0075 U+0020 U+00e3 U+0020 U+223c	1	Luobuohe, Western	tsuã∼⁵⁵
+jun	j u n	j u n	m n c	U+006a U+0020 U+0075 U+0020 U+006e	1	Qiandong, West	ɬjun³³
+ɹen	ɹ e n	ɹ e n	m n c	U+0279 U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Eastern	qɹen³¹
+tʂə̃	tʂ ə̃ ∼	tʂ ə̃ ∼	m n c	U+0074 U+0282 U+0020 U+0259 U+0303 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ntʂə̃∼²²
+boŋ	b o ŋ	b o ŋ	m n c	U+0062 U+0020 U+006f U+0020 U+014b	1	Luobuohe, Western	mboŋ³⁵
+ɢaŋ	ɢ a ŋ	ɢ a ŋ	m n c	U+0262 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ŋɢaŋ³¹
+ɖaŋ	ɖ a ŋ	ɖ a ŋ	m n c	U+0256 U+0020 U+0061 U+0020 U+014b	1	Luobuohe, Eastern	ɳɖaŋ³¹
+dʑoŋ	dʑ o ŋ	dʑ o ŋ	m n c	U+0064 U+0291 U+0020 U+006f U+0020 U+014b	1	Luobuohe, Western	ȵdʑoŋ³⁵
+tɕʰaŋ	tɕʰ a ŋ	tɕʰ a ŋ	m n c	U+0074 U+0255 U+02b0 U+0020 U+0061 U+0020 U+014b	1	Baheng, East	ȵtɕʰaŋ⁵⁵
+dlɦiaulɦ	d lɦiau lɦ	d lɦiau lɦ	m n c	U+0064 U+0020 U+006c U+0266 U+0069 U+0061 U+0075 U+0020 U+006c U+0266	1	Chuanqiandian, Northeast Yunnan	ndlɦi³⁵+ⁿdlɦau³¹
+ʈuŋ	ʈ u ŋ	ʈ u ŋ	m n c	U+0288 U+0020 U+0075 U+0020 U+014b	1	Luobuohe, Eastern	ɳʈuŋ³¹
+uen	u e n	u e n	m n c	U+0075 U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian	ʑuen³¹
+tʰjuŋ	tʰj u ŋ	tʰj u ŋ	m n c	U+0074 U+02b0 U+006a U+0020 U+0075 U+0020 U+014b	1	Baheng, East	ntʰjuŋ³⁵
+qʰen	qʰ e n	qʰ e n	m n c	U+0071 U+02b0 U+0020 U+0065 U+0020 U+006e	1	Luobuohe, Western	ŋqʰen³¹
+tin	t i n	t i n	m n c	U+0074 U+0020 U+0069 U+0020 U+006e	1	Luobuohe, Eastern	ntin⁵⁵
+pʐaŋ	pʐ a ŋ	pʐ a ŋ	m n c	U+0070 U+0290 U+0020 U+0061 U+0020 U+014b	1	Chuanqiandian, Southern Guizhou	mpʐaŋ²³²
+jiŋ	j i ŋ	j i ŋ	m n c	U+006a U+0020 U+0069 U+0020 U+014b	1	Baheng, West	jiŋ¹¹
+qã	q ã ∼	q ã ∼	m n c	U+0071 U+0020 U+00e3 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ŋqã∼²⁴
+plen	pl e n	pl e n	m n c	U+0070 U+006c U+0020 U+0065 U+0020 U+006e	1	Chuanqiandian, Southern Guizhou	mplen¹³
+tɕõ	tɕ õ ∼	tɕ õ ∼	m n c	U+0074 U+0255 U+0020 U+00f5 U+0020 U+223c	1	Chuanqiandian, Central Guizhou	ȵtɕõ∼⁴²
+tsʰɑŋ	tsʰ ɑ ŋ	tsʰ ɑ ŋ	m n c	U+0074 U+0073 U+02b0 U+0020 U+0251 U+0020 U+014b	1	Luobuohe, Western	ntsʰɑŋ⁵⁵
+jøŋ	j ø ŋ	j ø ŋ	m n c	U+006a U+0020 U+00f8 U+0020 U+014b	1	Luobuohe, Western	jøŋ³¹
+ua	u a	u a	m n	U+0075 U+0020 U+0061	182	Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan,Baheng, West,Baheng, East,Qiandong, East,Qiandong, West,Chuanqiandian, Southern Guizhou,Chuanqiandian	tʂua⁵⁵, tʂʰua⁴³, ʑua⁵⁵, pua¹³, ʂua⁴³
+ja	j a	j a	m n	U+006a U+0020 U+0061	80	Luobuohe, Eastern,Luobuohe, Western,Baheng, East,Qiandong, East,Baheng, West,Qiandong, West	lja⁵⁵, lja⁵⁵, pja³³, lja⁴⁴, mja²²
+je	j e	j e	m n	U+006a U+0020 U+0065	74	Chuanqiandian, Southern Guizhou,Qiandong, East,Luobuohe, Eastern,Qiandong, West,Baheng, West,Luobuohe, Western,Baheng, East	tje⁵⁵, lje⁵³, je⁴², lje¹³, je³³
+jei	j ei	j ei	m n	U+006a U+0020 U+0065 U+0069	68	Qiandong, East,Baheng, East,Baheng, West	njei³³, ljei³⁵, jei³³, tʰjei⁵³, tjei⁵⁵
+jo	j o	j o	m n	U+006a U+0020 U+006f	60	Luobuohe, Eastern,Qiandong, East,Qiandong, West,Baheng, East,Baheng, West	ljo²⁴, jo³⁵, jo³⁵, pʰjo³⁵, mjo³¹
+ju	j u	j u	m n	U+006a U+0020 U+0075	49	Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Baheng, West,Qiandong, West	tju²⁴, ju⁵⁵, tju³³, tju³³, ʔju⁵⁵
+ue	u e	u e	m n	U+0075 U+0020 U+0065	48	Qiandong, East,Qiandong, West	tue⁴⁴, tue³³, tue⁴⁴, pʰue²⁴, pue²⁴
 ji	j i	j i	m n	U+006a U+0020 U+0069	44	Luobuohe, Eastern,Luobuohe, Western,Baheng, West	ʔji³¹, ji²⁴, ji³⁵, ji³⁵, pʰji⁵⁵
-wa	w a	w a	m n	U+0077 U+0020 U+0061	38	Chuanqiandian, Central Guizhou,Chuanqiandian,Baheng, West,Baheng, East,Luobuohe, Eastern	kwa⁵⁵, qwa³¹, qwa²⁴, kwa⁵⁵, kwa⁵⁵
-jeu	j eu	j eu	m n	U+006a U+0020 U+0065 U+0075	38	Baheng, East,Qiandong, West,Baheng, West,Qiandong, East	tjeu⁴⁴, tjeu²¹, ljeu²², tjeu²⁴, njeu²⁴
-wei	w ei	w ei	m n	U+0077 U+0020 U+0065 U+0069	29	Luobuohe, Western,Baheng, West,Luobuohe, Eastern,Baheng, East	kwei³⁵, wei³¹, kwei³¹³, kwei³¹³, wei³¹
-to	t o	t o	m n	U+0074 U+0020 U+006f	27	Chuanqiandian, Central Guizhou,Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Chuanqiandian	nto³¹, nto⁵⁵, nto⁵⁵, nto³³, nto³¹
-jɔ	j ɔ	j ɔ	m n	U+006a U+0020 U+0254	22	Baheng, West,Qiandong, West	ljɔ⁴⁴, pjɔ⁴⁴, pjɔ⁴⁴, njɔ⁴⁴, pjɔ¹¹
+to	t o	t o	m n	U+0074 U+0020 U+006f	40	Chuanqiandian, Central Guizhou,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Baheng, East,Chuanqiandian	nto³¹, nto⁵⁵, nto³³, nto⁵⁵, nto⁵⁵
+jeu	j eu	j eu	m n	U+006a U+0020 U+0065 U+0075	38	Baheng, East,Qiandong, West,Baheng, West,Qiandong, East	tjeu⁴⁴, ljeu³³, ljeu²², tjeu²⁴, njeu²⁴
+wa	w a	w a	m n	U+0077 U+0020 U+0061	37	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Central Guizhou,Baheng, West,Baheng, East,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou	kwa⁵⁵, kwa⁵⁵, kwa⁵⁵, wa⁵⁵, ʔwa⁵⁵
+ɦau	ɦ au	ɦ au	m n	U+0266 U+0020 U+0061 U+0075	36	Chuanqiandian, Northeast Yunnan	dɦau³⁵, bɦau³⁵, mɦau³¹, bɦau³⁵, zɦau³¹
+pa	p a	p a	m n	U+0070 U+0020 U+0061	33	Luobuohe, Eastern,Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	mpa¹¹, mpa⁵⁵, mpa⁵³, mpa⁴², mpa⁵⁵
+ie	i e	i e	m n	U+0069 U+0020 U+0065	31	Chuanqiandian, Central Guizhou,Baheng, East,Luobuohe, Western,Chuanqiandian, Northeast Yunnan	tsʰie⁵⁵, ⁿdzie³³, sie⁵⁵, sie⁵⁵, zie⁵⁵
+wei	w ei	w ei	m n	U+0077 U+0020 U+0065 U+0069	29	Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Luobuohe, Eastern,Baheng, West,Baheng, East	wei¹¹, kwei³⁵, wei³¹, kwei³¹³, kwei³¹³
+ɦu	ɦ u	ɦ u	m n	U+0266 U+0020 U+0075	24	Chuanqiandian, Northeast Yunnan	ȵɦu³⁵, ȵɦu³⁵, ȵɦu³⁵, ȵɦu³⁵, ȵɦu³⁵
+jɔ	j ɔ	j ɔ	m n	U+006a U+0020 U+0254	23	Chuanqiandian, Southern Guizhou,Baheng, West,Qiandong, West	ljɔ⁴⁴, pjɔ⁴⁴, pjɔ⁴⁴, njɔ⁴⁴, pjɔ¹¹
+tɕo	tɕ o	tɕ o	m n	U+0074 U+0255 U+0020 U+006f	21	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Southern Guizhou,Luobuohe, Western,Luobuohe, Eastern,Baheng, East	ȵtɕo³⁵, ȵtɕo²⁴, ȵtɕo³⁵, ȵtɕo⁵⁵, ȵtɕo³³
+ɦa	ɦ a	ɦ a	m n	U+0266 U+0020 U+0061	20	Chuanqiandian, Northeast Yunnan	lɦa³⁵, lɦa³⁵, dɦa³⁵, mɦa¹¹, mɦa¹¹
+ɦaɯ	ɦ aɯ	ɦ aɯ	m n	U+0266 U+0020 U+0061 U+026f	18	Chuanqiandian, Northeast Yunnan	zɦaɯ³⁵, dzɦaɯ³⁵, ⁿdzɦaɯ³⁵, ʑɦaɯ³⁵, ʑɦaɯ³⁵
 jou	j ou	j ou	m n	U+006a U+0020 U+006f U+0075	18	Qiandong, East	ljou²⁴, ljou³³, ljou³³, ljou³³, ljou³³
-po	p o	p o	m n	U+0070 U+0020 U+006f	17	Chuanqiandian, Central Guizhou,Chuanqiandian,Baheng, East	mpo³⁵, mpo⁴⁴, mpo¹³, mpo⁵³, mpo⁵³
-tɕo	tɕ o	tɕ o	m n	U+0074 U+0255 U+0020 U+006f	16	Chuanqiandian,Luobuohe, Western,Baheng, East,Luobuohe, Eastern	ȵtɕo⁴⁴, ȵtɕo²⁴, ȵtɕo³⁵, ȵtɕo⁴⁴, ȵtɕo³³
-pa	p a	p a	m n	U+0070 U+0020 U+0061	16	Baheng, East,Luobuohe, Eastern,Chuanqiandian, Central Guizhou	mpa¹¹, mpa⁵⁵, mpa⁴², mpa⁴², mpa⁴²
-we	w e	w e	m n	U+0077 U+0020 U+0065	15	Baheng, East,Luobuohe, Western,Baheng, West	we³⁵, we⁵⁵, we⁵⁵, kwe⁴², we¹¹
+po	p o	p o	m n	U+0070 U+0020 U+006f	18	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Chuanqiandian,Baheng, East	mpo⁴⁴, mpo¹³, mpo⁵³, mpo⁵³, mpo¹³
+we	w e	w e	m n	U+0077 U+0020 U+0065	17	Chuanqiandian, Southern Guizhou,Baheng, East,Luobuohe, Western,Baheng, West	we³⁵, we⁵⁵, we⁵⁵, kwe⁴², we¹¹
+uei	u ei	u ei	m n	U+0075 U+0020 U+0065 U+0069	16	Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou	suei⁵⁵, tʰuei²⁴, kuei²⁴, huei³², huei³²
+lo	l o	l o	m n	U+006c U+0020 U+006f	16	Chuanqiandian,Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Central Guizhou	plo²⁴, pʰlo⁴⁴, plo²⁴, qlo³¹, qlo³¹
+ɦo	ɦ o	ɦ o	m n	U+0266 U+0020 U+006f	16	Chuanqiandian, Northeast Yunnan	dɦo¹¹, dʑɦo³⁵, lɦo¹¹, dɦo³¹, lɦo¹¹
+qai	q ai	q ai	m n	U+0071 U+0020 U+0061 U+0069	15	Chuanqiandian,Baheng, East	ŋqai³¹, ŋqai³³, ŋqai³¹, ŋqai³³, ŋqai³¹
 ɬe	ɬ e	ɬ e	m n	U+026c U+0020 U+0065	15	Chuanqiandian, Central Guizhou,Chuanqiandian	tɬe³¹, tɬe³¹, tɬe³³, tɬe³¹, tɬe⁵⁵
-qai	q ai	q ai	m n	U+0071 U+0020 U+0061 U+0069	15	Chuanqiandian,Baheng, East	ŋqai³³, ŋqai³¹, ŋqai³³, ŋqai³¹, ŋqai³³
+tau	t au	t au	m n	U+0074 U+0020 U+0061 U+0075	15	Baheng, East,Chuanqiandian, Northeast Yunnan	ntau⁵³, ntau¹¹, ntau³³, ntau³³, ntau³³
+ɬau	ɬ au	ɬ au	m n	U+026c U+0020 U+0061 U+0075	15	Chuanqiandian,Chuanqiandian, Northeast Yunnan	tɬau⁵⁵, tɬau⁵⁵, tɬau⁵⁵, tɬau⁵⁵, tɬau⁵⁵
+uæ	u æ	u æ	m n	U+0075 U+0020 U+00e6	14	Chuanqiandian, Southern Guizhou,Qiandong, West	luæ⁵⁵, kuæ¹³, kuæ¹³, kuæ⁴⁴, kuæ⁴⁴
 ləu	l əu	l əu	m n	U+006c U+0020 U+0259 U+0075	14	Luobuohe, Western,Luobuohe, Eastern	ʔləu⁵⁵, pləu³¹, pləu³¹, ʔləu⁵⁵, qləu⁵⁵
-lo	l o	l o	m n	U+006c U+0020 U+006f	14	Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Central Guizhou	plo²⁴, pʰlo⁴⁴, plo²⁴, qlo³¹, qlo³¹
-wai	w ai	w ai	m n	U+0077 U+0020 U+0061 U+0069	14	Baheng, East,Luobuohe, Eastern,Baheng, West	kwai³¹, wai²⁴, kwai³³, wai³⁵, wai³⁵
+wai	w ai	w ai	m n	U+0077 U+0020 U+0061 U+0069	14	Luobuohe, Eastern,Baheng, East,Baheng, West	kwai³¹, wai²⁴, wai³³, kwai³³, wai³⁵
+ti	t i	t i	m n	U+0074 U+0020 U+0069	14	Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Southern Guizhou,Chuanqiandian,Luobuohe, Western,Baheng, East	nti³⁵, nti³⁵, nti⁵⁵, nti⁴², nti⁵⁵
 jy	j y	j y	m n	U+006a U+0020 U+0079	13	Luobuohe, Eastern,Qiandong, East,Luobuohe, Western	jy³¹, jy³⁵, njy⁵³, njy⁵³, njy⁵³
-wɑ	w ɑ	w ɑ	m n	U+0077 U+0020 U+0251	13	Luobuohe, Western	qwɑ³¹, qwɑ³¹, qwɑ³⁵, ʔwɑ⁵⁵, qwɑ³⁵
-uæ	u æ	u æ	m n	U+0075 U+0020 U+00e6	13	Qiandong, West	luæ⁵⁵, luæ²¹, kuæ¹³, kuæ¹³, kuæ⁴⁴
-bji	bj i	bj i	m n	U+0062 U+006a U+0020 U+0069	12	Luobuohe, Eastern,Luobuohe, Western	mbji³¹, mbji³¹, mbji³¹, mbji³¹, mbji⁵⁵
+tə	t ə	t ə	m n	U+0074 U+0020 U+0259	13	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	ntə¹³, ntə⁴², ntə⁴⁴, ntə⁴², ntə⁴²
+wo	w o	w o	m n	U+0077 U+0020 U+006f	13	Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Baheng, West,Chuanqiandian, Southern Guizhou	kwo¹³, wo¹³, wo⁴⁴, kwo³⁵, wo³⁵
+ui	u i	u i	m n	U+0075 U+0020 U+0069	12	Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Chuanqiandian,Qiandong, West	kui⁵⁵, kui⁵⁵, tʂʰui³¹, tsui⁵⁵, tʂui⁴³
+bji	bj i	bj i	m n	U+0062 U+006a U+0020 U+0069	12	Luobuohe, Eastern,Luobuohe, Western	mbji³¹, mbji³¹, mbji³¹, mbji⁵⁵, mbji⁵⁵
+tso	ts o	ts o	m n	U+0074 U+0073 U+0020 U+006f	12	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian	ntso²¹, ntso³¹³, ntso³¹, ntso⁵⁵, ntso⁵⁵
+tɕi	tɕ i	tɕ i	m n	U+0074 U+0255 U+0020 U+0069	11	Chuanqiandian,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern	ȵ̩tɕi²⁴, ȵ̩tɕi²⁴, ȵtɕi³³, ȵtɕi²⁴, ȵtɕi³³
+ta	t a	t a	m n	U+0074 U+0020 U+0061	11	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Baheng, East	nta⁵⁵, nta⁴⁴, nta⁵⁵, nta⁵⁵, nta¹³
+lei	l ei	l ei	m n	U+006c U+0020 U+0065 U+0069	11	Chuanqiandian, Southern Guizhou,Luobuohe, Western,Luobuohe, Eastern	ʁlei³¹, qlei⁵⁵, qlei⁵⁵, ʁlei³¹, ʁlei³¹
 jɛ	j ɛ	j ɛ	m n	U+006a U+0020 U+025b	11	Qiandong, East,Luobuohe, Eastern	ʔjɛ³³, jɛ⁵⁵, ɬjɛ⁴⁴, vjɛ⁵⁵, ʔjɛ³¹
-qe	q e	q e	m n	U+0071 U+0020 U+0065	11	Baheng, East,Chuanqiandian,Chuanqiandian, Central Guizhou	ŋqe²¹, ŋqe⁵⁵, ŋqe⁵⁵, ŋqe⁵⁵, ŋqe⁵⁵
-te	t e	t e	m n	U+0074 U+0020 U+0065	11	Baheng, East,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	nte³¹, nte²⁴, nte⁴⁴, nte²⁴, nte³⁵
-lei	l ei	l ei	m n	U+006c U+0020 U+0065 U+0069	10	Luobuohe, Western,Luobuohe, Eastern	ʁlei³¹, qlei⁵⁵, qlei⁵⁵, ʁlei³¹, ʁlei³¹
-lu	l u	l u	m n	U+006c U+0020 U+0075	10	Chuanqiandian, Central Guizhou,Luobuohe, Western	ʔlu³¹, ʔlu⁵⁵, qlu⁵⁵, ʔlu⁵⁵, plu⁵⁵
-ti	t i	t i	m n	U+0074 U+0020 U+0069	10	Luobuohe, Eastern,Baheng, East,Luobuohe, Western,Chuanqiandian	nti³⁵, nti³⁵, nti⁵⁵, nti⁵⁵, nti³⁵
-ui	u i	u i	m n	U+0075 U+0020 U+0069	10	Luobuohe, Western,Chuanqiandian,Qiandong, West	kui⁵⁵, kui⁵⁵, kui⁴⁴, tsui⁵⁵, tʂui⁴³
-la	l a	l a	m n	U+006c U+0020 U+0061	9	Chuanqiandian,Luobuohe, Western,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	qla⁵⁵, qla⁵⁵, ʔla⁵⁵, qla⁵⁵, pla²⁴
+qe	q e	q e	m n	U+0071 U+0020 U+0065	11	Chuanqiandian,Baheng, East,Chuanqiandian, Central Guizhou	ŋqe²¹, ŋqe⁵⁵, ŋqe⁵⁵, ŋqe⁵⁵, ŋqe⁵⁵
+te	t e	t e	m n	U+0074 U+0020 U+0065	11	Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Chuanqiandian	nte³¹, nte²⁴, nte⁴⁴, nte²⁴, nte³⁵
+lu	l u	l u	m n	U+006c U+0020 U+0075	10	Chuanqiandian, Central Guizhou,Luobuohe, Western	ʔlu³¹, ʔlu⁵⁵, qlu⁵⁵, pʰlu²⁴, ʔlu⁵⁵
+tu	t u	t u	m n	U+0074 U+0020 U+0075	10	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western	ntu⁵⁵, ntu²¹, ntu¹³, ntu³¹, ntu²²
+wɑ	w ɑ	w ɑ	m n	U+0077 U+0020 U+0251	10	Luobuohe, Western	ʔwɑ⁵⁵, qwɑ³⁵, qwɑ³¹, qwɑ⁵⁵, qwɑ³¹
+tɕe	tɕ e	tɕ e	m n	U+0074 U+0255 U+0020 U+0065	9	Chuanqiandian, Southern Guizhou,Baheng, East,Chuanqiandian	ȵtɕe⁴⁴, ȵtɕe⁴⁴, ȵtɕe⁴³, ȵtɕe⁴³, ȵtɕe³¹
+la	l a	l a	m n	U+006c U+0020 U+0061	9	Luobuohe, Western,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	qla⁵⁵, qla⁵⁵, ʔla⁵⁵, ʔla⁵⁵, qla⁵⁵
+tʂe	tʂ e	tʂ e	m n	U+0074 U+0282 U+0020 U+0065	9	Chuanqiandian	ntʂe³¹, ntʂe⁴⁴, ntʂe²¹, ntʂe²¹, ntʂe⁵⁵
+ke	k e	k e	m n	U+006b U+0020 U+0065	9	Chuanqiandian, Central Guizhou,Baheng, East,Chuanqiandian, Southern Guizhou	ŋke⁴², ŋke⁵³, ŋke⁵³, ŋke⁵³, ŋke⁵³
+by	b y	b y	m n	U+0062 U+0020 U+0079	9	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Northeast Yunnan	mby⁵⁵, mby⁵³, mby³⁵, mby³³, mby³³
+qɯ	q ɯ	q ɯ	m n	U+0071 U+0020 U+026f	9	Chuanqiandian, Northeast Yunnan	ŋqɯ⁵⁵, ŋqɯ⁵⁵, ŋqɯ⁵⁵, ŋqɯ⁵⁵, ŋqɯ³³
+kə	k ə	k ə	m n	U+006b U+0020 U+0259	9	Chuanqiandian, Central Guizhou,Chuanqiandian, Southern Guizhou	ŋkə²², ŋkə¹³, ŋkə⁵³, ŋkə⁵⁵, ŋkə⁵⁵
 tsʰe	tsʰ e	tsʰ e	m n	U+0074 U+0073 U+02b0 U+0020 U+0065	9	Luobuohe, Eastern,Luobuohe, Western	ntsʰe²⁴, ntsʰe³⁵, ntsʰe³⁵, ntsʰe³¹, ntsʰe³¹
-ta	t a	t a	m n	U+0074 U+0020 U+0061	9	Chuanqiandian,Luobuohe, Eastern,Baheng, East,Chuanqiandian, Central Guizhou	nta⁵⁵, nta⁵³, nta²², nta⁵³, nta⁴²
-tʂe	tʂ e	tʂ e	m n	U+0074 U+0282 U+0020 U+0065	9	Chuanqiandian	ntʂe³¹, ntʂe⁴⁴, ntʂe²¹, ntʂe²¹, ntʂe²¹
 pʰje	pʰj e	pʰj e	m n	U+0070 U+02b0 U+006a U+0020 U+0065	9	Luobuohe, Western,Luobuohe, Eastern,Baheng, East	mpʰje³³, mpʰje⁵⁵, mpʰje⁵⁵, mpʰje³³, mpʰje³¹³
+ɬaɯ	ɬ aɯ	ɬ aɯ	m n	U+026c U+0020 U+0061 U+026f	8	Chuanqiandian, Northeast Yunnan	tɬaɯ¹¹, tɬaɯ⁵⁵, tɬaɯ⁵⁵, tɬaɯ⁵⁵, tɬaɯ⁵⁵
+pei	p ei	p ei	m n	U+0070 U+0020 U+0065 U+0069	8	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Baheng, East	mpei³³, mpei²⁴, mpei⁴⁴, mpei⁵⁵, mpei³³
+wæ	w æ	w æ	m n	U+0077 U+0020 U+00e6	8	Chuanqiandian, Southern Guizhou,Luobuohe, Western	wæ³⁵, wæ²², wæ³⁵, wæ³⁵, ʔwæ³¹
+tsɿ	ts ɿ	ts ɿ	m n	U+0074 U+0073 U+0020 U+027f	8	Chuanqiandian, Southern Guizhou,Baheng, East,Chuanqiandian, Northeast Yunnan	ntsɿ⁵⁵, ntsɿ⁴⁴, ntsɿ³¹, ntsɿ³³, mtsɿ³³
+tsa	ts a	ts a	m n	U+0074 U+0073 U+0020 U+0061	8	Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Chuanqiandian,Chuanqiandian, Northeast Yunnan	ntsa²⁴, ntsa⁴², ntsa⁵⁵, ntsa⁴⁴, ntsa⁵⁵
 wi	w i	w i	m n	U+0077 U+0020 U+0069	8	Baheng, East,Baheng, West	wi¹¹, kwi⁵⁵, kwi⁵⁵, kwi⁵⁵, kwi³³
-tɕi	tɕ i	tɕ i	m n	U+0074 U+0255 U+0020 U+0069	8	Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern	ȵtɕi²⁴, ȵtɕi¹³, ȵtɕi³¹, ȵtɕi³¹, ȵtɕi³¹
-ɢɛ	ɢ ɛ	ɢ ɛ	m n	U+0262 U+0020 U+025b	8	Luobuohe, Eastern	ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹
-tɕe	tɕ e	tɕ e	m n	U+0074 U+0255 U+0020 U+0065	8	Baheng, East,Chuanqiandian	ȵtɕe⁴⁴, ȵtɕe⁴⁴, ȵtɕe⁴³, ȵtɕe⁴³, ȵtɕe³¹
-tu	t u	t u	m n	U+0074 U+0020 U+0075	8	Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western	ntu⁵⁵, ntu²¹, ntu³¹, ntu²², ntu¹³
-tə	t ə	t ə	m n	U+0074 U+0020 U+0259	8	Chuanqiandian, Central Guizhou	ntə⁴², ntə¹³, ntə⁴², ntə⁴², ntə⁴²
+ɦey	ɦ ey	ɦ ey	m n	U+0266 U+0020 U+0065 U+0079	8	Chuanqiandian, Northeast Yunnan	dzɦey³⁵, ɢɦey³⁵, ʑɦey¹¹, ʑɦey¹¹, dɦey³¹
 bo	b o	b o	m n	U+0062 U+0020 U+006f	8	Luobuohe, Eastern,Luobuohe, Western	mbo²⁴, mbo³⁵, mbo⁵⁵, mbo³¹, mbo³¹
-uei	u ei	u ei	m n	U+0075 U+0020 U+0065 U+0069	7	Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Eastern	suei⁵⁵, tʰuei²⁴, tsuei³³, tsuei⁵⁵, kuei²⁴
-tso	ts o	ts o	m n	U+0074 U+0073 U+0020 U+006f	7	Baheng, East,Luobuohe, Eastern,Chuanqiandian	ntso²⁴, ntso³¹, ntso²¹, ntso⁵⁵, ntso³¹³
-plɛ	pl ɛ	pl ɛ	m n	U+0070 U+006c U+0020 U+025b	7	Chuanqiandian, Central Guizhou	mplɛ⁵⁵, mplɛ⁵⁵, mplɛ³¹, mplɛ⁵⁵, mplɛ⁵⁵
-tsi	ts i	ts i	m n	U+0074 U+0073 U+0020 U+0069	7	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	ntsi²¹, ntsi⁵⁵, ntsi⁵⁵, ntsi⁴⁴, ntsi²¹
+ɦɯ	ɦ ɯ	ɦ ɯ	m n	U+0266 U+0020 U+026f	8	Chuanqiandian, Northeast Yunnan	ŋɦɯ³¹, dʑɦɯ³⁵, vɦɯ¹¹, ɢɦɯ³⁵, ɢɦɯ³⁵
+pu	p u	p u	m n	U+0070 U+0020 U+0075	7	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Luobuohe, Western	mpu³³, mpu⁵⁵, mpu⁵³, mpu²⁴, mpu³⁵
+ɬi	ɬ i	ɬ i	m n	U+026c U+0020 U+0069	7	Chuanqiandian, Central Guizhou,Chuanqiandian,Chuanqiandian, Northeast Yunnan	tɬi⁵⁵, tɬi⁴³, tɬi⁵⁵, tɬi³³, tɬi¹¹
+ku	k u	k u	m n	U+006b U+0020 U+0075	7	Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western,Chuanqiandian, Southern Guizhou,Baheng, East	ŋku²¹, ŋku³¹, ŋku³¹, ŋku¹³, ŋku²¹
+tʂua	tʂ ua	tʂ ua	m n	U+0074 U+0282 U+0020 U+0075 U+0061	7	Chuanqiandian	ntʂua²⁴, ntʂua¹³, ntʂua³³, ntʂua¹³, ntʂua²⁴
+wɔ	w ɔ	w ɔ	m n	U+0077 U+0020 U+0254	7	Chuanqiandian, Southern Guizhou	wɔ⁴², wɔ³⁵, wɔ³⁵, wɔ²³², wɔ²³²
+ɬo	ɬ o	ɬ o	m n	U+026c U+0020 U+006f	7	Chuanqiandian,Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan	tɬo²², tɬo⁵⁵, tɬo⁵⁵, tɬo²², tɬo¹¹
+tɕə	tɕ ə	tɕ ə	m n	U+0074 U+0255 U+0020 U+0259	7	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	ȵtɕə⁵⁵, ȵtɕə⁴², ȵtɕə⁴², ȵtɕə⁴⁴, ȵtɕə⁴⁴
+pi	p i	p i	m n	U+0070 U+0020 U+0069	7	Chuanqiandian, Southern Guizhou,Luobuohe, Western,Chuanqiandian, Central Guizhou,Baheng, East	mpi³⁵, mpi³⁵, mpi¹³, mpi⁴², mpi⁵⁵
 ʈu	ʈ u	ʈ u	m n	U+0288 U+0020 U+0075	7	Luobuohe, Eastern,Luobuohe, Western	ɳʈu³¹, ɳʈu³⁵, ɳʈu⁵⁵, ɳʈu⁵⁵, ɳʈu³¹
-tʂua	tʂ ua	tʂ ua	m n	U+0074 U+0282 U+0020 U+0075 U+0061	7	Chuanqiandian	ntʂua²⁴, ntʂua¹³, ntʂua²¹, ntʂua³³, ntʂua¹³
-pei	p ei	p ei	m n	U+0070 U+0020 U+0065 U+0069	7	Luobuohe, Eastern,Baheng, East	mpei³³, mpei²⁴, mpei⁵⁵, mpei³³, mpei³³
-dʑe	dʑ e	dʑ e	m n	U+0064 U+0291 U+0020 U+0065	6	Luobuohe, Eastern,Luobuohe, Western	ȵdʑe³¹, ȵdʑe³¹, ȵdʑe³⁵, ȵdʑe²⁴, ȵdʑe³⁵
-bja	bj a	bj a	m n	U+0062 U+006a U+0020 U+0061	6	Luobuohe, Eastern	mbja²⁴, mbja³³, mbja²⁴, mbja²⁴, mbja³³
-pjo	pj o	pj o	m n	U+0070 U+006a U+0020 U+006f	6	Baheng, East	mpjo³³, mpjo¹¹, mpjo¹¹, mpjo³³, mpjo¹¹
-tɕɛ	tɕ ɛ	tɕ ɛ	m n	U+0074 U+0255 U+0020 U+025b	6	Chuanqiandian, Central Guizhou	ȵtɕɛ⁴², ȵtɕɛ²⁴, ȵtɕɛ²⁴, ȵtɕɛ⁴², ȵtɕɛ⁵⁵
-ko	k o	k o	m n	U+006b U+0020 U+006f	6	Chuanqiandian, Central Guizhou,Baheng, East	ŋko⁵⁵, ŋko³⁵, ŋko³⁵, ŋko³³, ŋko³¹³
-jeɯ	j eɯ	j eɯ	m n	U+006a U+0020 U+0065 U+026f	6	Qiandong, West	mjeɯ⁵⁵, ljeɯ⁴⁴, ljeɯ⁴⁴, ɬjeɯ¹¹, ljeɯ⁴⁴
-lɛ	l ɛ	l ɛ	m n	U+006c U+0020 U+025b	6	Luobuohe, Eastern,Chuanqiandian, Central Guizhou	ʔlɛ³¹, plɛ¹³, plɛ¹³, plɛ¹³, plɛ¹³
-pi	p i	p i	m n	U+0070 U+0020 U+0069	6	Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Western	mpi³⁵, mpi⁵⁵, mpi³⁵, mpi¹³, mpi⁴²
+ɬey	ɬ ey	ɬ ey	m n	U+026c U+0020 U+0065 U+0079	7	Chuanqiandian, Northeast Yunnan	tɬey¹¹, tɬey¹¹, tɬey¹¹, tɬey⁵⁵, tɬey⁵⁵
+tsi	ts i	ts i	m n	U+0074 U+0073 U+0020 U+0069	7	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	ntsi²¹, ntsi⁵⁵, ntsi⁵⁵, ntsi⁴⁴, ntsi²¹
+plɛ	pl ɛ	pl ɛ	m n	U+0070 U+006c U+0020 U+025b	7	Chuanqiandian, Central Guizhou	mplɛ⁵⁵, mplɛ³¹, mplɛ⁵⁵, mplɛ⁵⁵, mplɛ²²
+pʰe	pʰ e	pʰ e	m n	U+0070 U+02b0 U+0020 U+0065	7	Luobuohe, Eastern,Luobuohe, Western,Baheng, East,Chuanqiandian, Central Guizhou	mpʰe⁴², mpʰe⁴², mpʰe²⁴, mpʰe³⁵, mpʰe⁴²
+ɢɦai	ɢɦ ai	ɢɦ ai	m n	U+0262 U+0266 U+0020 U+0061 U+0069	7	Chuanqiandian, Northeast Yunnan	ŋɢɦai³⁵, ŋɢɦai³⁵, ŋɢɦai³⁵, ŋɢɦai³⁵, ŋɢɦai³⁵
+ɦi	ɦ i	ɦ i	m n	U+0266 U+0020 U+0069	7	Chuanqiandian, Northeast Yunnan	ȵɦi¹¹, ʑɦi³¹, ȵɦi³¹, lɦi¹¹, dɦi³¹
+ɢɛ	ɢ ɛ	ɢ ɛ	m n	U+0262 U+0020 U+025b	7	Luobuohe, Eastern	ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹, ŋɢɛ³¹
 ɬeu	ɬ eu	ɬ eu	m n	U+026c U+0020 U+0065 U+0075	6	Chuanqiandian	tɬeu³³, tɬeu⁴³, tɬeu⁴³, tɬeu⁴³, tɬeu⁴³
-lou	l ou	l ou	m n	U+006c U+0020 U+006f U+0075	6	Chuanqiandian	plou⁴³, plou⁴³, plou⁴³, plou⁵⁴, plou⁴³
-wo	w o	w o	m n	U+0077 U+0020 U+006f	6	Luobuohe, Western,Baheng, West	wo¹¹, kwo³⁵, wo³⁵, wo⁴⁴, wo³⁵
+lɛ	l ɛ	l ɛ	m n	U+006c U+0020 U+025b	6	Luobuohe, Eastern,Chuanqiandian, Central Guizhou	ʔlɛ³¹, plɛ¹³, plɛ¹³, plɛ¹³, plɛ¹³
+pʐe	pʐ e	pʐ e	m n	U+0070 U+0290 U+0020 U+0065	6	Chuanqiandian, Southern Guizhou	mpʐe¹¹, mpʐe¹¹, mpʐe¹¹, mpʐe¹¹, mpʐe¹¹
+pe	p e	p e	m n	U+0070 U+0020 U+0065	6	Chuanqiandian, Southern Guizhou,Chuanqiandian,Baheng, East	mpe⁴⁴, mpe⁵⁵, mpe¹¹, mpe⁵⁵, mpe⁵⁵
+jeɯ	j eɯ	j eɯ	m n	U+006a U+0020 U+0065 U+026f	6	Qiandong, West	ljeɯ⁴⁴, ljeɯ⁴⁴, ɬjeɯ¹¹, mjeɯ⁵⁵, ljeɯ⁴⁴
+bja	bj a	bj a	m n	U+0062 U+006a U+0020 U+0061	6	Luobuohe, Eastern	mbja²⁴, mbja²⁴, mbja³³, mbja²⁴, mbja³³
 ɬə	ɬ ə	ɬ ə	m n	U+026c U+0020 U+0259	6	Chuanqiandian, Central Guizhou	tɬə⁴², tɬə²⁴, tɬə²⁴, tɬə²⁴, tɬə²⁴
-pʰe	pʰ e	pʰ e	m n	U+0070 U+02b0 U+0020 U+0065	6	Baheng, East,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Central Guizhou	mpʰe⁴², mpʰe⁴², mpʰe⁴², mpʰe²⁴, mpʰe³⁵
-pe	p e	p e	m n	U+0070 U+0020 U+0065	5	Chuanqiandian,Baheng, East	mpe⁴⁴, mpe⁵⁵, mpe⁵⁵, mpe⁵⁵, mpe⁵⁵
-by	b y	b y	m n	U+0062 U+0020 U+0079	5	Luobuohe, Eastern,Luobuohe, Western	mby⁵⁵, mby³⁵, mby³⁵, mby³³, mby⁵⁵
+dʑi	dʑ i	dʑ i	m n	U+0064 U+0291 U+0020 U+0069	6	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan	ȵdʑi³¹, ȵdʑi³¹, ȵdʑi³¹, ȵdʑi⁵⁵, ȵdʑi⁵⁵
+ko	k o	k o	m n	U+006b U+0020 U+006f	6	Chuanqiandian, Central Guizhou,Baheng, East	ŋko³⁵, ŋko³⁵, ŋko³³, ŋko³¹³, ŋko⁵⁵
+plə	pl ə	pl ə	m n	U+0070 U+006c U+0020 U+0259	6	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	mplə²², mplə⁵⁵, mplə⁵⁵, mplə¹¹, mplə²¹
+lou	l ou	l ou	m n	U+006c U+0020 U+006f U+0075	6	Chuanqiandian	plou⁴³, plou⁴³, plou⁴³, plou⁵⁴, plou⁴³
+dʑe	dʑ e	dʑ e	m n	U+0064 U+0291 U+0020 U+0065	6	Luobuohe, Eastern,Luobuohe, Western	ȵdʑe³¹, ȵdʑe³¹, ȵdʑe³⁵, ȵdʑe²⁴, ȵdʑe³⁵
+gʱa	gʱ a	gʱ a	m n	U+0067 U+02b1 U+0020 U+0061	6	Chuanqiandian, Northeast Yunnan	ŋgʱa³⁵, ŋgʱa³⁵, ŋgʱa³⁵, ŋgʱa³⁵, ŋgʱa³⁵
+tɕɛ	tɕ ɛ	tɕ ɛ	m n	U+0074 U+0255 U+0020 U+025b	6	Chuanqiandian, Central Guizhou	ȵtɕɛ⁴², ȵtɕɛ²⁴, ȵtɕɛ²⁴, ȵtɕɛ⁵⁵, ȵtɕɛ⁵⁵
+qa	q a	q a	m n	U+0071 U+0020 U+0061	6	Chuanqiandian, Central Guizhou,Baheng, East,Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan	ŋqa⁵⁵, ŋqa³³, ŋqa⁵⁵, ŋqa³¹, ŋqa⁵⁵
+pjo	pj o	pj o	m n	U+0070 U+006a U+0020 U+006f	6	Baheng, East	mpjo³³, mpjo¹¹, mpjo¹¹, mpjo³³, mpjo¹¹
 pzi	pz i	pz i	m n	U+0070 U+007a U+0020 U+0069	5	Luobuohe, Eastern	mpzi²⁴, mpzi²⁴, mpzi²⁴, mpzi²⁴, mpzi²⁴
+ɬai	ɬ ai	ɬ ai	m n	U+026c U+0020 U+0061 U+0069	5	Chuanqiandian, Northeast Yunnan,Chuanqiandian	tɬai⁴⁴, tɬai⁴⁴, tɬai³³, tɬai¹¹, tɬai²⁴
 lɑ	l ɑ	l ɑ	m n	U+006c U+0020 U+0251	5	Luobuohe, Western	ʔlɑ⁵⁵, qlɑ⁵⁵, ʔlɑ⁵⁵, qlɑ³¹, qlɑ³⁵
-pu	p u	p u	m n	U+0070 U+0020 U+0075	5	Luobuohe, Eastern,Luobuohe, Western	mpu⁵⁵, mpu²⁴, mpu³⁵, mpu⁵⁵, mpu²⁴
-wæ	w æ	w æ	m n	U+0077 U+0020 U+00e6	5	Luobuohe, Western	qwæ³⁵, wæ³⁵, wæ³⁵, ʔwæ³¹, wæ⁵⁵
-ku	k u	k u	m n	U+006b U+0020 U+0075	5	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Central Guizhou,Baheng, East	ŋku³¹, ŋku³¹, ŋku¹³, ŋku⁵³, ŋku⁵⁵
+pje	pj e	pj e	m n	U+0070 U+006a U+0020 U+0065	5	Chuanqiandian, Southern Guizhou,Baheng, East	mpje³³, mpje³¹, mpje¹³, mpje¹³, mpje³¹
+wu	w u	w u	m n	U+0077 U+0020 U+0075	5	Qiandong, West,Baheng, West,Luobuohe, Western,Chuanqiandian, Southern Guizhou	wu¹³, wu¹³, wu¹³, wu⁵⁵, wu⁴⁴
+tɕu	tɕ u	tɕ u	m n	U+0074 U+0255 U+0020 U+0075	5	Baheng, East,Chuanqiandian, Southern Guizhou	ȵtɕu⁵³, ȵtɕu³³, ȵtɕu⁵³, ȵtɕu⁵⁵, ȵtɕu⁵³
+ɦie	ɦi e	ɦi e	m n	U+0266 U+0069 U+0020 U+0065	5	Chuanqiandian, Northeast Yunnan	ɖɦie¹¹, dɦie³⁵, dʑɦie³⁵, dzɦie¹¹, dzɦie¹¹
+tei	t ei	t ei	m n	U+0074 U+0020 U+0065 U+0069	5	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Baheng, East	ntei²⁴, ntei⁵⁵, ntei⁵⁵, ntei⁵⁵, ntei³⁵
+ɦy	ɦ y	ɦ y	m n	U+0266 U+0020 U+0079	5	Chuanqiandian, Northeast Yunnan	lɦy³⁵, bɦy³⁵, dʐɦy³¹, ȵɦy¹¹, ȵɦy¹¹
+tua	t ua	t ua	m n	U+0074 U+0020 U+0075 U+0061	5	Chuanqiandian, Southern Guizhou,Chuanqiandian	ntua⁵⁵, ntua¹³, ntua²², ntua¹³, ntua³²
+tsʰa	tsʰ a	tsʰ a	m n	U+0074 U+0073 U+02b0 U+0020 U+0061	5	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Baheng, East,Luobuohe, Eastern	ntsʰa²⁴, ntsʰa³³, ntsʰa³¹, ntsʰa³⁵, ntsʰa⁴³
+plu	pl u	pl u	m n	U+0070 U+006c U+0020 U+0075	5	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	mplu²², mplu²², mplu²¹, mplu²⁴, mplu²⁴
 tʂu	tʂ u	tʂ u	m n	U+0074 U+0282 U+0020 U+0075	5	Chuanqiandian, Central Guizhou,Chuanqiandian	ntʂu³³, ntʂu³¹, ntʂu³¹, ntʂu¹³, ntʂu¹³
-jæ	j æ	j æ	m n	U+006a U+0020 U+00e6	4	Luobuohe, Western	jæ⁵⁵, ʔjæ³¹, jæ³⁵, ʔjæ³¹
-bu	b u	b u	m n	U+0062 U+0020 U+0075	4	Luobuohe, Eastern,Luobuohe, Western	mbu³¹, mbu⁵⁵, mbu³¹, mbu³¹
-qua	q ua	q ua	m n	U+0071 U+0020 U+0075 U+0061	4	Chuanqiandian	ŋqua⁴³, ŋqua⁴³, ŋqua¹³, ŋqua⁴⁴
-ʈou	ʈ ou	ʈ ou	m n	U+0288 U+0020 U+006f U+0075	4	Chuanqiandian	nʈou³¹, nʈou⁴⁴, nʈou¹³, nʈou⁴⁴
-dʑo	dʑ o	dʑ o	m n	U+0064 U+0291 U+0020 U+006f	4	Luobuohe, Eastern,Luobuohe, Western	ȵdʑo³¹, ȵdʑo³¹, ȵdʑo³¹, ȵdʑo³¹
-ie	i e	i e	m n	U+0069 U+0020 U+0065	4	Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Western	tsʰie⁵⁵, tʰie³¹, tie³¹, ʔie³¹³
-ba	b a	b a	m n	U+0062 U+0020 U+0061	4	Luobuohe, Western	mba³⁵, mba⁵⁵, mba³⁵, mba³¹
-wau	w au	w au	m n	U+0077 U+0020 U+0061 U+0075	4	Baheng, East	kwau³⁵, kwau³⁵, kwau³⁵, kwau³⁵
-wɛ	w ɛ	w ɛ	m n	U+0077 U+0020 U+025b	4	Luobuohe, Eastern	wɛ²⁴, ʔwɛ³³, χwɛ⁵⁵, qwɛ³¹
-tsu	ts u	ts u	m n	U+0074 U+0073 U+0020 U+0075	4	Luobuohe, Western,Chuanqiandian,Baheng, East	ntsu⁵⁵, ntsu⁵⁵, ntsu⁵⁵, ntsu¹³
+təu	t əu	t əu	m n	U+0074 U+0020 U+0259 U+0075	5	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	ntəu⁵⁵, ntəu⁵⁵, ntəu³³, ntəu³³, ntəu⁵⁵
 teu	t eu	t eu	m n	U+0074 U+0020 U+0065 U+0075	4	Baheng, East,Chuanqiandian	nteu³³, nteu³³, nteu⁵⁵, nteu⁵⁵
-pla	pl a	pl a	m n	U+0070 U+006c U+0020 U+0061	4	Chuanqiandian, Central Guizhou	mpla³¹, mpla⁵⁵, mpla²², mpla⁵⁵
-ʈua	ʈ ua	ʈ ua	m n	U+0288 U+0020 U+0075 U+0061	4	Chuanqiandian	nʈua²¹, nʈua²¹, nʈua²¹, nʈua¹³
-qa	q a	q a	m n	U+0071 U+0020 U+0061	4	Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	ŋqa⁵⁵, ŋqa³³, ŋqa³¹, ŋqa³³
-plu	pl u	pl u	m n	U+0070 U+006c U+0020 U+0075	4	Chuanqiandian, Central Guizhou	mplu²², mplu²², mplu²⁴, mplu²⁴
+ple	pl e	pl e	m n	U+0070 U+006c U+0020 U+0065	4	Chuanqiandian, Central Guizhou,Chuanqiandian,Chuanqiandian, Southern Guizhou	mple⁵⁵, mple²¹, mple³¹, mple⁴⁴
+tsua	ts ua	ts ua	m n	U+0074 U+0073 U+0020 U+0075 U+0061	4	Chuanqiandian, Southern Guizhou,Chuanqiandian	ntsua⁵⁵, ntsua⁵⁵, ntsua²³², ntsua²⁴
+tsu	ts u	ts u	m n	U+0074 U+0073 U+0020 U+0075	4	Luobuohe, Western,Chuanqiandian,Baheng, East	ntsu⁵⁵, ntsu⁵⁵, ntsu⁵⁵, ntsu¹³
 pji	pj i	pj i	m n	U+0070 U+006a U+0020 U+0069	4	Luobuohe, Western	mpji³⁵, mpji³⁵, mpji³⁵, mpji³⁵
-tɕə	tɕ ə	tɕ ə	m n	U+0074 U+0255 U+0020 U+0259	4	Chuanqiandian, Central Guizhou	ȵtɕə⁵⁵, ȵtɕə⁴², ȵtɕə⁴², ȵtɕə⁴²
-tei	t ei	t ei	m n	U+0074 U+0020 U+0065 U+0069	4	Baheng, East,Luobuohe, Eastern	ntei²⁴, ntei⁵⁵, ntei⁵⁵, ntei³⁵
-tɕʰu	tɕʰ u	tɕʰ u	m n	U+0074 U+0255 U+02b0 U+0020 U+0075	4	Luobuohe, Eastern,Luobuohe, Western	ȵtɕʰu⁵⁵, ȵtɕʰu⁵⁵, ȵtɕʰu³¹, ȵtɕʰu²⁴
-kou	k ou	k ou	m n	U+006b U+0020 U+006f U+0075	4	Chuanqiandian	ŋkou²⁴, ŋkou³¹, ŋkou²⁴, ŋkou³¹
-tɕou	tɕ ou	tɕ ou	m n	U+0074 U+0255 U+0020 U+006f U+0075	4	Chuanqiandian	ȵtɕou³¹, ȵtɕou³¹, ȵtɕou⁴³, ȵtɕou³¹
-kʰa	kʰ a	kʰ a	m n	U+006b U+02b0 U+0020 U+0061	4	Luobuohe, Western,Baheng, East	ŋkʰa³¹, ŋkʰa³¹, ŋkʰa³¹, ŋkʰa³¹
-pua	p ua	p ua	m n	U+0070 U+0020 U+0075 U+0061	4	Chuanqiandian	mpua³¹, mpua⁴⁴, mpua⁴⁴, mpua⁴⁴
+lɔ	l ɔ	l ɔ	m n	U+006c U+0020 U+0254	4	Chuanqiandian, Southern Guizhou	plɔ³², plɔ⁵⁵, plɔ³², plɔ³²
+wau	w au	w au	m n	U+0077 U+0020 U+0061 U+0075	4	Baheng, East	kwau³⁵, kwau³⁵, kwau³⁵, kwau³⁵
 tou	t ou	t ou	m n	U+0074 U+0020 U+006f U+0075	4	Chuanqiandian	ntou³³, ntou⁴³, ntou⁴⁴, ntou³³
-tsʰa	tsʰ a	tsʰ a	m n	U+0074 U+0073 U+02b0 U+0020 U+0061	4	Baheng, East,Chuanqiandian,Luobuohe, Eastern	ntsʰa²⁴, ntsʰa³¹, ntsʰa³⁵, ntsʰa⁴³
+dʑʱau	dʑʱ au	dʑʱ au	m n	U+0064 U+0291 U+02b1 U+0020 U+0061 U+0075	4	Chuanqiandian, Northeast Yunnan	ȵdʑʱau¹¹, ȵdʑʱau³⁵, ȵdʑʱau³⁵, ȵdʑʱau³⁵
+ʈo	ʈ o	ʈ o	m n	U+0288 U+0020 U+006f	4	Chuanqiandian, Southern Guizhou,Chuanqiandian,Chuanqiandian, Northeast Yunnan	nʈo³¹, ɳʈo⁵⁵, ɳʈo¹¹, ɳʈo⁵⁵
+ʈou	ʈ ou	ʈ ou	m n	U+0288 U+0020 U+006f U+0075	4	Chuanqiandian	nʈou³¹, nʈou¹³, nʈou⁴⁴, nʈou⁴⁴
+dʑo	dʑ o	dʑ o	m n	U+0064 U+0291 U+0020 U+006f	4	Luobuohe, Eastern,Luobuohe, Western	ȵdʑo³¹, ȵdʑo³¹, ȵdʑo³¹, ȵdʑo³¹
+kæ	k æ	k æ	m n	U+006b U+0020 U+00e6	4	Chuanqiandian, Southern Guizhou	ŋkæ³², ŋkæ³², ŋkæ²¹, ŋkæ⁵⁵
+bu	b u	b u	m n	U+0062 U+0020 U+0075	4	Luobuohe, Eastern,Luobuohe, Western	mbu⁵⁵, mbu³¹, mbu³¹, mbu³¹
+ʈua	ʈ ua	ʈ ua	m n	U+0288 U+0020 U+0075 U+0061	4	Chuanqiandian	nʈua²¹, nʈua²¹, nʈua²¹, nʈua¹³
+pau	p au	p au	m n	U+0070 U+0020 U+0061 U+0075	4	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Baheng, East	mpau³³, mpau³⁵, mpau³³, mpau²⁴
+tɕʰu	tɕʰ u	tɕʰ u	m n	U+0074 U+0255 U+02b0 U+0020 U+0075	4	Luobuohe, Eastern,Luobuohe, Western	ȵtɕʰu⁵⁵, ȵtɕʰu⁵⁵, ȵtɕʰu³¹, ȵtɕʰu²⁴
+tsæ	ts æ	ts æ	m n	U+0074 U+0073 U+0020 U+00e6	4	Chuanqiandian, Southern Guizhou	ntsæ⁵⁵, ntsæ⁴², ntsæ⁵⁵, ntsæ⁵⁵
 le	l e	l e	m n	U+006c U+0020 U+0065	4	Luobuohe, Eastern,Luobuohe, Western	ple²⁴, qʰle³¹, ʔle³¹, qle³³
-ɬai	ɬ ai	ɬ ai	m n	U+026c U+0020 U+0061 U+0069	4	Chuanqiandian	tɬai⁴⁴, tɬai⁴⁴, tɬai³³, tɬai²⁴
-blo	bl o	bl o	m n	U+0062 U+006c U+0020 U+006f	3	Luobuohe, Western,Luobuohe, Eastern	mblo³³, mblo³¹, mblo³³
-tsʰo	tsʰ o	tsʰ o	m n	U+0074 U+0073 U+02b0 U+0020 U+006f	3	Baheng, East,Luobuohe, Eastern,Luobuohe, Western	ntsʰo³³, ntsʰo³¹, ntsʰo⁵⁵
-leu	l eu	l eu	m n	U+006c U+0020 U+0065 U+0075	3	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	pleu³¹, pleu³¹, pleu⁵⁵
-tsei	ts ei	ts ei	m n	U+0074 U+0073 U+0020 U+0065 U+0069	3	Luobuohe, Eastern	ntsei⁵⁵, ntsei²⁴, ntsei²⁴
-ɬua	ɬu a	ɬu a	m n	U+026c U+0075 U+0020 U+0061	3	Chuanqiandian	tɬua⁴⁴, tɬua⁴³, tɬua⁵⁵
-tau	t au	t au	m n	U+0074 U+0020 U+0061 U+0075	3	Baheng, East	ntau⁵³, ntau³¹³, ntau¹¹
-tɛ	t ɛ	t ɛ	m n	U+0074 U+0020 U+025b	3	Chuanqiandian, Central Guizhou	ntɛ¹³, ntɛ⁴², ntɛ⁴²
-da	d a	d a	m n	U+0064 U+0020 U+0061	3	Luobuohe, Eastern	nda²⁴, nda³¹, nda²⁴
-li	l i	l i	m n	U+006c U+0020 U+0069	3	Chuanqiandian,Chuanqiandian, Central Guizhou	pli¹³, pʰli³³, pli²⁴
-ɬo	ɬ o	ɬ o	m n	U+026c U+0020 U+006f	3	Chuanqiandian,Chuanqiandian, Central Guizhou	tɬo²², tɬo²², tɬo⁴³
-kə	k ə	k ə	m n	U+006b U+0020 U+0259	3	Chuanqiandian, Central Guizhou	ŋkə¹³, ŋkə⁵⁵, ŋkə⁵⁵
-tsa	ts a	ts a	m n	U+0074 U+0073 U+0020 U+0061	3	Luobuohe, Eastern,Chuanqiandian	ntsa²⁴, ntsa²¹, ntsa²¹
-ɖa	ɖ a	ɖ a	m n	U+0256 U+0020 U+0061	3	Luobuohe, Eastern	ɳɖa⁵⁵, ɳɖa⁵⁵, ɳɖa⁵⁵
+jæ	j æ	j æ	m n	U+006a U+0020 U+00e6	4	Luobuohe, Western	jæ⁵⁵, ʔjæ³¹, jæ³⁵, ʔjæ³¹
+ba	b a	b a	m n	U+0062 U+0020 U+0061	4	Luobuohe, Western	mba³⁵, mba⁵⁵, mba³⁵, mba³¹
+tɕa	tɕ a	tɕ a	m n	U+0074 U+0255 U+0020 U+0061	4	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Baheng, East	ȵtɕa¹¹, ȵtɕa⁴², ȵtɕa³⁵, ȵtɕa³⁵
+qua	q ua	q ua	m n	U+0071 U+0020 U+0075 U+0061	4	Chuanqiandian	ŋqua⁴³, ŋqua⁴³, ŋqua¹³, ŋqua⁴⁴
+tse	ts e	ts e	m n	U+0074 U+0073 U+0020 U+0065	4	Chuanqiandian, Southern Guizhou,Baheng, East,Luobuohe, Western	ntse³⁵, ntse³¹³, ntse³⁵, ntse³⁵
+gʱau	gʱ au	gʱ au	m n	U+0067 U+02b1 U+0020 U+0061 U+0075	4	Chuanqiandian, Northeast Yunnan	ŋgʱau¹¹, ŋgʱau³⁵, ŋgʱau³¹, ŋgʱau³⁵
+tsei	ts ei	ts ei	m n	U+0074 U+0073 U+0020 U+0065 U+0069	4	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	ntsei⁵⁵, ntsei²⁴, ntsei²⁴, ntsei²²
+lə	l ə	l ə	m n	U+006c U+0020 U+0259	4	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	plə¹³, plə⁴², plə⁴², plə⁴²
+tɕou	tɕ ou	tɕ ou	m n	U+0074 U+0255 U+0020 U+006f U+0075	4	Chuanqiandian	ȵtɕou³¹, ȵtɕou³¹, ȵtɕou³¹, ȵtɕou⁴³
+tɕæ	tɕ æ	tɕ æ	m n	U+0074 U+0255 U+0020 U+00e6	4	Chuanqiandian, Southern Guizhou	ȵtɕæ⁵⁵, ȵtɕæ³², ȵtɕæ³², ȵtɕæ⁵³
+kʰa	kʰ a	kʰ a	m n	U+006b U+02b0 U+0020 U+0061	4	Luobuohe, Western,Baheng, East	ŋkʰa³¹, ŋkʰa³¹, ŋkʰa³¹, ŋkʰa³¹
+ɬa	ɬ a	ɬ a	m n	U+026c U+0020 U+0061	4	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Central Guizhou	tɬa⁵⁵, tɬa⁴², tɬa⁵⁵, tɬa⁵⁵
+ʈe	ʈ e	ʈ e	m n	U+0288 U+0020 U+0065	4	Luobuohe, Western,Chuanqiandian, Southern Guizhou	ɳʈe²¹, ɳʈe³⁵, ɳʈe¹³, ɳʈe¹³
+pua	p ua	p ua	m n	U+0070 U+0020 U+0075 U+0061	4	Chuanqiandian	mpua³¹, mpua⁴⁴, mpua⁴⁴, mpua⁴⁴
+pla	pl a	pl a	m n	U+0070 U+006c U+0020 U+0061	4	Chuanqiandian, Central Guizhou	mpla⁵⁵, mpla³¹, mpla²², mpla⁵⁵
+kou	k ou	k ou	m n	U+006b U+0020 U+006f U+0075	4	Chuanqiandian	ŋkou²⁴, ŋkou³¹, ŋkou²⁴, ŋkou³¹
+wɛ	w ɛ	w ɛ	m n	U+0077 U+0020 U+025b	3	Luobuohe, Eastern	wɛ²⁴, ʔwɛ³³, qwɛ³¹
 tɕeu	tɕ eu	tɕ eu	m n	U+0074 U+0255 U+0020 U+0065 U+0075	3	Chuanqiandian	ȵtɕeu³³, ȵtɕeu³³, ȵtɕeu³³
-lə	l ə	l ə	m n	U+006c U+0020 U+0259	3	Chuanqiandian, Central Guizhou	plə¹³, plə⁴², plə⁴²
-bi	b i	b i	m n	U+0062 U+0020 U+0069	3	Luobuohe, Western,Luobuohe, Eastern	mbi³¹, mbi³¹, mbi³¹
-pje	pj e	pj e	m n	U+0070 U+006a U+0020 U+0065	3	Baheng, East	mpje³³, mpje³¹, mpje³¹
-wu	w u	w u	m n	U+0077 U+0020 U+0075	3	Qiandong, West,Baheng, West,Luobuohe, Western	wu¹³, wu⁵⁵, wu⁴⁴
-ɬɛ	ɬ ɛ	ɬ ɛ	m n	U+026c U+0020 U+025b	3	Chuanqiandian, Central Guizhou	tɬɛ¹³, tɬɛ⁵⁵, tɬɛ¹³
-go	g o	g o	m n	U+0067 U+0020 U+006f	3	Luobuohe, Eastern,Luobuohe, Western	ŋgo³³, ŋgo³¹, ŋgo³¹
-kʰo	kʰ o	kʰ o	m n	U+006b U+02b0 U+0020 U+006f	3	Luobuohe, Western,Luobuohe, Eastern	ŋkʰo³³, ŋkʰo³³, ŋkʰo³³
-təu	t əu	t əu	m n	U+0074 U+0020 U+0259 U+0075	3	Luobuohe, Eastern	ntəu³³, ntəu³³, ntəu⁵⁵
-tua	t ua	t ua	m n	U+0074 U+0020 U+0075 U+0061	3	Chuanqiandian	ntua⁵⁵, ntua¹³, ntua¹³
-ɬi	ɬ i	ɬ i	m n	U+026c U+0020 U+0069	3	Chuanqiandian, Central Guizhou,Chuanqiandian	tɬi²², tɬi⁴³, tɬi³³
-plə	pl ə	pl ə	m n	U+0070 U+006c U+0020 U+0259	3	Chuanqiandian, Central Guizhou	mplə²², mplə⁵⁵, mplə⁵⁵
+bɦə	bɦ ə	bɦ ə	m n	U+0062 U+0266 U+0020 U+0259	3	Chuanqiandian, Northeast Yunnan	mbɦə³⁵, mbɦə³⁵, mbɦə¹¹
 blei	bl ei	bl ei	m n	U+0062 U+006c U+0020 U+0065 U+0069	3	Luobuohe, Eastern,Luobuohe, Western	mblei³¹, mblei⁵⁵, mblei⁵⁵
-pə	p ə	p ə	m n	U+0070 U+0020 U+0259	3	Chuanqiandian, Central Guizhou	mpə²², mpə¹³, mpə²²
-pou	p ou	p ou	m n	U+0070 U+0020 U+006f U+0075	3	Chuanqiandian	mpou⁴⁴, mpou³¹, mpou⁴⁴
-ɢɑ	ɢ ɑ	ɢ ɑ	m n	U+0262 U+0020 U+0251	3	Luobuohe, Western	ŋɢɑ⁵⁵, ŋɢɑ⁵⁵, ŋɢɑ³⁵
-ɬau	ɬ au	ɬ au	m n	U+026c U+0020 U+0061 U+0075	3	Chuanqiandian	tɬau⁵⁵, tɬau²¹, tɬau⁴⁴
-tʂa	tʂ a	tʂ a	m n	U+0074 U+0282 U+0020 U+0061	3	Chuanqiandian, Central Guizhou,Chuanqiandian	ntʂa²⁴, ntʂa⁴³, ntʂa⁴³
-tse	ts e	ts e	m n	U+0074 U+0073 U+0020 U+0065	3	Baheng, East,Luobuohe, Western	ntse³¹³, ntse³⁵, ntse³⁵
-qo	q o	q o	m n	U+0071 U+0020 U+006f	3	Chuanqiandian,Baheng, East	ŋqo⁴³, ŋqo³⁵, ŋqo¹¹
-kwei	kw ei	kw ei	m n	U+006b U+0077 U+0020 U+0065 U+0069	3	Baheng, East	ŋkwei³⁵, ŋkwei³⁵, ŋkwei³⁵
-pau	p au	p au	m n	U+0070 U+0020 U+0061 U+0075	3	Chuanqiandian,Baheng, East	mpau³⁵, mpau³³, mpau²⁴
-jau	j au	j au	m n	U+006a U+0020 U+0061 U+0075	3	Baheng, East	tjau³⁵, tjau³¹, tjau³⁵
-pjau	pj au	pj au	m n	U+0070 U+006a U+0020 U+0061 U+0075	3	Baheng, East	mpjau³¹, mpjau⁵⁵, mpjau³¹
-ɬa	ɬ a	ɬ a	m n	U+026c U+0020 U+0061	3	Chuanqiandian,Chuanqiandian, Central Guizhou	tɬa⁵⁵, tɬa⁴², tɬa⁵⁵
-du	d u	d u	m n	U+0064 U+0020 U+0075	3	Luobuohe, Western	ndu³⁵, ndu³⁵, ndu³⁵
+ʈə	ʈ ə	ʈ ə	m n	U+0288 U+0020 U+0259	3	Chuanqiandian, Southern Guizhou	ɳʈə¹¹, ɳʈə¹¹, ɳʈə¹¹
+wua	wu a	wu a	m n	U+0077 U+0075 U+0020 U+0061	3	Chuanqiandian, Southern Guizhou	wua⁴², wua⁵³, wua³²
+tɕau	tɕ au	tɕ au	m n	U+0074 U+0255 U+0020 U+0061 U+0075	3	Baheng, East,Chuanqiandian, Northeast Yunnan	ȵtɕau⁵³, ȵtɕau³³, ȵtɕau³³
+ɦie	ɦ ie	ɦ ie	m n	U+0266 U+0020 U+0069 U+0065	3	Chuanqiandian, Northeast Yunnan	lɦie³⁵, lɦie³⁵, lɦie¹¹
+wə	w ə	w ə	m n	U+0077 U+0020 U+0259	3	Chuanqiandian, Southern Guizhou	wə¹³, wə¹¹, wə¹¹
+tʂə	tʂ ə	tʂ ə	m n	U+0074 U+0282 U+0020 U+0259	3	Chuanqiandian, Northeast Yunnan	ɳtʂə⁵⁵, ɳtʂə³³, ɳtʂə³³
+ɖa	ɖ a	ɖ a	m n	U+0256 U+0020 U+0061	3	Luobuohe, Eastern	ɳɖa⁵⁵, ɳɖa⁵⁵, ɳɖa⁵⁵
 ʁei	ʁ ei	ʁ ei	m n	U+0281 U+0020 U+0065 U+0069	3	Luobuohe, Eastern	qʁei²⁴, qʁei²⁴, qʁei²⁴
-dza	dz a	dz a	m n	U+0064 U+007a U+0020 U+0061	3	Luobuohe, Eastern	ndza³³, ndza⁵⁵, ndza⁵⁵
-ʈi	ʈ i	ʈ i	m n	U+0288 U+0020 U+0069	2	Luobuohe, Western,Chuanqiandian	ɳʈi¹³, ɳʈi³⁵
-ple	pl e	pl e	m n	U+0070 U+006c U+0020 U+0065	2	Chuanqiandian, Central Guizhou,Chuanqiandian	mple⁵⁵, mple³¹
-bləu	bl əu	bl əu	m n	U+0062 U+006c U+0020 U+0259 U+0075	2	Luobuohe, Eastern,Luobuohe, Western	mbləu³¹, mbləu³¹
-bæ	b æ	b æ	m n	U+0062 U+0020 U+00e6	2	Luobuohe, Western	mbæ³¹, mbæ³¹
-tʰu	tʰ u	tʰ u	m n	U+0074 U+02b0 U+0020 U+0075	2	Chuanqiandian, Central Guizhou,Luobuohe, Western	ntʰu⁴², ntʰu³⁵
-ki	k i	k i	m n	U+006b U+0020 U+0069	2	Chuanqiandian, Central Guizhou	ŋki⁵⁵, ŋki⁵⁵
-ke	k e	k e	m n	U+006b U+0020 U+0065	2	Baheng, East,Chuanqiandian, Central Guizhou	ŋke⁴², ŋke¹¹
+blo	bl o	bl o	m n	U+0062 U+006c U+0020 U+006f	3	Luobuohe, Western,Luobuohe, Eastern	mblo³³, mblo³¹, mblo³³
+tey	t ey	t ey	m n	U+0074 U+0020 U+0065 U+0079	3	Chuanqiandian, Northeast Yunnan	ntey⁵⁵, ntey⁵⁵, ntey⁵⁵
+kʰo	kʰ o	kʰ o	m n	U+006b U+02b0 U+0020 U+006f	3	Luobuohe, Western,Luobuohe, Eastern	ŋkʰo³³, ŋkʰo³³, ŋkʰo³³
+tʂʰa	tʂʰ a	tʂʰ a	m n	U+0074 U+0282 U+02b0 U+0020 U+0061	3	Chuanqiandian, Northeast Yunnan,Chuanqiandian	ɳtʂʰa¹¹, ntʂʰa⁴³, ntʂʰa⁴³
+kɪ	k ɪ	k ɪ	m n	U+006b U+0020 U+026a	3	Chuanqiandian, Southern Guizhou	ŋkɪ¹¹, ŋkɪ⁵⁵, ŋkɪ¹³
+taɯ	t aɯ	t aɯ	m n	U+0074 U+0020 U+0061 U+026f	3	Chuanqiandian, Northeast Yunnan	ntaɯ⁵⁵, ntaɯ⁵⁵, ntaɯ³¹
+pɔ	p ɔ	p ɔ	m n	U+0070 U+0020 U+0254	3	Chuanqiandian, Southern Guizhou	mpɔ⁵⁵, mpɔ³², mpɔ⁵⁵
+gʱey	gʱ ey	gʱ ey	m n	U+0067 U+02b1 U+0020 U+0065 U+0079	3	Chuanqiandian, Northeast Yunnan	ŋgʱey³⁵, ŋgʱey³⁵, ŋgʱey³⁵
+pjau	pj au	pj au	m n	U+0070 U+006a U+0020 U+0061 U+0075	3	Baheng, East	mpjau³¹, mpjau⁵⁵, mpjau³¹
+tsʰo	tsʰ o	tsʰ o	m n	U+0074 U+0073 U+02b0 U+0020 U+006f	3	Luobuohe, Eastern,Luobuohe, Western,Baheng, East	ntsʰo³³, ntsʰo³¹, ntsʰo⁵⁵
+tæ	t æ	t æ	m n	U+0074 U+0020 U+00e6	3	Chuanqiandian, Southern Guizhou	ntæ⁵⁵, ntæ⁵³, ntæ⁴²
+ɢɑ	ɢ ɑ	ɢ ɑ	m n	U+0262 U+0020 U+0251	3	Luobuohe, Western	ŋɢɑ⁵⁵, ŋɢɑ⁵⁵, ŋɢɑ³⁵
+bi	b i	b i	m n	U+0062 U+0020 U+0069	3	Luobuohe, Western,Luobuohe, Eastern	mbi³¹, mbi³¹, mbi³¹
+ɬua	ɬu a	ɬu a	m n	U+026c U+0075 U+0020 U+0061	3	Chuanqiandian	tɬua⁴⁴, tɬua⁴³, tɬua⁵⁵
+go	g o	g o	m n	U+0067 U+0020 U+006f	3	Luobuohe, Eastern,Luobuohe, Western	ŋgo³³, ŋgo³¹, ŋgo³¹
+li	l i	l i	m n	U+006c U+0020 U+0069	3	Chuanqiandian,Chuanqiandian, Central Guizhou	pli¹³, pʰli³³, pli²⁴
+leu	l eu	l eu	m n	U+006c U+0020 U+0065 U+0075	3	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	pleu³¹, pleu³¹, pleu⁵⁵
+pə	p ə	p ə	m n	U+0070 U+0020 U+0259	3	Chuanqiandian, Central Guizhou	mpə²², mpə²², mpə¹³
+tʂa	tʂ a	tʂ a	m n	U+0074 U+0282 U+0020 U+0061	3	Chuanqiandian, Central Guizhou,Chuanqiandian	ntʂa²⁴, ntʂa⁴³, ntʂa⁴³
+jau	j au	j au	m n	U+006a U+0020 U+0061 U+0075	3	Baheng, East	tjau³⁵, tjau³¹, tjau³⁵
+tɛ	t ɛ	t ɛ	m n	U+0074 U+0020 U+025b	3	Chuanqiandian, Central Guizhou	ntɛ⁴², ntɛ¹³, ntɛ⁴²
+pʐa	pʐ a	pʐ a	m n	U+0070 U+0290 U+0020 U+0061	3	Chuanqiandian, Southern Guizhou	mpʐa³², mpʐa³², mpʐa³²
+pou	p ou	p ou	m n	U+0070 U+0020 U+006f U+0075	3	Chuanqiandian	mpou³¹, mpou⁴⁴, mpou⁴⁴
+du	d u	d u	m n	U+0064 U+0020 U+0075	3	Luobuohe, Western	ndu³⁵, ndu³⁵, ndu³⁵
+ka	k a	k a	m n	U+006b U+0020 U+0061	3	Luobuohe, Eastern,Chuanqiandian, Southern Guizhou	ŋka⁵⁵, ŋka⁵³, ŋka²²
+plɯ	pl ɯ	pl ɯ	m n	U+0070 U+006c U+0020 U+026f	3	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	mplɯ²², mplɯ⁴², mplɯ¹¹
+ɬɛ	ɬ ɛ	ɬ ɛ	m n	U+026c U+0020 U+025b	3	Chuanqiandian, Central Guizhou	tɬɛ¹³, tɬɛ⁵⁵, tɬɛ¹³
+kwei	kw ei	kw ei	m n	U+006b U+0077 U+0020 U+0065 U+0069	3	Baheng, East	ŋkwei³⁵, ŋkwei³⁵, ŋkwei³⁵
+ɬu	ɬ u	ɬ u	m n	U+026c U+0020 U+0075	3	Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan	tɬu⁵⁵, tɬu¹³, tɬu⁵⁵
+qo	q o	q o	m n	U+0071 U+0020 U+006f	3	Chuanqiandian,Baheng, East	ŋqo⁴³, ŋqo³⁵, ŋqo¹¹
+kau	k au	k au	m n	U+006b U+0020 U+0061 U+0075	3	Baheng, East,Chuanqiandian, Northeast Yunnan	ŋkau⁵⁵, ŋkau⁵⁵, ŋkau³³
+pʐu	pʐ u	pʐ u	m n	U+0070 U+0290 U+0020 U+0075	2	Chuanqiandian, Southern Guizhou	mpʐu¹³, mpʐu¹³
+ʈei	ʈ ei	ʈ ei	m n	U+0288 U+0020 U+0065 U+0069	2	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	ɳʈei³⁵, ɳʈei²⁴
+pʐəu	pʐ əu	pʐ əu	m n	U+0070 U+0290 U+0020 U+0259 U+0075	2	Chuanqiandian, Southern Guizhou	mpʐəu⁵⁵, mpʐəu⁵⁵
+tɕey	tɕ ey	tɕ ey	m n	U+0074 U+0255 U+0020 U+0065 U+0079	2	Chuanqiandian, Northeast Yunnan	ȵtɕey¹¹, ȵtɕey¹¹
 tai	t ai	t ai	m n	U+0074 U+0020 U+0061 U+0069	2	Chuanqiandian	ntai³³, ntai⁵⁵
-tsʰi	tsʰ i	tsʰ i	m n	U+0074 U+0073 U+02b0 U+0020 U+0069	2	Luobuohe, Eastern,Luobuohe, Western	ntsʰi³³, ntsʰi³¹
-qɑ	q ɑ	q ɑ	m n	U+0071 U+0020 U+0251	2	Luobuohe, Western	ŋqɑ³³, ŋqɑ³¹
-tɕa	tɕ a	tɕ a	m n	U+0074 U+0255 U+0020 U+0061	2	Baheng, East	ȵtɕa³⁵, ȵtɕa³⁵
-tɕu	tɕ u	tɕ u	m n	U+0074 U+0255 U+0020 U+0075	2	Baheng, East	ȵtɕu³³, ȵtɕu⁵³
-tʂo	tʂ o	tʂ o	m n	U+0074 U+0282 U+0020 U+006f	2	Chuanqiandian, Central Guizhou,Chuanqiandian	ntʂo²¹, ntʂo⁴²
-tʂi	tʂ i	tʂ i	m n	U+0074 U+0282 U+0020 U+0069	2	Chuanqiandian	ntʂi³³, ntʂi²⁴
-tʂʰa	tʂʰ a	tʂʰ a	m n	U+0074 U+0282 U+02b0 U+0020 U+0061	2	Chuanqiandian	ntʂʰa⁴³, ntʂʰa⁴³
-tʰɑ	tʰ ɑ	tʰ ɑ	m n	U+0074 U+02b0 U+0020 U+0251	2	Luobuohe, Western	ntʰɑ⁵⁵, ntʰɑ³⁵
-kwe	kw e	kw e	m n	U+006b U+0077 U+0020 U+0065	2	Baheng, East	ŋkwe⁵³, ŋkwe¹¹
-qau	q au	q au	m n	U+0071 U+0020 U+0061 U+0075	2	Baheng, East	ŋqau³⁵, ŋqau³¹
-kwi	kw i	kw i	m n	U+006b U+0077 U+0020 U+0069	2	Baheng, East	ŋkwi⁵⁵, ŋkwi³³
-qei	q ei	q ei	m n	U+0071 U+0020 U+0065 U+0069	2	Baheng, East	ŋqei⁵⁵, ŋqei³³
-læ	l æ	l æ	m n	U+006c U+0020 U+00e6	2	Luobuohe, Western	plæ³⁵, plæ³⁵
-pɑ	p ɑ	p ɑ	m n	U+0070 U+0020 U+0251	2	Luobuohe, Western	mpɑ³¹, mpɑ³⁵
-tʂʰe	tʂʰ e	tʂʰ e	m n	U+0074 U+0282 U+02b0 U+0020 U+0065	2	Chuanqiandian, Central Guizhou	ntʂʰe⁴², ntʂʰe⁴²
-tsʰy	tsʰ y	tsʰ y	m n	U+0074 U+0073 U+02b0 U+0020 U+0079	2	Luobuohe, Eastern	ntsʰy⁵⁵, ntsʰy³³
-plai	pl ai	pl ai	m n	U+0070 U+006c U+0020 U+0061 U+0069	2	Chuanqiandian	mplai²⁴, mplai⁴⁴
-dəu	d əu	d əu	m n	U+0064 U+0020 U+0259 U+0075	2	Luobuohe, Eastern	ndəu²⁴, ndəu²⁴
-pɛ	p ɛ	p ɛ	m n	U+0070 U+0020 U+025b	2	Chuanqiandian, Central Guizhou	mpɛ⁴², mpɛ²⁴
-qu	q u	q u	m n	U+0071 U+0020 U+0075	2	Chuanqiandian, Central Guizhou	ŋqu²⁴, ŋqu²²
-dʑi	dʑ i	dʑ i	m n	U+0064 U+0291 U+0020 U+0069	2	Luobuohe, Eastern,Luobuohe, Western	ȵdʑi³¹, ȵdʑi³¹
-bjɛ	bj ɛ	bj ɛ	m n	U+0062 U+006a U+0020 U+025b	2	Luobuohe, Eastern	mbjɛ²⁴, mbjɛ³³
-gɑ	g ɑ	g ɑ	m n	U+0067 U+0020 U+0251	2	Luobuohe, Western	ŋgɑ⁵⁵, ŋgɑ³¹
-plɯ	pl ɯ	pl ɯ	m n	U+0070 U+006c U+0020 U+026f	2	Chuanqiandian, Central Guizhou	mplɯ²², mplɯ⁴²
+ʈɔ	ʈ ɔ	ʈ ɔ	m n	U+0288 U+0020 U+0254	2	Chuanqiandian, Southern Guizhou	ɳʈɔ⁴⁴, ɳʈɔ⁴⁴
 ɢe	ɢ e	ɢ e	m n	U+0262 U+0020 U+0065	2	Luobuohe, Western	ŋɢe³¹, ŋɢe³¹
-ɢo	ɢ o	ɢ o	m n	U+0262 U+0020 U+006f	2	Luobuohe, Eastern,Luobuohe, Western	ŋɢo³³, ŋɢo⁵⁵
+ɦai	ɦ ai	ɦ ai	m n	U+0266 U+0020 U+0061 U+0069	2	Chuanqiandian, Northeast Yunnan	vɦai³¹, dzɦai¹¹
+kwe	kw e	kw e	m n	U+006b U+0077 U+0020 U+0065	2	Baheng, East	ŋkwe⁵³, ŋkwe¹¹
+bjɛ	bj ɛ	bj ɛ	m n	U+0062 U+006a U+0020 U+025b	2	Luobuohe, Eastern	mbjɛ²⁴, mbjɛ³³
+tɔ	t ɔ	t ɔ	m n	U+0074 U+0020 U+0254	2	Chuanqiandian, Southern Guizhou	ntɔ³², ntɔ⁵⁵
 qʰe	qʰ e	qʰ e	m n	U+0071 U+02b0 U+0020 U+0065	2	Luobuohe, Western,Chuanqiandian	ŋqʰe³¹, ŋqʰe³³
-bju	bj u	bj u	m n	U+0062 U+006a U+0020 U+0075	2	Luobuohe, Eastern	mbju⁵⁵, mbju²⁴
-dɑ	d ɑ	d ɑ	m n	U+0064 U+0020 U+0251	2	Luobuohe, Western	ndɑ³⁵, ndɑ³⁵
+tsəu	ts əu	ts əu	m n	U+0074 U+0073 U+0020 U+0259 U+0075	2	Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	ntsəu⁵⁵, ntsəu⁵⁵
+tsʰi	tsʰ i	tsʰ i	m n	U+0074 U+0073 U+02b0 U+0020 U+0069	2	Luobuohe, Eastern,Luobuohe, Western	ntsʰi³³, ntsʰi³¹
+plai	pl ai	pl ai	m n	U+0070 U+006c U+0020 U+0061 U+0069	2	Chuanqiandian	mplai²⁴, mplai⁴⁴
+pɑ	p ɑ	p ɑ	m n	U+0070 U+0020 U+0251	2	Luobuohe, Western	mpɑ³¹, mpɑ³⁵
+pʐə	pʐ ə	pʐ ə	m n	U+0070 U+0290 U+0020 U+0259	2	Chuanqiandian, Southern Guizhou	mpʐə¹³, mpʐə¹³
+pʐɪ	pʐ ɪ	pʐ ɪ	m n	U+0070 U+0290 U+0020 U+026a	2	Chuanqiandian, Southern Guizhou	mpʐɪ²¹, mpʐɪ²¹
+ɬʰu	ɬʰ u	ɬʰ u	m n	U+026c U+02b0 U+0020 U+0075	2	Chuanqiandian, Northeast Yunnan	tɬʰu³³, tɬʰu³³
+qu	q u	q u	m n	U+0071 U+0020 U+0075	2	Chuanqiandian, Central Guizhou	ŋqu²⁴, ŋqu²²
+læ	l æ	l æ	m n	U+006c U+0020 U+00e6	2	Luobuohe, Western	plæ³⁵, plæ³⁵
+dlɦi	d lɦi	d lɦi	m n	U+0064 U+0020 U+006c U+0266 U+0069	2	Chuanqiandian, Northeast Yunnan	ndlɦi³⁵, ndlɦi³⁵
+qei	q ei	q ei	m n	U+0071 U+0020 U+0065 U+0069	2	Baheng, East	ŋqei⁵⁵, ŋqei³³
+ʈi	ʈ i	ʈ i	m n	U+0288 U+0020 U+0069	2	Luobuohe, Western,Chuanqiandian	ɳʈi³⁵, ɳʈi¹³
+bləu	bl əu	bl əu	m n	U+0062 U+006c U+0020 U+0259 U+0075	2	Luobuohe, Eastern,Luobuohe, Western	mbləu³¹, mbləu³¹
+tʂʰaɯ	tʂʰ aɯ	tʂʰ aɯ	m n	U+0074 U+0282 U+02b0 U+0020 U+0061 U+026f	2	Chuanqiandian, Northeast Yunnan	ɳtʂʰaɯ⁵⁵, ɳtʂʰaɯ⁵⁵
+tʰɑ	tʰ ɑ	tʰ ɑ	m n	U+0074 U+02b0 U+0020 U+0251	2	Luobuohe, Western	ntʰɑ⁵⁵, ntʰɑ³⁵
+wɯ	w ɯ	w ɯ	m n	U+0077 U+0020 U+026f	2	Chuanqiandian, Southern Guizhou	wɯ¹³, wɯ³³
+tsʰai	tsʰ ai	tsʰ ai	m n	U+0074 U+0073 U+02b0 U+0020 U+0061 U+0069	2	Chuanqiandian, Northeast Yunnan,Chuanqiandian	ntsʰai³³, ntsʰai¹¹
+ɢo	ɢ o	ɢ o	m n	U+0262 U+0020 U+006f	2	Luobuohe, Western,Luobuohe, Eastern	ŋɢo⁵⁵, ŋɢo³³
+tʂʰe	tʂʰ e	tʂʰ e	m n	U+0074 U+0282 U+02b0 U+0020 U+0065	2	Chuanqiandian, Central Guizhou	ntʂʰe⁴², ntʂʰe⁴²
+qɑ	q ɑ	q ɑ	m n	U+0071 U+0020 U+0251	2	Luobuohe, Western	ŋqɑ³³, ŋqɑ³¹
 tɑ	t ɑ	t ɑ	m n	U+0074 U+0020 U+0251	2	Luobuohe, Western	ntɑ⁵⁵, ntɑ⁵⁵
-dʑu	dʑ u	dʑ u	m n	U+0064 U+0291 U+0020 U+0075	2	Luobuohe, Eastern,Luobuohe, Western	ȵdʑu³¹, ȵdʑu³¹
-ɹəu	ɹ əu	ɹ əu	m n	U+0279 U+0020 U+0259 U+0075	2	Luobuohe, Eastern	ʁɹəu³³, qɹəu³³
-ʈau	ʈ au	ʈ au	m n	U+0288 U+0020 U+0061 U+0075	2	Chuanqiandian	nʈau¹³, nʈau⁴³
-dzɑ	dz ɑ	dz ɑ	m n	U+0064 U+007a U+0020 U+0251	2	Luobuohe, Western	ndzɑ³¹, ndzɑ³⁵
+tsʰy	tsʰ y	tsʰ y	m n	U+0074 U+0073 U+02b0 U+0020 U+0079	2	Luobuohe, Eastern	ntsʰy⁵⁵, ntsʰy³³
+ɦe	ɦ e	ɦ e	m n	U+0266 U+0020 U+0065	2	Chuanqiandian, Northeast Yunnan	ȵɦe³¹, ȵɦe³⁵
+tʂʰie	tʂʰ ie	tʂʰ ie	m n	U+0074 U+0282 U+02b0 U+0020 U+0069 U+0065	2	Chuanqiandian, Northeast Yunnan	ɳtʂʰie⁵⁵, ɳtʂʰie⁵⁵
+tʂʰai	tʂʰ ai	tʂʰ ai	m n	U+0074 U+0282 U+02b0 U+0020 U+0061 U+0069	2	Chuanqiandian, Northeast Yunnan,Chuanqiandian	ntʂʰai⁴⁴, ɳtʂʰai³³
+qʰa	qʰ a	qʰ a	m n	U+0071 U+02b0 U+0020 U+0061	2	Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou	ŋqʰa⁵⁵, ŋqʰa²⁴
 ɢa	ɢ a	ɢ a	m n	U+0262 U+0020 U+0061	2	Luobuohe, Eastern	ŋɢa⁵⁵, ŋɢa²⁴
-kʰeu	kʰ eu	kʰ eu	m n	U+006b U+02b0 U+0020 U+0065 U+0075	2	Baheng, East,Chuanqiandian	ŋkʰeu⁴³, ŋkʰeu³¹
-tsua	ts ua	ts ua	m n	U+0074 U+0073 U+0020 U+0075 U+0061	2	Chuanqiandian	ntsua⁵⁵, ntsua²⁴
-tʰau	tʰ au	tʰ au	m n	U+0074 U+02b0 U+0020 U+0061 U+0075	1	Chuanqiandian	ntʰau³³
-tʂʰi	tʂʰ i	tʂʰ i	m n	U+0074 U+0282 U+02b0 U+0020 U+0069	1	Chuanqiandian	ntʂʰi⁵⁵
-pli	pl i	pl i	m n	U+0070 U+006c U+0020 U+0069	1	Chuanqiandian, Central Guizhou	mpli²²
-tsʰua	tsʰ ua	tsʰ ua	m n	U+0074 U+0073 U+02b0 U+0020 U+0075 U+0061	1	Chuanqiandian	ntsʰua⁴⁴
-tɕua	tɕ ua	tɕ ua	m n	U+0074 U+0255 U+0020 U+0075 U+0061	1	Chuanqiandian	ȵtɕua⁵⁵
-tjo	tj o	tj o	m n	U+0074 U+006a U+0020 U+006f	1	Baheng, East	ntjo³¹³
-ʁa	ʁ a	ʁ a	m n	U+0281 U+0020 U+0061	1	Luobuohe, Eastern	qʰʁa⁵⁵
-tʂai	tʂ ai	tʂ ai	m n	U+0074 U+0282 U+0020 U+0061 U+0069	1	Chuanqiandian	ntʂai¹³
-lɑu	l ɑu	l ɑu	m n	U+006c U+0020 U+0251 U+0075	1	Luobuohe, Western	plɑu⁵⁵
-tʂou	tʂ ou	tʂ ou	m n	U+0074 U+0282 U+0020 U+006f U+0075	1	Chuanqiandian	ntʂou²⁴
-ɢwi	ɢw i	ɢw i	m n	U+0262 U+0077 U+0020 U+0069	1	Luobuohe, Western	ŋɢwi⁵⁵
-pjɛ	pj ɛ	pj ɛ	m n	U+0070 U+006a U+0020 U+025b	1	Luobuohe, Eastern	mpjɛ³¹
-di	d i	d i	m n	U+0064 U+0020 U+0069	1	Luobuohe, Western	ndi³⁵
-keu	k eu	k eu	m n	U+006b U+0020 U+0065 U+0075	1	Chuanqiandian	ŋkeu²⁴
-tɬu	tɬ u	tɬ u	m n	U+0074 U+026c U+0020 U+0075	1	Chuanqiandian, Central Guizhou	ntɬu²²
-tʰəu	tʰ əu	tʰ əu	m n	U+0074 U+02b0 U+0020 U+0259 U+0075	1	Luobuohe, Eastern	ntʰəu²⁴
-qʰai	qʰ ai	qʰ ai	m n	U+0071 U+02b0 U+0020 U+0061 U+0069	1	Baheng, East	ŋqʰai³¹
-tsʰai	tsʰ ai	tsʰ ai	m n	U+0074 U+0073 U+02b0 U+0020 U+0061 U+0069	1	Chuanqiandian	ntsʰai³³
-ia	i a	i a	m n	U+0069 U+0020 U+0061	1	Baheng, West	hia³⁵
-ɢwei	ɢw ei	ɢw ei	m n	U+0262 U+0077 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ŋɢwei⁵⁵
-lɯ	l ɯ	l ɯ	m n	U+006c U+0020 U+026f	1	Chuanqiandian, Central Guizhou	plɯ²²
-kʰə	kʰ ə	kʰ ə	m n	U+006b U+02b0 U+0020 U+0259	1	Chuanqiandian, Central Guizhou	ŋkʰə¹³
-kwa	kw a	kʷ a	m n	U+006b U+0077 U+0020 U+0061	1	Baheng, East	ŋkwa¹¹
-ɹe	ɹ e	ɹ e	m n	U+0279 U+0020 U+0065	1	Luobuohe, Eastern	qɹe³³
-ieu	i eu	i eu	m n	U+0069 U+0020 U+0065 U+0075	1	Qiandong, East	tsieu⁴⁴
-tsəu	ts əu	ts əu	m n	U+0074 U+0073 U+0020 U+0259 U+0075	1	Luobuohe, Eastern	ntsəu⁵⁵
-tja	tj a	tj a	m n	U+0074 U+006a U+0020 U+0061	1	Baheng, East	ntja³¹³
-kʰou	kʰ ou	kʰ ou	m n	U+006b U+02b0 U+0020 U+006f U+0075	1	Chuanqiandian	ŋkʰou³³
-bzi	bz i	bz i	m n	U+0062 U+007a U+0020 U+0069	1	Luobuohe, Eastern	mbzi³³
-pai	p ai	p ai	m n	U+0070 U+0020 U+0061 U+0069	1	Baheng, East	mpai³¹
-tʂʰai	tʂʰ ai	tʂʰ ai	m n	U+0074 U+0282 U+02b0 U+0020 U+0061 U+0069	1	Chuanqiandian	ntʂʰai⁴⁴
-ɖɑ	ɖ ɑ	ɖ ɑ	m n	U+0256 U+0020 U+0251	1	Luobuohe, Western	ɳɖɑ⁵⁵
-kɯ	k ɯ	k ɯ	m n	U+006b U+0020 U+026f	1	Chuanqiandian, Central Guizhou	ŋkɯ¹³
-ʈei	ʈ ei	ʈ ei	m n	U+0288 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ɳʈei²⁴
-phe	ph e	ph e	m n	U+0070 U+0068 U+0020 U+0065	1	Baheng, East	mphe⁵⁵
-pleu	pl eu	pl eu	m n	U+0070 U+006c U+0020 U+0065 U+0075	1	Chuanqiandian	mpleu²⁴
-iɑu	i ɑu	i ɑu	m n	U+0069 U+0020 U+0251 U+0075	1	Luobuohe, Western	pʰiɑu³¹
-ble	bl e	bl e	m n	U+0062 U+006c U+0020 U+0065	1	Luobuohe, Eastern	mble³³
-tsʰɑ	tsʰ ɑ	tsʰ ɑ	m n	U+0074 U+0073 U+02b0 U+0020 U+0251	1	Luobuohe, Western	ntsʰɑ³⁵
-pʰləu	pʰl əu	pʰl əu	m n	U+0070 U+02b0 U+006c U+0020 U+0259 U+0075	1	Luobuohe, Western	mpʰləu⁵⁵
-ʈai	ʈ ai	ʈ ai	m n	U+0288 U+0020 U+0061 U+0069	1	Chuanqiandian	nʈai²⁴
-pʰau	pʰ au	pʰ au	m n	U+0070 U+02b0 U+0020 U+0061 U+0075	1	Baheng, East	mpʰau³⁵
-tsou	ts ou	ts ou	m n	U+0074 U+0073 U+0020 U+006f U+0075	1	Chuanqiandian	ntsou¹³
-tɕʰe	tɕʰ e	tɕʰ e	m n	U+0074 U+0255 U+02b0 U+0020 U+0065	1	Baheng, East	ȵtɕʰe³¹³
-tʰɛ	tʰ ɛ	tʰ ɛ	m n	U+0074 U+02b0 U+0020 U+025b	1	Luobuohe, Eastern	ntʰɛ²⁴
-ɢla	ɢl a	ɢl a	m n	U+0262 U+006c U+0020 U+0061	1	Luobuohe, Eastern	ŋɢla²⁴
-qɛ	q ɛ	q ɛ	m n	U+0071 U+0020 U+025b	1	Chuanqiandian, Central Guizhou	ŋqɛ⁴²
-pʰlo	pʰl o	pʰl o	m n	U+0070 U+02b0 U+006c U+0020 U+006f	1	Chuanqiandian, Central Guizhou	mpʰlo²⁴
-lju	lj u	lj u	m n	U+006c U+006a U+0020 U+0075	1	Luobuohe, Eastern	ʔlju³¹
-ʈo	ʈ o	ʈ o	m n	U+0288 U+0020 U+006f	1	Chuanqiandian	nʈo³¹
-ɖo	ɖ o	ɖ o	m n	U+0256 U+0020 U+006f	1	Luobuohe, Western	nɖo⁵⁵
-lua	lu a	lu a	m n	U+006c U+0075 U+0020 U+0061	1	Chuanqiandian	tlua³¹
-qʰei	qʰ ei	qʰ ei	m n	U+0071 U+02b0 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ŋqʰei³³
-kau	k au	k au	m n	U+006b U+0020 U+0061 U+0075	1	Baheng, East	ŋkau³³
-ɬʰɛ	ɬʰ ɛ	ɬʰ ɛ	m n	U+026c U+02b0 U+0020 U+025b	1	Chuanqiandian, Central Guizhou	tɬʰɛ⁴²
-tʰei	tʰ ei	tʰ ei	m n	U+0074 U+02b0 U+0020 U+0065 U+0069	1	Baheng, East	ntʰei³¹
-bø	b ø	b ø	m n	U+0062 U+0020 U+00f8	1	Luobuohe, Western	mbø⁵⁵
-yɛ	y ɛ	y ɛ	m n	U+0079 U+0020 U+025b	1	Luobuohe, Eastern	tɕyɛ³³
-ɖei	ɖ ei	ɖ ei	m n	U+0256 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ɳɖei³³
-blæ	bl æ	bl æ	m n	U+0062 U+006c U+0020 U+00e6	1	Luobuohe, Western	mblæ³¹
-jø	j ø	j ø	m n	U+006a U+0020 U+00f8	1	Luobuohe, Western	jø³¹
-plou	pl ou	pl ou	m n	U+0070 U+006c U+0020 U+006f U+0075	1	Chuanqiandian	mplou²⁴
-ɬʰa	ɬʰ a	ɬʰ a	m n	U+026c U+02b0 U+0020 U+0061	1	Chuanqiandian	tɬʰa⁴⁴
-tʰjo	tʰj o	tʰj o	m n	U+0074 U+02b0 U+006a U+0020 U+006f	1	Baheng, East	ntʰjo⁵⁵
-bzɿ	bz ɿ	bz ɿ	m n	U+0062 U+007a U+0020 U+027f	1	Luobuohe, Eastern	mbzɿ³¹
-ga	g a	g a	m n	U+0067 U+0020 U+0061	1	Luobuohe, Eastern	ŋga³¹
-tʰa	tʰ a	tʰ a	m n	U+0074 U+02b0 U+0020 U+0061	1	Luobuohe, Eastern	ntʰa⁵⁵
-ɬu	ɬ u	ɬ u	m n	U+026c U+0020 U+0075	1	Chuanqiandian, Central Guizhou	tɬu¹³
-dzo	dz o	dz o	m n	U+0064 U+007a U+0020 U+006f	1	Luobuohe, Eastern	ndzo³³
-plua	pl ua	pl ua	m n	U+0070 U+006c U+0020 U+0075 U+0061	1	Chuanqiandian	mplua¹³
+ʈa	ʈ a	ʈ a	m n	U+0288 U+0020 U+0061	2	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan	ɳʈa³², ɳʈa³³
+kua	k ua	k ua	m n	U+006b U+0020 U+0075 U+0061	2	Chuanqiandian, Southern Guizhou	ŋkua⁵³, ŋkua⁵⁵
+kɔ	k ɔ	k ɔ	m n	U+006b U+0020 U+0254	2	Chuanqiandian, Southern Guizhou	ŋkɔ³², ŋkɔ⁵³
+ki	k i	k i	m n	U+006b U+0020 U+0069	2	Chuanqiandian, Central Guizhou	ŋki⁵⁵, ŋki⁵⁵
+qau	q au	q au	m n	U+0071 U+0020 U+0061 U+0075	2	Baheng, East	ŋqau³⁵, ŋqau³¹
+tʂo	tʂ o	tʂ o	m n	U+0074 U+0282 U+0020 U+006f	2	Chuanqiandian, Central Guizhou,Chuanqiandian	ntʂo²¹, ntʂo⁴²
+bæ	b æ	b æ	m n	U+0062 U+0020 U+00e6	2	Luobuohe, Western	mbæ³¹, mbæ³¹
+kʰeu	kʰ eu	kʰ eu	m n	U+006b U+02b0 U+0020 U+0065 U+0075	2	Chuanqiandian,Baheng, East	ŋkʰeu⁴³, ŋkʰeu³¹
+gɑ	g ɑ	g ɑ	m n	U+0067 U+0020 U+0251	2	Luobuohe, Western	ŋgɑ⁵⁵, ŋgɑ³¹
+ʈau	ʈ au	ʈ au	m n	U+0288 U+0020 U+0061 U+0075	2	Chuanqiandian	nʈau¹³, nʈau⁴³
+tʂi	tʂ i	tʂ i	m n	U+0074 U+0282 U+0020 U+0069	2	Chuanqiandian	ntʂi³³, ntʂi²⁴
+dlɦo	d lɦo	d lɦo	m n	U+0064 U+0020 U+006c U+0266 U+006f	2	Chuanqiandian, Northeast Yunnan	ndlɦo³⁵, ndlɦo³⁵
+tʰu	tʰ u	tʰ u	m n	U+0074 U+02b0 U+0020 U+0075	2	Luobuohe, Western,Chuanqiandian, Central Guizhou	ntʰu⁴², ntʰu³⁵
+ʈʰie	ʈʰ ie	ʈʰ ie	m n	U+0288 U+02b0 U+0020 U+0069 U+0065	2	Chuanqiandian, Northeast Yunnan	ɳʈʰie⁵⁵, ɳʈʰie⁵⁵
+pɛ	p ɛ	p ɛ	m n	U+0070 U+0020 U+025b	2	Chuanqiandian, Central Guizhou	mpɛ⁴², mpɛ²⁴
+dʐɦa	dʐɦ a	dʐɦ a	m n	U+0064 U+0290 U+0266 U+0020 U+0061	2	Chuanqiandian, Northeast Yunnan	ɳdʐɦa¹¹, ɳdʐɦa¹¹
+bju	bj u	bj u	m n	U+0062 U+006a U+0020 U+0075	2	Luobuohe, Eastern	mbju⁵⁵, mbju²⁴
+kwi	kw i	kw i	m n	U+006b U+0077 U+0020 U+0069	2	Baheng, East	ŋkwi⁵⁵, ŋkwi³³
+dʑu	dʑ u	dʑ u	m n	U+0064 U+0291 U+0020 U+0075	2	Luobuohe, Eastern,Luobuohe, Western	ȵdʑu³¹, ȵdʑu³¹
+tɕʰo	tɕʰ o	tɕʰ o	m n	U+0074 U+0255 U+02b0 U+0020 U+006f	2	Chuanqiandian, Northeast Yunnan,Chuanqiandian	ȵtɕʰo⁴⁴, ȵtɕʰo³³
+dəu	d əu	d əu	m n	U+0064 U+0020 U+0259 U+0075	2	Luobuohe, Eastern	ndəu²⁴, ndəu²⁴
+bə	b ə	b ə	m n	U+0062 U+0020 U+0259	2	Chuanqiandian, Northeast Yunnan	mbə³³, mbə³¹
+ɹəu	ɹ əu	ɹ əu	m n	U+0279 U+0020 U+0259 U+0075	2	Luobuohe, Eastern	ʁɹəu³³, qɹəu³³
+ɭɔ	ɭ ɔ	ɭ ɔ	m n	U+026d U+0020 U+0254	2	Chuanqiandian, Southern Guizhou	pɭɔ³², pɭɔ³²
+ɬʰa	ɬʰ a	ɬʰ a	m n	U+026c U+02b0 U+0020 U+0061	2	Chuanqiandian, Northeast Yunnan,Chuanqiandian	tɬʰa⁴⁴, tɬʰa¹¹
 pʰu	pʰ u	pʰ u	m n	U+0070 U+02b0 U+0020 U+0075	1	Baheng, East	mpʰu³¹
-tʰua	tʰ ua	tʰ ua	m n	U+0074 U+02b0 U+0020 U+0075 U+0061	1	Chuanqiandian	ntʰua⁴⁴
-jə	j ə	j ə	m n	U+006a U+0020 U+0259	1	Luobuohe, Western	jə⁰²
-tsɿ	ts ɿ	ts ɿ	m n	U+0074 U+0073 U+0020 U+027f	1	Baheng, East	ntsɿ³¹
-tsʰie	tsʰ ie	tsʰ ie	m n	U+0074 U+0073 U+02b0 U+0020 U+0069 U+0065	1	Luobuohe, Eastern	ntsʰie³³
-tɕau	tɕ au	tɕ au	m n	U+0074 U+0255 U+0020 U+0061 U+0075	1	Baheng, East	ȵtɕau⁵³
-qʰa	qʰ a	qʰ a	m n	U+0071 U+02b0 U+0020 U+0061	1	Chuanqiandian, Central Guizhou	ŋqʰa²⁴
-tɕʰo	tɕʰ o	tɕʰ o	m n	U+0074 U+0255 U+02b0 U+0020 U+006f	1	Chuanqiandian	ȵtɕʰo⁴⁴
+ʈʂʅ	ʈʂ ʅ	ʈʂ ʅ	m n	U+0288 U+0282 U+0020 U+0285	1	Chuanqiandian, Northeast Yunnan	ɳʈʂʅ¹¹
+ʈai	ʈ ai	ʈ ai	m n	U+0288 U+0020 U+0061 U+0069	1	Chuanqiandian	nʈai²⁴
+pʰlo	pʰl o	pʰl o	m n	U+0070 U+02b0 U+006c U+0020 U+006f	1	Chuanqiandian, Central Guizhou	mpʰlo²⁴
+tʰɛ	tʰ ɛ	tʰ ɛ	m n	U+0074 U+02b0 U+0020 U+025b	1	Luobuohe, Eastern	ntʰɛ²⁴
+tʂaɯ	tʂ aɯ	tʂ aɯ	m n	U+0074 U+0282 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ɳtʂaɯ¹³
+tɕua	tɕ ua	tɕ ua	m n	U+0074 U+0255 U+0020 U+0075 U+0061	1	Chuanqiandian	ȵtɕua⁵⁵
+gaɯ	g aɯ	g aɯ	m n	U+0067 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ŋgaɯ³¹
+blæ	bl æ	bl æ	m n	U+0062 U+006c U+0020 U+00e6	1	Luobuohe, Western	mblæ³¹
+kɯ	k ɯ	k ɯ	m n	U+006b U+0020 U+026f	1	Chuanqiandian, Central Guizhou	ŋkɯ¹³
+bɦa	bɦ a	bɦ a	m n	U+0062 U+0266 U+0020 U+0061	1	Chuanqiandian, Northeast Yunnan	mbɦa³⁵
+tɕʰey	tɕʰ ey	tɕʰ ey	m n	U+0074 U+0255 U+02b0 U+0020 U+0065 U+0079	1	Chuanqiandian, Northeast Yunnan	ȵtɕʰey⁵⁵
+tʂʰi	tʂʰ i	tʂʰ i	m n	U+0074 U+0282 U+02b0 U+0020 U+0069	1	Chuanqiandian	ntʂʰi⁵⁵
+di	d i	d i	m n	U+0064 U+0020 U+0069	1	Luobuohe, Western	ndi³⁵
+pʰləu	pʰl əu	pʰl əu	m n	U+0070 U+02b0 U+006c U+0020 U+0259 U+0075	1	Luobuohe, Western	mpʰləu⁵⁵
+dʱy	dʱ y	dʱ y	m n	U+0064 U+02b1 U+0020 U+0079	1	Chuanqiandian, Northeast Yunnan	ndʱy³¹
+pɯ	p ɯ	p ɯ	m n	U+0070 U+0020 U+026f	1	Chuanqiandian, Southern Guizhou	mpɯ¹¹
+tʰəu	tʰ əu	tʰ əu	m n	U+0074 U+02b0 U+0020 U+0259 U+0075	1	Luobuohe, Eastern	ntʰəu²⁴
+ga	g a	g a	m n	U+0067 U+0020 U+0061	1	Luobuohe, Eastern	ŋga³¹
+tsaɯ	ts aɯ	ts aɯ	m n	U+0074 U+0073 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ntsaɯ¹¹
+tɬo	tɬ o	tɬ o	m n	U+0074 U+026c U+0020 U+006f	1	Chuanqiandian, Northeast Yunnan	ntɬo⁵⁵
+lɯ	l ɯ	l ɯ	m n	U+006c U+0020 U+026f	1	Chuanqiandian, Central Guizhou	plɯ²²
+tʂʅ	tʂ ʅ	tʂ ʅ	m n	U+0074 U+0282 U+0020 U+0285	1	Chuanqiandian, Northeast Yunnan	ɳtʂʅ¹¹
+ɦiau	ɦ iau	ɦ iau	m n	U+0266 U+0020 U+0069 U+0061 U+0075	1	Chuanqiandian, Northeast Yunnan	ki⁵⁵+ⁿdzɦau³¹
+ɢɦɯ	ɢɦ ɯ	ɢɦ ɯ	m n	U+0262 U+0266 U+0020 U+026f	1	Chuanqiandian, Northeast Yunnan	ŋɢɦɯ¹¹
+ɬie	ɬi e	ɬi e	m n	U+026c U+0069 U+0020 U+0065	1	Chuanqiandian, Northeast Yunnan	tɬie⁵⁵
+ɖei	ɖ ei	ɖ ei	m n	U+0256 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ɳɖei³³
+ɦou	ɦ ou	ɦ ou	m n	U+0266 U+0020 U+006f U+0075	1	Chuanqiandian, Northeast Yunnan	m̥o³³+ⁿdɦu³⁵
+tʰei	tʰ ei	tʰ ei	m n	U+0074 U+02b0 U+0020 U+0065 U+0069	1	Baheng, East	ntʰei³¹
+iɑu	i ɑu	i ɑu	m n	U+0069 U+0020 U+0251 U+0075	1	Luobuohe, Western	pʰiɑu³¹
+pjɛ	pj ɛ	pj ɛ	m n	U+0070 U+006a U+0020 U+025b	1	Luobuohe, Eastern	mpjɛ³¹
+dʑʱi	dʑʱ i	dʑʱ i	m n	U+0064 U+0291 U+02b1 U+0020 U+0069	1	Chuanqiandian, Northeast Yunnan	ȵdʑʱi³⁵
+wɦaɯ	wɦ aɯ	wɦ aɯ	m n	U+0077 U+0266 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	wɦaɯ³⁵
+dla	dl a	dl a	m n	U+0064 U+006c U+0020 U+0061	1	Chuanqiandian, Northeast Yunnan	ndla³¹
+pleu	pl eu	pl eu	m n	U+0070 U+006c U+0020 U+0065 U+0075	1	Chuanqiandian	mpleu²⁴
 qʰɛ	qʰ ɛ	qʰ ɛ	m n	U+0071 U+02b0 U+0020 U+025b	1	Luobuohe, Western	ŋqʰɛ³¹
-ka	k a	k a	m n	U+006b U+0020 U+0061	1	Luobuohe, Eastern	ŋka⁵⁵
-ɹɛ	ɹ ɛ	ɹ ɛ	m n	U+0279 U+0020 U+025b	1	Luobuohe, Eastern	ʁɹɛ²⁴
-blɑu	bl ɑu	bl ɑu	m n	U+0062 U+006c U+0020 U+0251 U+0075	1	Luobuohe, Western	mblɑu³¹
-ɖe	ɖ e	ɖ e	m n	U+0256 U+0020 U+0065	1	Luobuohe, Western	ɳɖe³¹
-ʈe	ʈ e	ʈ e	m n	U+0288 U+0020 U+0065	1	Luobuohe, Western	ɳʈe³⁵
+bzi	bz i	bz i	m n	U+0062 U+007a U+0020 U+0069	1	Luobuohe, Eastern	mbzi³³
+tsau	ts au	ts au	m n	U+0074 U+0073 U+0020 U+0061 U+0075	1	Chuanqiandian, Northeast Yunnan	ntsau³³
+plæ	pl æ	pl æ	m n	U+0070 U+006c U+0020 U+00e6	1	Chuanqiandian, Southern Guizhou	mplæ⁵³
+tsou	ts ou	ts ou	m n	U+0074 U+0073 U+0020 U+006f U+0075	1	Chuanqiandian	ntsou¹³
+plua	pl ua	pl ua	m n	U+0070 U+006c U+0020 U+0075 U+0061	1	Chuanqiandian	mplua¹³
+uo	u o	u o	m n	U+0075 U+0020 U+006f	1	Chuanqiandian, Southern Guizhou	kuo⁴⁴
+ɦɦaiaɯ	ɦɦ aiaɯ	ɦɦ aiaɯ	m n	U+0266 U+0266 U+0020 U+0061 U+0069 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	lɦai¹¹+ⁿdɦaɯ³⁵
+qɛ	q ɛ	q ɛ	m n	U+0071 U+0020 U+025b	1	Chuanqiandian, Central Guizhou	ŋqɛ⁴²
+tɕɔ	tɕ ɔ	tɕ ɔ	m n	U+0074 U+0255 U+0020 U+0254	1	Chuanqiandian, Southern Guizhou	ȵtɕɔ⁵³
+pæ	p æ	p æ	m n	U+0070 U+0020 U+00e6	1	Chuanqiandian, Southern Guizhou	mpæ⁵⁵
+dʑʱey	dʑʱ ey	dʑʱ ey	m n	U+0064 U+0291 U+02b1 U+0020 U+0065 U+0079	1	Chuanqiandian, Northeast Yunnan	ȵdʑʱey¹¹
+tʰua	tʰ ua	tʰ ua	m n	U+0074 U+02b0 U+0020 U+0075 U+0061	1	Chuanqiandian	ntʰua⁴⁴
+tjo	tj o	tj o	m n	U+0074 U+006a U+0020 U+006f	1	Baheng, East	ntjo³¹³
+jə	j ə	j ə	m n	U+006a U+0020 U+0259	1	Luobuohe, Western	jə²
+pli	pl i	pl i	m n	U+0070 U+006c U+0020 U+0069	1	Chuanqiandian, Central Guizhou	mpli²²
+py	p y	p y	m n	U+0070 U+0020 U+0079	1	Chuanqiandian, Northeast Yunnan	mpy¹¹
+jø	j ø	j ø	m n	U+006a U+0020 U+00f8	1	Luobuohe, Western	jø³¹
+ʈʰau	ʈʰ au	ʈʰ au	m n	U+0288 U+02b0 U+0020 U+0061 U+0075	1	Chuanqiandian, Northeast Yunnan	ɳʈʰau⁵⁵
+ɹe	ɹ e	ɹ e	m n	U+0279 U+0020 U+0065	1	Luobuohe, Eastern	qɹe³³
+ɦia	ɦ ia	ɦ ia	m n	U+0266 U+0020 U+0069 U+0061	1	Chuanqiandian, Northeast Yunnan	ti⁵⁵+ⁿdzɦa¹¹
+gʱo	gʱ o	gʱ o	m n	U+0067 U+02b1 U+0020 U+006f	1	Chuanqiandian, Northeast Yunnan	ŋgʱo³⁵
+tsʰua	tsʰ ua	tsʰ ua	m n	U+0074 U+0073 U+02b0 U+0020 U+0075 U+0061	1	Chuanqiandian	ntsʰua⁴⁴
+dʱu	dʱ u	dʱ u	m n	U+0064 U+02b1 U+0020 U+0075	1	Chuanqiandian, Northeast Yunnan	ndʱu³⁵
+tsɯ	ts ɯ	ts ɯ	m n	U+0074 U+0073 U+0020 U+026f	1	Chuanqiandian, Northeast Yunnan	ntsɯ⁵⁵
+tɬie	tɬ ie	tɬ ie	m n	U+0074 U+026c U+0020 U+0069 U+0065	1	Chuanqiandian, Northeast Yunnan	ntɬie⁵⁵
+pʐɔ	pʐ ɔ	pʐ ɔ	m n	U+0070 U+0290 U+0020 U+0254	1	Chuanqiandian, Southern Guizhou	mpʐɔ²¹
+tʰa	tʰ a	tʰ a	m n	U+0074 U+02b0 U+0020 U+0061	1	Luobuohe, Eastern	ntʰa⁵⁵
+tʂou	tʂ ou	tʂ ou	m n	U+0074 U+0282 U+0020 U+006f U+0075	1	Chuanqiandian	ntʂou²⁴
+ɖɑ	ɖ ɑ	ɖ ɑ	m n	U+0256 U+0020 U+0251	1	Luobuohe, Western	ɳɖɑ⁵⁵
+bɦaɯ	bɦ aɯ	bɦ aɯ	m n	U+0062 U+0266 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	mbɦaɯ³⁵
+tsʰey	tsʰ ey	tsʰ ey	m n	U+0074 U+0073 U+02b0 U+0020 U+0065 U+0079	1	Chuanqiandian, Northeast Yunnan	ntsʰey³³
+ɢɛa	ɢ ɛa	ɢ ɛa	m n	U+0262 U+0020 U+025b U+0061	1	Luobuohe, Eastern	ŋɢɛ³¹+ⁿdza⁵⁵
+tʂai	tʂ ai	tʂ ai	m n	U+0074 U+0282 U+0020 U+0061 U+0069	1	Chuanqiandian	ntʂai¹³
+tʰau	tʰ au	tʰ au	m n	U+0074 U+02b0 U+0020 U+0061 U+0075	1	Chuanqiandian	ntʰau³³
+ɢʷi	ɢʷ i	ɢʷ i	m n	U+0262 U+02b7 U+0020 U+0069	1	Luobuohe, Western	ŋɢʷi⁵⁵
+gʱaɯ	gʱ aɯ	gʱ aɯ	m n	U+0067 U+02b1 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ŋgʱaɯ³⁵
 tɯ	t ɯ	t ɯ	m n	U+0074 U+0020 U+026f	1	Chuanqiandian, Central Guizhou	ntɯ⁴²
+tʰaɯ	tʰ aɯ	tʰ aɯ	m n	U+0074 U+02b0 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ntʰaɯ⁵⁵
+pja	pj a	pj a	m n	U+0070 U+006a U+0020 U+0061	1	Chuanqiandian, Southern Guizhou	mpja²¹
+tɬai	tɬ ai	tɬ ai	m n	U+0074 U+026c U+0020 U+0061 U+0069	1	Chuanqiandian, Northeast Yunnan	ntɬai¹¹
+pʰau	pʰ au	pʰ au	m n	U+0070 U+02b0 U+0020 U+0061 U+0075	1	Baheng, East	mpʰau³⁵
+dlɦy	d lɦy	d lɦy	m n	U+0064 U+0020 U+006c U+0266 U+0079	1	Chuanqiandian, Northeast Yunnan	ndlɦy¹¹
+tja	tj a	tj a	m n	U+0074 U+006a U+0020 U+0061	1	Baheng, East	ntja³¹³
+kwa	kw a	kw a	m n	U+006b U+0077 U+0020 U+0061	1	Baheng, East	ŋkwa¹¹
+kʰə	kʰ ə	kʰ ə	m n	U+006b U+02b0 U+0020 U+0259	1	Chuanqiandian, Central Guizhou	ŋkʰə¹³
+bɦai	bɦ ai	bɦ ai	m n	U+0062 U+0266 U+0020 U+0061 U+0069	1	Chuanqiandian, Northeast Yunnan	mbɦai¹¹
+gʱɯ	gʱ ɯ	gʱ ɯ	m n	U+0067 U+02b1 U+0020 U+026f	1	Chuanqiandian, Northeast Yunnan	ŋgʱɯ¹¹
+lju	lj u	lj u	m n	U+006c U+006a U+0020 U+0075	1	Luobuohe, Eastern	ʔlju³¹
+tɕʰe	tɕʰ e	tɕʰ e	m n	U+0074 U+0255 U+02b0 U+0020 U+0065	1	Baheng, East	ȵtɕʰe³¹³
+pai	p ai	p ai	m n	U+0070 U+0020 U+0061 U+0069	1	Baheng, East	mpai³¹
+ɬʰie	ɬʰi e	ɬʰi e	m n	U+026c U+02b0 U+0069 U+0020 U+0065	1	Chuanqiandian, Northeast Yunnan	tɬʰie³³
+kʰou	kʰ ou	kʰ ou	m n	U+006b U+02b0 U+0020 U+006f U+0075	1	Chuanqiandian	ŋkʰou³³
+yɛ	y ɛ	y ɛ	m n	U+0079 U+0020 U+025b	1	Luobuohe, Eastern	tɕyɛ³³
+ɦæɯ	ɦ æɯ	ɦ æɯ	m n	U+0266 U+0020 U+00e6 U+026f	1	Chuanqiandian, Northeast Yunnan	vɦæɯ³⁵
+pʐua	pʐ ua	pʐ ua	m n	U+0070 U+0290 U+0020 U+0075 U+0061	1	Chuanqiandian, Southern Guizhou	mpʐua⁵³
+dʐau	dʐ au	dʐ au	m n	U+0064 U+0290 U+0020 U+0061 U+0075	1	Chuanqiandian, Northeast Yunnan	ɳdʐau³¹
 ty	t y	t y	m n	U+0074 U+0020 U+0079	1	Luobuohe, Eastern	nty³¹
-ɣa⁴⁴	ɣa⁴⁴	ɣa⁴⁴	m	U+0263 U+0061 U+2074 U+2074	1	Qiandong, West	qæ̃ɣa⁴⁴
-joŋ¹³	joŋ¹³	joŋ¹³	m	U+006a U+006f U+014b U+00b9 U+00b3	1	Luobuohe, Western	mujoŋ¹³
-ɣæ²²	ɣæ²²	ɣæ²²	m	U+0263 U+00e6 U+00b2 U+00b2	1	Qiandong, West	kæ̃ɣæ²²
-t	t	t	i	U+0074	1122	Baheng, East,Chuanqiandian, Central Guizhou,Qiandong, East,Chuanqiandian,Luobuohe, Western,Qiandong, West,Luobuohe, Eastern,Baheng, West	tei⁴⁴, to⁵⁵, to⁵⁵, tu³⁵, ta⁴²
-ʔ	ʔ	ʔ	i	U+0294	829	Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, East,Qiandong, West,Baheng, East,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	ʔə⁰², ʔlu³¹, ʔa⁰², ʔa⁰³, ʔə⁰²
-q	q	q	i	U+0071	804	Chuanqiandian,Qiandong, East,Luobuohe, Western,Qiandong, West,Baheng, East,Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	qo⁰⁵, qo⁰⁵, qa³³, qaŋ³¹, qɑŋ³¹
-n	n	n	i	U+006e	795	Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Qiandong, East,Qiandong, West,Luobuohe, Eastern,Chuanqiandian	nto³¹, ntuŋ⁵⁵, na³¹, nɔ³¹, njei³³
-m	m	m	i	U+006d	641	Chuanqiandian,Qiandong, East,Baheng, West,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Western,Luobuohe, Eastern	me²², mplai²⁴, mpje³³, mpo³⁵, mpaŋ²⁴
-p	p	p	i	U+0070	639	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Baheng, West,Qiandong, East,Baheng, East,Chuanqiandian, Central Guizhou,Qiandong, West	pau³³, puŋ³¹, pɔ¹¹, pei³³, po⁴²
-l	l	l	i	U+006c	544	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Baheng, West,Chuanqiandian, Central Guizhou,Qiandong, West,Baheng, East,Qiandong, East	lã∼²⁴, ljo²⁴, ljɔ⁴⁴, la⁴⁴, la⁴⁴
-tɕ	tɕ	tɕ	i	U+0074 U+0255	516	Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Qiandong, East,Qiandong, West,Baheng, West	tɕo⁵⁵, tɕau⁵⁵, tɕi³⁵, tɕua⁴⁴, tɕa⁴²
-k	k	k	i	U+006b	464	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Chuanqiandian,Qiandong, East,Baheng, West,Baheng, East,Qiandong, West	ku²⁴, kui⁵⁵, kaŋ³¹, kɑŋ³¹, kuæ̃∼⁴⁴
-s	s	s	i	U+0073	303	Chuanqiandian,Qiandong, West,Baheng, East,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, East,Baheng, West	sou⁵³, su³¹, so⁴³, saŋ³³, sɔ⁴²
-ʑ	ʑ	ʑ	i	U+0291	294	Chuanqiandian,Qiandong, West,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, East,Luobuohe, Eastern,Baheng, East	ʑi²², ʑin²², ʑə²², ʑa³¹³, ʑo³⁵
-ŋ	ŋ	ŋ	i	U+014b	260	Qiandong, West,Qiandong, East,Luobuohe, Western,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Baheng, West,Baheng, East	ŋɢwaŋ³¹, ŋɢwɑŋ³¹, ŋqə̃∼⁵⁵, ŋkʰo³³, ŋkʰo³³
-ts	ts	ts	i	U+0074 U+0073	243	Qiandong, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Chuanqiandian,Baheng, East,Luobuohe, Western,Qiandong, East	tso¹³, tsoŋ³⁵, tsuŋ²⁴, tsaŋ⁴⁴, tsuŋ⁴⁴
-ȵ	ȵ	ȵ	i	U+0235	242	Qiandong, East,Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian	ȵu²⁴, ȵe³³, ȵtɕʰu⁵⁵, ȵtɕʰo⁴⁴, ȵɑ³⁵
-h	h	h	i	U+0068	210	Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, West,Baheng, West,Baheng, East,Qiandong, East	ho³⁵, hə⁴², heu³⁵, ha⁴⁴, hã∼¹³
-ɬ	ɬ	ɬ	i	U+026c	190	Qiandong, East,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, West	ɬi⁵⁵, ɬa¹³, ɬa²⁴, ɬi⁴⁴, ɬɑ³⁵
-ɕ	ɕ	ɕ	i	U+0255	155	Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Baheng, East,Qiandong, West,Qiandong, East	ɕe³¹, ɕo³³, ɕaŋ³³, ɕo¹¹, ɕa⁴⁴
-tʰ	tʰ	tʰ	i	U+0074 U+02b0	133	Chuanqiandian, Central Guizhou,Luobuohe, Western,Chuanqiandian,Qiandong, West,Luobuohe, Eastern,Qiandong, East,Baheng, East,Baheng, West	tʰa³¹, tʰɛ⁵⁵, tʰɛ²⁴, tʰo⁴², tʰu⁵⁵
-v	v	v	i	U+0076	115	Baheng, East,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, West,Qiandong, East,Luobuohe, Eastern	vei⁵⁵, ve⁵⁵, ve⁵⁵, vei⁵⁵, vuŋ²²
-pʰ	pʰ	pʰ	i	U+0070 U+02b0	114	Chuanqiandian, Central Guizhou,Qiandong, West,Chuanqiandian,Luobuohe, Western,Baheng, West,Qiandong, East,Luobuohe, Eastern,Baheng, East	pʰa⁵³, pʰa⁵³, pʰo⁵⁵, pʰu⁴³, pʰue²⁴
-qʰ	qʰ	qʰ	i	U+0071 U+02b0	107	Qiandong, West,Chuanqiandian, Central Guizhou,Qiandong, East,Luobuohe, Eastern,Baheng, West,Luobuohe, Western,Chuanqiandian,Baheng, East	qʰaŋ³³, qʰoŋ³¹, qʰuŋ⁵⁵, qʰoŋ⁵⁵, qʰau⁵⁵
-kʰ	kʰ	kʰ	i	U+006b U+02b0	107	Qiandong, East,Chuanqiandian,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou	kʰei⁴⁴, kʰẽ∼⁵⁵, kʰɛ²⁴, kʰæ⁴⁴, kʰun³³
-ʐ	ʐ	ʐ	i	U+0290	107	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Chuanqiandian	ʐã∼⁵⁵, ʐõ∼⁵⁵, ʐe⁴³, ʐɛ²⁴, ʐɛ²⁴
-tsʰ	tsʰ	tsʰ	i	U+0074 U+0073 U+02b0	94	Chuanqiandian, Central Guizhou,Qiandong, West,Qiandong, East,Baheng, East,Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern	tsʰeu³³, tsʰy⁵⁵, tsʰu⁵⁵, tsʰi⁵⁵, tsʰie⁵⁵
-tɕʰ	tɕʰ	tɕʰ	i	U+0074 U+0255 U+02b0	92	Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, East,Baheng, West,Baheng, East,Luobuohe, Western,Luobuohe, Eastern,Qiandong, West	tɕʰo⁴⁴, tɕʰei⁴⁴, tɕʰau³¹, tɕʰo²⁴, tɕʰo³⁵
-tʂ	tʂ	tʂ	i	U+0074 U+0282	79	Chuanqiandian, Central Guizhou,Chuanqiandian	tʂɯ²², tʂua⁵⁵, tʂo⁴², tʂua¹³, tʂau⁴⁴
-sʰ	sʰ	sʰ	i	U+0073 U+02b0	78	Qiandong, West,Chuanqiandian, Central Guizhou	sʰə²⁴, sʰɯ¹³, sʰo¹³, sʰə̃∼⁴², sʰa²⁴
-n̥	n̥	n̥	i	U+006e U+0325	68	Baheng, East,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western,Baheng, West	n̥o⁴³, n̥ɑ³¹, n̥o⁴³, n̥ei³⁵, n̥e³⁵
-ʈ	ʈ	ʈ	i	U+0288	59	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	ʈoŋ³¹, ʈoŋ⁵⁵, ʈau⁵⁵, ʈua¹³, ʈaŋ¹³
-ʁ	ʁ	ʁ	i	U+0281	55	Luobuohe, Western,Luobuohe, Eastern	ʁwen³¹, ʁu³¹, ʁlei³¹, ʁwen³¹, ʁo³¹
-ʂ	ʂ	ʂ	i	U+0282	54	Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Chuanqiandian	ʂua⁴³, ʂua⁵⁵, ʂaŋ⁴³, ʂã∼²⁴, ʂei⁵⁵
-z	z	z	i	U+007a	51	Chuanqiandian, Central Guizhou,Luobuohe, Western,Luobuohe, Eastern	zəu²⁴, zu⁵, zu⁵⁵, zo⁵⁵, ze³¹
-χ	χ	χ	i	U+03c7	45	Luobuohe, Eastern,Luobuohe, Western	χwaŋ³¹, χu³¹, χu³¹, χo³³, χo³¹
-ŋ̩	ŋ̩	ŋ̩	i	U+014b U+0329	41	Chuanqiandian, Central Guizhou,Baheng, West,Baheng, East	ŋ̩³⁵, ŋ̩⁵³, ŋ̩⁵³, ŋ̩⁵³, ŋ̩⁵³
-f	f	f	i	U+0066	39	Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Chuanqiandian,Qiandong, East	fai⁴³, fen²⁴, fu⁵⁵, fu³⁵, fɛ²²
-ɣ	ɣ	ɣ	i	U+0263	39	Baheng, East,Qiandong, West	ɣe¹¹, ɣo²², ɣi⁴⁴, ɣu²², ɣɔ¹³
-m̥	m̥	m̥	i	U+006d U+0325	38	Baheng, West,Baheng, East,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western	m̥ø³¹, m̥oŋ⁴³, m̥õ∼²⁴, m̥a³⁵, m̥ai³⁵
-ɕʰ	ɕʰ	ɕʰ	i	U+0255 U+02b0	36	Qiandong, West	ɕʰɔ¹³, ɕʰa⁴⁴, ɕʰo⁴⁴, ɕʰæ³³, ɕʰɔ¹³
-ȵ̥	ȵ̥	ȵ̥	i	U+0235 U+0325	35	Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Western,Baheng, West	ȵ̥a⁵³, ȵ̥oŋ¹³, ȵ̥e⁵⁵, ȵ̥i³¹, ȵ̥ei³¹
-tʂʰ	tʂʰ	tʂʰ	i	U+0074 U+0282 U+02b0	31	Chuanqiandian, Central Guizhou,Chuanqiandian	tʂʰou⁵⁵, tʂʰua⁴³, tʂʰə⁴², tʂʰua⁴³, tʂʰu³³
-ɳ	ɳ	ɳ	i	U+0273	29	Chuanqiandian,Luobuohe, Eastern,Luobuohe, Western	ɳɖei³³, ɳɖe³¹, ɳʈe³⁵, ɳʈi¹³, ɳʈu³¹
-ʈʰ	ʈʰ	ʈʰ	i	U+0288 U+02b0	19	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian	ʈʰu²⁴, ʈʰo⁵⁵, ʈʰu³⁵, ʈʰəu²⁴, ʈʰoŋ³¹
-ð	ð	ð	i	U+00f0	18	Luobuohe, Western	ðo⁵⁵, ðoŋ⁵⁵, ðu³¹, ðo³⁵, ðɑ³¹
-nz	nz	nz	i	U+006e U+007a	18	Chuanqiandian, Central Guizhou	nzə³¹, nzɯ²², nzu⁵⁵, nzõ∼⁴², nza²²
-pz	pz	pz	i	U+0070 U+007a	16	Luobuohe, Eastern	pzi²⁴, pzau³³, pzi⁵⁵, pzi²⁴, pzi⁵⁵
-ʔʑ	ʔʑ	ˀʑ	i	U+0294 U+0291	15	Luobuohe, Western,Luobuohe, Eastern	ʔʑin³⁵, ʔʑo³³, ʔʑen²⁴, ʔʑo³³, ʔʑuŋ⁵⁵
-x	x	x	i	U+0078	15	Baheng, East,Luobuohe, Eastern,Luobuohe, Western,Qiandong, West	xo³³, xo³¹, xu⁵⁵, xu⁵⁵, xu⁵⁵
+bzɿ	bz ɿ	bz ɿ	m n	U+0062 U+007a U+0020 U+027f	1	Luobuohe, Eastern	mbzɿ³¹
+pʐæ	pʐ æ	pʐ æ	m n	U+0070 U+0290 U+0020 U+00e6	1	Chuanqiandian, Southern Guizhou	mpʐæ⁵³
+ɢla	ɢl a	ɢl a	m n	U+0262 U+006c U+0020 U+0061	1	Luobuohe, Eastern	ŋɢla²⁴
+ɖo	ɖ o	ɖ o	m n	U+0256 U+0020 U+006f	1	Luobuohe, Western	nɖo⁵⁵
+qʰai	qʰ ai	qʰ ai	m n	U+0071 U+02b0 U+0020 U+0061 U+0069	1	Baheng, East	ŋqʰai³¹
+ɖe	ɖ e	ɖ e	m n	U+0256 U+0020 U+0065	1	Luobuohe, Western	ɳɖe³¹
+lua	lu a	lu a	m n	U+006c U+0075 U+0020 U+0061	1	Chuanqiandian	tlua³¹
+blɑu	bl ɑu	bl ɑu	m n	U+0062 U+006c U+0020 U+0251 U+0075	1	Luobuohe, Western	mblɑu³¹
+bɦɯ	bɦ ɯ	bɦ ɯ	m n	U+0062 U+0266 U+0020 U+026f	1	Chuanqiandian, Northeast Yunnan	mbɦɯ³¹
+ɦiai	ɦ iai	ɦ iai	m n	U+0266 U+0020 U+0069 U+0061 U+0069	1	Chuanqiandian, Northeast Yunnan	pi⁵⁵+ⁿdɦai³¹
+dlɦey	d lɦey	d lɦey	m n	U+0064 U+0020 U+006c U+0266 U+0065 U+0079	1	Chuanqiandian, Northeast Yunnan	ndlɦey³¹
+ɬʰɛ	ɬʰ ɛ	ɬʰ ɛ	m n	U+026c U+02b0 U+0020 U+025b	1	Chuanqiandian, Central Guizhou	tɬʰɛ⁴²
+tɬu	tɬ u	tɬ u	m n	U+0074 U+026c U+0020 U+0075	1	Chuanqiandian, Central Guizhou	ntɬu²²
+ɢʷei	ɢʷ ei	ɢʷ ei	m n	U+0262 U+02b7 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ŋɢʷei⁵⁵
+dlɦai	d lɦai	d lɦai	m n	U+0064 U+0020 U+006c U+0266 U+0061 U+0069	1	Chuanqiandian, Northeast Yunnan	ndlɦai³¹
+kəu	k əu	k əu	m n	U+006b U+0020 U+0259 U+0075	1	Chuanqiandian, Southern Guizhou	ŋkəu⁴⁴
+tsʰɑ	tsʰ ɑ	tsʰ ɑ	m n	U+0074 U+0073 U+02b0 U+0020 U+0251	1	Luobuohe, Western	ntsʰɑ³⁵
+ia	i a	i a	m n	U+0069 U+0020 U+0061	1	Baheng, West	hia³⁵
+kwo	kw o	kw o	m n	U+006b U+0077 U+0020 U+006f	1	Chuanqiandian, Southern Guizhou	ŋkwo¹³
+ɖɦu	ɖɦ u	ɖɦ u	m n	U+0256 U+0266 U+0020 U+0075	1	Chuanqiandian, Northeast Yunnan	ɳɖɦu³¹
+ɹɛ	ɹ ɛ	ɹ ɛ	m n	U+0279 U+0020 U+025b	1	Luobuohe, Eastern	ʁɹɛ²⁴
+ɖɦa	ɖɦ a	ɖɦ a	m n	U+0256 U+0266 U+0020 U+0061	1	Chuanqiandian, Northeast Yunnan	ɳɖɦa¹¹
+lɑu	l ɑu	l ɑu	m n	U+006c U+0020 U+0251 U+0075	1	Luobuohe, Western	plɑu⁵⁵
+ieu	i eu	i eu	m n	U+0069 U+0020 U+0065 U+0075	1	Qiandong, East	tsieu⁴⁴
+dlɦau	d lɦau	d lɦau	m n	U+0064 U+0020 U+006c U+0266 U+0061 U+0075	1	Chuanqiandian, Northeast Yunnan	ndlɦau³¹
+ɦaaɯ	ɦ aaɯ	ɦ aaɯ	m n	U+0266 U+0020 U+0061 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ʔa⁵⁵+ⁿdzɦaɯ¹¹
+dʐai	dʐ ai	dʐ ai	m n	U+0064 U+0290 U+0020 U+0061 U+0069	1	Chuanqiandian, Northeast Yunnan	ɳdʐai³¹
+tɕaɯ	tɕ aɯ	tɕ aɯ	m n	U+0074 U+0255 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ȵtɕaɯ⁵⁵
+bø	b ø	b ø	m n	U+0062 U+0020 U+00f8	1	Luobuohe, Western	mbø⁵⁵
+plou	pl ou	pl ou	m n	U+0070 U+006c U+0020 U+006f U+0075	1	Chuanqiandian	mplou²⁴
+tsʰie	tsʰ ie	tsʰ ie	m n	U+0074 U+0073 U+02b0 U+0020 U+0069 U+0065	1	Luobuohe, Eastern	ntsʰie³³
+keu	k eu	k eu	m n	U+006b U+0020 U+0065 U+0075	1	Chuanqiandian	ŋkeu²⁴
+qʰei	qʰ ei	qʰ ei	m n	U+0071 U+02b0 U+0020 U+0065 U+0069	1	Luobuohe, Eastern	ŋqʰei³³
+ɬʰi	ɬʰ i	ɬʰ i	m n	U+026c U+02b0 U+0020 U+0069	1	Chuanqiandian, Northeast Yunnan	tɬʰi¹¹
+tʰjo	tʰj o	tʰj o	m n	U+0074 U+02b0 U+006a U+0020 U+006f	1	Baheng, East	ntʰjo⁵⁵
+ble	bl e	bl e	m n	U+0062 U+006c U+0020 U+0065	1	Luobuohe, Eastern	mble³³
+ɢɦu	ɢɦ u	ɢɦ u	m n	U+0262 U+0266 U+0020 U+0075	1	Chuanqiandian, Northeast Yunnan	ŋɢɦu¹¹
+dlo	dl o	dl o	m n	U+0064 U+006c U+0020 U+006f	1	Chuanqiandian, Northeast Yunnan	ndlo⁵³
+ʈaɯ	ʈ aɯ	ʈ aɯ	m n	U+0288 U+0020 U+0061 U+026f	1	Chuanqiandian, Northeast Yunnan	ɳʈaɯ⁵⁵
+ʁa	ʁ a	ʁ a	m n	U+0281 U+0020 U+0061	1	Luobuohe, Eastern	qʰʁa⁵⁵
+t	t	t	i	U+0074	1316	Chuanqiandian, Southern Guizhou,Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou,Qiandong, East,Chuanqiandian,Luobuohe, Western,Qiandong, West,Luobuohe, Eastern,Baheng, West	tæn⁴², tə², tə², to⁵⁵, to⁵⁵
+/	/	/	i	U+002f	1104	Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern	/⁰, /⁰, /⁰, /⁰, /⁰
+ʔ	ʔ	ʔ	i	U+0294	992	Chuanqiandian,Chuanqiandian, Central Guizhou,Qiandong, East,Chuanqiandian, Southern Guizhou,Qiandong, West,Baheng, East,Chuanqiandian, Northeast Yunnan,Baheng, West,Luobuohe, Eastern,Luobuohe, Western	ʔə², ʔlu³¹, ʔa³, ʔa², ʔə²
+n	n	n	i	U+006e	950	Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Qiandong, East,Qiandong, West,Chuanqiandian	ntuŋ⁵⁵, nto³¹, na³¹, ntoŋ⁵³, nɔ³¹
+q	q	q	i	U+0071	822	Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Qiandong, East,Luobuohe, Western,Baheng, East,Qiandong, West,Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern	qo⁵, qo⁵, qa³³, qaŋ³¹, qɑŋ³¹
+m	m	m	i	U+006d	806	Chuanqiandian,Qiandong, East,Chuanqiandian, Northeast Yunnan,Baheng, West,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Western,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern	mi⁵⁵, me²², mpje³³, mpaŋ²⁴, mpɑŋ³⁵
+p	p	p	i	U+0070	773	Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Baheng, West,Qiandong, East,Baheng, East,Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, West	po¹¹, pi¹¹, paŋ⁵⁵, pɔ¹¹, pei³³
+l	l	l	i	U+006c	695	Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Chuanqiandian, Southern Guizhou,Baheng, West,Chuanqiandian, Central Guizhou,Qiandong, West,Chuanqiandian, Northeast Yunnan,Baheng, East,Qiandong, East	lã∼²⁴, li³², ljo²⁴, ljɔ⁴⁴, la³
+tɕ	tɕ	tɕ	i	U+0074 U+0255	625	Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Qiandong, East,Chuanqiandian, Southern Guizhou,Qiandong, West,Baheng, West	tɕo⁵⁵, tɕau⁵⁵, tɕi²², tɕa⁴², tɕa³³
+k	k	k	i	U+006b	570	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou,Chuanqiandian, Southern Guizhou,Chuanqiandian,Qiandong, East,Baheng, West,Baheng, East,Qiandong, West	kui⁵⁵, kaŋ³¹, kɑŋ³¹, koŋ³², ku⁵⁵
+s	s	s	i	U+0073	435	Chuanqiandian,Qiandong, West,Chuanqiandian, Northeast Yunnan,Baheng, East,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, East,Baheng, West,Chuanqiandian, Southern Guizhou	sou⁵³, su³¹, so²², so⁵⁵, saŋ³³
+ŋ	ŋ	ŋ	i	U+014b	351	Qiandong, West,Qiandong, East,Luobuohe, Western,Chuanqiandian,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Baheng, West,Chuanqiandian, Northeast Yunnan,Baheng, East,Chuanqiandian, Southern Guizhou	ŋɢʷaŋ³¹, ŋɢʷɑŋ³¹, ŋqə̃∼⁵⁵, ŋkʰo³³, ŋkʰo³³
+ʑ	ʑ	ʑ	i	U+0291	350	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Southern Guizhou,Qiandong, West,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, East,Luobuohe, Eastern,Baheng, East	ʑi²², ʑin²², ʑə²², ʑa³¹³, ʑo³⁵
+ȵ	ȵ	ȵ	i	U+0235	343	Qiandong, East,Chuanqiandian, Central Guizhou,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Chuanqiandian,Chuanqiandian, Northeast Yunnan	ȵdʑʱau¹¹, ȵu²⁴, ȵe³³, ȵtɕʰu⁵⁵, ȵtɕʰo⁴⁴
+h	h	h	i	U+0068	318	Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan,Qiandong, West,Baheng, West,Baheng, East,Qiandong, East,Chuanqiandian, Southern Guizhou	hoŋ³², haɯ⁵⁵, ho³⁵, heu³⁵, ho¹³
+ts	ts	ts	i	U+0074 U+0073	288	Qiandong, West,Chuanqiandian, Central Guizhou,Chuanqiandian, Southern Guizhou,Luobuohe, Eastern,Chuanqiandian,Chuanqiandian, Northeast Yunnan,Baheng, East,Luobuohe, Western,Qiandong, East	tso¹³, tsuŋ²⁴, tsoŋ³⁵, tsaŋ⁴⁴, tsuŋ⁴⁴
+ɬ	ɬ	ɬ	i	U+026c	251	Qiandong, East,Baheng, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Chuanqiandian,Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan,Qiandong, West	ɬi⁵⁵, ɬa¹³, ɬi⁵⁵, ɬoŋ¹¹, ɬa²⁴
+ɕ	ɕ	ɕ	i	U+0255	171	Chuanqiandian, Southern Guizhou,Baheng, West,Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Chuanqiandian, Northeast Yunnan,Baheng, East,Qiandong, West,Qiandong, East	ɕo³³, ɕaŋ³³, ɕo¹¹, ɕa⁴⁴, ɕo¹³
+ʐ	ʐ	ʐ	i	U+0290	160	Luobuohe, Western,Luobuohe, Eastern,Chuanqiandian, Central Guizhou,Chuanqiandian,Chuanqiandian, Southern Guizhou	ʐõ∼⁵⁵, ʐe⁴³, ʐɛ²⁴, ʐæ³², ʐɛ²⁴
+tʰ	tʰ	tʰ	i	U+0074 U+02b0	149	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Luobuohe, Western,Chuanqiandian,Luobuohe, Eastern,Qiandong, West,Chuanqiandian, Northeast Yunnan,Qiandong, East,Baheng, East,Baheng, West	tʰa³¹, tʰan¹³, tʰɛ⁵⁵, tʰɛ³⁵, tʰy¹¹
+v	v	v	i	U+0076	141	Baheng, East,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western,Qiandong, West,Qiandong, East,Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan	vei⁵⁵, ve⁵⁵, ve⁵⁵, vei⁵⁵, vuŋ²²
+pʰ	pʰ	pʰ	i	U+0070 U+02b0	124	Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Luobuohe, Western,Qiandong, West,Baheng, West,Qiandong, East,Luobuohe, Eastern,Baheng, East	pʰa⁵³, pʰa⁵³, pʰu⁴³, pʰue²⁴, pʰei³⁵
+qʰ	qʰ	qʰ	i	U+0071 U+02b0	122	Qiandong, West,Chuanqiandian, Central Guizhou,Qiandong, East,Luobuohe, Eastern,Baheng, West,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Baheng, East	qʰaŋ³³, qʰoŋ³¹, qʰuŋ⁵⁵, qʰoŋ⁵⁵, qʰau⁵⁵
+kʰ	kʰ	kʰ	i	U+006b U+02b0	116	Chuanqiandian, Northeast Yunnan,Chuanqiandian,Qiandong, East,Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Qiandong, West,Baheng, East,Chuanqiandian, Central Guizhou	kʰei⁴⁴, kʰẽ∼⁵⁵, kʰɛ²⁴, kʰæ⁴⁴, kʰun³³
+tsʰ	tsʰ	tsʰ	i	U+0074 U+0073 U+02b0	112	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou,Qiandong, West,Qiandong, East,Chuanqiandian,Baheng, East,Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Luobuohe, Eastern	tsʰeu³³, tsʰey¹¹, tsʰy⁵⁵, tsʰu⁵⁵, tsʰi⁵⁵
+tɕʰ	tɕʰ	tɕʰ	i	U+0074 U+0255 U+02b0	107	Chuanqiandian, Southern Guizhou,Chuanqiandian,Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan,Qiandong, East,Baheng, West,Luobuohe, Western,Baheng, East,Luobuohe, Eastern,Qiandong, West	tɕʰo⁴⁴, tɕʰei⁴⁴, tɕʰau³¹, tɕʰo²⁴, tɕʰo³⁵
+ʈ	ʈ	ʈ	i	U+0288	103	Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian,Chuanqiandian, Southern Guizhou	ʈo³⁵, ʈau⁵⁵, ʈoŋ³¹, ʈɔ⁵⁵, ʈe¹³
+tʂ	tʂ	tʂ	i	U+0074 U+0282	100	Chuanqiandian, Northeast Yunnan,Chuanqiandian, Central Guizhou,Chuanqiandian	tʂaɯ³³, tʂɯ²², tʂua⁵⁵, tʂau⁴⁴, tʂo³³
+ʂ	ʂ	ʂ	i	U+0282	92	Chuanqiandian, Central Guizhou,Luobuohe, Eastern,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian	ʂua⁴³, ʂə¹³, ʂua⁵⁵, ʂaŋ⁴³, ʂã∼²⁴
+n̥	n̥	n̥	i	U+006e U+0325	79	Baheng, East,Chuanqiandian, Northeast Yunnan,Chuanqiandian,Chuanqiandian, Central Guizhou,Luobuohe, Western,Baheng, West	n̥o⁴³, n̥u⁵⁵, n̥ɑ³¹, n̥o⁴³, n̥u⁵⁵
+sʰ	sʰ	sʰ	i	U+0073 U+02b0	78	Qiandong, West,Chuanqiandian, Central Guizhou	sʰɯ¹³, sʰo¹³, sʰə̃∼⁴², sʰa²⁴, sʰə⁴²
+z	z	z	i	U+007a	77	Chuanqiandian, Central Guizhou,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern	zəu²⁴, zu⁵, zɦaɯ³⁵, zo⁵³, zo⁵⁵
+ɳ	ɳ	ɳ	i	U+0273	77	Chuanqiandian,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Southern Guizhou,Chuanqiandian, Northeast Yunnan	ɳɖei³³, ɳɖe³¹, ɳʈei³⁵, ɳʈe²¹, ɳʈe³⁵
+f	f	f	i	U+0066	54	Baheng, West,Luobuohe, Western,Luobuohe, Eastern,Baheng, East,Chuanqiandian,Chuanqiandian, Northeast Yunnan,Qiandong, East	fei³³, fai⁴³, fai³³, fen²⁴, fu⁵⁵
+tʂʰ	tʂʰ	tʂʰ	i	U+0074 U+0282 U+02b0	53	Chuanqiandian, Central Guizhou,Chuanqiandian, Northeast Yunnan,Chuanqiandian	tʂʰou⁵⁵, tʂʰau⁵⁵, tʂʰua⁴³, tʂʰə⁴², tʂʰua⁴³
+ʁ	ʁ	ʁ	i	U+0281	52	Luobuohe, Western,Luobuohe, Eastern	ʁlei³¹, ʁo³¹, ʁu³¹, ʁu²⁴, ʁwen³¹
+d	d	d	i	U+0064	47	Baheng, East,Chuanqiandian, Northeast Yunnan	dey³³, dɦau³⁵, dɦo¹¹, dlɦi³⁵, daɯ¹¹
+m̥	m̥	m̥	i	U+006d U+0325	44	Chuanqiandian, Northeast Yunnan,Baheng, West,Chuanqiandian,Baheng, East,Chuanqiandian, Central Guizhou,Luobuohe, Western	m̥en⁵⁵, m̥ø³¹, m̥oŋ⁴³, m̥õ∼²⁴, m̥au⁵⁵
+ŋ̩	ŋ̩	ŋ̩	i	U+014b U+0329	41	Chuanqiandian, Central Guizhou,Baheng, West,Baheng, East	ŋ̩⁵³, ŋ̩⁵³, ŋ̩³⁵, ŋ̩⁵³, ŋ̩³³
+χ	χ	χ	i	U+03c7	40	Chuanqiandian, Northeast Yunnan,Luobuohe, Eastern,Luobuohe, Western	χu³¹, χo³³, χo³¹, χe³¹, χu⁵⁵
+ȵ̥	ȵ̥	ȵ̥	i	U+0235 U+0325	40	Chuanqiandian, Central Guizhou,Chuanqiandian,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Baheng, West	ȵ̥aɯ⁵⁵, ȵ̥a⁵³, ȵ̥oŋ¹³, ȵ̥e⁵⁵, ȵ̥e⁵⁵
+ɣ	ɣ	ɣ	i	U+0263	39	Baheng, East,Qiandong, West	ɣe¹¹, ɣo²², ɣu²², ɣɔ¹¹, ɣɔ¹³
+ɕʰ	ɕʰ	ɕʰ	i	U+0255 U+02b0	36	Qiandong, West	ɕʰɔ¹³, ɕʰa⁴⁴, ɕʰæ³³, ɕʰe⁴⁴, ɕʰɔ¹³
+b	b	b	i	U+0062	25	Baheng, East,Chuanqiandian, Northeast Yunnan	baɯ³³, baɯ³³, bɦau³⁵, bo⁵⁵, bɦau³⁵
+ʈʰ	ʈʰ	ʈʰ	i	U+0288 U+02b0	24	Luobuohe, Eastern,Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Chuanqiandian	ʈʰu²⁴, ʈʰu³⁵, ʈʰa³³, ʈʰəu²⁴, ʈʰoŋ³¹
+pʐ	pʐ	pʐ	i	U+0070 U+0290	20	Chuanqiandian, Southern Guizhou	pʐɔ³⁵, pʐu⁵³, pʐei⁴², pʐə¹³, pʐæ⁴²
+dʑ	dʑ	dʑ	i	U+0064 U+0291	20	Baheng, East,Chuanqiandian, Northeast Yunnan	dʑɦo³⁵, dʑɦɯ³⁵, dʑi³¹, dʑo³¹, dʑo³¹
+x	x	x	i	U+0078	20	Baheng, East,Luobuohe, Eastern,Luobuohe, Western,Chuanqiandian, Northeast Yunnan,Qiandong, West	xo⁵⁵, xo³¹, xuŋ³³, xu⁵⁵, xu⁵⁵
+ɭ	ɭ	ɭ	i	U+026d	18	Chuanqiandian, Southern Guizhou	ɭe²¹, ɭə⁵³, ɭæn⁵³, ɭoŋ¹³, ɭa³²
+ð	ð	ð	i	U+00f0	18	Luobuohe, Western	ðu³¹, ðo³⁵, ðɑ³¹, ðen³⁵, ðu³¹
+nz	nz	nz	i	U+006e U+007a	18	Chuanqiandian, Central Guizhou	nzə³¹, nzɯ²², nzu⁵⁵, nzõ∼⁴², nzɯ³¹
+pz	pz	pz	i	U+0070 U+007a	16	Luobuohe, Eastern	pzau³³, pzi⁵⁵, pzi²⁴, pzi⁵⁵, pzi⁵⁵
+qʷ	qʷ	qʷ	i	U+0071 U+02b7	15	Luobuohe, Western,Luobuohe, Eastern	qʷɑ³¹, qʷa³¹, qʷɑ³¹, qʷæ³⁵, qʷa²⁴
+ʔʑ	ʔʑ	ʔʑ	i	U+0294 U+0291	15	Luobuohe, Western,Luobuohe, Eastern	ʔʑin³⁵, ʔʑo³³, ʔʑen²⁴, ʔʑo³³, ʔʑuŋ⁵⁵
+g	g	g	i	U+0067	15	Chuanqiandian, Northeast Yunnan	gy⁵⁵, gau³³, gɦau³¹, gɦau³¹, gɦau³¹
+dz	dz	dz	i	U+0064 U+007a	14	Baheng, East,Chuanqiandian, Northeast Yunnan	dzɦaɯ³⁵, dzɦey³⁵, dzɯ⁵³, dzɦai¹¹, dzuŋ³³
+ɢ	ɢ	ɢ	i	U+0262	14	Chuanqiandian, Northeast Yunnan	ɢau³¹, ɢɦey³⁵, ɢɦau³¹, ɢɦau³⁵, ɢau³¹
+ʔȵ	ʔȵ	ʔȵ	i	U+0294 U+0235	12	Luobuohe, Eastern,Luobuohe, Western	ʔȵin³¹, ʔȵin³¹, ʔȵaŋ⁵⁵, ʔȵoŋ⁵⁵, ʔȵuŋ³¹
+ʔn	ʔn	ʔn	i	U+0294 U+006e	12	Luobuohe, Eastern,Luobuohe, Western	ʔnen³⁵, ʔnen³³, ʔnen³¹, ʔnen³⁵, ʔnen³¹
 m̩	m̩	m̩	i	U+006d U+0329	12	Baheng, East,Baheng, West	m̩³³, m̩³³, m̩³³, m̩³¹, m̩³¹
-ʔȵ	ʔȵ	ʔȵ	i	U+0294 U+0235	12	Luobuohe, Eastern,Luobuohe, Western	ʔȵin³¹, ʔȵin³¹, ʔȵaŋ⁵⁵, ʔȵoŋ⁵⁵, ʔȵoŋ³¹
-ʔn	ʔn	ʔn	i	U+0294 U+006e	12	Luobuohe, Eastern,Luobuohe, Western	ʔnen³⁵, ʔnen³³, ʔnen³¹, ʔnen³¹, ʔnen³⁵
+ⁿdz	ⁿdz	ⁿdz	i	U+207f U+0064 U+007a	12	Chuanqiandian, Northeast Yunnan,Luobuohe, Western,Luobuohe, Eastern	ⁿdzaŋ⁵⁵, ⁿdzɑŋ⁵⁵, ⁿdzɦaɯ³⁵, ⁿdzaŋ⁵⁵, ⁿdzɑŋ⁵⁵
+ɖ	ɖ	ɖ	i	U+0256	10	Chuanqiandian, Northeast Yunnan	ɖaɯ³¹, ɖɦaɯ³⁵, ɖʅ⁵³, ɖɦau³⁵, ɖɦau³⁵
+dʱ	dʱ	dʱ	i	U+0064 U+02b1	9	Chuanqiandian, Northeast Yunnan	dʱi¹¹, dʱy¹¹, dʱy¹¹, dʱu¹¹, dʱɯ¹¹
 xʰ	xʰ	xʰ	i	U+0078 U+02b0	9	Qiandong, West	xʰɔ⁵⁵, xʰei¹³, xʰeɯ¹¹, xʰaŋ³³, xʰuæ⁴⁴
+dʑʱ	dʑʱ	dʑʱ	i	U+0064 U+0291 U+02b1	8	Chuanqiandian, Northeast Yunnan	dʑʱai¹¹, dʑʱi³¹, dʑʱau³⁵, dʑʱa³⁵, dʑʱau¹¹
 ŋ̥ŋ	ŋ̥ŋ	ŋ̥ŋ	i	U+014b U+0325 U+014b	7	Baheng, West,Baheng, East	ŋ̥ŋ³⁵, ŋ̥ŋ³¹³, ŋ̥ŋ³¹³, ŋ̥ŋ³¹, ŋ̥ŋ³¹³
-fʰ	fʰ	fʰ	i	U+0066 U+02b0	6	Qiandong, West	fʰei¹³, fʰæ³³, fʰaŋ⁴⁴, fʰæ⁴⁴, fʰæ⁴⁴
+χʷ	χʷ	χʷ	i	U+03c7 U+02b7	7	Luobuohe, Western,Luobuohe, Eastern	χʷaŋ³¹, χʷen³³, χʷen³¹, χʷa³³, χʷɑŋ³¹
+ɦ	ɦ	ɦ	i	U+0266	6	Chuanqiandian, Southern Guizhou	ɦo²³², ɦa¹³, ɦo²³², ɦaŋ¹³, ɦoŋ²²
+xʷ	xʷ	xʷ	i	U+0078 U+02b7	6	Chuanqiandian, Southern Guizhou	xʷæ⁵⁵, xʷæ⁵⁵, xʷei²¹, xʷa⁴², xʷa⁵³
+fʰ	fʰ	fʰ	i	U+0066 U+02b0	6	Qiandong, West	fʰæ³³, fʰei¹³, fʰaŋ⁴⁴, fʰæ⁴⁴, fʰæ⁴⁴
+gʱ	gʱ	gʱ	i	U+0067 U+02b1	5	Chuanqiandian, Northeast Yunnan	gʱau³⁵, gʱau³¹, gʱau³¹, gʱau³¹, gʱau¹¹
 nsʰ	nsʰ	nsʰ	i	U+006e U+0073 U+02b0	5	Chuanqiandian, Central Guizhou	nsʰe⁴², nsʰõ∼¹³, nsʰu⁴², nsʰẽ∼²⁴, nsʰi²⁴
-dʑ	dʑ	dʑ	i	U+0064 U+0291	5	Baheng, East	dʑu³³, dʑi³³, dʑeŋ³³, dʑe³³, dʑeŋ³³
-dz	dz	dz	i	U+0064 U+007a	3	Baheng, East	dzuŋ³³, dzen³³, dzi³³
+dʐ	dʐ	dʐ	i	U+0064 U+0290	5	Chuanqiandian, Northeast Yunnan	dʐɦy³¹, dʐu³³, dʐey³¹, dʐɦey¹¹, dʐɦu³⁵
 vz	vz	vz	i	U+0076 U+007a	3	Luobuohe, Eastern	vzaŋ³³, vzaŋ³¹, vzaŋ³¹
-d	d	d	i	U+0064	3	Baheng, East	dje³³, dje³³, dau³³
-ŋ̥	ŋ̥	ŋ̥	i	U+014b U+0325	2	Baheng, East	ŋ̥a³⁵, ŋ̥a³¹³
-n̩	n̩	n̩	i	U+006e U+0329	2	Baheng, East,Baheng, West	n̩³⁵, n̩³³
-ʔh	ʔh	ʔh	i	U+0294 U+0068	2	Baheng, East	ʔhe³¹³, ʔhei³¹³
-ȵ̩	ȵ̩	ȵ̩	i	U+0235 U+0329	2	Luobuohe, Eastern	ȵ̩tɕi²⁴, ȵ̩tɕi²⁴
-b	b	b	i	U+0062	2	Baheng, East	bai³³, buŋ³³
+ʁʷ	ʁʷ	ʁʷ	i	U+0281 U+02b7	3	Luobuohe, Western,Luobuohe, Eastern	ʁʷen³¹, ʁʷen³¹, ʁʷen³¹
+ŋʷ	ŋʷ	ŋʷ	i	U+014b U+02b7	3	Baheng, East	ŋʷa⁵⁵, ŋʷa¹¹, ŋʷa¹¹
+ŋ̥	ŋ̥	ŋ̥	i	U+014b U+0325	3	Chuanqiandian, Northeast Yunnan,Baheng, East	ŋ̥u⁵⁵, ŋ̥a³⁵, ŋ̥a³¹³
+mʐ	mʐ	mʐ	i	U+006d U+0290	3	Chuanqiandian, Southern Guizhou	mʐen⁴⁴, mʐe⁵⁵, mʐəŋ¹³
 ʔm	ʔm	ʔm	i	U+0294 U+006d	2	Luobuohe, Eastern	ʔmuŋ³¹, ʔmuŋ³¹
-mu	mu	mu	i	U+006d U+0075	1	Luobuohe, Western	mujoŋ¹³
-ʂʰ	ʂʰ	ʂʰ	i	U+0282 U+02b0	1	Chuanqiandian, Central Guizhou	ʂʰã∼²⁴
-ɬʰ	ɬʰ	ɬʰ	i	U+026c U+02b0	1	Qiandong, West	ɬʰjæ̃∼³³
-kæ̃	kæ̃	kæ̃	i	U+006b U+00e6 U+0303	1	Qiandong, West	kæ̃ɣæ²²
-m̥m	m̥m	m̥m	i	U+006d U+0325 U+006d	1	Baheng, East	m̥m³⁵
-kh	kh	kh	i	U+006b U+0068	1	Qiandong, West	khæ̃∼⁴⁴
-nenʔnoŋ⁵⁵	nenʔnoŋ⁵⁵	nenʔnoŋ⁵⁵	i	U+006e U+0065 U+006e U+0294 U+006e U+006f U+014b U+2075 U+2075	1	Luobuohe, Western	nenʔnoŋ⁵⁵
-qæ̃	qæ̃	qæ̃	i	U+0071 U+00e6 U+0303	1	Qiandong, West	qæ̃ɣa⁴⁴
+ȵ̩	ȵ̩	ȵ̩	i	U+0235 U+0329	2	Luobuohe, Eastern	ȵ̩tɕi²⁴, ȵ̩tɕi²⁴
+ʔʰ	ʔʰ	ʔʰ	i	U+0294 U+02b0	2	Baheng, East	ʔʰei³¹³, ʔʰe³¹³
+n̩	n̩	n̩	i	U+006e U+0329	2	Baheng, West,Baheng, East	n̩³⁵, n̩³³
 pʰz	pʰz	pʰz	i	U+0070 U+02b0 U+007a	1	Luobuohe, Eastern	pʰzi⁵⁵
+ʂʰ	ʂʰ	ʂʰ	i	U+0282 U+02b0	1	Chuanqiandian, Central Guizhou	ʂʰã∼²⁴
+m̥m	m̥m	m̥m	i	U+006d U+0325 U+006d	1	Baheng, East	m̥m³⁵
+ɬʰ	ɬʰ	ɬʰ	i	U+026c U+02b0	1	Qiandong, West	ɬʰjæ̃∼³³
+æ̃	æ̃∼	æ̃∼	c	U+00e6 U+0303 U+223c	2	Qiandong, West	kæ̃∼, qæ̃∼
+en	en	en	c	U+0065 U+006e	1	Luobuohe, Western	nen
