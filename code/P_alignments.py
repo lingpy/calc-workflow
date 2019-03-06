@@ -7,7 +7,17 @@ part.get_scorer(runs=9999)
 
 part.add_entries('tokens','segments', lambda x: x[:-1])
 
-part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap', ref='partial_cog')
+# partial cognate
+part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
+        ref='partialcog')
+
+# full cognate
+part.cluster('lexstat', threshold=0.45, cluster_method='infomap', ref='fullcog')
 
 part.output('tsv', filename='test', prettify=False)
-#alms = Alignments(part, ref = 'concept_name')
+
+# alignment now
+alms = Alignments(part, ref = 'partialcog', fuzzy=True)
+alms.align()
+alms.output('tsv', filename='test_alignment', prettify=False)
+
