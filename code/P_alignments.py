@@ -1,26 +1,66 @@
 from lingpy import *
 from lingpy.compare.partial import Partial
-import sinopy as sp
-from sinopy import *
+from segments.tokenizer import Tokenizer
+from lingpy import basictypes as bt
 
 
-part = Partial('Chen_subset.tsv')
+try:
+    part = Partial('Chen_subset.bin.tsv', segments='segments')
+    print('[i] loaded the data')
+except:
+    part = Partial('Chen_subset.tsv', segments='segments')
+    part.get_scorer(runs=1000)
+    part.output('tsv', filename='Chen_subset.bin', ignore=[])
+    print('[i] saved the scorer')
 
-part.get_scorer(runs=9999)
-
-part.add_entries('tokens','segments', lambda x: x)
 
 # partial cognate
-part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
-        ref='partialcog')
+#part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
+#        ref='cogids')
+#
+#part.output('tsv', filename='chen-cognates', prettify=False)
+#- 
+#- # alignment now
+#- alms = Alignments(part, ref = 'cogids', fuzzy=True)
+#- alms.align()
+#- alms.output('tsv', filename='chen-aligned', prettify=False)
 
-# full cognate
-part.cluster('lexstat', threshold=0.45, cluster_method='infomap', ref='fullcog')
+# load the profile
+part = Wordlist('chen-cognates.tsv')
+tk = Tokenizer('profile2.tsv')
+blacklist = []
+D = {}
+N = {0: part.columns}
+for idx, tokens in part.iter_rows('segments'):
+    segmented, strucs = [], []
+    bl = None
+    for morpheme in bt.lists(tokens).n:
+        new_string = ''.join(morpheme)
+        new_tokens = bt.strings(tk(new_string, column='CLPA'))
+        structure = bt.strings(tk(new_string, column='Structure'))
+        if len(new_tokens) == len(structure) and len(set(structure)) == len(structure):
+            segmented += [new_tokens]
+            strucs += [structure]
+        else:
+            segmented += [new_tokens]
+            strucs += [structure]
+            bl = idx
+    D[idx] = bt.lists(' + '.join([str(x) for x in strucs]))
+    part[idx, 'segments'] = bt.lists(' + '.join([str(x) for x in segmented]))
+    if bl:
+        print(' + '.join([str(x) for x in segmented]))
+        print(' + '.join([str(x) for x in strucs]))
+    blacklist += [bl]
+    if not bl:
+        N[idx] = part[idx]
 
-part.output('tsv', filename='test', prettify=False)
+wl = Wordlist(N)
+wl.add_entries('structure', D, lambda x: x)
 
-# alignment now
-alms = Alignments(part, ref = 'partialcog', fuzzy=True)
-alms.align()
-alms.output('tsv', filename='test_alignment', prettify=False)
+from lingrex.util import align_by_structure
+align_by_structure(wl, structure='structure', ref='cogids')
+wl.output('tsv', filename='chen-structure-aligned', prettify=False)
 
+#from lingrex.copar import *
+#
+#cop = CoPaR(part, ref='cogids', 
