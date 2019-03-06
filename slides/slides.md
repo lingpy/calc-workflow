@@ -117,6 +117,13 @@ width="900px" height="400px"></iframe>
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
 
+
+--
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
+<p>EDICTOR: a platform for inspection and edit</p>
+
+<iframe src='http://edictor.digling.org/' style="position:absolute; width:100%; height:100%; border:none; margin:0;"></iframe>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
