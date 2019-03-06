@@ -100,17 +100,10 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 
-<p>Orthography profile: a rule-book for segmentation (tokenization)</p>
-<a href="https://docs.google.com/spreadsheets/d/1_j8aNwD7p9p6kswoqijwngVeKQh9bQvnPo72EvkSZMM/edit?usp=sharing">Demo: Orthography profile</a>
-
---
-## @head:"CALC workflows"
-### @subhead:"From raw data to machine-readable data"
-
-<p> Profile: an online software to inspect the accuracy of an orthography profile</p> 
-
+<p>Profile: segmentation (tokenization) guidelines</p>
 <a href="http://calc.digling.org/profile/">http://calc.digling.org/profile/</a>
 
+<p>We recommand Sinopy profile for Sino-Tibetan and SEA languages. The profile can be modified and applied to different datasets.</p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
@@ -137,7 +130,7 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
 
-<p>Sinopy</p>
+<p>Lingrex</p>
 
 * A syllabic structure: Initial, Medial, Nucleus, Coda and Tone. 
 * How the prosodic structure can be used to compute preliminary alignments.
