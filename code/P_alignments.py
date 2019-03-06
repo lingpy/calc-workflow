@@ -1,11 +1,14 @@
 from lingpy import *
 from lingpy.compare.partial import Partial
+import sinopy as sp
+from sinopy import *
+
 
 part = Partial('Chen_subset.tsv')
 
 part.get_scorer(runs=9999)
 
-part.add_entries('tokens','segments', lambda x: x[:-1])
+part.add_entries('tokens','segments', lambda x: x)
 
 # partial cognate
 part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',

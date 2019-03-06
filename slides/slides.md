@@ -93,8 +93,7 @@ A workflow involves linguistic experts and computing power.
 
 <p>Wordlist format : a long format</p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing"
-width="900px" height="400px"></iframe>
+<a href='https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing'>Demo: Wordlist format</a>
 
 
 --
@@ -102,8 +101,7 @@ width="900px" height="400px"></iframe>
 ### @subhead:"From raw data to machine-readable data"
 
 <p>Orthography profile: a rule-book for segmentation (tokenization)</p>
-
-<iframe src="https://docs.google.com/spreadsheets/d/1_j8aNwD7p9p6kswoqijwngVeKQh9bQvnPo72EvkSZMM/edit?usp=sharing" style="width:900px;height:400px"></iframe>
+<a href="https://docs.google.com/spreadsheets/d/1_j8aNwD7p9p6kswoqijwngVeKQh9bQvnPo72EvkSZMM/edit?usp=sharing">Demo: Orthography profile</a>
 
 --
 ## @head:"CALC workflows"
@@ -111,22 +109,45 @@ width="900px" height="400px"></iframe>
 
 <p> Profile: an online software to inspect the accuracy of an orthography profile</p> 
 
-<iframe src="http://calc.digling.org/profile/" style="position:absolute; width:100%; height:100%; border:none; margin:0;"></iframe>
+<a href="http://calc.digling.org/profile/">http://calc.digling.org/profile/</a>
 
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
 
+<p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/software-new-4.jpg" style="width:550px;align:middle;"></img></p>
 
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
-<p>EDICTOR: a platform for inspection and edit</p>
+<p>Lingpy : a python library for *quantitative tasks* in historical linguistics</p>
 
-<iframe src='http://edictor.digling.org/' style="position:absolute; width:100%; height:100%; border:none; margin:0;"></iframe>
+* Phonetic alignment
+* Computer-inferred cognates
+
+<p>Experts can then examine as well as modfiy the cognates.</p>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
+<p>EDICTOR: a web-based tool to edit, analyse, and publish etymological data.</p>
+<a style="color:#2d1f23;text-align:center" href='http://edictor.digling.org/'>http://edictor.digling.org/</a>
+
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
+
+<p>Sinopy</p>
+
+* A syllabic structure: Initial, Medial, Nucleus, Coda and Tone. 
+* How the prosodic structure can be used to compute preliminary alignments.
+
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
+Examine the results on EDICTOR! 
+<a style="color:#2d1f23;text-align:center" href='http://edictor.digling.org/'>http://edictor.digling.org/</a>
 
 --
 ## @head:"CALC workflows"

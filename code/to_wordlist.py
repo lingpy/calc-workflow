@@ -22,7 +22,8 @@ languages = [
         "Baheng, West",
         "Qiandong, East",
         "Qiandong, West"] # modify 
-wl.add_entries('new_segments', 'segments', lambda x: x[:-1])
+
+#wl.add_entries('new_segments', 'segments', lambda x: x[:-1])
 wl.add_entries('ipa', 'segments', lambda x: ''.join(x))
 
 wl.output('tsv', filename='Chen_subset',
