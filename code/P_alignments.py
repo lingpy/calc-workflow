@@ -15,10 +15,10 @@ except:
 
 
 # partial cognate
-#part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
-#        ref='cogids')
-#
-#part.output('tsv', filename='chen-cognates', prettify=False)
+part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
+        ref='cogids')
+
+part.output('tsv', filename='chen-cognates', prettify=False)
 #- 
 #- # alignment now
 #- alms = Alignments(part, ref = 'cogids', fuzzy=True)
