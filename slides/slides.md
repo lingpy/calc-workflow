@@ -160,7 +160,13 @@ Examine the results on EDICTOR!
 --
 ## @head:"CALC workflows"
 ### @subhead:"From strict cognates to correspondence patterns"
-
+<div class="spreadsheet" data-delimiter="	">
+=$B$2	'Maserati'	"Mazda"	"Mercedes"	"Mini"	=A$1
+2009	0	2941	4303	354	5814
+2010	5	2905	2867	=SUM(A4,2,3)	=$B1
+2011	4	2517	4822	552	6127
+2012	=SUM(A2:A5)	=SUM(B5,E3)	=A2/B2	12	4151
+</div>
 ---
 ## @head:"Conclusion and outlook" 
 
