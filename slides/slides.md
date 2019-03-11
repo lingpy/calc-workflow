@@ -91,6 +91,7 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 
+<font color="red">+++add example on no-goes from cldf paper forkel ett al. +++</font>
 <p>Wordlist format : a long format</p>
 
 <a href='https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing'>Demo: Wordlist format</a>
@@ -130,11 +131,13 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
 
-<p>Lingrex</p>
+<p>Template-Based Alignment</p>
 
-* A syllabic structure: Initial, Medial, Nucleus, Coda and Tone. 
-* How the prosodic structure can be used to compute preliminary alignments.
+* phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009)
+* however, for languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their *prosodic templates*
+* a typical Chinese syllable, for example, consists of *initial*, *medial*, *nucleus*, *coda* and *tone* (Wang 1996)
 
+<font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
@@ -146,10 +149,24 @@ Examine the results on EDICTOR!
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
+* our algorithm for automatic cognate dettection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
+* therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
+* given that many SEA languages are rich in compounidng, we find many words being re-used across the lexicon, even in small numbers of vocabulary
+* we apply a new algorithm, inspired by maximum clique coverage, to *merge* cognates in our data into larger groups
+* our basic check is if two alignments are compatible with each other, and if the words are *strictly* cognate
+
+<font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font>
+
 --
 ## @head:"CALC workflows"
 ### @subhead:"From strict cognates to correspondence patterns"
-
+<div class="spreadsheet" data-delimiter="	">
+=$B$2	'Maserati'	"Mazda"	"Mercedes"	"Mini"	=A$1
+2009	0	2941	4303	354	5814
+2010	5	2905	2867	=SUM(A4,2,3)	=$B1
+2011	4	2517	4822	552	6127
+2012	=SUM(A2:A5)	=SUM(B5,E3)	=A2/B2	12	4151
+</div>
 ---
 ## @head:"Conclusion and outlook" 
 <img src="img/outlook.jpg" alt="img" style="width:900px;text-align:center;"></img>

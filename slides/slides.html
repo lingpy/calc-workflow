@@ -17,6 +17,10 @@
     <link rel="stylesheet" href="css/reveal.css">
     <link rel="stylesheet" href="css/theme/black.css" id="theme">
 
+    <!-- spread sheet-->
+    <script src="plugin/spreadsheet/ruleJS.all.full.min.js"></script>
+    <link rel="stylesheet" href="plugin/spreadsheet/spreadsheet.css">
+
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="lib/css/zenburn.css">
 
@@ -239,8 +243,8 @@ Workflows for Computer-Assisted Language Comparison
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From raw data to machine-readable data</span></h3>
-<p>Wordlist format : a long format</p>
-
+<p><font color="red">+++add example on no-goes from cldf paper forkel ett al. +++</font>
+<p>Wordlist format : a long format</p></p>
 <p><a href='https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing'>Demo: Wordlist format</a></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
@@ -275,12 +279,14 @@ Workflows for Computer-Assisted Language Comparison
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From cognates to alignments</span></h3>
-<p>Lingrex</p>
+<p>Template-Based Alignment</p>
 
 <ul>
-<li>A syllabic structure: Initial, Medial, Nucleus, Coda and Tone. </li>
-<li>How the prosodic structure can be used to compute preliminary alignments.</li>
+<li>phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009)</li>
+<li>however, for languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their <em>prosodic templates</em></li>
+<li>a typical Chinese syllable, for example, consists of <em>initial</em>, <em>medial</em>, <em>nucleus</em>, <em>coda</em> and <em>tone</em> (Wang 1996)</li>
 </ul>
+<p><font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
@@ -291,10 +297,25 @@ Workflows for Computer-Assisted Language Comparison
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From alignments to strict, cross-semantic cognates</span></h3>
+<ul>
+<li>our algorithm for automatic cognate dettection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings</li>
+<li>therefore, we need to find <em>cross-semantic</em> (=normal) cogantes in a second stage</li>
+<li>given that many SEA languages are rich in compounidng, we find many words being re-used across the lexicon, even in small numbers of vocabulary</li>
+<li>we apply a new algorithm, inspired by maximum clique coverage, to <em>merge</em> cognates in our data into larger groups</li>
+<li>our basic check is if two alignments are compatible with each other, and if the words are <em>strictly</em> cognate</li>
+</ul>
+<p><font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From strict cognates to correspondence patterns</span></h3>
+<p><div class="spreadsheet" data-delimiter="   ">
+=$B$2   'Maserati'  "Mazda" "Mercedes"  "Mini"  =A$1
+2009    0   2941    4303    354 5814
+2010    5   2905    2867    =SUM(A4,2,3)    =$B1
+2011    4   2517    4822    552 6127
+2012    =SUM(A2:A5) =SUM(B5,E3) =A2/B2  12  4151
+</div></p>
 </section>
 </section>
 
@@ -359,7 +380,8 @@ Thanks for Your Attention!
           { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
           { src: 'plugin/zoom-js/zoom.js', async: true },
 	  { src: 'plugin/math/math.js', async: true },
-          { src: 'plugin/notes/notes.js', async: true }
+          { src: 'plugin/notes/notes.js', async: true },
+          { src: 'plugin/spreadsheet/spreadsheet.js'}
         ]
       });
 
