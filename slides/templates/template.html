@@ -17,6 +17,10 @@
     <link rel="stylesheet" href="css/reveal.css">
     <link rel="stylesheet" href="css/theme/black.css" id="theme">
 
+    <!-- spread sheet-->
+    <script src="plugin/spreadsheet/ruleJS.all.full.min.js"></script>
+    <link rel="stylesheet" href="plugin/spreadsheet/spreadsheet.css">
+
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="lib/css/zenburn.css">
 
@@ -95,7 +99,9 @@
           {{ src: 'plugin/highlight/highlight.js', async: true, condition: function() {{ return !!document.querySelector( 'pre code' ); }}, callback: function() {{ hljs.initHighlightingOnLoad(); }} }},
           {{ src: 'plugin/zoom-js/zoom.js', async: true }},
 	  {{ src: 'plugin/math/math.js', async: true }},
-          {{ src: 'plugin/notes/notes.js', async: true }}
+          {{ src: 'plugin/notes/notes.js', async: true }},
+          {{ src: 'plugin/spreadsheet/spreadsheet.js'}},
+	  {{ src: 'plugin/fullscreen/fullscreen.js'}}
         ]
       }});
 

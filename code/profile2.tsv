@@ -178,7 +178,15 @@ lʱau	lʱ au	lʱ au	m n	U+006c U+02b1 U+0020 U+0061 U+0075	4	Chuanqiandian, Nort
 ʐa	ʐ a	ʐ a	m n	U+0290 U+0020 U+0061	4	Chuanqiandian, Southern Guizhou	pʐa²², ⁿpʐa³², ⁿpʐa³², ⁿpʐa³²
 jæ̃	j æ̃	j æ̃	m n	U+006a U+0020 U+00e6 U+0303	4	Qiandong, West	tjæ̃⁴⁴, tjæ̃⁴⁴, tjæ̃⁴⁴, ɬʰjæ̃³³
 ɦey	ɦ ey	ɦ ey	m n	U+0266 U+0020 U+0065 U+0079	4	Chuanqiandian, Northeast Yunnan	ⁿgɦey³⁵, ⁿgɦey³⁵, ⁿgɦey³⁵, dʐɦey¹¹
-lʱi	lʱ i	lʱ i	m n	U+006c U+02b1 U+0020 U+0069	4	Chuanqiandian, Northeast Yunnan	ⁿdlʱi³⁵, ⁿdlʱi³⁵, ⁿdlʱi³⁵, ⁿdlʱi³⁵
+^ⁿgɦ	ⁿgɦ	ⁿgʱ	i
+^mɦ	mɦ	mʱ	i
+^ȵɦ	ȵɦ	ȵʱ	i
+^zɦ	zɦ	zʱ	i
+^ʑɦ	ʑɦ	ʑʱ	i
+^ɢɦ	ɢɦ	ɢʱ	i
+^j	j	j	i
+^ⁿdlʱ	ⁿdʱ l	ⁿdʱ l	i m
+^lʱi	lʱ i	lʱ i	i n	U+006c U+02b1 U+0020 U+0069	4	Chuanqiandian, Northeast Yunnan	ⁿdlʱi³⁵, ⁿdlʱi³⁵, ⁿdlʱi³⁵, ⁿdlʱi³⁵
 jæ	j æ	j æ	m n	U+006a U+0020 U+00e6	4	Luobuohe, Western	jæ⁵⁵, ʔjæ³¹, jæ³⁵, ʔjæ³¹
 wau	w au	w au	m n	U+0077 U+0020 U+0061 U+0075	4	Baheng, East	kwau³⁵, kwau³⁵, kwau³⁵, kwau³⁵
 lɯ	l ɯ	l ɯ	m n	U+006c U+0020 U+026f	4	Chuanqiandian, Southern Guizhou,Chuanqiandian, Central Guizhou	ⁿplɯ²², ⁿplɯ⁴², ⁿplɯ¹¹, plɯ²²

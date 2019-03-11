@@ -10,16 +10,29 @@ try:
     print('[i] loaded the data')
 except:
     part = Partial('Chen_subset.tsv', segments='segments')
-    part.get_scorer(runs=1000)
+    part.get_scorer(runs=10000)
     part.output('tsv', filename='Chen_subset.bin', ignore=[])
     print('[i] saved the scorer')
 
 
 # partial cognate
-#part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
-#        ref='cogids')
+part.partial_cluster('lexstat', threshold=0.50, cluster_method='infomap',
+        ref='cogids')
+maxi = max(part.get_etymdict(ref='cogids'))+1
+for idx, cogids in part.iter_rows('cogids'):
+    if len(set(cogids)) != len(cogids):
+        current = 0
+        new_cogs = []
+        for cogid in cogids:
+            if current == cogid:
+                new_cogs += [maxi]
+                maxi += 1
+            else:
+                new_cogs += [cogid]
+            current = cogid
+        part[idx, 'cogids'] = new_cogs
 
-#part.output('tsv', filename='chen-cognates', prettify=False)
+part.output('tsv', filename='chen-cognates', prettify=False)
 #- 
 #- # alignment now
 #- alms = Alignments(part, ref = 'cogids', fuzzy=True)
@@ -40,7 +53,8 @@ for idx, tokens in part.iter_rows('segments'):
         new_string = ''.join(morpheme)
         new_tokens = bt.strings(tk('^'+new_string, column='CLPA'))
         structure = bt.strings(tk('^'+new_string, column='Structure'))
-        if len(new_tokens) == len(structure) and len(set(structure)) == len(structure):
+        if len(new_tokens) == len(structure) and len(set(structure)) == \
+                len(structure) and not '�' in structure:
             segmented += [new_tokens]
             strucs += [structure]
         else:
@@ -64,7 +78,7 @@ wl = Wordlist(N)
 wl.add_entries('structure', D, lambda x: x)
 
 from lingrex.util import align_by_structure
-align_by_structure(wl, structure='structure', ref='cogids')
+align_by_structure(wl, structure='structure', ref='cogids', segments='segments')
 wl.output('tsv', filename='chen-structure-aligned', prettify=False)
 
 alms = Alignments(wl, ref='cogids')
@@ -78,7 +92,10 @@ find_colexified_alignments(
         ref='crossids'
         )
 
-alms.output('tsv', filename='chen-crossids', prettify=False)
+alms.output('tsv', filename='chen-crossids', prettify=False, 
+        subset=True,
+        cols = [c for c in alms.columns if c != 'tokens']
+        )
 
 
 

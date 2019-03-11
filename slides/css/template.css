@@ -1,3 +1,6 @@
+.spreadsheet > table {
+	width: 1000px;
+}
 .head {
 	position: relative;
 	top: 0px;
