@@ -109,6 +109,18 @@ h4 {
 	color: white!important;
 }
 
+.scrollable {
+    bottom: 0px;
+    overflow-y: auto  !important;
+    overflow-x: auto !important;
+}
+
+.center-div
+{
+     margin: 0 auto;
+     width: 100px; 
+}
+
   </style>
   <script>
 function startTime(elm) {
@@ -182,18 +194,16 @@ Workflows for Computer-Assisted Language Comparison
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">Introduction</span></h2>
 <h3><span class="subhead">What is a computer-assisted approach</span></h3>
-<p>Classical approach </p>
-<ul>
-<li>Suitable for small datasets. </li>
-<li>High accuracy</li>
-<li>High flexibility</li>
-<li>Low efficiency and most of the tasks are repetitive.</li>
-</ul>
-<p>Computational approach</p>
-<ul>
-<li>High consistency</li>
-<li>High efficiency</li>
-</ul>
+<p style="text-align:center">
+<img src="http://lingulist.de/documents/talks/img/calc-project/calc-5.jpg" style='width:900px;text-align:center'></img>
+</p>
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
+<h2><span class="head">Introduction</span></h2>
+<h3><span class="subhead">What is a computer-assisted approach</span></h3>
+<p style="text-align:center">
+<img src="http://lingulist.de/documents/talks/img/calc-project/calc-7.jpg" style='width:900px;text-align:center'></img>
+</p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">Introduction</span></h2>
@@ -216,8 +226,6 @@ Workflows for Computer-Assisted Language Comparison
 <section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
-<p>Application: correspondence pattern detection</p>
-
 <p style="text-align:center">
 <img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
 </p>
@@ -243,22 +251,74 @@ Workflows for Computer-Assisted Language Comparison
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From raw data to machine-readable data</span></h3>
-<p><font color="red">+++add example on no-goes from cldf paper forkel ett al. +++</font>
-<p>Wordlist format : a long format</p></p>
-<p><a href='https://docs.google.com/spreadsheets/d/1ciUHTyBXOEioHLzhmNvAzpkEh1Xc0SsOPBsKCnPUpE8/edit?usp=sharing'>Demo: Wordlist format</a></p>
+<p>An example of common raw data format</p>
+
+<div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
+     \t Baheng,east \t Baheng, west \t Qiandong, east \t Qiandong, wesst
+七   \t  tsha³¹      \t tshang⁴⁴    \t     shung⁵³    \t      shung²²
+月亮 \t la⁰³lha⁵⁵ \t ʔa⁰³lha⁵⁵ \t la⁴⁴la⁴⁴ \t pau¹¹la³³
+星星 \t la⁰³qang³⁵ \t qa⁰³qang³⁵ \t qei²⁴qei²⁴ \t tei⁴⁴qei⁴⁴
+</div>
+
+<!-- <font color="red">+++add example on no-goes from cldf paper forkel ett al. +++</font> -->
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7" class="scrollable">
+<h2><span class="head">CALC workflows</span></h2>
+<p><div class="spreadsheet" data-delimiter="\t" width="80%" fontsize="12" height="80%" align='center'>
+ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t COGID
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t     \t        \t
+ 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t     \t        \t
+ 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t     \t        \t
+ 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t     \t        \t
+ 5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t     \t        \t
+ 6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t     \t        \t
+ 7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t     \t        \t
+ 8   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t     \t        \t
+ 9   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t     \t        \t
+ 10  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t     \t        \t
+ 11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t     \t        \t
+ 12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t     \t        \t
+</div></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From raw data to machine-readable data</span></h3>
-<p>Profile: segmentation (tokenization) guidelines</p>
+<p>You can manually type the IPA and tokenize the IPA into morphemes</p>
 
-<p><a href="http://calc.digling.org/profile/">http://calc.digling.org/profile/</a></p>
-<p>We recommand Sinopy profile for Sino-Tibetan and SEA languages. The profile can be modified and applied to different datasets.</p>
+<p>What if, we are dealing with <b>hundrends of entries?</b> </p>
+
+<p>Is there an efficient way?</p>
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
+<h2><span class="head">CALC workflows</span></h2>
+<h3><span class="subhead">From raw data to machine-readable data</span></h3>
+<p><p>A guideline to teach computer how to seperate the phonetic sequences into sequences of phonemes</p>
+<p>Choose one from many existing profiles to tokenize your data</p>
+<a style="color:#2d1f23;text-align:center" href='http://calc.digling.org/profile/'> http://calc.digling.org/profile/</a></p>
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7" class="scrollable">
+<h2><span class="head">CALC workflows</span></h2>
+<h3><span class="subhead">From raw data to machine-readable data</span></h3>
+<p><div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
+ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t
+ 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 
+ 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t
+ 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 
+ 5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵      \t
+ 6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵       \t
+ 7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴       \t
+ 8   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t
+ 9   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t
+ 10  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t 
+ 11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t
+ 12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t
+</div></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From segmented words to computer-inferred cognates</span></h3>
-<p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/software-new-4.jpg" style="width:550px;align:middle;"></img></p>
+<p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/algo2.jpg" style="width:800px;align:middle;"></img></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
@@ -268,13 +328,34 @@ Workflows for Computer-Assisted Language Comparison
 <li>Phonetic alignment</li>
 <li>Computer-inferred cognates</li>
 </ul>
-<p>Experts can then examine as well as modfiy the cognates.</p>
+<p>Linguists can then examine as well as modfiy the cognates.</p>
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7" class="scrollable">
+<h2><span class="head">CALC workflows</span></h2>
+<h3><span class="subhead">From segmented words to computer-inferred cognates</span></h3>
+<div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
+ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t 3
+ 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 3
+ 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t 3
+ 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 3
+ 5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵     \t 1908 1907
+ 6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵      \t 1909 1907   
+ 7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴      \t 1908 1907
+ 8   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t 1910 1907
+ 9   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t 1874 1870
+ 10  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t　1872 1870   
+ 11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t　1872 1870
+ 12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t　1871 1870
+</div>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From segmented words to computer-inferred cognates</span></h3>
 <p><p>EDICTOR: a web-based tool to edit, analyse, and publish etymological data.</p>
-<a style="color:#2d1f23;text-align:center" href='http://edictor.digling.org/'>http://edictor.digling.org/</a></p>
+<p style="text-align:center">
+<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
+</p></p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
@@ -286,7 +367,26 @@ Workflows for Computer-Assisted Language Comparison
 <li>however, for languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their <em>prosodic templates</em></li>
 <li>a typical Chinese syllable, for example, consists of <em>initial</em>, <em>medial</em>, <em>nucleus</em>, <em>coda</em> and <em>tone</em> (Wang 1996)</li>
 </ul>
-<p><font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font></p>
+<!-- <font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font> -->
+</section>
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7" class="scrollable">
+<h2><span class="head">CALC workflows</span></h2>
+<h3><span class="subhead">From cognates to alignments</span></h3>
+<div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
+ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMENT \t COGID
+ 1   \t Baheng, east   \t SEVEN   \t tɕ a ³¹             \t i n t     \t tɕ a - ³¹ \t 3
+ 2   \t Baheng, west   \t SEVEN   \t tɕ a ŋ ⁴⁴           \t i n c t   \t tɕ a ŋ ⁴⁴ \t 3
+ 3   \t Qiandong, east \t SEVEN   \t ɕ u ŋ ⁵³            \t i n c t   \t  ɕ u ŋ ⁵³ \t 3
+ 4   \t Qiandong, wesst\t SEVEN   \t ɕ u ŋ ²²            \t i n c t   \t ɕ u ŋ ²²  \t 3
+ 5   \t Baheng, east   \t MOON    \t l a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t l a ³/⁰ + ɬ a ⁵⁵\t 1908 1907
+ 6   \t Baheng, west   \t MOON    \t ʔ a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t ʔ a ³/⁰ + ɬ a ⁵⁵ \t 1909 1907  
+ 7   \t Qiandong, east \t MOON    \t l a ⁴⁴ + l a ⁴⁴    \t i n t + i n t \t l a ⁴⁴ + l a ⁴⁴ \t 1908 1907
+ 8   \t Qiandong, wesst\t MOON    \t p ɔ ¹¹ + l a ³³    \t i n t + i n t \t p ɔ ¹¹ + l a ³³ \t 1910 1907
+ 9   \t Baheng, east   \t STAR    \t l a ³/⁰ + q a ŋ ³⁵ \t i n t + i n c t \t l a ³/⁰ + q a ŋ ³⁵ \t 1874 1870
+ 10  \t Baheng, west   \t STAR    \t q a ³/⁰ + q a ŋ ³⁵ \t　i n t + i n c t \t q a ³/⁰ + q a ŋ ³⁵ \t 1872 1870   
+ 11  \t Qiandong, east \t STAR    \t q ei ²⁴ + q ei  ²⁴ \t　i n t + i n t \t q ei ²⁴ + q ei - ²⁴ \t  1872 1870
+ 12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1871 1870
+</div>
 </section>
 <section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
 <h2><span class="head">CALC workflows</span></h2>
@@ -306,16 +406,24 @@ Workflows for Computer-Assisted Language Comparison
 </ul>
 <p><font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font></p>
 </section>
-<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7">
+<section style="text-align:justify;font-size:85%;" data-transition="concave" data-background="#f5f5f7" class="scrollable">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From strict cognates to correspondence patterns</span></h3>
-<p><div class="spreadsheet" data-delimiter="   ">
-=$B$2   'Maserati'  "Mazda" "Mercedes"  "Mini"  =A$1
-2009    0   2941    4303    354 5814
-2010    5   2905    2867    =SUM(A4,2,3)    =$B1
-2011    4   2517    4822    552 6127
-2012    =SUM(A2:A5) =SUM(B5,E3) =A2/B2  12  4151
-</div></p>
+<div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
+ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMENT \t CROSSID            \t COGID
+ 1   \t Baheng, east   \t SEVEN   \t tɕ a ³¹             \t i n t     \t tɕ a - ³¹ \t 3                  \t 3
+ 2   \t Baheng, west   \t SEVEN   \t tɕ a ŋ ⁴⁴           \t i n c t   \t tɕ a ŋ ⁴⁴ \t 3                  \t 3
+ 3   \t Qiandong, east \t SEVEN   \t ɕ u ŋ ⁵³            \t i n c t   \t  ɕ u ŋ ⁵³ \t 3                  \t 3
+ 4   \t Qiandong, wesst\t SEVEN   \t ɕ u ŋ ²²            \t i n c t   \t ɕ u ŋ ²²  \t 3                  \t 3
+ 5   \t Baheng, east   \t MOON    \t l a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t l a ³/⁰ + ɬ a ⁵⁵\t 1908 351 \t 1908 1907
+ 6   \t Baheng, west   \t MOON    \t ʔ a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t ʔ a ³/⁰ + ɬ a ⁵⁵ \t 41 351 \t 1909 1907
+ 7   \t Qiandong, east \t MOON    \t l a ⁴⁴ + l a ⁴⁴    \t i n t + i n t \t l a ⁴⁴ + l a ⁴⁴ \t 1908 351 \t 1908 1907
+ 8   \t Qiandong, wesst\t MOON    \t p ɔ ¹¹ + l a ³³    \t i n t + i n t \t p ɔ ¹¹ + l a ³³ \t 1910 351  \t 1910 1907
+ 9   \t Baheng, east   \t STAR    \t l a ³/⁰ + q a ŋ ³⁵ \t i n t + i n c t \t l a ³/⁰ + q a ŋ ³⁵ \t 1874 1834 \t 1874 1870
+ 10  \t Baheng, west   \t STAR    \t q a ³/⁰ + q a ŋ ³⁵ \t　i n t + i n c t \t q a ³/⁰ + q a ŋ ³⁵ \t 1872 1834 \t 1872 1870
+ 11  \t Qiandong, east \t STAR    \t q ei ²⁴ + q ei  ²⁴ \t　i n t + i n t \t q ei ²⁴ + q ei - ²⁴ \t  1872 1834 \t 1872 1870
+ 12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1234 1834 \t 1871 1870
+</div>
 </section>
 </section>
 
@@ -381,7 +489,8 @@ Thanks for Your Attention!
           { src: 'plugin/zoom-js/zoom.js', async: true },
 	  { src: 'plugin/math/math.js', async: true },
           { src: 'plugin/notes/notes.js', async: true },
-          { src: 'plugin/spreadsheet/spreadsheet.js'}
+          { src: 'plugin/spreadsheet/spreadsheet.js'},
+	  { src: 'plugin/fullscreen/fullscreen.js'}
         ]
       });
 

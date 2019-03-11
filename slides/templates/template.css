@@ -65,3 +65,15 @@ h3 {
 h4 {
 	color: white!important;
 }
+
+.scrollable {
+    bottom: 0px;
+    overflow-y: auto  !important;
+    overflow-x: auto !important;
+}
+
+.center-div
+{
+     margin: 0 auto;
+     width: 100px; 
+}
