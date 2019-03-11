@@ -16,8 +16,8 @@ except:
 
 
 # partial cognate
-#part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
-#        ref='cogids')
+part.partial_cluster('lexstat', threshold=0.55, cluster_method='infomap',
+        ref='cogids')
 
 #part.output('tsv', filename='chen-cognates', prettify=False)
 #- 

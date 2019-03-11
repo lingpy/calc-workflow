@@ -152,15 +152,15 @@ Examine the results on EDICTOR!
 
 ---
 ## @head:"Conclusion and outlook" 
-
-
---
-## @head:"Conclusion and outlook"
-### @subhead:"Conclusion"
+<img src="img/outlook.jpg" alt="img" style="width:900px;text-align:center;"></img>
 
 --
 ## @head:"Conclusion and outlook"
-### @subhead:"Outlook"
+### @subhead:"Future work"
+
+* Semi-automated reconstruction
+* Test consistency of cognates
+* Test consistency of reconstruction systems
 
 ---
 
