@@ -284,6 +284,12 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 --
 ## @head:"CALC workflows"
 ### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+<p style="text-align:center">
+<img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
+</p>
+--
+## @head:"CALC workflows"
+### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
 
 <p style="text-align:center">
 <a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
