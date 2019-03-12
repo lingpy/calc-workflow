@@ -5,13 +5,29 @@ from lingpy import basictypes as bt
 from clldutils.misc import slug
 
 
+from sys import argv
+
+if 'get-concepts' in argv:
+    concepts = csv2list('burmish-concepts.tsv')
+    cids = [line[-1] for line in concepts]
+    cids = [l for l in cids if l]
+    
+    wl = Wordlist('Chen_subset.tsv')
+    chen_concepts = set([x for _, x, y in wl.iter_rows('concept',
+        'concept_concepticon_id') if
+        y in cids])
+    
+    wl.output('tsv', filename='chen-sublist', 
+            subset=True,
+            rows={"concept": 'in '+str(chen_concepts)})
+
 try:
-    part = Partial('Chen_subset.bin.tsv', segments='segments')
+    part = Partial('chen-sublist.bin.tsv', segments='segments')
     print('[i] loaded the data')
 except:
-    part = Partial('Chen_subset.tsv', segments='segments')
+    part = Partial('chen-sublist.tsv', segments='segments')
     part.get_scorer(runs=10000)
-    part.output('tsv', filename='Chen_subset.bin', ignore=[])
+    part.output('tsv', filename='chen-sublist.bin', ignore=[])
     print('[i] saved the scorer')
 
 
