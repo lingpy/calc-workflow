@@ -14,7 +14,7 @@
 ----
 
 <p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">Workflows for Computer-Assisted Language Comparison</p>
-<p style="text-align:center"> 
+<p style="text-align:center">
 <img src="img/calc-yinyang.svg" alt="image" style="width:200px"></img>
 </p>
 
@@ -73,7 +73,7 @@
 A workflow involves linguistic experts and computing power.
 
 * Analyse and manipulate linguistic datasets
-* Follow a transparency guideline when handling linguistic datasets. 
+* Follow a transparency guideline when handling linguistic datasets.
 
 --
 
@@ -82,18 +82,26 @@ A workflow involves linguistic experts and computing power.
 
 <p style="text-align:center">
 <img src="img/worktogether.jpg" alt="img" style="width:500px;text-align:center;"></img>
-</p> 
+</p>
 
 ---
-## @head:"CALC workflows"
-
-
+## @head:"Workflows or Computer-Assisted Language Comparison"
+## @subhead:"Details of the workflows"
 <p style="text-align:center">
 <img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
 </p>
+--
+## @head:"Workflows or Computer-Assisted Language Comparison"
+### @subhead:"Material and methods for the workflow illustration"
+
+<p style ='text-align:center'>
+<p style='text-color=red'>+++Macy : Map+++</p>
+
+* Chen, Qiguang (2013). Miao and Yao language.
+* 10 Hmong-Mien languages
 
 --
-## @head:"CALC workflows"
+## @head:"Workflows or Computer-Assisted Language Comparison"
 ### @subhead:"From raw data to machine-readable data"
 |Books                                            | Web resources           |
 |-------------------------------------------------|-------------------------|
@@ -116,7 +124,7 @@ A workflow involves linguistic experts and computing power.
 --
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" style="width:1200px;height:600px;text-align:center;">
- ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t NOTE 
+ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t NOTE
  1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹     \t     \t        \t synonym
  2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴   \t     \t        \t synonym
  2   \t Baheng, west   \t 七      \t SEVEN    \t tsjang⁴⁴   \t     \t        \t
@@ -143,9 +151,16 @@ A workflow involves linguistic experts and computing power.
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
-<p>A guideline to teach computer how to seperate the phonetic sequences into sequences of phonemes</p>
-<p>Choose one from many existing profiles to tokenize your data</p>
-<a style="color:#2d1f23;text-align:center" href='http://calc.digling.org/profile/'> http://calc.digling.org/profile/</a>
+<p>A guideline to </p>
+<ul>
+<li> To convert grapheme(s) to phonetic sequence(s) (IPA) </li>
+  <ul style="list-style-type:none;">
+    <li> tsj   ---->  tɕ </li>
+    <li> ng    ---->   ŋ </li>
+  </ul>
+<li>To separate the phonetic sequences into sequences of phonemes</li>
+tsja³¹  ----> tɕja³¹ ----> tɕ j a ³¹
+</ul>
 
 --
 ## @head:"CALC workflows"
@@ -153,17 +168,17 @@ A workflow involves linguistic experts and computing power.
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
 ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
- 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹     \t  tɕa³¹     \t tɕ a ³¹              \t
  2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴    \t tɕuŋ⁴⁴    \t tɕ u ŋ ⁴⁴            \t
- 3   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t	
- 4   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t
- 5   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 
+ 3   \t Baheng, west   \t 七      \t SEVEN    \t tsjang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t
+ 4   \t Qiandong, east \t 七      \t SEVEN    \t sjung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t
+ 5   \t Qiandong, wesst\t 七      \t SEVEN    \t sjung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t
  6   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵      \t
  7   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵       \t
  8   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴       \t
  9   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t
  10   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t
- 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t	
+ 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t
  12  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t
  13  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t
 </div>
@@ -190,28 +205,21 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
 ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
- 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t 3
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹     \t  tɕa³¹     \t tɕ a ³¹              \t 3
  2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴   \t  tɕuŋ⁴⁴     \t tɕ u ŋ ⁴⁴           \t 3
- 3   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 3
- 4   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t 3
- 5   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 3
+ 3   \t Baheng, west   \t 七      \t SEVEN    \t tsjang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 3
+ 4   \t Qiandong, east \t 七      \t SEVEN    \t sjung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t 3
+ 5   \t Qiandong, wesst\t 七      \t SEVEN    \t sjung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 3
  6   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵     \t 1908 1907
- 7   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵      \t 1909 1907	
+ 7   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵      \t 1909 1907
  8   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴      \t 1908 1907
  9   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t 1910 1907
  10   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t 1874 1870
- 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t　1872 1870	
+ 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t　1872 1870
  12  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t　1872 1870
  13  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t　1871 1870
 </div>
 
---
-## @head:"CALC workflows"
-### @subhead:"From segmented words to computer-inferred cognates"
-<p>EDICTOR: a web-based tool to edit, analyse, and publish etymological data.</p>
-<p style="text-align:center">
-<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
-</p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
@@ -235,25 +243,14 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
  3   \t Qiandong, east \t SEVEN   \t ɕ u ŋ ⁵³            \t i n c t   \t  ɕ u ŋ ⁵³ \t 3
  4   \t Qiandong, wesst\t SEVEN   \t ɕ u ŋ ²²            \t i n c t   \t ɕ u ŋ ²²  \t 3
  5   \t Baheng, east   \t MOON    \t l a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t l a ³/⁰ + ɬ a ⁵⁵\t 1908 1907
- 6   \t Baheng, west   \t MOON    \t ʔ a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t ʔ a ³/⁰ + ɬ a ⁵⁵ \t 1909 1907	
+ 6   \t Baheng, west   \t MOON    \t ʔ a ³/⁰ + ɬ a ⁵⁵    \t i n t + i n t \t ʔ a ³/⁰ + ɬ a ⁵⁵ \t 1909 1907
  7   \t Qiandong, east \t MOON    \t l a ⁴⁴ + l a ⁴⁴    \t i n t + i n t \t l a ⁴⁴ + l a ⁴⁴ \t 1908 1907
  8   \t Qiandong, wesst\t MOON    \t p ɔ ¹¹ + l a ³³    \t i n t + i n t \t p ɔ ¹¹ + l a ³³ \t 1910 1907
  9   \t Baheng, east   \t STAR    \t l a ³/⁰ + q a ŋ ³⁵ \t i n t + i n c t \t l a ³/⁰ + q a ŋ ³⁵ \t 1874 1870
- 10  \t Baheng, west   \t STAR    \t q a ³/⁰ + q a ŋ ³⁵ \t　i n t + i n c t \t q a ³/⁰ + q a ŋ ³⁵ \t 1872 1870	
+ 10  \t Baheng, west   \t STAR    \t q a ³/⁰ + q a ŋ ³⁵ \t　i n t + i n c t \t q a ³/⁰ + q a ŋ ³⁵ \t 1872 1870
  11  \t Qiandong, east \t STAR    \t q ei ²⁴ + q ei  ²⁴ \t　i n t + i n t \t q ei ²⁴ + q ei - ²⁴ \t  1872 1870
  12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1871 1870
 </div>
-
-
---
-## @head:"CALC workflows"
-### @subhead:"From cognates to alignments"
-
-Examine the results on EDICTOR! 
-<p style="text-align:center">
-<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
-</p>
-
 --
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
@@ -309,8 +306,19 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 <a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
 </p>
 
+--
+## @head:"Illustration of the Workflow"
+### @subhead:"From Raw Data to Segmented Data"
+<a style="color:#2d1f23;text-align:center" href='http://calc.digling.org/profile/'> http://calc.digling.org/profile/</a>
+--
+## @head:"Illustration of the Workflow"
+### @subhead:"EDICTOR"
+<p>EDICTOR: a web-based tool to edit, analyse, and publish etymological data.</p>
+<p style="text-align:center">
+<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
+</p>
 ---
-## @head:"Conclusion and outlook" 
+## @head:"Conclusion and outlook"
 <img src="img/outlook.jpg" alt="img" style="width:900px;text-align:center;"></img>
 
 --
