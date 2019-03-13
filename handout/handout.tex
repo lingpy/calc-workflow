@@ -1,0 +1,139 @@
+\documentclass[xetex]{scrartcl}
+
+% packages
+\usepackage{xltxtra}
+\usepackage{polyglossia}
+\usepackage[
+    urlcolor=black,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    pagecolor=black,
+    linktocpage=true,
+    ]{hyperref}
+\usepackage{fontspec}
+\usepackage{scrpage2}
+\usepackage[left=2cm,right=2cm,top=3cm,bottom=3cm]{geometry}
+\usepackage{colortbl}
+\usepackage{alltt}
+\usepackage{listings}
+\usepackage{multirow}
+
+% fonts general
+\setmainfont[Mapping=tex-text,Scale=1.0]{FreeSans}
+\setsansfont[Mapping=tex-text,Scale=1.0]{FreeSans}
+\setmonofont{FreeMono}
+
+% special fonts
+\newfontfamily\hana{HAN NOM A}
+\newfontfamily\hanb{HAN NOM B}
+\newfontfamily\sil{Charis SIL}
+
+
+
+
+
+\newcommand{\White}[1]{\cellcolor{white} \textcolor{black}{ #1}}
+
+% language settings
+\setmainlanguage[spelling=new]{german}
+\setotherlanguage{english}
+
+% pagestyle settings
+\pagestyle{scrheadings}
+\ihead{Mei-Shin Wu}
+\chead{Computer-Assisted Language Comparison}
+\ohead{+++DATE+++}
+\ifoot{}
+\cfoot{\pagemark}
+\ofoot{}
+
+\usepackage[
+    alldates=terse,
+    backend=bibtex,
+    %backref=true,
+    bibstyle=authoryear,
+    firstinits=true,
+    ibidtracker=strict,
+    isbn=false,doi=false,url=false,
+    labelnumber=true,
+    loccittracker=strict,
+    hyperref=false,
+    maxbibnames=10,
+    maxcitenames=2,
+    natbib=true,
+    opcittracker=strict,
+    sortcites=true,
+    sorting=nyt,
+    defernumbers=true,
+    style=authoryear-ibid,
+    terseinits=false
+    ]{biblatex}
+
+\input{bibstyle}
+\newcommand{\Table}[1]{%
+    \begin{flushleft}
+        \begin{tabular}{|p{14.5cm}|}
+            \hline \cellcolor{lightgray} \bf \pur #1
+            \\\hline
+        \end{tabular}
+    \end{flushleft}
+}
+
+\bibliography{evobib.bib}
+
+\begin{document}
+%\maketitle
+
+\begin{center}
+    {\bfseries \huge  Computer-Assisted Language Comparison: State of the Art}
+\end{center}
+
+\section{Introduction}
+
++++ provide some blbablalba on computer-assisted as opposed to computer-based+++
+
+\section{Workflows for Computer-Assisted Language Comparison}
+
+\subsection{Overview}
+Our workflows for computer-assisted language comparison have so far been intensively tested on a
+small set of 8 Burmish languages, which we investigated in collaboration with Nathan W. Hill, who
+was responsible for the qualitative investigation of the data and for the common discussion of new
+computer-assisted methods which were then implemented by Johann-Mattis List (see \citealt{Hill2017a}
+for an exemplary discussion of some of the new approaches). Our experience with the
+Burmish project by now allows us to set up a first workflow that starts from raw data and leads up
+to the explicit identification of correspondence patterns across multiple languages. At the moment,
+List and Hill develop the workflow further to account also for (semi)-automatic reconstructions, but
+in this talk, only the identification of correspondence patterns will be discussed.
+
+\subsection{Details of the Workflow}
+
++++details of workflow here+++
+
+\subsection{Materials and Methods for the Workflow Illustration}
+
++++details on data by Chen +++
+
+\section{Illustration of the Workflow}
+\subsection{From Raw Data to Segmented Data}
+
+\subsection{From Segmented Data to Cognate Sets}
+
+\subsection{From Cognate Sets to Alignments}
+
+\subsection{From Alignments to Cross-Semantic Cognates}
+
+\subsection{From Cross-Semantic Cognates to Sound Correspondence Patterns}
+
+\section{Discussion}
+
+\section{Outlook}
+
+
+
+
+\nocite{List2019a}
+
+\printbibliography
+\end{document}
+

@@ -1,0 +1,749 @@
+% Diese Datei beinhaltet alle Angaben für die Bibliographieeinstellungen. Dabei
+% werden die Vorgaben des authoryear-Styles von biblatex verändert.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Sprachstrings für Übersetzungen definieren %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% translator origlanguage strings
+\NewBibliographyString{fromrussian}
+\NewBibliographyString{fromchinese}
+\NewBibliographyString{fromfrench}
+\NewBibliographyString{fromserbocroatian}
+\NewBibliographyString{fromgreek}
+\NewBibliographyString{fromenglish}
+\NewBibliographyString{fromquiche}
+\NewBibliographyString{fromsanskrit}
+
+% special editorrole-strings
+\NewBibliographyString{bygreektext}
+\NewBibliographyString{bygermantext}
+\NewBibliographyString{byfrenchtext}
+\NewBibliographyString{byenglishtext}
+\NewBibliographyString{byrussiantext}
+\NewBibliographyString{bylatintext}
+\NewBibliographyString{byrectrans}
+\NewBibliographyString{bytechnical}
+\NewBibliographyString{bydesigncoding}
+
+% specific stuff
+\NewBibliographyString{specialenglishtranslation}
+\NewBibliographyString{specialgermantranslation} 
+\NewBibliographyString{specialoriginaledition} 
+\NewBibliographyString{specialcriticaledition}
+\NewBibliographyString{specialgermanedition}
+\NewBibliographyString{specialenglishedition}
+\NewBibliographyString{specialelectronicedition}
+\NewBibliographyString{specialbc}
+\NewBibliographyString{specialbetween}
+\NewBibliographyString{specialca}
+\NewBibliographyString{specialad}
+\NewBibliographyString{specialbefore}
+\NewBibliographyString{specialafter}
+\NewBibliographyString{reissue}
+\NewBibliographyString{procsym}
+\NewBibliographyString{paperworkshop}
+\NewBibliographyString{paperconference}
+\NewBibliographyString{talkatm}
+\NewBibliographyString{talkatf}
+
+\DefineBibliographyStrings{english}{%
+% translator-strings origlanguage
+fromrussian={from the Russian},
+fromchinese={from the Chinese},
+fromfrench={from the French},
+fromserbocroatian={from the Serbo-Croatian},
+fromgreek={from the Greek},
+fromenglish={from the English},
+fromgerman={from the German},
+fromquiche={from the Quiche},
+fromsanskrit={from the Sanskrit},
+% editor-strings special type
+bygreektext={Greek text by},
+bygreektext={Greek text by},
+byenglishtext={English text by},
+bygermantext={German text by},
+byrussiantext={Russian text by},
+byfrenchtext={French text by},
+bylatintext={Latin text by},
+bytechnical={Technical implementation by},
+byrectrans={Recordings and transcriptons by},
+bydesigncoding={Page design and coding by},
+% special types
+specialenglishtranslation={English translation},
+specialgermantranslation={German translation},
+specialoriginaledition={Original edition},
+specialcriticaledition={Critical edition},
+specialelectronicedition={Electronic Edition},
+specialbc={BC},
+specialad={AD},
+specialca={ca.},
+specialbetween={between}
+specialbefore={before},
+specialafter={after},
+specialgermanedition={German edition},
+specialenglishedition={English edition},
+reissue = {Reissue},
+procsym={Proceedings of the Symposium},
+paperworkshop={Paper, presented at the workshop},
+paperconference={Paper, presented at the conference},
+talkatm={Talk, held at the},
+talkatf={Talk, held at the}
+}
+
+\DefineBibliographyStrings{german}{%
+% origlanguage
+fromenglish={a. d. Englischen},
+fromrussian={a. d. Russischen},
+fromchinese={a. d. Chinesischen},
+fromfrench={a. d. Französischen},
+fromserbocroatian={a. d. Serbokroatischen}
+fromgreek={a. d. Griechischen},
+fromenglish={a. d. Englischen},
+fromgerman={a. d. Deutschen},
+fromquiche={a. d. Quiche},
+fromsanskrit={a. d. Sanskrit},
+% editor-roles
+bygreektext={Griechischer Text von},
+byenglishtext={Englischer Text von},
+bygermantext={Deutscher Text von},
+byrussiantext={Russischer Text von},
+byfrenchtext={Französischer Text von},
+bylatintext={Lateinischer Text von},
+bytechnical={Technische Implementierung von},
+byrectrans={Aufnahmen und Transkriptionen von},
+bydesigncoding={Webdesign und Programmierung von},
+% tests
+specialenglishtranslation={Englische Übersetzung},
+specialgermantranslation={Deutsche Übersetzung},
+specialoriginaledition={Ursprüngliche Ausgabe},
+specialcriticaledition={Kritische Edition},
+specialelectronicedition={Elektronische Edition},
+specialbc={v. Chr.},
+specialad={n. Chr.},
+specialca={ca.},
+specialbetween={zwischen},
+specialbefore={vor},
+specialafter={nach},
+specialgermanedition={Deutsche Ausgabe},
+specialenglishedition={Englische Ausgabe},
+reissue={Neuaufl.},
+procsym={Tagungsbericht der Tagung},
+paperworkshop={Vortrag, gehalten auf dem Workshop},
+paperconference={Vortrag, gehalten auf der Konferenz},
+talkatm={Vortrag, gehalten am},
+talkatf={Vortrag, gehalten an der}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Übersetzungen und Originalschriften von Titel %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewbibmacro*{title}{%
+  \ifboolexpr{
+    test {\iffieldundef{title}}
+    and
+    test {\iffieldundef{subtitle}}
+  }
+    {}
+    {\printtext[title]{%
+\printfield[titlecase]{title}%
+\iffieldundef{subtitle}{}{\setunit{\subtitlepunct} \printfield[titlecase]{subtitle}}%
+\iffieldundef{userb}{}{{\addspace{\normalfont\printfield{userb}}}}%
+\iffieldundef{usera}{}{\addspace\textit{\em [\printfield{usera}]}}}%
+\newunit}%
+\printfield{titleaddon}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Übersetzungen und Originalschriften von Titel %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewbibmacro*{booktitle}{%
+\ifboolexpr{
+  test {\iffieldundef{booktitle}}
+  and
+  test {\iffieldundef{booksubtitle}}
+}
+  {}
+  {\printtext[booktitle]{%
+     \printfield[titlecase]{booktitle}%
+     \iffieldundef{booksubtitle}{}{\setunit{\subtitlepunct}%
+     \printfield[titlecase]{booksubtitle}}%
+     \iffieldundef{userd}{}{{\addspace\textnormal{\printfield{userd}}}}%
+\iffieldundef{userc}{}{\addspace\textit{\em [\printfield{userc}]}}}
+   \newunit}%
+\printfield{booktitleaddon}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Übersetzungen und Originalschriften von Titel %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewbibmacro*{maintitle}{%
+  \ifboolexpr{
+    test {\iffieldundef{maintitle}}
+    and
+    test {\iffieldundef{mainsubtitle}}
+  }
+    {}
+    {\printtext[maintitle]{%
+       \printfield[titlecase]{maintitle}%
+       \iffieldundef{mainsubtitle}{}{\setunit{\subtitlepunct}%
+       \printfield[titlecase]{mainsubtitle}}%
+\iffieldundef{verbb}{}{{\addspace\printfield{verbb}}}%
+\iffieldundef{verba}{}{\addspace\textit{\em [\printfield{verba}]}}}
+   \newunit}%
+  \printfield{maintitleaddon}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neue Makros für komplexe Datenangaben von Reprints %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neues Bibmakro für Pubstate %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{pubstate}{%
+{\iffieldundef{pubstate}}
+{}
+{\printfield{pubstate}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neues macro für howpublished %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{howpublished}{%
+\iffieldundef{howpublished}
+{}
+{\ifbibxstring{\thefield{howpublished}}
+{\bibstring{\thefield{howpublished}}}
+{\printtext{\thefield{howpublished}}}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Füge origdate in die entsprechenden Makros ein  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\renewbibmacro*{cite}{%
+%\iffieldundef{shorthand}
+%{\ifthenelse{\ifnameundef{labelname}\OR
+%\iffieldundef{year}}
+%{\usebibmacro{cite:label}}
+%{\printtext[bibhyperref]{\printnames{labelname}}%
+%\nameyeardelim
+%\usebibmacro{cite:labelyear+extrayear}}}
+%{\usebibmacro{cite:shorthand}}}
+%\renewbibmacro*{cite}{%
+%\iffieldundef{shorthand}
+%{\ifthenelse{\ifnameundef{labelname}\OR
+%\iffieldundef{year}}
+%{\usebibmacro{cite:label}}
+%{\printtext{\printnames{labelname}}%
+%\nameyeardelim
+%\usebibmacro{cite:labelyear+extrayear}}}
+%{\usebibmacro{cite:shorthand}}}
+%
+%
+%
+%\renewbibmacro*{textcite}{%
+%\ifnameundef{labelname}
+%{\iffieldundef{shorthand}
+%{\usebibmacro{cite:labelyear+extrayear}}
+%{\usebibmacro{cite:shorthand}}}
+%{\printtext{\printnames{labelname}}%
+%\addspace\bibleftparen
+%\iffieldundef{shorthand}
+%{\iffieldundef{year}
+%{\usebibmacro{cite:label}}
+%{\usebibmacro{cite:labelyear+extrayear}}}
+%{\usebibmacro{cite:shorthand}}}}
+%
+\renewbibmacro*{cite:shorthand}{%
+  \printtext{\printfield{shorthand}}}
+
+\renewbibmacro*{cite:labeldate+extradate}{%
+\iffieldundef{labelyear}
+{}
+{\printtext[bibhyperref]{%
+\iffieldundef{origyear}
+{\printfield{labelyear}}
+{\printfield{origyear} [\printfield{labelyear}]}%   <--- added
+%[\printfield{labelyear}]%
+%\printfield{extrayear}
+}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Origdate und Date: 1950 [1995] an.%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewbibmacro*{date+extradate}{%
+\iffieldundef{year}
+{}
+{\printtext[parens]{%
+\iffieldundef{origdate}
+{\printdateextra}
+{\printfield{origdate} [\printdateextra]}%  <--- added
+}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% origlocation and origpublisher in addendum %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% define a bibmacro edition
+\newbibmacro*{edition}
+{\ifinteger{\thefield{edition}}
+{}
+{\ifbibxstring{\thefield{edition}}
+{\bibstring{\thefield{edition}}}
+{\printtext{\thefield{edition}\isdot}}}}
+
+% redefine field format of edition in order to incorporate more information
+\DeclareFieldFormat{edition}{%
+  \ifinteger{#1}
+    {\mkbibordedition{#1}~\bibstring{edition}}
+    {\usebibmacro{edition}}}
+
+% reprintorigyearmacro
+\newbibmacro*{reprintorigyear}
+{\iffieldundef{origyear}
+{}
+{\printtext{, \printfield{origyear}}}}
+
+% reprintaddendummacro
+\newbibmacro*{reprintaddendum}
+{\iffieldundef{verbc}
+{}
+{\printtext{[\usebibmacro{specialedition}:%
+\iflistundef{origlocation}
+{\iflistundef{origpublisher}
+{}
+{\addspace\printfield{origpublisher}}}
+{\addspace\printlist{origlocation}%
+\iflistundef{origpublisher}
+{}
+{:\addspace\printtext{\printlist{origpublisher}}}%
+\iffieldundef{origyear}
+{}
+{\usebibmacro{reprintorigyear}}}%
+]}}}
+
+\renewbibmacro*{addendum+pubstate}{%
+\iffieldundef{addendum}
+{%
+\iffieldequalstr{edition}{reprint}
+{\usebibmacro{reprintaddendum}}
+}
+{\printfield{addendum}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Characterize Originaleditions %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{specialedition}{%
+  \iffieldundef{verbc}
+    {}
+    {\ifbibxstring{special\thefield{verbc}}
+       {\bibstring{special\thefield{verbc}}}
+       {\printtext{\thefield{usere}}}}}
+
+\DeclareBibliographyDriver{set}{%
+  \entryset{%
+\iffieldundef{verbc}
+{}
+{\usebibmacro{verbc}: }}{}%
+  \newunit\newblock
+  \usebibmacro{setpageref}%
+  \finentry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Characterize Entry Sets %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{special}{%
+  \iffieldundef{usere}
+    {}
+    {\ifbibxstring{special\thefield{usere}}
+       {\bibstring{special\thefield{usere}}}
+       {\printtext{\thefield{usere}}}}}
+
+\DeclareBibliographyDriver{set}{%
+  \entryset{%
+\iffieldundef{usere}
+{}
+{\usebibmacro{special}: }}{}%
+  \newunit\newblock
+  \usebibmacro{setpageref}%
+  \finentry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% commands for citation in the text %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\nameyeardelim}{ }
+\renewcommand{\multicitedelim}{, }
+\renewcommand{\postnotedelim}{: }
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{pages}{#1}
+
+%%%%%%%%%%%%%%%%%%%
+% Eprint Archives %
+%%%%%%%%%%%%%%%%%%%
+\DeclareFieldFormat{eprint:gallica}{%
+  Gallica\addcolon\space
+  \ifhyperref
+    {\href{http://gallica.bnf.fr/#1}{\nolinkurl{#1}}}
+    {\nolinkurl{#1}}}
+\DeclareFieldAlias{eprint:Gallica}{eprint:gallica}
+
+\DeclareFieldFormat{eprint:ia}{%
+  Internet Archive \addcolon\space
+  \ifhyperref
+  {\href{http://www.archive.org/details/#1}{\nolinkurl{#1}}}
+  {\nolinkurl{#1}}}
+\DeclareFieldAlias{eprint:IA}{eprint:ia}
+
+\DeclareFieldFormat{eprint:gutenberg}{%
+  Projekt Gutenberg-DE \addcolon\space
+  \ifhyperref
+  {\href{http://gutenberg.spiegel.de/buch/#1}{\nolinkurl{#1}}}
+  {\nolinkurl{#1}}}
+\DeclareFieldAlias{eprint:Gutenberg}{eprint:gutenberg}
+
+\DeclareFieldFormat{eprint:zvdd}{%
+ ZVDD \addcolon\space
+ \ifhyperref
+ {\href{http://www.zvdd.de/dms/load/met/?PPN=#1}{\nolinkurl{#1}}}
+ {\nolinkurl{#1}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Dieses Makro muss verändert werden, damit bei der Zitation von Sammelwerken %
+% der Booktitle als normaler Titel erscheint.                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\renewbibmacro*{maintitle+title}{%
+%  \iffieldsequal{maintitle}{title}
+%    {\clearfield{maintitle}%
+%     \clearfield{mainsubtitle}%
+%     \clearfield{maintitleaddon}}
+%    {\iffieldundef{maintitle}
+%    {\usebibmacro{booktitle}}
+%       {\usebibmacro{maintitle}%
+%	\newunit\newblock
+%	\iffieldundef{volume}
+%	  {}
+%	  {\printfield{volume}%
+%           \printfield{part}%
+%           \setunit{\addcolon\space}}}}%
+%  \usebibmacro{title}%
+%  \newunit}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Erneuere das event-venue-macro %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewbibmacro*{event+venue+date}{%
+\iffieldundef{howpublished}
+{%
+\iffieldundef{eventtitle}
+{%
+\ifboolexpr{
+    test {\iffieldundef{venue}}
+    and
+    test {\iffieldundef{eventyear}}
+  }
+    {}
+    {\setunit*{\addspace}%
+     \printtext[parens]{%
+       \printfield{venue}%
+       \setunit*{\addcomma\space}%
+       \printeventdate}}%
+}
+{\printtext{``\printfield{eventtitle}"}%
+  \ifboolexpr{
+    test {\iffieldundef{venue}}
+    and
+    test {\iffieldundef{eventyear}}
+  }
+    {}
+    {\setunit*{\addspace}%
+     \printtext[parens]{%
+       \printfield{venue}%
+       \setunit*{\addcomma\space}%
+       \printeventdate}}%
+       \newunit}}
+{\printtext{\usebibmacro{howpublished} }%
+\iffieldundef{eventtitle}
+{}%
+%\ifboolexpr{
+%    test {\iffieldundef{venue}}
+%    and
+%    test {\iffieldundef{eventyear}}
+%  }
+%    {}
+%    {\setunit*{\addspace}%
+%     \printtext[parens]{%
+%       \printfield{venue}%
+%       \setunit*{\addcomma\space}%
+%       \printeventdate}}%
+%}
+{\printtext{``\printfield{eventtitle}"}}%
+  \ifboolexpr{
+    test {\iffieldundef{venue}}
+    and
+    test {\iffieldundef{eventyear}}
+  }
+    {}
+    {\setunit*{\addspace}%
+     \printtext[parens]{%
+       \printfield{venue}%
+       \setunit*{\addcomma\space}%
+       \printeventdate}}%
+       \newunit}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Erstelle einen Driver für talks auf Konferenzen %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareBibliographyDriver{customa}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{event+venue+date}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{location+date}%
+  \newunit\newblock
+  \iftoggle{bbx:url}
+    {\usebibmacro{doi+eprint+url}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \usebibmacro{finentry}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neues Makro für Artikel ohne "IN:"    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareBibliographyDriver{article}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{bytranslator+others}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \usebibmacro{journal+issuetitle}%
+  \newunit
+  \usebibmacro{byeditor+others}%
+  \newunit
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \iftoggle{bbx:related}
+    {\usebibmacro{related:init}%
+     \usebibmacro{related}}
+    {}%
+  \usebibmacro{finentry}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neues Makro für Quellen               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Neudefinition des date-fields als sourcedate %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% macro for the prefix
+\newbibmacro*{sourcedateprefix}{%
+\iffieldundef{verba}
+{}
+{\ifbibxstring{special\thefield{verba}}
+{\bibstring{special\thefield{verba}}\addspace}
+{\printtext{\thefield{verba}\addspace}}}}
+
+% macro for the suffix
+\newbibmacro*{sourcedatesuffix}{%
+\iffieldundef{verbb}
+{}
+{\ifbibxstring{special\thefield{verbb}}
+{\addspace\bibstring{special\thefield{verbb}}}
+{\printtext{\addspace\thefield{verbb}}}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% The source-date macro %
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{sourcedate}{%
+\iffieldundef{year}
+{}{%
+\printtext[parens]{%
+\usebibmacro{sourcedateprefix}%
+\printfield{year}%
+\usebibmacro{sourcedatesuffix}}}}
+
+% macro for sourceauthorprefix
+\newbibmacro*{authorfirstdateprefix}{%
+\iffieldundef{userc}
+{}
+{\ifbibxstring{special\thefield{userc}}
+{\bibstring{special\thefield{userc}}\addspace}
+{\printtext{\thefield{userc}\addspace}}}}
+
+% macro for sourceauthorsuffix
+\newbibmacro*{authorfirstdatesuffix}{%
+\iffieldundef{userd}
+{}
+{\ifbibxstring{special\thefield{userd}}
+{\addspace\bibstring{special\thefield{userd}}}
+{\printtext{\addspace\thefield{userd}}}}}
+
+% macro for sourceauthorprefix
+\newbibmacro*{authorlastdateprefix}{%
+\iffieldundef{usere}
+{}
+{\ifbibxstring{special\thefield{usere}}
+{\bibstring{special\thefield{usere}}\addspace}
+{\printtext{\thefield{usere}\addspace}}}}
+
+% macro for sourceauthorsuffix
+\newbibmacro*{authorlastdatesuffix}{%
+\iffieldundef{userf}
+{}
+{\ifbibxstring{special\thefield{userf}}
+{\addspace\bibstring{special\thefield{userf}}}
+{\printtext{\addspace\thefield{userf}}}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% macro for authordate %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{authordate}{%
+\iffieldundef{origyear}
+{}{%
+\printtext[parens]{%
+\usebibmacro{authorfirstdateprefix}%
+\printfield{origyear}%
+\usebibmacro{authorfirstdatesuffix}%
+\printtext{--}%
+\usebibmacro{authorlastdateprefix}%
+\printfield{origendyear}%
+\usebibmacro{authorlastdatesuffix}}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% macro for sourceauthor %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{sourceauthor}{%
+  \ifboolexpr{
+    test \ifuseauthor
+    and
+    not test {\ifnameundef{author}}
+  }
+    {\usebibmacro{bytypestrg}{author}{author}%
+     \setunit{\addspace}%
+     \printnames[byauthor]{author}\setunit{\addspace}%
+     \usebibmacro{authordate}%
+     \iffieldundef{authortype}
+       {}
+       {\setunit{\addcomma\space}%
+       \usebibmacro{authorstrg}}}
+    {}}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macro for sourcetitle %
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro*{sourcetitle}{%
+  \ifboolexpr{
+    test {\iffieldundef{title}}
+    and
+    test {\iffieldundef{subtitle}}
+  }
+    {}
+    {\printtext[title]{%
+\printfield[titlecase]{title}%
+\iffieldundef{subtitle}{}{\setunit{\subtitlepunct} \printfield[titlecase]{subtitle}}%
+\iffieldundef{userb}{}{{\addspace{\normalfont\printfield{userb}}}}%
+\iffieldundef{usera}{}{\addspace\textit{\em [\printfield{usera}]}}}%
+\addspace}%
+\printfield{titleaddon}}
+%%%%%%%%%%%%%%%%%%%%%%
+% Driver for sources %
+%%%%%%%%%%%%%%%%%%%%%%
+\DeclareBibliographyDriver{customb}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  %\usebibmacro{author}%
+  %\setunit{\labelnamepunct}\newblock
+  %\printtext{\em \printfield{shorttitle}\addspace}%
+  \usebibmacro{sourcetitle}%
+  \usebibmacro{sourcedate}%
+  \newunit\newblock
+  %\usebibmacro{title}%
+  %\newunit\newblock
+  \usebibmacro{sourceauthor}%
+  \printfield{edition}%
+  \newunit
+  \iffieldundef{maintitle}
+    {\printfield{volume}%
+     \printfield{part}}
+    {}%
+  \newunit
+  \printfield{volumes}%
+  \newunit\newblock
+  \usebibmacro{series+number}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  %\usebibmacro{sourcedate}%
+  \newunit\newblock
+  \usebibmacro{chapter+pages}%
+  \newunit
+  \printfield{pagetotal}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{isbn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \usebibmacro{finentry}}
+
+%\defbibenvironment{shorthands}
+%  {\list{\thefield{shorthand}}{%
+%     \labelwidth\shorthandwidth
+%     \labelsep\biblabelsep
+%     \leftmargin\labelwidth
+%     \advance\leftmargin\labelsep
+%     \itemsep\bibitemsep
+%     \parsep\bibparsep
+%     \def\makelabel##1{##1\hss}}}
+%  {\endlist}
+%  {\item}
+% Ort der Bibliographie
+%\bibliography{/home/mattis/Dropbox/EvoClass/bibliography/evoclass.bib}
+
+% This macro adds a, b and c to citations in the text]
+% also note the change by which the original year is added to the text
+\renewbibmacro*{cite:labelyear+extrayear}{%
+  \iffieldundef{labelyear}
+    {%
+    \iffieldundef{origyear}%
+    {}%
+    {\printfield{origendyear}}}
+    {%
+    \iffieldundef{origyear}%
+    {\printtext[bibhyperref]{%
+    {\printfield{labelyear}}%
+    \printfield{extrayear}}}%
+    {\printtext[bibhyperref]{%
+    \printfield{origyear}%
+    \addspace[\printfield{labelyear}]%
+    \printfield{extrayear}}%
+    }}}
+
