@@ -48,11 +48,11 @@ Workflows for Computer-Assisted Language Comparison
 ### @subhead:"The classical historical linguistic approach"
 
 <p style="text-align:center">
-<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:1000px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:900px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
-### @subhead:"What is a computer-assisted approach"
+### @subhead:"What is the computer-assisted approach"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/calc-project/calc-5.jpg" style='width:900px;text-align:center'></img>
@@ -106,7 +106,7 @@ A workflow involves linguistic experts and computing power.
 <p>An example of common raw data format</p>
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
      \t Baheng,east \t Baheng, west \t Qiandong, east \t Qiandong, wesst
-七   \t  tsha³¹      \t tshang⁴⁴    \t     shung⁵³    \t      shung²²
+七   \t  tsha³¹,tsjung⁴⁴ \t tshang⁴⁴    \t     shung⁵³    \t      shung²²
 月亮 \t la⁰³lha⁵⁵ \t ʔa⁰³lha⁵⁵ \t la⁴⁴la⁴⁴ \t pau¹¹la³³
 星星 \t la⁰³qang³⁵ \t qa⁰³qang³⁵ \t qei²⁴qei²⁴ \t tei⁴⁴qei⁴⁴
 </div>
@@ -117,7 +117,8 @@ A workflow involves linguistic experts and computing power.
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" style="width:1200px;height:600px;text-align:center;">
  ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t NOTE 
- 1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹,tsjung⁴⁴\t     \t    \t synonym
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹     \t     \t        \t synonym
+ 2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴   \t     \t        \t synonym
  2   \t Baheng, west   \t 七      \t SEVEN    \t tsjang⁴⁴   \t     \t        \t
  3   \t Qiandong, east \t 七      \t SEVEN    \t sjung⁵³    \t     \t        \t
  4   \t Qiandong, wesst\t 七      \t SEVEN    \t sjung²²    \t     \t        \t
@@ -181,7 +182,7 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 * Phonetic alignment
 * Computer-inferred cognates
 
-<p>Linguists can then examine as well as modfiy the cognates.</p>
+<p>Linguists can then examine as well as modify the cognates.</p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
