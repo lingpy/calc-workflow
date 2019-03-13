@@ -33,20 +33,8 @@ except:
 
 # partial cognate
 part.partial_cluster('lexstat', threshold=0.50, cluster_method='infomap',
-        ref='cogids')
-maxi = max(part.get_etymdict(ref='cogids'))+1
-for idx, cogids in part.iter_rows('cogids'):
-    if len(set(cogids)) != len(cogids):
-        current = 0
-        new_cogs = []
-        for cogid in cogids:
-            if current == cogid:
-                new_cogs += [maxi]
-                maxi += 1
-            else:
-                new_cogs += [cogid]
-            current = cogid
-        part[idx, 'cogids'] = new_cogs
+        ref='cogids', post_processing=True)
+
 
 part.output('tsv', filename='chen-cognates', prettify=False)
 #- 
