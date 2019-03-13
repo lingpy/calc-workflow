@@ -101,12 +101,13 @@ A workflow involves linguistic experts and computing power.
 <!-- <font color="red">+++add example on no-goes from cldf paper forkel ett al. +++</font> -->
 
 --
+@class:scrollable
 <div class="spreadsheet" data-delimiter="\t" style="width:1200px;height:600px;text-align:center;">
- ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t COGID
- 1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t     \t        \t
- 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t     \t        \t
- 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t     \t        \t
- 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t     \t        \t
+ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA \t TOKENS \t NOTE 
+ 1   \t Baheng, east   \t 七      \t SEVEN    \t tsja³¹,tsjung⁴⁴\t     \t    \t synonym
+ 2   \t Baheng, west   \t 七      \t SEVEN    \t tsjang⁴⁴   \t     \t        \t
+ 3   \t Qiandong, east \t 七      \t SEVEN    \t sjung⁵³    \t     \t        \t
+ 4   \t Qiandong, wesst\t 七      \t SEVEN    \t sjung²²    \t     \t        \t
  5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t     \t        \t
  6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t     \t        \t
  7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t     \t        \t
@@ -139,17 +140,18 @@ A workflow involves linguistic experts and computing power.
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
 ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
  1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t
- 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t	
- 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t
- 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 
- 5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵      \t
- 6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵       \t
- 7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴       \t
- 8   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t
- 9   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t
- 10  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t	
- 11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t
- 12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t
+ 2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴    \t tɕuŋ⁴⁴    \t tɕ u ŋ ⁴⁴            \t
+ 3   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t	
+ 4   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t
+ 5   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 
+ 6   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵      \t
+ 7   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵       \t
+ 8   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴       \t
+ 9   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t
+ 10   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t
+ 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t	
+ 12  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t
+ 13  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t
 </div>
 
 --
@@ -175,17 +177,18 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
 ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOKENS              \t COGID
  1   \t Baheng, east   \t 七      \t SEVEN    \t tsha³¹     \t  tɕa³¹     \t tɕ a ³¹              \t 3
- 2   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 3
- 3   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t 3
- 4   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 3
- 5   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵     \t 1908 1907
- 6   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵      \t 1909 1907	
- 7   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴      \t 1908 1907
- 8   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t 1910 1907
- 9   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t 1874 1870
- 10  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t　1872 1870	
- 11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t　1872 1870
- 12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t　1871 1870
+ 2   \t Baheng, east   \t 七      \t SEVEN    \t tsjung⁴⁴   \t  tɕuŋ⁴⁴     \t tɕ u ŋ ⁴⁴           \t 3
+ 3   \t Baheng, west   \t 七      \t SEVEN    \t tshang⁴⁴   \t  tɕaŋ⁴⁴    \t tɕ a ŋ ⁴⁴            \t 3
+ 4   \t Qiandong, east \t 七      \t SEVEN    \t shung⁵³    \t  ɕuŋ⁵³     \t ɕ u ŋ ⁵³             \t 3
+ 5   \t Qiandong, wesst\t 七      \t SEVEN    \t shung²²    \t  ɕuŋ²²     \t ɕ u ŋ ²²             \t 3
+ 6   \t Baheng, east   \t 月亮    \t MOON     \t la⁰³lha⁵⁵  \t la³/⁰+ɬa⁵⁵ \t l a ³/⁰ + ɬ a ⁵⁵     \t 1908 1907
+ 7   \t Baheng, west   \t 月亮    \t MOON     \t ʔa⁰³lha⁵⁵  \t ʔa³/⁰+ɬa⁵⁵ \t ʔ a ³/⁰ + ɬ a ⁵⁵      \t 1909 1907	
+ 8   \t Qiandong, east \t 月亮    \t MOON     \t la⁴⁴la⁴⁴   \t la⁴⁴+la⁴⁴  \t l a ⁴⁴ + l a ⁴⁴      \t 1908 1907
+ 9   \t Qiandong, wesst\t 月亮    \t MOON     \t pau¹¹la³³  \t pɔ¹¹+la³³  \t p ɔ ¹¹ + l a ³³       \t 1910 1907
+ 10   \t Baheng, east   \t 星星    \t STAR    \t la⁰³qang³⁵  \t la³/⁰+qaŋ³⁵ \t l a ³/⁰ + q a ŋ ³⁵   \t 1874 1870
+ 11  \t Baheng, west   \t 星星    \t STAR    \t qa⁰³qang³⁵  \t qa³/⁰+qaŋ³⁵ \t q a ³/⁰ + q a ŋ ³⁵   \t　1872 1870	
+ 12  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t qei²⁴+qei²⁴ \t q ei ²⁴ + q ei  ²⁴   \t　1872 1870
+ 13  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t　1871 1870
 </div>
 
 --
@@ -233,7 +236,9 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 ### @subhead:"From cognates to alignments"
 
 Examine the results on EDICTOR! 
-<a style="color:#2d1f23;text-align:center" href='http://edictor.digling.org/'>http://edictor.digling.org/</a>
+<p style="text-align:center">
+<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
+</p>
 
 --
 ## @head:"CALC workflows"
@@ -249,7 +254,7 @@ Examine the results on EDICTOR!
 
 --
 ## @head:"CALC workflows"
-### @subhead:"From strict cognates to correspondence patterns"
+### @subhead:"From alignments to strict, cross-semantic cognates"
 
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
@@ -268,6 +273,27 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
  12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1234 1834 \t 1871 1870
 </div>
 
+--
+## @head:"CALC workflows"
+### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+
+<p style="text-align:center">
+<img src="img/sound_correspondence.png" alt="img" style="width:900px;text-align:center;"></img>
+</p>
+(List, 2019)
+--
+## @head:"CALC workflows"
+### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+<p style="text-align:center">
+<img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
+</p>
+--
+## @head:"CALC workflows"
+### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+
+<p style="text-align:center">
+<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
+</p>
 
 ---
 ## @head:"Conclusion and outlook" 
