@@ -52,12 +52,17 @@
 
 --
 ## @head:"Introduction"
+### @subhead:"What is a computer-assisted approach"
+<p style='text-align:center'>
+<img src = "http://lingulist.de/documents/talks/img/ba-talk/background-12.jpg" style='width:700px;text-align:center'></img>
+</p>
+--
+## @head:"Introduction"
 ### @subhead:"What is the computer-assisted approach"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/calc-project/calc-5.jpg" style='width:900px;text-align:center'></img>
 </p>
-
 --
 ## @head:"Introduction"
 ### @subhead:"What is a computer-assisted approach"
@@ -248,13 +253,12 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
 
-|                |    Initial   | Medial |    Nucleus   | Coda | Tone |
-|:--------------:|:------------:|:------:|:------------:|:----:|:----:|
-|                | (obligatory) |        | (obligatory) |      |      |
-|  Baheng, east  |       p      |    j   |       a      |      |  ³⁵  |
-|  Baheng, west  |       t      |    j   |       a      |      |  ³⁵  |
-|  Chuanqiandian |      tʂ      |    -   |       i      |      |  ⁴³  |
-| Qiandong, east |      ts      |    -   |       a      |      |  ²⁴  |
+|                |    Initial (i)  | Medial (m) |    Nucleus (n)   | Coda (c) | Tone (t)|
+|:--------------:|:---------------:|:----------:|:----------------:|:--------:|:-------:|
+|  Baheng, east  |       p         |    j       |       a          |          |  ³⁵     |
+|  Baheng, west  |       t         |    j       |       a          |          |  ³⁵     |
+|  Chuanqiandian |      tʂ         |    -       |       i          |          |  ⁴³     |
+| Qiandong, east |      ts         |    -       |       a          |          |  ²⁴     |
 
 --
 ## @head:"CALC workflows"
