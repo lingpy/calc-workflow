@@ -36,12 +36,12 @@
 \newcommand{\White}[1]{\cellcolor{white} \textcolor{black}{ #1}}
 
 % language settings
-\setmainlanguage[spelling=new]{german}
-\setotherlanguage{english}
+\setmainlanguage{english}
+\setotherlanguage{german}
 
 % pagestyle settings
 \pagestyle{scrheadings}
-\ihead{Mei-Shin Wu}
+\ihead{M.-S. Wu and J.-M. List}
 \chead{Computer-Assisted Language Comparison}
 \ohead{+++DATE+++}
 \ifoot{}
@@ -82,16 +82,95 @@
 
 \bibliography{evobib.bib}
 
+\usepackage{zhspacing}
+
 \begin{document}
+\zhspacing
 %\maketitle
 
 \begin{center}
     {\bfseries \huge  Computer-Assisted Language Comparison: State of the Art}
 \end{center}
 
-\section{Introduction}
+\begin{abstract}
+  \small
+  By comparing the languages of the world, we gain invaluable insights into human prehistory,
+  predating the appearance of written records by thousands of years. The traditional methods for
+  language comparison are based on manual data inspection. With more and more data available, they
+  reach their practical limits. Computer applications, however, are not capable of replacing
+  experts’ experience and intuition. In a situation where computers cannot replace experts and
+  experts do not have enough time to analyse the massive amounts of data, a new framework, neither
+  completely computer-driven, nor ignorant of the help computers provide, becomes urgent. Such
+  frameworks are well-established in biology and translation, where computational tools cannot
+  provide the accuracy needed to arrive at convincing results, but do assist humans to digest large
+  data sets.
 
-+++ provide some blbablalba on computer-assisted as opposed to computer-based+++
+\end{abstract}
+
+\section{Introduction}
+\subsection{The Gap between Computational and Traditional Historical Linguistics}
+
+The proposal of new, fancy, and shiny quantitative methods applied to handle problems in historical
+linguistics has created a gap between what one could call ``classical" approaches to historical
+language comparison and the ``new and innovative" automatic approaches. 
+Classical linguists are often skeptical of the new approaches, partly because the results differ from
+those achieved by classical methods \citep{Anthony2015,Holm2007}, but also because the majority of the
+new approaches work in a black box fashion and do not allow inspecting the concrete findings in
+detail. Computational linguists, on the other hand, complain about classical historical linguists' lack
+of consistency when applying the classical methods.
+
+\subsection{Computer-Assisted Disciplines}
+
+The use of computer applications in historical linguistics is steadily increasing. With more and
+more data available, the classical methods reach their practical limits. At the same time, computer
+applications are not capable of replacing experts' experience and intuition, especially when data
+are sparse. If computers cannot replace experts and experts do not have enough time to analyse the
+massive amounts of data, a new framework is needed, neither completely computer-driven, nor ignorant
+of the assistance computers afford. Such computer-\emph{assisted} frameworks are well-established in
+biology and translation. Current machine translation systems, for example, are efficient and
+consistent, but they are by no means accurate, and no one would use them in place of a trained
+expert. Trained experts, on the other hand, do not necessarily work consistently and efficiently. In
+order to enhance both the quality of machine translation and the efficiency and consistency of human
+translation, a new paradigm of computer-assisted translation has emerged \citep[3]{Barrachina2008}.
+
+\subsection{Computer-Assisted Language Comparison}
+
+Following the idea of computer-assisted frameworks in translation and biology, a framework for
+computer-assisted language comparison (CALC) could be the key to reconcile classical and
+computational approaches in historical linguistics. Computational approaches may still not be able
+to compete with human experts, but when used to pre-process the data with human experts
+systematically correcting the results, they can drastically increase both the efficiency and the
+consistency of the classical comparative method.
+
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=0.75\textwidth]{calc-figure-1.png}
+  \caption{Basic idea of data managment within the CALC framework.}
+  \label{fig:calc}
+\end{figure}
+
+The basic idea behind computer-\emph{assisted} as opposed to computer-\emph{based} language
+comparison is to allow scholars to do qualitative and
+quantitative research are done at the same time. In order to allow scholars to do this, \textbf{data
+must always be available in \emph{machine-} and \emph{human-readable} form}. 
+Figure \ref{fig:calc} shows a tentative workflow for the CALC framework, in which data is constantly passed back and
+forth between computational and classical linguists. 
+
+Three different aspects are essential for this workflow: 
+\begin{itemize}
+  \item[(a)] New
+software allows for the application of transparent methods which increase the accuracy and the application range
+of current methods and also treat the peculiarities of specific language families (like, e.g.,
+Sino-Tibetan). 
+\item[(b)] Interactive tools provide
+an interface between human and machine, allowing experts to correct errors and to inspect the automatically
+produced results in detail. 
+\item[(c)] Specific data is used to test and train the software algorithms.
+  \end{itemize}
+
+
+
 
 \section{Workflows for Computer-Assisted Language Comparison}
 
@@ -108,13 +187,69 @@ in this talk, only the identification of correspondence patterns will be discuss
 
 \subsection{Details of the Workflow}
 
-+++details of workflow here+++
+Our workflow currently comprises 5 different stages, in which we successively lift linguistic data
+from their raw form in which we can find them in wordlists and tables published in dictionaries and
+field-work notes, up to a level where correspondence patterns across cognate words have been
+automatically identified and can be qualitatively inspected by the scholar.
 
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=0.8\textwidth]{calc-workflow.pdf}
+  \caption{Current state-of-the-art workflow developed in collaboration of different research groups
+  working in computer-assisted frameworks.}
+  \label{fig:workflow}
+\end{figure}
+
+Although the workflow can be carried out almost completely without any manual intervention by a
+linguist, we emphasize that this workflow explicitly \emph{allows} for expert intervention at
+\emph{any} of the five stages. While, in our experience, specific care is required when lifting the
+data the first time to machine-readable format, it should further be noted that \emph{all} steps of
+the workflow profit from human intervention, since none of the automatic methods currently available
+to us could spot all patterns in linguistic data without over- or underestimating their importance
+for linguistic reconstruction.
+
+Our workflow starts from \emph{raw data}, including tabular data from fieldwork notes or data
+published in books and articles, which we re-organize and re-format in such a way that the data can
+be processed by our tools. Once we have \emph{machine-readable data}, we can use methods for
+automatic cognate detection \citep{List2016g} in order to infer \emph{partial cognates} across the
+languages in our data. Having inferred cognates, we can now also align the data in the cognate sets.
+While we could use phonetic alignment approaches discussed in the literature \citep{List2014d}, we
+now use a new approach, based on phonotactic templates, which has the advantage of being much
+faster and accurate when dealing with alignments for South-East-Asian languages. Once having
+identified the alignments, we start to search automatically for cognates \emph{across} different
+concepts. Since all automatic methods \emph{need} to start searching for cognates within the same
+concept slot (otherwise, there would be too many false positives), our new method, which makes used
+of a systematic comparison of readily aligned cognate sets, systematically searches for cognates
+independent of their meaning. The improved, cross-semantic cognate sets, which are all readily
+aligned, have the specific property of being \emph{strict}: no cognate set could compare two
+morphemes from the same language which would differ in their pronunciation. \citep{List2018PBLOG7}
+calls these cognate sets \emph{regular}, but in discussions with Nathan Hill, we decided that
+\emph{regular} is probably not the best term, as they can well be wrong, so we call them
+\emph{strict} now. Once strict cognates have been identified, we use the new algorithm for the
+automatic inference of sound correspondence patterns across multiple languages by \citet{List2019a}
+to infer the correspondence patterns in the data.
+
+In Section \ref{sec:wf}, we will provide detailed examples how all steps of the workflow interact,
+using a relatively recent collection of linguistic data on Hmong-Mien languages \citep{Chen2012} for
+this purpose. 
 \subsection{Materials and Methods for the Workflow Illustration}
 
-+++details on data by Chen +++
+The data we use to illustrate our workflow in the next section was originally collected by
+\citet{Chen2012}, and later added in digital form to the Wiktionary project. Chén's collection of
+\emph{frequent terms} (\emph{chángyòng cíbiǎo 常用词表}, pp. 567-862) comprises 885 different
+concepts translated into 25 varieties of Hmong-Mien. In Figure \ref{fig:data}, we contrast one
+exemplary page from Chéns book with the data as it has been prepared by the Wiktionary users. 
+We can see that the data is essentially the same, but that the rows and columns of the tabular form
+have been swapped.
 
-\section{Illustration of the Workflow}
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=\textwidth]{chen-illustration.pdf}
+  \caption{Contrasting Chén's original data with the table in Wiktionary}
+  \label{fig:data}
+\end{figure}
+
+\section{Illustration of the Workflow}\label{sec:wf}
 \subsection{From Raw Data to Segmented Data}
 
 \subsection{From Segmented Data to Cognate Sets}
