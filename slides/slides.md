@@ -10,10 +10,10 @@
 @style:text-align:center;
 @style:font-size:100%;
 
-## <font color = '#5b687c'>State of the Art</font>
+## <font color = '#5b687c'>Workflows for Computer-Assisted Language Comparison</font>
 ----
 
-<p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">Workflows for Computer-Assisted Language Comparison</p>
+<p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">State of the Art</p>
 <p style="text-align:center">
 <img src="img/calc-yinyang.svg" alt="image" style="width:200px"></img>
 </p>
@@ -41,14 +41,14 @@
 ### @subhead:"The classical historical linguistic approach"
 
 <p style="text-align:center">
-<img src="http://lingulist.de/documents/talks/img/ba-talk/background-5-addon.jpg" alt="img" style="width:1000px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/ba-talk/background-5-addon.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
 ### @subhead:"The classical historical linguistic approach"
 
 <p style="text-align:center">
-<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:900px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
@@ -85,8 +85,14 @@ A workflow involves linguistic experts and computing power.
 </p>
 
 ---
-## @head:"Workflows or Computer-Assisted Language Comparison"
-## @subhead:"Details of the workflows"
+## @head:"Workflows of Computer-Assisted Language Comparison"
+### @subhead:"Overview"
+
+* It has been tested on a small set of 8 Burmish languages (Hill, 2017).
+
+--
+## @head:"Workflows of Computer-Assisted Language Comparison"
+### @subhead:"Details of the workflows"
 <p style="text-align:center">
 <img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
 </p>
@@ -95,8 +101,8 @@ A workflow involves linguistic experts and computing power.
 ### @subhead:"Material and methods for the workflow illustration"
 
 <p style ='text-align:center'>
-<p style='text-color=red'>+++Macy : Map+++</p>
-
+<img src ='img/languages.svg' style="width:500px"></img>
+</p>
 * Chen, Qiguang (2013). Miao and Yao language.
 * 10 Hmong-Mien languages
 
