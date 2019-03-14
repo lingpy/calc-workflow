@@ -10,10 +10,10 @@
 @style:text-align:center;
 @style:font-size:100%;
 
-## <font color = '#5b687c'>State of the Art</font>
+## <font color = '#5b687c'>Workflows for Computer-Assisted Language Comparison</font>
 ----
 
-<p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">Workflows for Computer-Assisted Language Comparison</p>
+<p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">State of the Art</p>
 <p style="text-align:center">
 <img src="img/calc-yinyang.svg" alt="image" style="width:200px"></img>
 </p>
@@ -41,14 +41,14 @@
 ### @subhead:"The classical historical linguistic approach"
 
 <p style="text-align:center">
-<img src="http://lingulist.de/documents/talks/img/ba-talk/background-5-addon.jpg" alt="img" style="width:1000px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/ba-talk/background-5-addon.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
 ### @subhead:"The classical historical linguistic approach"
 
 <p style="text-align:center">
-<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:900px;text-align:center;"></img>
+<img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
@@ -85,8 +85,14 @@ A workflow involves linguistic experts and computing power.
 </p>
 
 ---
-## @head:"Workflows or Computer-Assisted Language Comparison"
-## @subhead:"Details of the workflows"
+## @head:"Workflows of Computer-Assisted Language Comparison"
+### @subhead:"Overview"
+
+* It has been tested on a small set of 8 Burmish languages (Hill, 2017).
+
+--
+## @head:"Workflows of Computer-Assisted Language Comparison"
+### @subhead:"Details of the workflows"
 <p style="text-align:center">
 <img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
 </p>
@@ -95,8 +101,8 @@ A workflow involves linguistic experts and computing power.
 ### @subhead:"Material and methods for the workflow illustration"
 
 <p style ='text-align:center'>
-<p style='text-color=red'>+++Macy : Map+++</p>
-
+<img src ='img/languages.svg' style="width:500px"></img>
+</p>
 * Chen, Qiguang (2013). Miao and Yao language.
 * 10 Hmong-Mien languages
 
@@ -223,14 +229,33 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
+<Alignment>
+<p align="middle"><img src='img/alignment.png' style="width:400px;align:middle;"></img></p>
+
+<p>phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009) </p>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
 
 <p>Template-Based Alignment</p>
 
-* phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009)
-* however, for languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their *prosodic templates*
+* Languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their *prosodic templates*
 * a typical Chinese syllable, for example, consists of *initial*, *medial*, *nucleus*, *coda* and *tone* (Wang 1996)
 
 <!-- <font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font> -->
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
+|                |    Initial   | Medial |    Nucleus   | Coda | Tone |
+|:--------------:|:------------:|:------:|:------------:|:----:|:----:|
+|                | (obligatory) |        | (obligatory) |      |      |
+|  Baheng, east  |       p      |    j   |       a      |      |  ³⁵  |
+|  Baheng, west  |       t      |    j   |       a      |      |  ³⁵  |
+|  Chuanqiandian |      tʂ      |    -   |       i      |      |  ⁴³  |
+| Qiandong, east |      ts      |    -   |       a      |      |  ²⁴  |
+
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
