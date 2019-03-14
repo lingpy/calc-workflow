@@ -229,14 +229,33 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
+<Alignment>
+<p align="middle"><img src='img/alignment.png' style="width:400px;align:middle;"></img></p>
+
+<p>phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009) </p>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
 
 <p>Template-Based Alignment</p>
 
-* phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009)
-* however, for languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their *prosodic templates*
+* Languages with a rather restricted syllable structure, these techniques are actually not needed, as one could also align syllable-morphemes directly by using their *prosodic templates*
 * a typical Chinese syllable, for example, consists of *initial*, *medial*, *nucleus*, *coda* and *tone* (Wang 1996)
 
 <!-- <font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font> -->
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
+|                |    Initial   | Medial |    Nucleus   | Coda | Tone |
+|:--------------:|:------------:|:------:|:------------:|:----:|:----:|
+|                | (obligatory) |        | (obligatory) |      |      |
+|  Baheng, east  |       p      |    j   |       a      |      |  ³⁵  |
+|  Baheng, west  |       t      |    j   |       a      |      |  ³⁵  |
+|  Chuanqiandian |      tʂ      |    -   |       i      |      |  ⁴³  |
+| Qiandong, east |      ts      |    -   |       a      |      |  ²⁴  |
+
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
