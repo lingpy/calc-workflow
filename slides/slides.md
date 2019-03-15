@@ -38,34 +38,34 @@
 
 --
 ## @head:"Introduction"
-### @subhead:"The classical historical linguistic approach"
+### @subhead:"The Gap between Computational and Traditional Historical Linguistics"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/ba-talk/background-5-addon.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
-### @subhead:"The classical historical linguistic approach"
+### @subhead:"The Gap between Computational and Traditional Historical Linguistics"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/ba-talk/background-11.jpg" alt="img" style="width:700px;text-align:center;"></img>
 
 --
 ## @head:"Introduction"
-### @subhead:"What is a computer-assisted approach"
+### @subhead:"The Gap between Computational and Traditional Historical Linguistics"
 <p style='text-align:center'>
 <img src = "http://lingulist.de/documents/talks/img/ba-talk/background-12.jpg" style='width:700px;text-align:center'></img>
 </p>
 --
 ## @head:"Introduction"
-### @subhead:"What is the computer-assisted approach"
+### @subhead:"The Gap between Computational and Traditional Historical Linguistics"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/calc-project/calc-5.jpg" style='width:900px;text-align:center'></img>
 </p>
 --
 ## @head:"Introduction"
-### @subhead:"What is a computer-assisted approach"
+### @subhead:"Computer-Assisted Disciplines"
 
 <p style="text-align:center">
 <img src="http://lingulist.de/documents/talks/img/calc-project/calc-7.jpg" style='width:900px;text-align:center'></img>
@@ -73,13 +73,13 @@
 
 --
 ## @head:"Introduction"
-### @subhead:"What is a computer-assisted approach"
+### @subhead:"Computer-Assisted Disciplines"
 
-A workflow involves linguistic experts and computing power.
+A workflow connect between linguistic experts and computer applications so to enable scholars conduct qualitative and quantitative research at the same time.
 
-* Analyse and manipulate linguistic datasets
-* Follow a transparency guideline when handling linguistic datasets.
-
+* Data format is both human- and machine-readable.
+* Follows a transparent guideline when handling linguistic datasets.
+* Interactive tools are provided.
 --
 
 ## @head:"Introduction"
@@ -93,7 +93,9 @@ A workflow involves linguistic experts and computing power.
 ## @head:"Workflows of Computer-Assisted Language Comparison"
 ### @subhead:"Overview"
 
-* It has been tested on a small set of 8 Burmish languages (Hill, 2017).
+<p style='text-align:center'>
+<img src='img/HillList.png' style='width:700px;text-align:center'></img>
+</p>
 
 --
 ## @head:"Workflows of Computer-Assisted Language Comparison"
@@ -103,7 +105,7 @@ A workflow involves linguistic experts and computing power.
 </p>
 --
 ## @head:"Workflows or Computer-Assisted Language Comparison"
-### @subhead:"Material and methods for the workflow illustration"
+### @subhead:"mateiral and methods for the workflow illustration"
 
 <p style ='text-align:center'>
 <img src ='img/languages.svg' style="width:500px"></img>
@@ -114,15 +116,13 @@ A workflow involves linguistic experts and computing power.
 --
 ## @head:"Workflows or Computer-Assisted Language Comparison"
 ### @subhead:"From raw data to machine-readable data"
-|Books                                            | Web resources           |
-|-------------------------------------------------|-------------------------|
-|<img src="img/books.jpg" style="vertical-align:bottom;width:400px" alt="img1"></img>|<img src="img/chen_webpage.png" style="width:500px"></img>|
-
+<p style='text-align:center'>
+<img src="img/chen-illustration.svg" style="width:800px" alt="img"></img>
+</p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 
-<p>An example of common raw data format</p>
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
      \t Baheng,east \t Baheng, west \t Qiandong, east \t Qiandong, wesst
 七   \t  tsha³¹,tsjung⁴⁴ \t tshang⁴⁴    \t     shung⁵³    \t      shung²²
@@ -155,21 +155,21 @@ A workflow involves linguistic experts and computing power.
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 
-<p>You can manually type the IPA and tokenize the IPA into morphemes</p>
-<p>What if, we are dealing with <b>hundrends of entries?</b> </p>
+<p>You can manually type the IPA and tokenize the IPA into phonemes.</p>
+<p>But what if we are dealing with <b>hundreds of entries?</b> </p>
 <p>Is there an efficient way?</p>
 
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
-<p>A guideline to </p>
+<p>A guideline to</p>
 <ul>
-<li> To convert grapheme(s) to phonetic sequence(s) (IPA) </li>
+<li> Convert graphemes to phonetic sequences (IPA) </li>
   <ul style="list-style-type:none;">
     <li> tsj   ---->  tɕ </li>
     <li> ng    ---->   ŋ </li>
   </ul>
-<li>To separate the phonetic sequences into sequences of phonemes</li>
+<li>Separate the phonetic sequences into sequences of phonemes</li>
 tsja³¹  ----> tɕja³¹ ----> tɕ j a ³¹
 </ul>
 
@@ -284,7 +284,7 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
-* our algorithm for automatic cognate dettection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
+* our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
 * therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
 * given that many SEA languages are rich in compounidng, we find many words being re-used across the lexicon, even in small numbers of vocabulary
 * we apply a new algorithm, inspired by maximum clique coverage, to *merge* cognates in our data into larger groups
@@ -327,13 +327,6 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 <p style="text-align:center">
 <img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
 </p>
---
-## @head:"CALC workflows"
-### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
-
-<p style="text-align:center">
-<a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
-</p>
 
 --
 ## @head:"Illustration of the Workflow"
@@ -346,6 +339,7 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 <p style="text-align:center">
 <a style="color:#2d1f23" href='http://edictor.digling.org/' align='middle'><img src='img/edictor.png' width=300px></img></a>
 </p>
+
 ---
 ## @head:"Conclusion and outlook"
 <img src="img/outlook.jpg" alt="img" style="width:900px;text-align:center;"></img>
