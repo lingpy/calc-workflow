@@ -463,7 +463,7 @@ before.\nocite{Ratliff2010}
 \begin{table}[htb]
   \centering
   \resizebox{\textwidth}{!}{%
-  \tabular{llllll}\hline
+  \tabular{lllll}\hline
   \bfseries Language &
   \bfseries Concept &
   \bfseries Form &
@@ -484,8 +484,54 @@ before.\nocite{Ratliff2010}
   \label{tab:son}
 \end{table}
 
+Our workflow for automatically identifying these cases of cognacy is a new algorithm for
+cross-semantic cognate detection, developed first for the work in the Burmish Etymological
+Dictionary project lead by Nathan W. Hill. In this workflow, we start from all aligned cognate sets
+in our data, and then systematically compare all alignments with each other. Whenever two
+alignments are \emph{compatible}, i.e., they have (1)~at least one morpheme in one language
+occurring in both aligned cognate sets, which is (2)~identical, and (3)~no shared morphemes in two
+alignments which are \emph{not} identical, we treat them as belonging to one and the same cognate
+set. We iterate over all alignments in the data algorithmically, merging the alignments into larger
+sets in a greedy fashion, and re-assign cognate sets in the data. 
 
+The results can be easily
+inspected with help of the EDICTOR tool, for example, by inspecting cognate set distributions in
+the data. When inspecting the cross-semantic cognates, which we label \texttt{CROSSIDS} in our data,
+the tool will always show, which cognate sets span more than one concept, and users can directly
+filter the data and look at the relevant instances. Among the 64 cognate sets reflected in all
+languages in our sample, we find quite a few cross-semantically recurring morphemes, seven in total
+(with many more for the whole data). The results are shown in Table \ref{tab:cross}.
 
+\begin{table}[htb]
+  \centering
+  \tabular{llll}\hline
+  Language &
+  Concept &
+  Form & 
+  Morphemes \\\hline\hline
+  East Baheng & NOSE & ⁿpjau³¹ & \texttt{NOSE} \\
+  East Baheng & NASAL MUCUS & qa³/⁰ + ⁿpjau³¹ & \texttt{qa NOSE} \\\hline
+  Western Luobuohe & TWO & ʔu³¹ & \texttt{TWO} \\\hline
+  Western Luobuohe & TWENTY & ʔu³¹ + ʑo³¹ & \texttt{TWO zo} \\\hline
+  Western Baheng & SON & ʔa³/⁰ + taŋ³⁵ & \texttt{SON} \\
+  Western Baheng & SON-IN-LAW & taŋ³⁵ + wei³¹ & \texttt{SON wei} \\
+  Western Baheng & GRANDSON & taŋ³⁵ + seŋ³¹ & \texttt{SON seng} \\\hline
+  Eastern Qiandong & SUN &  qʰaŋ³³ + nei²⁴ & \texttt{po SUN} \\
+  Eastern Qiandong & DAY (NOT NIGHT) & nei²⁴ & \texttt{SUN} \\\hline
+  Western Baheng & FAECES (EXCREMENT) &  qa³¹ & \texttt{SHIT} \\
+  Western Baheng & STOMACH & ʔa³/⁰ + tɕʰi³⁵ + qa³¹ & \texttt{a tci SHIT} \\\hline
+  Western Qiandong & ANT & kæ̃⁴⁴ + mjɔ²² & \texttt{INSECT mjo} \\
+  Western Qiandong & EARTHWORM &  kæ̃⁴⁴+tɕuŋ⁴⁴ & \texttt{INSECT tsung} \\\hline
+  Eastern Baheng & BIRD & taŋ³⁵ + nuŋ³¹ & \texttt{BIRD-A BIRD-B} \\
+  Eastern Baheng & NEST & ʑo¹¹ + taŋ³⁵ + nuŋ³¹ & \texttt{zo BIRD-A BIRD-B} \\\hline
+  \endtabular
+  \caption{Partial cognates among stable concepts with reflexes in all languages in our test
+  datasets. We highlight shared cognates by giving a tentative gloss for them in capital letters in
+  the column \emph{Morphemes}.}
+  \label{tab:cross}
+\end{table}
+
+\subsection{From cross-semantic cognates to correspondence patterns}
 
 \section{Discussion}
 
