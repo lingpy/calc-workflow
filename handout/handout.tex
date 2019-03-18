@@ -119,7 +119,7 @@
 
 The proposal of new, fancy, and shiny quantitative methods applied to handle problems in historical
 linguistics has created a gap between what one could call ``classical" approaches to historical
-language comparison and the ``new and innovative" automatic approaches. 
+language comparison and the ``new and innovative" automatic approaches.
 Classical linguists are often skeptical of the new approaches, partly because the results differ from
 those achieved by classical methods \citep{Anthony2015,Holm2007}, but also because the majority of the
 new approaches work in a black box fashion and do not allow inspecting the concrete findings in
@@ -160,22 +160,21 @@ consistency of the classical comparative method.
 The basic idea behind computer-\emph{assisted} as opposed to computer-\emph{based} language
 comparison is to allow scholars to do qualitative and
 quantitative research are done at the same time. In order to allow scholars to do this, \textbf{data
-must always be available in \emph{machine-} and \emph{human-readable} form}. 
+must always be available in \emph{machine-} and \emph{human-readable} form}.
 Figure \ref{fig:calc} shows a tentative workflow for the CALC framework, in which data is constantly passed back and
-forth between computational and classical linguists. 
+forth between computational and classical linguists.
 
-Three different aspects are essential for this workflow: 
+Three different aspects are essential for this workflow:
 \begin{itemize}
   \item[(a)] New
 software allows for the application of transparent methods which increase the accuracy and the application range
 of current methods and also treat the peculiarities of specific language families (like, e.g.,
-Sino-Tibetan). 
+Sino-Tibetan).
 \item[(b)] Interactive tools provide
 an interface between human and machine, allowing experts to correct errors and to inspect the automatically
-produced results in detail. 
+produced results in detail.
 \item[(c)] Specific data is used to test and train the software algorithms.
   \end{itemize}
-
 
 
 
@@ -238,14 +237,14 @@ to infer the correspondence patterns in the data.
 
 In Section \ref{sec:wf}, we will provide detailed examples how all steps of the workflow interact,
 using a relatively recent collection of linguistic data on Hmong-Mien languages \citep{Chen2012} for
-this purpose. 
+this purpose.
 \subsection{Materials and Methods for the Workflow Illustration}
 
 The data we use to illustrate our workflow in the next section was originally collected by
 \citet{Chen2012}, and later added in digital form to the Wiktionary project. Chén's collection of
 \emph{frequent terms} (\emph{chángyòng cíbiǎo 常用词表}, pp. 567-862) comprises 885 different
 concepts translated into 25 varieties of Hmong-Mien. In Figure \ref{fig:data}, we contrast one
-exemplary page from Chéns book with the data as it has been prepared by the Wiktionary users. 
+exemplary page from Chéns book with the data as it has been prepared by the Wiktionary users.
 We can see that the data is essentially the same, but that the rows and columns of the tabular form
 have been swapped.
 
@@ -262,6 +261,7 @@ and code will be in flux for some time, but we will make sure that both data and
 readily analyzed with our tools. All code, the data we use, and installation instructions can be
 found at \url{https://github.com/lingpy/calc-workflow}. We ask those interested in testing our
 methods to use our issue-tracker on GitHub in case they face difficulties of any kind.
+<<<<<<< HEAD
 In this talk, we present the workflow with a subset of 10 varieties of the Hmong-Mien languages in
 Chén's sample, for which we selected a subset of 313 concepts. The concepts were selected by
 checking the overlap with the current 504 concept list of the Burmish Etymological Database project
@@ -272,14 +272,29 @@ would select languages to explore the history of a language family. We would be 
 recommendations, if scholars feel competent to give us advice in this context.
 The
 geographic locations are shown in the Figure \ref{fig:geo}.
+
 \begin{figure}[htb]
   \centering
   \includegraphics[width=\textwidth]{Geographic.pdf}
   \caption{Language geographic locations}
   \label{fig:geo}
 \end{figure}
+
 \section{Illustration of the Workflow}\label{sec:wf}
 \subsection{From Raw Data to Segmented Data}
+When searching for sound correspondence patterns, we can safely assume that the data is a wordlist; a lexical dataset contains vocabularies which is translated into various languages. The existing wordlists have various presentations, such as, the orientations of data or the usage of seperators of synonyms (\ref{fig:data}). Due to idiosyncratic formats, linguistic datasets often lack interoperability and are therefore not reusable. Following the \textit{Fair} guiding principles of scientific data management from Wilkinson et al., ``Findable, Accessible, Interoperable, and Reusable''\citep{Wilkinson2016}, we convert our raw data into \textit{Lingpy Wordlist} format. 
+The format has the following guidelines:
+
+\begin{itemize}
+\item A tab-separated input file. 
+\item First row serves as a header and defines the content of the rest of the rows. 
+\item One value per cell, therefore, synonyms are divided into different rows.
+\item Four mandatory columns : unique identification numbers for each row, the language name (DOCULECT), the comparison concept (CONCEPT), the original transcription (International phonetic alphabet, \[IPA\], FORM or VALUE). 
+\item TOKENS-columns should supply the supply the transcriptions in space-segmented form.
+\end{itemize}
+
+Many existing tools make use of \textit{Lingpy wordlist} format, including the tools we demonstrate here in this talk.
+
 
 \subsection{From Segmented Data to Cognate Sets}\label{sec:pcogs}
 
@@ -363,12 +378,19 @@ illustrated in Figure \ref{fig:edipart}.
 
 
 
+The frequency of compound words in South-East Asian (SEA) languages. Partial cognacy.
+
+New algorithm for cognate detection which does not identify cognate words but instead searches for cognate elements in words.
+
+\begin{itemize}
+\item One morpheme correspondent to one cognate id.
+\end{itemize}
+
+
 \subsection{From Cognate Sets to Alignments}
 
 \subsection{From Alignments to Cross-Semantic Cognates}
-
-
-
+Words which go back to the same ancestor form can for example have been morphologically modified.
 \subsection{From Cross-Semantic Cognates to Sound Correspondence Patterns}
 As mentioned above in Section \ref{sec:pcogs}, the partial cognates are only identified for words
 with the same meaning. This is being done for algorithmic reasons (it would become quite complex to
@@ -476,4 +498,3 @@ before.\nocite{Ratliff2010}
 
 \printbibliography
 \end{document}
-
