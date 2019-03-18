@@ -117,6 +117,13 @@ A workflow connect between linguistic experts and computer applications so to en
 ## @head:"Workflows or Computer-Assisted Language Comparison"
 ### @subhead:"From raw data to machine-readable data"
 <p style='text-align:center'>
+<img src="img/raw-machine.svg" style="width:800px" alt="img"></img>
+</p>
+
+--
+## @head:"Workflows or Computer-Assisted Language Comparison"
+### @subhead:"From raw data to machine-readable data"
+<p style='text-align:center'>
 <img src="img/chen-illustration.svg" style="width:800px" alt="img"></img>
 </p>
 --
@@ -198,17 +205,41 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
 
+<p style='text-align:center'>
+<img src="img/machine-partial.svg" style="width:800px" alt="img"></img>
+</p>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
+
+<p style='text-align:center'>
+<img src="img/partialcg.png" style="width:800px" alt="img"></img>
+</p>
+
+<p style='text-align:center;font-size:60%;'>List, J. M. et al. (2016). Using sequence similarity networks to identify partial cognates in multilingual wordlists. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Vol. 2, pp. 599-605).</p>
+--
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
+
 <p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/algo2.jpg" style="width:800px;align:middle;"></img></p>
 
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
-<p>Lingpy : a python library for *quantitative tasks* in historical linguistics</p>
+<p> Three filtering criteria</p>
 
-* Phonetic alignment
-* Computer-inferred cognates
+<ul>
+<li>No edges are drawn between two morphemes which occur in the same word.</li>
+<li>No morpheme in one word is linked to two morphemes in another word, with the preference given to morpheme pairs with the lowest phonetic distance applying a greedy strategy.</li>
+<li>Edges are only drawn when the phonetic distance between the morphemes is beyound a certain threshold.</li>
+</ul>
 
-<p>Linguists can then examine as well as modify the cognates.</p>
+--
+## @head:"CALC workflows"
+### @subhead:"From segmented words to computer-inferred cognates"
+
+<p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/algo2.jpg" style="width:800px;align:middle;"></img></p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
@@ -231,6 +262,13 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
  13  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t tei⁴⁴+qei⁴⁴ \t t ei - ⁴⁴ + q ei ⁴⁴  \t　1871 1870
 </div>
 
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
+<p style='text-align:center'>
+<img src="img/partial-alignment.svg" style="width:800px" alt="img"></img>
+</p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
@@ -284,6 +322,13 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
+<p style='text-align:center'>
+<img src="img/alignment-strict.svg" style="width:800px" alt="img"></img>
+</p>
+--
+## @head:"CALC workflows"
+### @subhead:"From alignments to strict, cross-semantic cognates"
+
 * our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
 * therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
 * given that many SEA languages are rich in compounidng, we find many words being re-used across the lexicon, even in small numbers of vocabulary
@@ -312,6 +357,12 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
  11  \t Qiandong, east \t STAR    \t q ei ²⁴ + q ei  ²⁴ \t　i n t + i n t \t q ei ²⁴ + q ei - ²⁴ \t  1872 1834 \t 1872 1870
  12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1234 1834 \t 1871 1870
 </div>
+
+--
+<p style='text-align:center'>
+<img src="img/strict-soundcorrespondence.svg" style="width:800px" alt="img"></img>
+</p>
+
 
 --
 ## @head:"CALC workflows"
