@@ -282,18 +282,128 @@ geographic locations are shown in the Figure \ref{fig:geo}.
 
 \section{Illustration of the Workflow}\label{sec:wf}
 \subsection{From Raw Data to Segmented Data}
-When searching for sound correspondence patterns, we can safely assume that the data is a wordlist; a lexical dataset contains vocabularies which is translated into various languages. The existing wordlists have various presentations, such as, the orientations of data or the usage of seperators of synonyms (\ref{fig:data}). Due to idiosyncratic formats, linguistic datasets often lack interoperability and are therefore not reusable. Following the \textit{Fair} guiding principles of scientific data management from Wilkinson et al., ``Findable, Accessible, Interoperable, and Reusable''\citep{Wilkinson2016}, we convert our raw data into \textit{Lingpy Wordlist} format. 
-The format has the following guidelines:
+When comparing languages within a computer-assisted framework, with the goal of identifying sound
+correspondence patterns in the data, we need to make sure that our data is machine-readable at
+first. If the data is not machine-readable, we can neither use web-based tools like EDICTOR which
+make it easy to edit the data \emph{manually} \citep{List2017d}, nor can we use computational tools,
+like LingPy \citep{List2018i}, which can help us a great deal in identifying cognate sets and
+aligning our data.
+
+A first problem for many researchers is to get used to our formats for data representation. 
+In contrast to the typical style used by scholars, we do not use simple tables, with languages in a
+row and concepts in a column, or vice versa, but instead a so-called long-table format, in which we
+reserve a \emph{row} in a table for each word, and add a header, which tells us what the cells in
+each column contain in terms of the data. This long-table format reflects the rule of
+``One Value per Cell'', as stated by the Cross-Linguistic Data Formats initiative
+\citep{Forkel2018a}, reproduced in Figure \ref{fig:onevalue}. 
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=0.75\textwidth]{one-value-per-cell.png}
+  \caption{Long-table format instead of condensed formats with multiple values per cell.}
+  \label{fig:onevalue}
+\end{figure}
+
+As a second rule, we have certain format specifications that make it easier form machines to deal
+with our input. This includes
 
 \begin{itemize}
-\item A tab-separated input file. 
-\item First row serves as a header and defines the content of the rest of the rows. 
-\item One value per cell, therefore, synonyms are divided into different rows.
-\item Four mandatory columns : unique identification numbers for each row, the language name (DOCULECT), the comparison concept (CONCEPT), the original transcription (International phonetic alphabet, \[IPA\], FORM or VALUE). 
-\item TOKENS-columns should supply the supply the transcriptions in space-segmented form.
+  \item the use of a \emph{segmented} form of IPA transcriptions, in which a space is used to
+    separate distinct sounds from each other, to give the computer direct information on whether
+    symbol combinations are meant to reflect one sound (e.g., affricates, such as {\sil [ts, tʃ]}),
+    or multiple sounds (compare German \emph{Handschuh} {\sil [h a n t ʃ uː]} vs. German
+    \emph{Tschüss} {\sil [tʃ y s]}),
+  \item them use of morpheme segmentation markers (we use a \texttt{+}) to indicate morpheme
+    boundaries, which is straightforward when working with many morpheme-syllabic SEA languages, in
+    which morphemes coincide with syllables,
+  \item a clear-cut account on the concepts in our data, as they serve as the initial comparanda, so
+    each concept needs to be given a clear-cut definition, and our preferable starting points are
+    concept lists which are translated into the languages to be investigated, as opposed to
+    pre-selected accounts on potential etymological items.
+
 \end{itemize}
 
-Many existing tools make use of \textit{Lingpy wordlist} format, including the tools we demonstrate here in this talk.
+We indicate words in the computer-readable form, by adding a column called \texttt{TOKENS} in which
+data is segmented with a space to distinguish different sounds, and with the plus-symbol to
+distinguish different morphemes. 
+
+Thus, our original data consists of a text-file, separated by tabstop, with the first row serving as
+a header, and the following rows providing information for one word per language. Our software
+requires the following columns to be submitted:
+
+\begin{itemize}
+  \item \texttt{ID}: numerical identifier, greater than 0,
+  \item \texttt{DOCULECT}: name of the language,
+  \item \texttt{CONCEPT}: some gloss for the concept,
+  %\item VALUE: original form of the data,
+  %\item FORM: the form in the data after correcting errors, or multiple forms-per-cell problems,
+  \item \texttt{TOKENS}: the morpheme and sound-segmented form of the data.
+\end{itemize}
+
+We recommend also to add a column called \texttt{VALUE}, containing the original data, as well as a
+column \texttt{FORM}, which shows the original data but corrected for multiple values per cell. The
+software usually automatically creates a form \texttt{IPA}, which is not necessarily used, but a
+legacy form that will be replaced by the \texttt{FORM} in future updates.
+Additional values are then consistently added by our workflow and will be discussed later.
+ 
+We offer procedures to ease the conversion of the data to the required formats. While the creation
+of long-table formats is usually done by applying a custom script, we use \emph{orthography
+profiles} to create morpheme-segmented IPA representations for our \texttt{TOKENS} column from the
+original data \citep{Moran2018}. Orthography profiles are a very straightforward way to convert raw
+data to space-separated IPA representations. An orthography profile can be thought of as a simple text file with two or more columns in which the first
+represents the values as you find them in your data (i.e., non-IPA transcriptions, etc.), and the other
+columns allowing you to convert the sequence of characters that you find in the first column. So in brief,
+you have a source-pattern and a replacement pattern, for example, the one shown in Table
+\ref{tab:profile}. With such a replacement pattern, an input string \texttt{čashaa} would on the one
+hand be segmented into \texttt{č a sh aa} and at the same time, it would be converted to \texttt{ tʃ
+a ʃ aː}. We now offer an online demo of orthography profiles at
+\url{http://calc.digling.org/profile}, which can be used to test and apply customized orthography
+profiles.
+
+\begin{table}[htb]
+  \centering
+  \tabular{ll}
+  \textbf{Grapheme} & \textbf{IPA} \\
+  č &  tʃ \\
+  ž & dʒ\\
+  th&  tʰ\\
+  dh&  d̤\\
+  sh&  ʃ\\
+  a & a\\
+  aa&  aː\\
+\endtabular
+\caption{Very simple orthography profile example.}
+\label{tab:profile}
+\end{table}
+
+%When searching for sound correspondence patterns, we can safely assume that the data is a wordlist; a lexical dataset contains vocabularies which is translated into various languages. The existing wordlists have various presentations, such as, the orientations of data or the usage of seperators of synonyms (\ref{fig:data}). Due to idiosyncratic formats, linguistic datasets often lack interoperability and are therefore not reusable. Following the \textit{Fair} guiding principles of scientific data management from Wilkinson et al., ``Findable, Accessible, Interoperable, and Reusable''\citep{Wilkinson2016}, we convert our raw data into \textit{Lingpy Wordlist} format. 
+
+
+%The format has the following guidelines:
+%
+%\begin{itemize}
+%\item A tab-separated input file. 
+%\item First row serves as a header and defines the content of the rest of the rows. 
+%\item One value per cell, therefore, synonyms are divided into different rows.
+%\item Four mandatory columns : unique identification numbers for each row, the language name (DOCULECT), the comparison concept (CONCEPT), the original transcription (International phonetic alphabet, \[IPA\], FORM or VALUE). 
+%\item TOKENS-columns should supply the supply the transcriptions in space-segmented form.
+%\end{itemize}
+%
+%Many existing tools make use of \textit{Lingpy wordlist} format, including the tools we demonstrate here in this talk.
+
+\begin{center}
+  \tabular{|p{14cm}|}\hline
+  SUMMARY \\\hline
+  \begin{itemize}
+    \item Data must be machine-readable in order to be amenable for computer-assisted analyses.
+    \item Data must specifically be segmented, both with respect to the morpheme boundaries and the
+      boundaries between distinct sounds.
+    \item Data must be provided in form of a \emph{long table} with some specific column headers,
+      providing all relevant information.
+    \item Computer-assisted tools help to prepare the data for computer-assisted processing.
+  \end{itemize}\\\hline
+  \endtabular
+\end{center}
 
 
 \subsection{From Segmented Data to Cognate Sets}\label{sec:pcogs}
@@ -375,16 +485,6 @@ illustrated in Figure \ref{fig:edipart}.
   \end{itemize}\\\hline
   \endtabular
 \end{center}
-
-
-
-The frequency of compound words in South-East Asian (SEA) languages. Partial cognacy.
-
-New algorithm for cognate detection which does not identify cognate words but instead searches for cognate elements in words.
-
-\begin{itemize}
-\item One morpheme correspondent to one cognate id.
-\end{itemize}
 
 
 \subsection{From Cognate Sets to Alignments}
@@ -509,19 +609,19 @@ languages in our sample, we find quite a few cross-semantically recurring morphe
   Morphemes \\\hline\hline
   East Baheng & NOSE & ⁿpjau³¹ & \texttt{NOSE} \\
   East Baheng & NASAL MUCUS & qa³/⁰ + ⁿpjau³¹ & \texttt{qa NOSE} \\\hline
-  Western Luobuohe & TWO & ʔu³¹ & \texttt{TWO} \\\hline
-  Western Luobuohe & TWENTY & ʔu³¹ + ʑo³¹ & \texttt{TWO zo} \\\hline
-  Western Baheng & SON & ʔa³/⁰ + taŋ³⁵ & \texttt{SON} \\
-  Western Baheng & SON-IN-LAW & taŋ³⁵ + wei³¹ & \texttt{SON wei} \\
-  Western Baheng & GRANDSON & taŋ³⁵ + seŋ³¹ & \texttt{SON seng} \\\hline
-  Eastern Qiandong & SUN &  qʰaŋ³³ + nei²⁴ & \texttt{po SUN} \\
-  Eastern Qiandong & DAY (NOT NIGHT) & nei²⁴ & \texttt{SUN} \\\hline
-  Western Baheng & FAECES (EXCREMENT) &  qa³¹ & \texttt{SHIT} \\
-  Western Baheng & STOMACH & ʔa³/⁰ + tɕʰi³⁵ + qa³¹ & \texttt{a tci SHIT} \\\hline
-  Western Qiandong & ANT & kæ̃⁴⁴ + mjɔ²² & \texttt{INSECT mjo} \\
-  Western Qiandong & EARTHWORM &  kæ̃⁴⁴+tɕuŋ⁴⁴ & \texttt{INSECT tsung} \\\hline
-  Eastern Baheng & BIRD & taŋ³⁵ + nuŋ³¹ & \texttt{BIRD-A BIRD-B} \\
-  Eastern Baheng & NEST & ʑo¹¹ + taŋ³⁵ + nuŋ³¹ & \texttt{zo BIRD-A BIRD-B} \\\hline
+  West Luobuohe & TWO & ʔu³¹ & \texttt{TWO} \\\hline
+  West Luobuohe & TWENTY & ʔu³¹ + ʑo³¹ & \texttt{TWO zo} \\\hline
+  West Baheng & SON & ʔa³/⁰ + taŋ³⁵ & \texttt{SON} \\
+  West Baheng & SON-IN-LAW & taŋ³⁵ + wei³¹ & \texttt{SON wei} \\
+  West Baheng & GRANDSON & taŋ³⁵ + seŋ³¹ & \texttt{SON seng} \\\hline
+  East Qiandong & SUN &  qʰaŋ³³ + nei²⁴ & \texttt{po SUN} \\
+  East Qiandong & DAY (NOT NIGHT) & nei²⁴ & \texttt{SUN} \\\hline
+  West Baheng & FAECES (EXCREMENT) &  qa³¹ & \texttt{SHIT} \\
+  West Baheng & STOMACH & ʔa³/⁰ + tɕʰi³⁵ + qa³¹ & \texttt{a tci SHIT} \\\hline
+  West Qiandong & ANT & kæ̃⁴⁴ + mjɔ²² & \texttt{INSECT mjo} \\
+  West Qiandong & EARTHWORM &  kæ̃⁴⁴+tɕuŋ⁴⁴ & \texttt{INSECT tsung} \\\hline
+  East Baheng & BIRD & taŋ³⁵ + nuŋ³¹ & \texttt{BIRD-A BIRD-B} \\
+  East Baheng & NEST & ʑo¹¹ + taŋ³⁵ + nuŋ³¹ & \texttt{zo BIRD-A BIRD-B} \\\hline
   \endtabular
   \caption{Partial cognates among stable concepts with reflexes in all languages in our test
   datasets. We highlight shared cognates by giving a tentative gloss for them in capital letters in
@@ -551,6 +651,18 @@ languages in our sample, we find quite a few cross-semantically recurring morphe
 \subsection{From cross-semantic cognates to correspondence patterns}
 
 \section{Discussion}
+
+\subsection{Possible improvements}
+
+a: semi-automatic reconstruction
+b: clearer integraation of automatic and semi-automatic methods in teh workflow
+c: better handling of output of the automatic ttasks (wvisualziation, etc.)
+
+
+\subsection{General challenges}
+
+a: lexical reconstruction: how to reconstruct whole words?
+b: sound change representation of all changes along some phylogeny with sound laws
 
 \section{Outlook}
 
