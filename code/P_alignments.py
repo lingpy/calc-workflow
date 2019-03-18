@@ -32,8 +32,21 @@ except:
 
 
 # partial cognate
-part.partial_cluster('lexstat', threshold=0.50, cluster_method='infomap',
+part.partial_cluster('lexstat', threshold=0.6, cluster_method='infomap',
         ref='cogids', post_processing=True)
+
+ncids = {}
+start = 1
+for idx, cogids, concept in part.iter_rows('cogids', 'concept'):
+    ncidx = []
+    for cogid in basictypes.ints(cogids):
+        if (cogid, concept) in ncids:
+            ncidx += [ncids[cogid, concept]]
+        else:
+            start += 1
+            ncids[cogid, concept] = start
+            ncidx += [start]
+    part[idx, 'cogids'] = basictypes.ints(ncidx)
 
 
 part.output('tsv', filename='chen-cognates', prettify=False)
