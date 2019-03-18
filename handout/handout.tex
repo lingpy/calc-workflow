@@ -1,4 +1,4 @@
-\documentclass[xetex]{scrartcl}
+\documentclass[xetex,svgnames]{scrartcl}
 
 % packages
 \usepackage{xltxtra}
@@ -14,7 +14,7 @@
 \usepackage{fontspec}
 \usepackage{scrpage2}
 \usepackage[left=2cm,right=2cm,top=3cm,bottom=3cm]{geometry}
-\usepackage{colortbl}
+\usepackage{colortbl,color,xcolor}
 \usepackage{alltt}
 \usepackage{listings}
 \usepackage{multirow}
@@ -262,17 +262,208 @@ and code will be in flux for some time, but we will make sure that both data and
 readily analyzed with our tools. All code, the data we use, and installation instructions can be
 found at \url{https://github.com/lingpy/calc-workflow}. We ask those interested in testing our
 methods to use our issue-tracker on GitHub in case they face difficulties of any kind.
-
+In this talk, we present the workflow with a subset of 10 varieties of the Hmong-Mien languages in
+Chén's sample, for which we selected a subset of 313 concepts. The concepts were selected by
+checking the overlap with the current 504 concept list of the Burmish Etymological Database project
+(headed by Nathan W. Hill, data online at \url{https://dighl.github.io/burmish}). 
+The languages were selected for some general reasons, like lexical coverage, geographic
+distribution, or basic diversity, but not with the specific ``eye" of a historical linguist who
+would select languages to explore the history of a language family. We would be glad about any additional
+recommendations, if scholars feel competent to give us advice in this context.
+The
+geographic locations are shown in the Figure \ref{fig:geo}.
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=\textwidth]{Geographic.pdf}
+  \caption{Language geographic locations}
+  \label{fig:geo}
+\end{figure}
 \section{Illustration of the Workflow}\label{sec:wf}
 \subsection{From Raw Data to Segmented Data}
 
-\subsection{From Segmented Data to Cognate Sets}
+\subsection{From Segmented Data to Cognate Sets}\label{sec:pcogs}
+
+Once the data is segmented and provided in the long table format as it is required by the LingPy
+software package, as described in our tutorial \citep{List2018f}, we can use LingPy's partial
+cognate detection method to infer partial cognates in our linguistic data. Partial cognates are
+hereby understood as cognate assessments \emph{per morpheme} in our data, as opposed to cognate
+assessments \emph{per word}. 
+While it has always been clear to scholars working in the field of South-East Asian linguistics that
+cognacy should rather be assigned on the level of the morpheme than on the level of full words,
+given that the high degree of compounding would easily complicate the identification of cognate
+relations, automatic methods, and specifically phylogenetic reconstruction approaches usually still
+assume a rather naive one-word-one-cognate relation \citep{List2016f}. 
+
+In our framework, we explicitly address this problem by adopting a numerical annotation format in
+which each morpheme instead of each word form is assigned to a specific cognate set
+\citep{Hill2017a}. This framework is illustrated in Figure \ref{fig:pcogs}, where we contrast word
+forms for ``yesterday" in five Burmish varieties, indicating their detailed ``cognate relations". 
+In the first ``traditional" style of cognate coding, we would proceed in a \emph{strict} way, only
+allowing those words which are completely cognate in all their morphemes to be judged as cognates.
+In the second, \emph{loose} cognate annotation, we judge all words that are in a \emph{connected
+component} in our shared morpheme network to be cognate, and in the last column, we show our
+explicit coding of partial cognacy, in which each morpheme is assigned to one cognate set.
+
+\begin{figure}[htb]
+  \centering
+  \tabular{cc}
+  \includegraphics[width=0.45\textwidth]{pcogs-1.png} &
+  \includegraphics[width=0.45\textwidth]{pcogs-2.png} \\\endtabular
+  \caption{Partial cognacy in Burmish language varieties and different ways of coding (see Hill and
+  List 2017 and further explanations in the main text).
+  coding.}
+  \label{fig:pcogs}
+\end{figure}
+
+The software package LingPy offers a straightforward algorithm to detect and annotate partial
+cognates in datasets formatted as long tables. This algorithm by \citet{List2016g} uses techniques for automatic sequence
+comparison to create a network of similar morphemes for each meaning slot in a given dataset. It
+then filters those concepts in consecutive stages, with the goal of avoiding that two or more
+morphemes in the same word for the same language are assigned to the same cluster. In the end, the
+algorithm outputs the cognate judgments in the same format as indicated above in Figure
+\ref{fig:pcogs}, namely, but assigning each morpheme to a given number, with the number representing
+that cognate set.
+
+Note that this algorithm works quite well, although it is, of course, not infallible. It reaches
+between 88 and 90 percent on a test datasets consisting of Bai dialects, Chinese dialects, and
+dialects of Tujia. With more challenging datasets, the scores will surely drop, but we can expect
+that the automatic cognate detection is in any case \emph{helpful}, as is easier to correct cognates
+than to assign them from scratch.
+
+In addition to the cognate detection algorithm, the EDICTOR web-based tool for computer-assisted
+language comparison \citep{List2017d}, freely available at \url{http://edictor.digling.org}, can be
+used to quickly inspect and correct computer-generated cognate sets, by providing a very convenient
+interface that allows users to quickly assign morphemes to cognate sets. The interface is
+illustrated in Figure \ref{fig:edipart}.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=\textwidth]{partial-cognates.png}
+  \caption{Partial cognate annotation within the EDICTOR tool for the word for ``chin" in 10
+  selected Hmong-Mien varieties.}
+  \label{fig:edipart}
+\end{figure}
+
+\begin{center}
+  \tabular{|p{14cm}|}\hline
+  SUMMARY \\\hline
+  \begin{itemize}
+    \item For a realistic annotation of cognate sets, the annotation of partial cognates, by which
+      morphemes are assigned to cognate sets, is the only realistic choice.
+    \item Partial cognates can be automatically identified with help of software, openly available
+      as part of the LingPy software library (\url{lingpy.org}, \citealt{List2018i}) and the
+      algorithm by \citet{List2016g}.
+    \item Partial cognates can be annotated consistently with help of the EDICTOR tool
+      \citep{List2017d}, online available at \url{http://edictor.digling.org}.
+    \item Partial cognates in these frameworks are assigned to morphemes occurring in words with the
+      same meaning, both for algorithmic and for practical reasons.
+  \end{itemize}\\\hline
+  \endtabular
+\end{center}
+
+
 
 \subsection{From Cognate Sets to Alignments}
 
 \subsection{From Alignments to Cross-Semantic Cognates}
 
+
+
 \subsection{From Cross-Semantic Cognates to Sound Correspondence Patterns}
+As mentioned above in Section \ref{sec:pcogs}, the partial cognates are only identified for words
+with the same meaning. This is being done for algorithmic reasons (it would become quite complex to
+compare all morphemes against each other algorithmically), and for practical reasons, since we
+believe that it is always better to start from the obvious and save etymologies in historical
+linguistics, rather than to start from complex ones. Given that semantic shift is a phenomenon for
+which we dispose of little knowledge with respect to its patterns, we agree explicitly with scholars
+like \citet{Dybo2008} in emphasizing that we should always expect to find clear-cut etymologies
+within words of the same meaning, even if we know that more etymologies could be find when searching
+\emph{cross-semantically}, i.e., among words which differ with respect to their meanings.
+ 
+There are only a few approaches that try to identify cognates across different concepts, and one
+could say that the task of \emph{cross-semantic cognate detection} is still one of the open problems
+in computational historical linguistics. Approaches proposed so far include a rather complex
+workflow by \citet{Wahle2016}, who uses \emph{hidden Markov models} for sequence comparison, and
+proxies on colexifications, drawn from the database by \citet{Dellert2017}, to infer cognates across
+different meaning slots. As this task is not completely evaluated, and only described in a short
+paper, it is difficult to access its usefulness for our purposes. Another approach is presented by
+\citet{Arnaud2017}, who apply Support Vector Machines trained on form and semantic similarities of
+word pairs along with a flat clustering algorithm to partition words into cognate sets. 
+While this approach is publicly available and seems to yield promising results, we are not sure to
+which degree it would help us with our very specific goals of lifting an initially ``raw" dataset
+to a level where we can assess sound correspondence patterns across multiple languages, especially
+since the algorithms the authors use for cognate detection do \emph{not} take regular sound
+correspondences into account, and they are also \emph{not} sensitive to partial cognates.
+ 
+Thus, instead of these previously proposed solutions, we propose our own, rather simple approach to
+search for cross-semantic partial cognate sets in our data. This approach is based on the
+well-observed fact that the majority of morphemes in South-East Asian languages with a certain
+preference for compounding and a high degree of word formation, is highly \emph{promiscuous}
+\citep[8f]{List2016h}, given
+that they recur within different words, surfacing in the form of \emph{partial colexifications}
+\citep[62]{Hill2017a}. The term \emph{partial colexification} hereby serves as a cover term for
+morphemes recurring across the lexicon of a language, with no specific distinction being made if
+they are polysemous or homophonous. 
+ 
+Our search for partial colexifications would not allow us directly to identify cross-semantic
+cognates consistently, given that sound change may yield different morpheme mergers across different
+languages. As a result, we cannot take the information from one language alone, but have to smartly
+summarize all the information on recurring morphemes we can find in our data. The solution for this
+problem is nevertheless straightforward, and it builds on the idea to not only compare single words, as originally proposed in \citet{Hill2017a}, but to compare complete \emph{alignments} instead. As our data is already aligned, and we have identified
+cognates in a first run, potentially even refined by experts, we can compare whole cognate sets that
+contain \emph{identical words in the same language}. 
+
+If two alignments are completely identical with respect to the words they contain, 
+there is no reason
+to assign them to different cognate sets, and we can directly assign them to the same cognate class.
+Even if they are simply homophonous, the assumption of regular sound change will allow us to treat
+them similarly if we reconstruct the words back to the ancestral language.
+
+The problematic cases are those cases, where we have \emph{incomplete data}. And this is usually
+rather the rule than the exception.  We often will encounter cases where we have two alignments
+which are only filled in parts with data from the different languages, and we will usually have
+\emph{missing data} for one or more of the languages in our sample in a given alignment. Thus, when
+comparing two alignments with each other, we need to make sure that we have at least one word in one
+language in common. 
+
+As an example, consider the data on ``son'' and ``daughter'' in five language varieties of our
+illustration data. As can be seen immediately, two languages show striking \emph{partial
+colexifications} for the two concepts, Chuanqiandian and East Qiandong. In both cases, one morpheme
+recurs in the words for the two concepts. In the other cases, we find different words, but if we
+compare the overall cognacy, we can also see that all five languages share one cognate morpheme for
+``son'' (corresponding to the Proto-Hmong-Mien {\sil *tu̯ɛn} in Ratliff's reconstruction), 
+and three varieties share one cognate morpheme for ``daughter'' (corresponding to {\sil
+*mphje\textsuperscript{D}} in Ratliff's 2010 reconstruction), with the morpheme for ``son''
+occurring also in the words for ``daughter'' in East Qiandong and Chuanqiandian, as mentioned
+before.\nocite{Ratliff2010}
+
+
+\begin{table}[htb]
+  \centering
+  \resizebox{\textwidth}{!}{%
+  \tabular{llllll}\hline
+  \bfseries Language &
+  \bfseries Concept &
+  \bfseries Form &
+  \bfseries Cognacy &
+  \bfseries Cross-Semantic \\\hline\hline
+  East Baheng                     & SON      & \sil \colorbox{lightgray}{taŋ³⁵}         & 1     & 1 \\
+  East Baheng                     & DAUGHTER & \sil pʰje⁵³                              & 2     & 2 \\\hline
+  West Baheng                     & SON      & \sil ʔa³/⁰ + \colorbox{lightgray}{taŋ³⁵} & 3 1   & 3 1 \\
+  West Baheng                     & DAUGHTER & \sil ta⁵⁵ + qa³/⁰ + tʰjei⁵³              & 4 5 6 & 4 5 6 \\\hline
+  Chuanqiandian                   & SON      & \sil \colorbox{lightgray}{to⁴³}          & 1     & 1\\
+  Chuanqiandian                   & DAUGHTER & \sil ⁿtsʰai³³                            & 7     & 7 \\\hline
+  Chuanqiandian (Central Guizhou) & SON      & \sil tə²/⁰ + \colorbox{lightgray}{tə̃²⁴}  & 8 1   & 8 1\\
+  Chuanqiandian (Central Guizhou) & DAUGHTER & \sil \colorbox{lightgray}{tə̃²⁴} + ⁿpʰe⁴² & 9 2   & 1 2\\\hline
+  East Qiandong                   & SON      & \sil \colorbox{lightgray}{tei²⁴}         & 1     & 1 \\
+  East Qiandong                   & DAUGHTER & \sil \colorbox{lightgray}{tei²⁴} + pʰa³⁵ & 9 2   & 1 2\\\hline
+\endtabular}
+  \caption{Terms for ``son'' and ``daughter'' across five Hmong-Mien varieties.}
+  \label{tab:son}
+\end{table}
+
+
+
 
 \section{Discussion}
 
