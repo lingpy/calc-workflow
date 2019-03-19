@@ -347,9 +347,10 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
-* our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
-* therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
-* we apply a new algorithm, inspired by maximum clique coverage, to *merge* cognates in our data into larger groups
+* For a realistic analysis, we need to identify cognates not only within the same meaning slot, but across different concepts.
+* However, our algorithm for automatic congate detection designed to search words with the same meaning. 
+* Therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
+* A new algorithm, inspired by maximum clique coverage, to *merge* cognates in our data into larger groups
 * our basic check is if two alignments are compatible with each other, and if the words are *strictly* cognate
 
 --
