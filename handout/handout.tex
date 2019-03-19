@@ -347,6 +347,11 @@ software usually automatically creates a form \texttt{IPA}, which is not necessa
 legacy form that will be replaced by the \texttt{FORM} in future updates.
 Additional values are then consistently added by our workflow and will be discussed later.
  
+Note in general, the data can be prepared with typical spreadsheet programs, such as Excel or
+LibreOffice or GoogleDocs. In order to create the textfiles, we recommend to simply copy-paste the
+data from a spreadsheet by opening an empty text file, copying the data, and pasting it into the
+file. In this way, the tab-separated format required by our applications will always be preserved.
+ 
 We offer procedures to ease the conversion of the data to the required formats. While the creation
 of long-table formats is usually done by applying a custom script, we use \emph{orthography
 profiles} to create morpheme-segmented IPA representations for our \texttt{TOKENS} column from the
@@ -472,36 +477,146 @@ illustrated in Figure \ref{fig:edipart}.
 \end{center}
 
 \subsection{From Cognate Sets to Alignments}
-Wang et al pointed out that Sinitic languages follows a strict syllable strcuture as in the form of ~\citep{Wang1996}, 
+Algorithms for phonetic alignments in historical linguistics have been proposed since the 1990s
+\citep{Covington1996,Covington1998}. The basic of an alignment is to arrange sequences in such a way
+in a matrix
+that corresponding segments are placed in the same column \citep{List2018d}. For the transparent
+annotation of sound correspondences, alignments are a \emph{sine qua non}, there is no way around
+them, even if scholars at times think otherwise. Since sound correspondences can only be annotated
+and detected when comparing sound sequences (words, morphemes) in full, we need alignments to
+identify them, specifically when working with more than just two languages. 
+ 
+During the beginning of the second millenium, the methods for phonetic alignments have drastically
+improved. Starting with the work by \citet{Kondrak2000} on pairwise alignments, we have now stable
+algorithms for multiple alignments that yield accuracy scores almost comparable to the
+differences we would expect between human annotators \citep{List2014d}. With EDICTOR
+\citep{List2017d}, we also have a
+tool that facilitates to align words across a larger number of languages, and the LingPy software
+package \citep{List2018i} offers a very stable implementation of the Sound-Class-Based phonetic
+Alignment algorithm \citep{List2012c}, which can be considered the current state of the art, as far
+as multiple phonetic alignments are concerned.
+ 
+Unfortunately, phonetic alignment algorithms are not perfect, and correcting alignments manually is
+tedious, specifically when working in computer-assisted workflows, where one runs a computational
+analysis and then has experts correct the results. If one changes one cognate set assignment, one
+has to re-do the whole alignment analysis, and if the algorithm constantly gets something wrong,
+this means that the researcher will need to correct the alignment ever and ever again, even when
+only small changes to the data are undertaken. 
+ 
+For this reason, we started to develop a new method for multiple phonetic alignments, specifically
+targeted to SEA languages with restricted syllable structure, which allows us to align words without
+actually aligning them. This method, which we call \emph{template-based alignments}, starts from the
+simple observation that many SEA languages don't differ much in their syllable structure, allowing
+us to capture which sound occurs in which position, and which sound should be compared to which
+other sound, by simply adding another column to our wordlist file, which contains a layer for the
+phonotactic structure of each syllable. These \emph{templates} are stored in a column which we call
+\texttt{STRUCTURE}, for convenience, and they are arbitrary in so far as we allow users to represent
+their template by any symbol sequence, as long as they respect our two-fold segmentation for
+segmentized IPA-strings, which uses space for the segmentation of sounds, and the plus sign to
+segment morphemes. 
+ 
+For reasons of simplicity, we started from the well-known structure of Sinitic languages, which --
+following \citet{Wang1996} --
+assumes syllable templates consisting of an \emph{initial} (\texttt{i}), a \emph{medial}
+(\texttt{m}), a \emph{nucleus} (\texttt{n}), a \emph{coda} (\texttt{c}), and the \emph{tone}
+(\texttt{t}). In this schema, Chinese \emph{tàiyáng} {\sil [tʰ~ai~⁵¹ +  j~a~ŋ~³⁵]} would be
+represented as \texttt{i~n~t + i~n~c~t}. Assuming that the syllable template of the ancestral
+language we want to investigate did not differ much from this, we can now use the templates to
+align words automatically, by simply starting from our general template, to which we align all
+words, and then deleting those columns for the syllable positions which do not occur in the words
+under comparison. This is illustrate in Figure \ref{fig:template}, where four words for ``seven" in
+four Hmong-Mien languages are successively aligned with each other.
 
-\begin{displayquote}
-syllable = (Tone (Initial (Medial (Nucleus + ending))))  
-\end{displayquote}
-
-As many SEA languages seem to have similar syllable structures as Sinitic languages, this phonotactic template can help us aligning the segmentations as well. For this task, we need a clear guideline to align the segmentations. For LingPy to align segmentations according to the template we set up, an orthography profile comes in handy for this aspect, to indicate the alignment rules, we use i, m, n, c and t to represent Initial, Meidial, Nucleus, Coda (ending) and Tone in the profile. 
-
-\begin{table}
-\begin{tabular}{cccc}
-Grapheme & Segments & IPA & Structure \\
-tʰ & tʰ & tʰ & i \\
-v & v & v & i \\
-ɛ & ɛ & ɛ & n \\
-au & au & au & n\\
-jei & j ei & j ei & m n \\
-oŋ & o ŋ & o ŋ & n c \\
-wɑŋ & w ɑ ŋ & w ɑ ŋ & m n c \\
-ȵoŋ & ȵ o ŋ & ȵ o ŋ & m n c \\
-³¹ & ³¹	& ³¹ & t \\
-\end{tabular}
-\label{An example of orthography profile for template alignment.}
-\end{table}
-
-And the alignment results can be view on EDICTOR as the picture below.
 \begin{figure}[htb]
-\includegraphics[width=0.45\textwidth]{template-alignment.png}
-\end{figure} 
+  \centering
+  \resizebox{\textwidth}{!}{%
+  \tabular{ccccc}
+  \tabular{llll}
+  \bfseries Doculect & 
+  \bfseries Concept & 
+  \bfseries Tokens & 
+  \bfseries Structure 
+  \\\hline\hline
+  East Baheng                 & seven  &\sil tɕ a ³¹ &\ttfamily i n t \\
+  West Baheng                 & seven  &\sil tɕ a ŋ ⁴⁴ &\ttfamily i n c t \\
+  Chuanqiandian               & seven  &\sil ɕ a ŋ ⁴⁴  &\ttfamily i n c t \\
+  Chuanqiandian (CG) & seven  &\sil s ã ²²    &\ttfamily i n t \\
+ \endtabular & → &
+ \tabular{ccccc}
+  \bfseries\ttfamily i &
+  \bfseries\ttfamily m &
+  \bfseries\ttfamily n &
+  \bfseries\ttfamily c &
+  \bfseries\ttfamily t \\\hline\hline
+  \sil tɕ &\sil - &\sil a &\sil - &\sil ³¹ \\
+  \sil tɕ &\sil - &\sil a &\sil ŋ &\sil ⁴⁴ \\
+  \sil ɕ  &\sil - &\sil a &\sil ŋ &\sil ⁴⁴  \\
+  \sil s  &\sil - &\sil ã &\sil - &\sil ²²   \\
+  \endtabular & → & 
+  \tabular{cccc} 
+  \multicolumn{4}{c}{\bfseries Alignment} \\\hline\hline
+  \sil tɕ & \sil a &\sil - &\sil ³¹ \\
+  \sil tɕ & \sil a &\sil ŋ &\sil ⁴⁴ \\
+  \sil ɕ  & \sil a &\sil ŋ &\sil ⁴⁴  \\
+  \sil s  & \sil ã &\sil - &\sil ²²   \\
+  \endtabular
+\endtabular}
+\caption{Basic procedure for template-based alignment.}
+\label{fig:template}
+\end{figure}
 
-An important message is that, the template can be flexibly adjusted by linguistic experts, for example, one can use C to represent consonants and V as vowels and set up a template as CV, VC, CVCC or other varieties. 
+The problem of this procedure is that it requires more input by the user, since templates should
+ideally be manually assigned and checked for each word in the data. However, by now, we offer
+different automatic and semi-automatic approaches the further help to create syllable templates
+automatically. As a first possibility, extended orthography profiles can be used. In these profiles,
+the data is analyzed in much more detail, offering larger chunks in the first column, which can then
+be converted to a template at the same time when converting unsegmented strings to segmented
+strings. Since our procedure also offers to capture the beginning and the end of a sequence, this
+allows for a rather straightforward handling that is usually sufficient for datasets of moderate
+size. We illustrate this procedure in Table \ref{tab:ortho2}. An alternative possibility is to use
+the SinoPy library, a Python package for quantitative tasks in Chinese historical linguistics
+\citep{List2018g} to create templates from input strings automatically. 
+
+%As many SEA languages seem to have similar syllable structures as Sinitic languages, this phonotactic template can help us aligning the segmentations as well. For this task, we need a clear guideline to align the segmentations. For LingPy to align segmentations according to the template we set up, an orthography profile comes in handy for this aspect, to indicate the alignment rules, we use i, m, n, c and t to represent Initial, Meidial, Nucleus, Coda (ending) and Tone in the profile. 
+
+\begin{table}[htb]
+  \centering
+\begin{tabular}{llll}
+\bfseries Grapheme & 
+\bfseries Segmented & 
+\bfseries IPA   & 
+\bfseries Structure \\\hline\hline
+\sil \^tʰ & \sil tʰ    & \sil tʰ    & \ttfamily i \\
+\sil \^v  & \sil v     & \sil v     & \ttfamily i \\
+\sil ɛ    & \sil ɛ     & \sil ɛ     & \ttfamily n \\
+\sil au   & \sil au    & \sil au    & \ttfamily n\\
+\sil iei  & \sil i ei  & \sil j ei  & \ttfamily m n \\
+\sil oŋ   & \sil o ŋ   & \sil o ŋ   & \ttfamily n c \\
+\sil uɑŋ  & \sil u ɑ ŋ & \sil w ɑ ŋ & \ttfamily m n c \\
+\sil loŋ  & \sil l o ŋ & \sil l o ŋ & \ttfamily m n c \\
+\sil ³¹\$ & \sil ³¹    & \sil ³¹    & \ttfamily t \\
+\end{tabular}
+\caption{An example of an orthography profile that can creates templates along with the conversion
+to segmented IPA. The second column represents the data as we find it in the source, in segmented
+form, the third column contains a certain amount of corrections for IPA handling, and the fourth
+column offers the data in form of the phonotactic structure.}
+\label{tab:ortho2}
+\end{table}
+ 
+Template-based alignments have not been extensively tested so far, although it is clear for our
+purpose, that they work at a level of 100\%, given that the user virtually provides the alignment
+without actually aligning sequences. We can think of additional experiments, in which our approach
+to template-based alignments could be tested, also when dealing with languages with more complex
+syllable structures, where longer, and more complex templates could be used along with our
+algorithm. Since morphemes -- in contrast to words -- tend to be small, the major message
+of our template-based alignment approach is that we do not need to invest too much time in
+sophisticated algorithms that try to guess in whatever way how to arrange sound sequences in a
+matrix, if we can -- at least for certain language families -- already determine how to align the
+strings by simply looking at their phonotactics. Since template-based alignments are essentially
+linear with respect to their computational complexity, template-based alignments may also provide
+further help in all those tasks in computational historical linguistics, where alignments are
+needed, but slow down the algorithms, as for example, when searching for regular sound
+correspondences with help of randomizing the data \citep{List2012b}.
 
 \subsection{From Alignments to Cross-Semantic Cognates}
 As mentioned above in Section \ref{sec:pcogs}, the partial cognates are only identified for words
