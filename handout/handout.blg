@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: handout.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: handout-blx.bib
+Database file #2: evobib.bib
+Reallocated field_info (elt_size=4) to 10004 items from 5000.
+Warning--entry type for "Bodt2019PREPRINTa" isn't style-file defined
+--line 42684 of file evobib.bib
+Biblatex version: 3.3
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 35 entries,
+            6047 wiz_defined-function locations,
+            1413 strings with 18087 characters,
+and the built_in function-call counts, 152838 in all, are:
+= -- 6925
+> -- 7623
+< -- 1801
++ -- 4755
+- -- 4224
+* -- 9697
+:= -- 10834
+add.period$ -- 0
+call.type$ -- 35
+change.case$ -- 1164
+chr.to.int$ -- 346
+cite$ -- 68
+duplicate$ -- 15919
+empty$ -- 14153
+format.name$ -- 2410
+if$ -- 32265
+int.to.chr$ -- 0
+int.to.str$ -- 142
+missing$ -- 0
+newline$ -- 1169
+num.names$ -- 2365
+pop$ -- 10972
+preamble$ -- 1
+purify$ -- 1248
+quote$ -- 0
+skip$ -- 8501
+stack$ -- 0
+substring$ -- 6060
+swap$ -- 5705
+text.length$ -- 1025
+text.prefix$ -- 34
+top$ -- 1
+type$ -- 1317
+warning$ -- 0
+while$ -- 946
+width$ -- 0
+write$ -- 1133
+(There was 1 warning)
