@@ -331,7 +331,7 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 
 <p>Reasons</p>
 
-* Language changes including semantic shift.
+* Language change includes semantic shift.
 * Many SEA languages are rich in compounding, we find many words being re-used across the lexicon, even in small numbers of vocabulary.
 
 --
