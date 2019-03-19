@@ -355,7 +355,7 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 
 --
 ## @head:"CALC workflows"
-### @subhead:"From alignments to strict, cross-semantic cognates'
+### @subhead:"From alignments to strict, cross-semantic cognates"
 
 <p style='text-align:center'>
 <img src="img/cross-semantic-table.png" style="width:800px" alt="img"></img>
