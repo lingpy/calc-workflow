@@ -335,7 +335,15 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 * we apply a new algorithm, inspired by maximum clique coverage, to *merge* cognates in our data into larger groups
 * our basic check is if two alignments are compatible with each other, and if the words are *strictly* cognate
 
-<font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font>
+--
+## @head:"CALC workflows"
+### @subhead:"From alignments to strict, cross-semantic cognates"
+
+<!--<font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font>-->
+
+<p style='text-align:center'>
+<img src="img/cross-semantic-table.png" style="width:800px" alt="img"></img>
+</p>
 
 --
 ## @head:"CALC workflows"
@@ -397,11 +405,27 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 
 --
 ## @head:"Conclusion and outlook"
-### @subhead:"Future work"
+### @subhead:"Discussion"
 
-* Semi-automated reconstruction
-* Test consistency of cognates
-* Test consistency of reconstruction systems
+<p>Possible improvements</p>
+
+<ul>
+<li>Semi-automatic reconstruction</li>
+<li>Clearer integration of automatic and semi-automatic methods in the workflow</li>
+<li>How to visualise the results?</li>
+</ul>
+
+
+--
+## @head:"Conclusion and outlook"
+### @subhead:"Discussion"
+
+<p>Challenges</p>
+
+<ul>
+<li>Lexical reconstruction: how to reconstruct whole words?</li>
+<li>Sound change representation of all changes along some phylogeny with sound laws</li>
+</ul>
 
 ---
 
