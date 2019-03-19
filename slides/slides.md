@@ -28,16 +28,6 @@
 </p>
 --
 ## @head:"Introduction"
-### @subhead:"Our team"
-
-* The ERC funded project CALC (Computer-Assisted Language Comparison)
-* Our team consists of people with experience in computational topics as well as classical linguistic topics.
-<p style="text-align:center">
-<img src="http://calc.digling.org/img/calc-team.JPG", alt="img" style ="width:500px;textalign:center;"></img>
-</p>
-
---
-## @head:"Introduction"
 ### @subhead:"The Gap between Computational and Traditional Historical Linguistics"
 
 <p style="text-align:center">
