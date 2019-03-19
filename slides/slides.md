@@ -345,7 +345,7 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 </p>
 --
 ## @head:"CALC workflows"
-### @subhead:"From alignments to strict, cross-semantic cognates'
+### @subhead:"From alignments to strict, cross-semantic cognates"
 
 * our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings
 * therefore, we need to find *cross-semantic* (=normal) cogantes in a second stage
