@@ -617,6 +617,23 @@ further help in all those tasks in computational historical linguistics, where a
 needed, but slow down the algorithms, as for example, when searching for regular sound
 correspondences with help of randomizing the data \citep{List2012b}.
 
+\begin{center}
+  \tabular{|p{14cm}|}\hline
+  SUMMARY \\\hline
+  \begin{itemize}
+    \item Alignments are indispensable for the detection of sound correspondence patterns.
+    \item Given that existing algorithms are complex, not error-free, and difficult to apply, we use
+      a new method, that essentially uses phonotactic templates, along with a meta-template to align
+      morphemes in our data..
+    \item The advantage of the method is that it is almost error-free (as long as the templates are
+      correct), and extremely fast to apply.
+    \item The disadvantage of the method is that it requires more user-input, since the templates
+      need to be checked manually.
+    \item In order to create templates from segmented data, two methods are available, (a)~extended
+      orthography profiles, and (b)~a Python function provided along with the SinoPy Python library.
+  \end{itemize}\\\hline
+  \endtabular
+\end{center}
 \subsection{From Alignments to Cross-Semantic Cognates}
 As mentioned above in Section \ref{sec:pcogs}, the partial cognates are only identified for words
 with the same meaning. This is being done for algorithmic reasons (it would become quite complex to
