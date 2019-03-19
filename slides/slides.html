@@ -520,12 +520,11 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 <section style="text-align:justify;font-size:85%;" data-background="#f5f5f7" data-transition="concave">
 <h2><span class="head">CALC workflows</span></h2>
 <h3><span class="subhead">From alignments to strict, cross-semantic cognates</span></h3>
+<p>Reasons</p>
+
 <ul>
-<li>our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings</li>
-<li>therefore, we need to find <em>cross-semantic</em> (=normal) cogantes in a second stage</li>
-<li>given that many SEA languages are rich in compounidng, we find many words being re-used across the lexicon, even in small numbers of vocabulary</li>
-<li>we apply a new algorithm, inspired by maximum clique coverage, to <em>merge</em> cognates in our data into larger groups</li>
-<li>our basic check is if two alignments are compatible with each other, and if the words are <em>strictly</em> cognate</li>
+<li>Language changes including semantic shift.</li>
+<li>Many SEA languages are rich in compounding, we find many words being re-used across the lexicon, even in small numbers of vocabulary.</li>
 </ul>
 </section>
 <section style="text-align:justify;font-size:85%;" data-background="#f5f5f7" data-transition="concave">
@@ -534,7 +533,24 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 <!--<font color="red">add an illustrational graphic here, that shows how alignments that are compatible can be merged</font>-->
 
 <p style='text-align:center'>
-<img src="img/cross-semantic-table.png" style="width:800px" alt="img"></img>
+<img src="img/cross-semantic-picture.png" style="width:800px" alt="img"></img>
+</p>
+</section>
+<section style="text-align:justify;font-size:85%;" data-background="#f5f5f7" data-transition="concave">
+<h2><span class="head">CALC workflows</span></h2>
+<h3>@subhead:"From alignments to strict, cross-semantic cognates'</h3>
+<ul>
+<li>our algorithm for automatic cognate detection needs to start from words with the same meaning, as it would be too much noise for it to handle, if we had it search across all meanings</li>
+<li>therefore, we need to find <em>cross-semantic</em> (=normal) cogantes in a second stage</li>
+<li>we apply a new algorithm, inspired by maximum clique coverage, to <em>merge</em> cognates in our data into larger groups</li>
+<li>our basic check is if two alignments are compatible with each other, and if the words are <em>strictly</em> cognate</li>
+</ul>
+</section>
+<section style="text-align:justify;font-size:85%;" data-background="#f5f5f7" data-transition="concave">
+<h2><span class="head">CALC workflows</span></h2>
+<h3><span class="subhead">From alignments to strict, cross-semantic cognates'</h3>
+<p style='text-align:center'>
+<img src=</span>img/cross-semantic-table.png" style="width:800px" alt="img"></img>
 </p>
 </section>
 <section style="text-align:justify;font-size:85%;" data-background="#f5f5f7" data-transition="concave" class="scrollable">
