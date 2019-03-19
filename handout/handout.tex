@@ -794,28 +794,243 @@ languages in our sample, we find quite a few cross-semantically recurring morphe
 
 
 \subsection{From cross-semantic cognates to correspondence patterns}
+Having identified our cross-semantic cognates, or -- to be more specific -- our \emph{strict}
+cross-semantic cognates, we can now finally run the analysis required to detect the sound
+correspondence patterns in our data. Note that by sound correspondence \emph{patterns} we mean
+essentially sound correspondences for more than just two languages. In most formal or automatic
+approaches to historical linguistics, starting from \citet{Hoenigswald1960}, via
+\citep{Kondrak2003}, up to the LexStat algorithm, which uses previously identified sound
+correspondences to identify cognates across multiple languages \citep{List2012b}, sound
+correspondences are exclusively handled for language \emph{pairs}, also when working with more than
+two languages. This means, that instead of identifying correspondences across all languages in the
+data, the methods or descriptions assume that it is enough to look at the correspondences for each
+of the possible pairs in the data. While it is clear that computationally, this may be the only
+feasible solution, especially when lacking further information or data about the languages, the
+pairwise perspective does not help us to further proceed with respect to linguistic reconstruction.
+If we wish to reconstruct the proto-language, we \emph{need} to switch to a multi-lingual
+perspective, especially with respect to sound correspondences. For this reason, we adopt the term
+\emph{correspondence pattern} for those cases where we have more than just two languages in our
+data, and \emph{correspondence pattern detection} is the task by which we try to identify all
+patterns of regular sound correspondences in our data. 
+ 
+In our specific, alignment-based interpretation of sound correspondences, sound correspondence
+patterns are understood as \emph{recurring alignment sites} in a given dataset.  An \emph{alignment
+site} is a column in a given alignment, following the terminology that is usually employed by
+biologists. While scholars occasionally share correspondence patterns in the literature, the way
+they share them in almost never exhaustive, but always eclectic, being based on a pre-selection of
+the data in such a way that they support a given theory or hypothesis.
+ A prototypical example for
+this representation is given in Figure \ref{fig:beekes}, with reflexes of Proto-Indo-European labial
+and dental stops \citep[127]{Beekes1996}.
+That does not essentially
+mean that proposals on correspondence patterns in the literature are wrong per se, because scholars
+often have good arguments to exclude specific patterns, which only occur due to specific sound
+changes which are conditioned by peculiar contexts in some languages. It means, however, that
+scholars do not always share all of the data, and as long as scholars do not share all of their
+data, we do not have the possibility to assess whether they really know about all possible
+variations that their data offers.
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=\textwidth]{beekes1996.png}
+  \caption{Example for the typical representation of correspondence patterns in the classical
+  literature, taken from Beekes (1996: 127).}
+  \label{fig:beekes}
+\end{figure}
+
+ 
+An example for a very transparent form of presenting a reconstruction along with correspondence
+patterns is the Proto-Hmong-Mien reconstruction by \citet{Ratliff2010}. Ratliff herself talks about
+\emph{correspondence sets}, listing a proto-sound following her reconstruction and all
+\emph{reflexes} in the descendant languages, based on concrete cognate sets. An example for this
+format, reflexes reflecting the initial {\sil *mbl-} in Proto-Hmong-Mien, is provided in Figure
+\ref{fig:ratliff}. While this format is much more consistent than the one provided in Figure
+\ref{fig:beekes} above, it still has a couple of disadvantages: (1)~it does not provide the full
+words in the examples, but only the morphemes (something we track in our computer-assisted workflow,
+by handling partial cognates consistently), (2)~it does not provide us with information on the
+degree to which patterns are inconsistent, reflecting secondary variation in the individual
+languages (we can only find that out by carefully inspecting the data ourselves), and (3)~the
+representation is only to some degree machine-readable, not only because it is not digitized, but
+also because we do not know completely to which correspondence pattern (or set) each of the other
+sounds in the data belongs, and we will have problems to check the consistency of entire words when
+given the data in this form.
+
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=\textwidth]{ratliff2010.png}
+  \caption{Example from Ratliff (2010: 57), correspondence pattern for Proto-Hmong-Mien {\sil *hn-}.}
+  \label{fig:ratliff}
+\end{figure}
+ 
+The result of an correspondence pattern analysis as we imagine and propose it can be thought of as
+some kind of a table, in which languages are placed in the columns, and correspondence patterns are
+placed in rows, with each cell indicating for each individual correspondence pattern, which reflex
+sound a given language shows for this pattern. If we further assume that our interface is
+\emph{interactive}, the correspondence pattern analysis should further deliver all information in a
+way that can be directly traced back to the original data, from the original morphemes, the position
+in the syllable, up to the potential irregularity of the pattern, and its overall frequency in the
+data under investigation. This format is essentially offered by the EDICTOR tool by now, when using
+the correspondence pattern inspection panel of the tool, as illustrated in Figure \ref{fig:ede}.
+Here, the user finds the correspondence patterns in the data sorted according to the number of
+cognate sets in which they are reflected, along with an index indicating where in the alignment the
+pattern occurs, with which other patterns it is compatible, and the concepts in which the
+correspondence pattern is reflected. While this would not offer much advantages over any display in
+books, the tool is interactive, and clicking on the patterns allows to see the full word, the
+underlying alignment, or to quickly browse back to the original data. All in all, we can lift our
+data easily to a level similar to the one provided in Ratliff's reconstruction, but without loosing
+track of all steps that were done before.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=\textwidth]{edictor-hn.png}
+  \caption{Interactive display of correspondence patterns within the EDICTOR tool.}
+  \label{fig:ede}
+\end{figure}
+ 
+Correspondence patterns can be computed in two ways, either by using the correspondence pattern
+detection algorithm by \citet{List2019a}, implemented in the LingRex package \citep{List2018j},
+which will probably later be included as part of LingPy. An alternative is to use the EDICTOR
+directly, although this algorithm is based on a simple sorting of alignment sites, and will have
+difficulties when being confronted with particularly patchy data, with many missing reflexes for a
+given cognate set.
+ 
+When applying the algorithm by \citet{List2019a} to our data of 10 languages, we find as many as 786
+patterns in total for all five different phonotactic positions that we were assuming for this
+analysis. This may seem to be a lot, but it should be kept in mind that -- apart from errors in our
+identification of cognate sets and alignments -- it is quite common to find a lot of exceptional
+correspondence patterns, and even in Ratliff's data, we can see that essentially all four patterns
+offered for Proto-Hmong-Mien {\sil *hn-} are different from each other in at least one reflex. 
+We still expect that a certain amount, especially of the 323 patterns in our analysis which occur only once in the data, may result from the fact that we did only use computational analyses for the data analysis, without any human interaction. In general, however, we are confident, that our approach
+could identify a quite substantial part of the patterns in the data, which is also confirmed by the comparison with Ratliff's work, which we qualitatively compared against our findings. 
+
+\begin{table}[htb]
+  \centering
+  \tabular{llllllllllllll}
+  \bfseries No. &
+  \bfseries Concept &
+  \bfseries Proto-Form &
+  \bfseries 1&
+  \bfseries 2&
+  \bfseries 3&
+  \bfseries 4&
+  \bfseries 5&
+  \bfseries 6&
+  \bfseries 7&
+  \bfseries 8&
+  \bfseries 9&
+  \bfseries 10&
+  \bfseries 11\\\hline\hline
+  \multicolumn{3}{c}{Pattern}                             &
+  \sil n̥h & 
+  \sil n̥h& 
+  \sil hn̥ & 
+  \sil n & 
+  \sil n̥ & 
+  \sil n̥ &  
+  \sil n̥ & 
+  \sil ? & 
+  \sil n &
+  \sil n̥ & 
+  \sil n \\\hline\hline
+  1 & grain head/bag    &\sil *hnɔn    &\sil n̥h   &\sil n̥h &\sil hn̥ & n & n̥ &\sil n̥    & n̥ &\sil Ø    &\sil n &\sil \cellcolor{lightgray} n &\sil  Ø\\
+  2 & to hear           &\sil *hnəumX  &\sil n̥h   &\sil n̥h &\sil hn̥ & n & Ø &\sil n̥    & n̥ &\cellcolor{lightgray}\sil n &\sil n &\sil n̥    &\sil  Ø\\
+  3 & to put on clothes &\sil *(h)naŋX &\cellcolor{lightgray}\sil n &\sil n̥h &\sil hn̥ & n & n̥ &\cellcolor{lightgray}\sil n &\cellcolor{lightgray}\sil n &\sil Ø    &\sil Ø &\sil Ø    &\sil  n\\
+  4 & to cough          &\sil *hn ɔp   &\cellcolor{lightgray}\sil ŋ &\sil Ø  &\sil hn̥ & n & n̥ &\sil Ø    & Ø &\cellcolor{lightgray}\sil n̥ &\sil Ø &\sil n̥    &\sil  Ø\\
+\endtabular
+\caption{Irregularities in the patterns for Proto-Hmong-Mien {\sil *hn-} in the reconstruction of Ratliff (2010).}
+\label{tab:regs}
+\end{table}
+
+As an example why we are confident that our workflows yield in fact very useful results, even when
+applied in a purely automatic fashion, consider the pattern \#189 in our current account of the
+data, as displayed in Figure \ref{fig:fruit}. The reflexes in this pattern correspond to Ratliff's Proto-Hmong-Mien {\sil *pr-} initial, and
+our workflow allowed us to find four examples, including words for ``five'' and ``house'', which are
+also the primary witnesses in Ratliff's reconstruction. Our algorithm for cognate detection
+essentially succeeded in identifying that the words under question are cognate, despite their highly
+divergent reflexes, including {\sil p-}, {\sil tʂ-}, {\sil ts-}, and {\sil t-}. The algorithm failed
+to identify East Qiandong (\texttt{qia}) {\sil ts a ²⁴} as cognate with the other words for
+``five'', but this can be easily corrected, specifically when inspecting the correspondence pattern,
+as we would beyond doubt assume that the East Qiandong initial is {\sil ts-}. The final two forms, 
+``fruit'' and ``bear fruit'' probably reflect cognate forms, but they could not be captured by our
+cross-semantic cognate detection algorithm, since the words differ in tone, and can therefore not be
+considered as being \emph{strictly} cognate. Ratliff assigns the words to another correspondence
+pattern {\sil *pj-}, which is justified when assuming that this would yield traces in the reflexes
+of our data. Indeed, when inspecting the data further, we can see that the algorithm missed
+to assign Chuanqiandian {\sil ts i ⁵⁵} ``fruit'' to the other cognate sets, but if the algorithm had
+done so, the ``fruit'' correspondence pattern would no longer be compatible with the ``five''
+correspondence pattern and therefore no longer be listed here. 
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=\textwidth]{five.png}
+  \caption{Correspondence patterns for ``five'', ``house'', and ``fruit'', as automatically
+  identified from our data for testing.}
+  \label{fig:fruit}
+\end{figure}
+
+\begin{center}
+  \tabular{|p{14cm}|}\hline
+  SUMMARY \\\hline
+  \begin{itemize}
+    \item Correspondence patterns are similar to sound correspondences, but they are explicitly
+      thought to be identified across multiple languages, by clustering the alignment sites in a
+      given dataset.
+    \item Correspondence patterns are indispensable for linguistic reconstruction.
+    \item Apart from a tedious and not fully traceable manual identification of sound correspondence
+      patterns, two computer-assisted methods for their identification from alignments are
+      available: a (rather poor) built-in application provided by the EDICTOR tool, and a
+      sophisticated variant, based on a network-algorithm by List (2019), provided as a Python
+      package.
+    \item The EDICTOR offers for a convenient inspection of inferred correspondence patterns, and
+      allows scholars to directly see the consequences of their data analysis.
+  \end{itemize}\\\hline
+  \endtabular
+\end{center}
+
+
 
 \section{Discussion}
 
+Our workflows are not complete yet, and they are also not perfect. Many more aspects need to be
+integrated, discussed, and formalized. In the following, we will point to two important aspects,
+namely, (a)~possible improvements of the algorithm, and (b)~general challenges for all future
+endeavor in computer-assisted or computational historical linguistics.
 \subsection{Possible improvements}
-
-\begin{itemize}
-\item semi-automatic reconstruction
-\item clearer integration of automatic and semi-automatic methods in teh workflow
-\item better handling of output of the automatic tasks (visualziation, etc.)
-\end{itemize}
+The possible improvements include to further integrate our preliminary attempts for
+\emph{semi-automatic reconstruction}, starting from readily identified sound correspondence
+patterns. Experiments are ongoing in this regard, but we have not yet had time to integrate it fully
+so far. In general, our workflow also needs a clearer integration of automatic and manual
+approaches, ideally accompanied by extensive tutorials that would allow users to start with the
+tools without specifically getting in touch with us and asking us (although we tend to respond
+quickly to all kinds of inquiries). We should also work on a better handling of output formats, both
+for correspondence patterns, where we may want to produce some format similar to Ratliff's
+representation, also to allow readers to make use of the format most convenient to them, and for
+other aspects of the data. We should also further work on initial attempts on testing the
+consistency of the data, be it with help of \emph{prediction experiments} \citep{Bodt2019PREPRINTa},
+or with more elaborated quasi-probabilistic accounts that test how well a given word fits into a
+given cognate set.
 
 \subsection{General challenges}
 
-\begin{itemize}
-\item Lexical reconstruction: how to reconstruct whole words?
-\item Sound change representation of all changes along some phylogeny with sound laws
-\end{itemize}
+General challenges include the full-fledged lexical reconstruction of words, i.e., a reconstruction
+that would potentially also provide compounds in etymological dictionaries. While current
+reconstructions (also Ratliff 2010) often only provide morphemes (and thus only carry out a
+morpheme-based phonological reconstruction, instead of complete reconstructions of the words that
+were potentially used in the languages before. Furthermore, we will need a convincing annotation of
+sound change that would ideally allow us to even check which sounds changed when during language
+history on which branch of the language.
+
 
 \section{Outlook}
 
-
-
+This draft has provided a rather detailed account on what we consider the current state-of-the-art
+in computer-assisted language comparison. Starting from raw data, we have shown how these can be
+successively lifted to higher levels of annotation. While our five-step workflow can be safely
+applied purely manually, purely automatically, or in a computer-assisted manner, we have shown that
+even with a pure automatic approach, one can already get quite far in \emph{computer-assisted
+language comparison.} In the future, we hope to further enhance the workflows and make them more
+accessible to users from different backgrounds.
 
 \nocite{List2019a}
 
