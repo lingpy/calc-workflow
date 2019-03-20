@@ -70,14 +70,6 @@ A workflow connect between linguistic experts and computer applications so to en
 * Data format is both human- and machine-readable.
 * Follows a transparent guideline when handling linguistic datasets.
 * Interactive tools are provided.
---
-
-## @head:"Introduction"
-### @subhead:"The Goals"
-
-<p style="text-align:center">
-<img src="img/worktogether.jpg" alt="img" style="width:500px;text-align:center;"></img>
-</p>
 
 ---
 ## @head:"Workflows of Computer-Assisted Language Comparison"
