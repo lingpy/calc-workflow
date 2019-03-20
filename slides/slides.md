@@ -259,7 +259,7 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
-<Alignment>
+
 <p align="middle"><img src='img/alignment.png' style="width:400px;align:middle;"></img></p>
 
 <p>phonetic alignment techniques are well-known in historical linguistics and have been applied for quite some time now (List 2014, Prokić et al. 2009) </p>
@@ -278,12 +278,20 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
 
+<p>Orthography profile with IMNCT template</p>
+
+<p align="middle"><img src='img/orthography-template.png' style="width:400px;align:middle;"></img></p>
+
+--
+## @head:"CALC workflows"
+### @subhead:"From cognates to alignments"
+
 |                |    Initial (i)  | Medial (m) |    Nucleus (n)   | Coda (c) | Tone (t)|
 |:--------------:|:---------------:|:----------:|:----------------:|:--------:|:-------:|
-|  Baheng, east  |       p         |    j       |       a          |          |  ³⁵     |
-|  Baheng, west  |       t         |    j       |       a          |          |  ³⁵     |
-|  Chuanqiandian |      tʂ         |    -       |       i          |          |  ⁴³     |
-| Qiandong, east |      ts         |    -       |       a          |          |  ²⁴     |
+|  Baheng, east  |       tɕ              |    -       |      a           |     -    |  ³¹     |
+|  Baheng, west  |       tɕ              |    -       |       a          |     ŋ     |  ⁴⁴     |
+|  Chuanqiandian |        ɕ              |    -       |       a          |    ŋ     |  ⁴⁴     |
+| Chuanqiandian  |        s        |    -       |       ã          |     -   | ²²      |
 
 --
 ## @head:"CALC workflows"
