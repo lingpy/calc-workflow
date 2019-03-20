@@ -139,15 +139,6 @@ A workflow connect between linguistic experts and computer applications so to en
  11  \t Qiandong, east \t 星星    \t STAR    \t qei²⁴qei²⁴  \t     \t        \t
  12  \t Qiandong, wesst\t 星星    \t STAR    \t tei⁴⁴qei⁴⁴  \t     \t        \t
 </div>
-
---
-## @head:"CALC workflows"
-### @subhead:"From raw data to machine-readable data"
-
-<p>You can manually type the IPA and tokenize the IPA into phonemes.</p>
-<p>But what if we are dealing with <b>hundreds of entries?</b> </p>
-<p>Is there an efficient way?</p>
-
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
