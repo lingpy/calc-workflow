@@ -388,16 +388,16 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
 ### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
 
 <p style="text-align:center">
-<img src="img/sound_correspondence.png" alt="img" style="width:900px;text-align:center;"></img>
+<img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
 </p>
-(List, 2019)
+
 --
 ## @head:"CALC workflows"
 ### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
 <p style="text-align:center">
-<img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
+<img src="img/sound_correspondence.png" alt="img" style="width:900px;text-align:center;"></img>
 </p>
-
+(List, 2019)
 --
 ## @head:"Illustration of the Workflow"
 ### @subhead:"From Raw Data to Segmented Data"
