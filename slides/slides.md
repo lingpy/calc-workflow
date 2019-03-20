@@ -152,7 +152,21 @@ A workflow connect between linguistic experts and computer applications so to en
 <li>Separate the phonetic sequences into sequences of phonemes</li>
 tsja³¹  ----> tɕja³¹ ----> tɕ j a ³¹
 </ul>
-
+--
+## @head:"CALC workflows"
+### @subhead:"From raw data to machine-readable data"
+<div class="spreadsheet" data-delimiter="\t" style="width:100px;height:600px;text-align:center;">
+Grapheme \t IPA
+č        \t tʃ
+ž        \t dʒ
+th       \t tʰ
+dh       \t d̤
+sh       \t ʃ
+a        \t a
+aa       \t aː
+tsj	 \t tɕ
+la	 \t l a
+</div>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
@@ -212,7 +226,7 @@ ID  \t DOCULECT       \t CONCEPT \t ENGLISH  \t VALUE      \t IPA         \t TOK
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
 
-<p align="middle"><img src="http://lingulist.de/documents/talks/img/calc-project/algo2.jpg" style="width:800px;align:middle;"></img></p>
+<p align="middle"><img src="img/partialbcd.svg" style="width:800px;align:middle;"></img></p>
 --
 ## @head:"CALC workflows"
 ### @subhead:"From segmented words to computer-inferred cognates"
