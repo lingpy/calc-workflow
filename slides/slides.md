@@ -1,4 +1,4 @@
-# Workflows ffor Computer-Assisted Language Comparison
+# Workflows for Computer-Assisted Language Comparison
 
 @data-background:#f5f5f7
 @data-transition:concave
@@ -10,15 +10,17 @@
 @style:text-align:center;
 @style:font-size:100%;
 
-## <font color = '#5b687c'>Workflows ffor Computer-Assisted Language Comparison</font>
+## <font color = '#5b687c'>Workflows for Computer-Assisted Language Comparison</font>
 ----
 
 <p style="text-align:center;color:#7687a1;font-weight:bold;font-size:110%;">State of the Art</p>
 <p style="text-align:center">
-<img src="img/calc-yinyang.svg" alt="image" style="width:200px"></img>
+<img src="img/calc-yinyang.png" alt="image" style="width:200px"></img>
 </p>
 
-
+<aside class='notes'>
+Hello everyone, thanks for 
+</aside>
 ---
 ## @head:"Introduction"
 
@@ -119,7 +121,7 @@ the same time.
 </aside>
 
 ---
-## @head:"Workflows for Computer-Assisted Language Comparison"
+## @head:"CALC workflows"
 ### @subhead:"Overview"
 
 <p style='text-align:center'>
@@ -147,10 +149,10 @@ discussed.
 </aside>
 
 --
-## @head:"Workflows for Computer-Assisted Language Comparison"
+## @head:"CALC workflows"
 ### @subhead:"Details of the workflows"
 <p style="text-align:center">
-<img src="img/calc-workflow.svg" alt="img" style="width:600px;text-align:center;"></img>
+<img src="img/calc-workflow.png" alt="img" style="width:600px;text-align:center;"></img>
 </p>
 <aside class='notes'>
 This picture presents the full workflow, it comprises 5
@@ -168,15 +170,19 @@ detailed information in the handout accompanying
 this talk.
 </aside>
 --
-## @head:"Workflows for Computer-Assisted Language Comparison"
+## @head:"CALC workflows"
 ### @subhead:"Materials and methods"
 
 <p style ='text-align:center'>
-<img src ='img/languages.svg' style="width:450px"></img>
+<img src ='img/languages.png' style="width:500px"></img>
 </p>
-* Chén 陳其光 (2012). Miao and Yao language. 苗瑤语文
-* 25 Hmong-Mien languages in the original (10 in our selection)
-* 885 concepts in the original (313 in our selection, compatible with the Burmish Etymological dictionary project)
+
+<ul >
+<li style='font-size:70%'> Chén 陳其光 (2012). Miao and Yao language. 苗瑤语文</li>
+<li style='font-size:70%'> 25 Hmong-Mien languages in the original (10 in our selection)</li>
+<li style='font-size:70%'> 885 concepts in the original (313 in our selection, compatible with the Burmish Etymological dictionary project)</li>
+</ul>
+
 <aside class='notes'>
 The data we use to illustrate our workflow was
 originally collected by 陳其光, and later added in
@@ -191,7 +197,7 @@ languages.
 
 
 --
-## @head:"Workflows for Computer-Assisted Language Comparison"
+## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 <p style='text-align:center'>
 <img src="img/raw-machine.svg" style="width:800px" alt="img"></img>
@@ -203,7 +209,7 @@ readable format. I will try to explain in detail, what
 this means.
 </aside>
 --
-## @head:"Workflows for Computer-Assisted Language Comparison"
+## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 <p style='text-align:center'>
 <img src="img/chen-illustration.svg" style="width:800px" alt="img"></img>
@@ -301,7 +307,7 @@ ng(U+014b)
 --
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
-We recommend *orthography Profiles* as a way to:
+We recommend *Orthography Profiles* as a way to:
 
 <ul>
 <li> convert arbitrary input data to IPA: </li>
@@ -310,7 +316,7 @@ We recommend *orthography Profiles* as a way to:
     <li> ng    ---->   ŋ </li>
   </ul>
 <li>and to segment the input data:</li>
-tsja³¹  ----> tɕja³¹ ----> tɕ j a ³¹
+tsja³¹  ----> tɕa³¹ ----> tɕ  a ³¹
 </ul>
 
 <aside class="notes">
@@ -693,7 +699,7 @@ patterns.
 
 --
 ## @head:"CALC workflows"
-### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+### @subhead:"From strict cognates to sound correspondence patterns"
 
 <p style="text-align:center">
 <img src="img/sound-correspondence-classic.png" alt="img" style="width:900px;text-align:center;"></img>
@@ -715,11 +721,12 @@ but also to criticize a theory and to try to improve it.
 
 --
 ## @head:"CALC workflows"
-### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+### @subhead:"From strict cognates to sound correspondence patterns"
 <p style="text-align:center">
 <img src="img/ratliff2010.png" alt="img" style="width:600px;text-align:center;"></img>
 </p>
-(Ratliff, 2010:57)
+
+<p style='text-align:center;font-size:60%;'>Ratliff et al. (2010). Hmong-Mien language history. Pacific Linguistics (Page 57)</p>
 
 <aside class='notes'>
 A better example is provided by Martha Ratliff’s
@@ -743,7 +750,7 @@ the data in this form.
 </aside>
 --
 ## @head:"CALC workflows"
-### @subhead:"From strict, cross-semantic cognates to sound correspondence patterns"
+### @subhead:"From strict cognates to sound correspondence patterns"
 
 <p style="text-align:center">
 <img src="img/edictor-hn.png" alt="img" style="width:600px;text-align:center;"></img>

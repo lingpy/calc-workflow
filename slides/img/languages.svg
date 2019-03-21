@@ -16,7 +16,10 @@
    width="670.54895pt"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="languages.svg">
+   sodipodi:docname="languages.svg"
+   inkscape:export-filename="/home/wu/Documents/calc-workflow/slides/img/languages.png"
+   inkscape:export-xdpi="705"
+   inkscape:export-ydpi="705">
   <metadata
      id="metadata702">
     <rdf:RDF>
@@ -25,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,7 +46,7 @@
      id="namedview700"
      showgrid="false"
      inkscape:zoom="1.0488889"
-     inkscape:cx="469.27951"
+     inkscape:cx="308.63333"
      inkscape:cy="265.92225"
      inkscape:window-x="65"
      inkscape:window-y="24"
