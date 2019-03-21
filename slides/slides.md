@@ -110,7 +110,7 @@ efficiency of computers, and the accuracy of humans.
 To allow humans and machines to work together successfully, it is important that:
 
 * our data is both human- and machine-readable,
-* we follow transparent guidelents when handling linguistic datasets,
+* we follow transparent guidelines when handling linguistic datasets,
 * we offer interfaces that allow humans and machines to access the data at the same time.
 
 <aside class='notes'>
@@ -129,6 +129,7 @@ the same time.
 </p>
 
 <aside class='notes'>
+<br style='font-size:70%'>
 Our workflows for computer-assisted language
 comparison have so far been intensively tested on a
 small set of 8 Burmish languages, which we
@@ -146,6 +147,7 @@ Hill develop the workflow further to account also for
 (semi)-automatic reconstructions, but in this talk, only
 the identification of correspondence patterns will be
 discussed.
+</br>
 </aside>
 
 --
@@ -200,7 +202,7 @@ languages.
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 <p style='text-align:center'>
-<img src="img/raw-machine.svg" style="width:800px" alt="img"></img>
+<img src="img/raw-machine.png" style="width:800px" alt="img"></img>
 </p>
 
 <aside class='notes'>
@@ -212,7 +214,7 @@ this means.
 ## @head:"CALC workflows"
 ### @subhead:"From raw data to machine-readable data"
 <p style='text-align:center'>
-<img src="img/chen-illustration.svg" style="width:800px" alt="img"></img>
+<img src="img/chen-illustration.png" style="width:800px" alt="img"></img>
 </p>
 
 <aside class="notes">
@@ -310,13 +312,15 @@ ng(U+014b)
 We recommend *Orthography Profiles* as a way to:
 
 <ul>
-<li> convert arbitrary input data to IPA: </li>
+<li> Convert arbitrary input data to IPA: </li>
   <ul style="list-style-type:none;">
     <li> tsj   ---->  tɕ </li>
     <li> ng    ---->   ŋ </li>
   </ul>
-<li>and to segment the input data:</li>
-tsja³¹  ----> tɕa³¹ ----> tɕ  a ³¹
+<li>And to segment the input data:</li>
+   <ul style="list-style-type:none;">
+      <li> tsja³¹  ----> tɕa³¹ ----> tɕ  a ³¹<li>
+   </ul>
 </ul>
 
 <aside class="notes">
@@ -377,7 +381,7 @@ word consists of two morphemes.
 ### @subhead:"From segmented words to computer-inferred cognates"
 
 <p style='text-align:center'>
-<img src="img/machine-partial.svg" style="width:800px" alt="img"></img>
+<img src="img/machine-partial.png" style="width:800px" alt="img"></img>
 </p>
 <aside class="notes">
 Now, we come to the second stage, in which we try to
@@ -466,7 +470,7 @@ algorithm judges the words to be cognate.
 ### @subhead:"From cognates to alignments"
 
 <p style='text-align:center'>
-<img src="img/partial-alignment.svg" style="width:800px" alt="img"></img>
+<img src="img/partial-alignment.png" style="width:800px" alt="img"></img>
 </p>
 
 <aside class="notes">
@@ -521,7 +525,6 @@ A typical Chinese syllable, for example, consists of
 of a Chinese word, we can easily align it with any
 other word, as long as we know the template.
 </aside>
-<!-- <font color="red"> add another slide (same title and subtitle) in order to illustrate templatte-based alignments, ideally with a table</font> -->
 --
 ## @head:"CALC workflows"
 ### @subhead:"From cognates to alignments"
@@ -583,7 +586,7 @@ called “Alignment”.
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
 <p style='text-align:center'>
-<img src="img/alignment-strict.svg" style="width:800px" alt="img"></img>
+<img src="img/alignment-strict.png" style="width:800px" alt="img"></img>
 </p>
 
 <aside class='notes'>
@@ -652,11 +655,11 @@ in the data, which recur in different words.
 <aside class='notes'>
 Here we give another example to show you how
 actually it is done. I would like to draw your attention
-to the 東黔東language. The tei²⁴ in Son and tei²⁴ in
+to the 東黔東 language. The tei²⁴ in Son and tei²⁴ in
 Daughter were not in the same first analysis, in the
 “cognacy” column, but now, after our analysis, in the
 cross-semantic column, the algorithm found them to
-be related, because the word is identical languageinternally,
+be related, because the word is identical internally,
 and our test with strict alignments accepted
 this.
 </aside>
@@ -690,7 +693,7 @@ cognates in our data.
 </aside>
 --
 <p style='text-align:center'>
-<img src="img/strict-soundcorrespondence.svg" style="width:800px" alt="img"></img>
+<img src="img/strict-soundcorrespondence.png" style="width:800px" alt="img"></img>
 </p>
 <aside class='notes'>
 We can now start to search for sound correspondence
