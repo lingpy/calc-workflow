@@ -4,6 +4,7 @@ This repository contains the data, the python scripts, the slides and the handou
 
 ## Data
 You can find data in the **code** folder.
+
 | File |Stage  |
 | ------:|:-----|
 |`chen-sublist.tsv` |Raw data to machine readable data|
@@ -16,6 +17,7 @@ You can find data in the **code** folder.
 
 ## Python codes
 You can find all the python scripts in the **code** folder.
+
 | Python script | Functions |
 | -------------:|:----------|
 | `to_wordlist.py`|Extract 10 Hmong-Mien languages from raw data |
@@ -23,11 +25,14 @@ You can find all the python scripts in the **code** folder.
 | `corrpat.py`|Summarise sound patterns|
 |P_map.py | The python script to generate map |
 ## Handout
+
 You can find `handout.pdf` in the **handout** folder.
 
 ## Presentation slides
+
 The presenation slide is in HTML format, please find `slides.html` in the **slides** folder.
 
 ## Interactive web-based application
+
 - Profile : http://calc.digling.org/profile/
 - EDICTOR : http://edictor.digling.org/
