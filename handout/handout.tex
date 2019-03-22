@@ -242,17 +242,17 @@ this purpose.
 \subsection{Materials and Methods for the Workflow Illustration}
 
 The data we use to illustrate our workflow in the next section was originally collected by
-\citet{Chen2012}, and later added in digital form to the Wiktionary project. Chén's collection of
+\citet{Chen2012}, and later added in digital form to the SEALANG project. Chén's collection of
 \emph{frequent terms} (\emph{chángyòng cíbiǎo 常用词表}, pp. 567-862) comprises 885 different
 concepts translated into 25 varieties of Hmong-Mien. In Figure \ref{fig:data}, we contrast one
-exemplary page from Chéns book with the data as it has been prepared by the Wiktionary users.
+exemplary page from Chéns book with the data as it has been prepared by the SEALANG project.
 We can see that the data is essentially the same, but that the rows and columns of the tabular form
 have been swapped.
 
 \begin{figure}[htb]
   \centering
   \includegraphics[width=\textwidth]{chen-illustration.pdf}
-  \caption{Contrasting Chén's original data with the table in Wiktionary}
+  \caption{Contrasting Chén's original data with the table in the SEALANG project}
   \label{fig:data}
 \end{figure}
 
@@ -265,7 +265,7 @@ methods to use our issue-tracker on GitHub in case they face difficulties of any
 In this talk, we present the workflow with a subset of 10 varieties of the Hmong-Mien languages in
 Chén's sample, for which we selected a subset of 313 concepts. The concepts were selected by
 checking the overlap with the current 504 concept list of the Burmish Etymological Database project
-(headed by Nathan W. Hill, data online at \url{https://dighl.github.io/burmish}). 
+(headed by Nathan W. Hill, data online at \url{https://dighl.github.io/burmish}).
 The languages were selected for some general reasons, like lexical coverage, geographic
 distribution, or basic diversity, but not with the specific ``eye" of a historical linguist who
 would select languages to explore the history of a language family. We would be glad about any additional
@@ -289,13 +289,13 @@ make it easy to edit the data \emph{manually} \citep{List2017d}, nor can we use 
 like LingPy \citep{List2018i}, which can help us a great deal in identifying cognate sets and
 aligning our data.
 
-A first problem for many researchers is to get used to our formats for data representation. 
+A first problem for many researchers is to get used to our formats for data representation.
 In contrast to the typical style used by scholars, we do not use simple tables, with languages in a
 row and concepts in a column, or vice versa, but instead a so-called long-table format, in which we
 reserve a \emph{row} in a table for each word, and add a header, which tells us what the cells in
 each column contain in terms of the data. This long-table format reflects the rule of
 ``One Value per Cell'', as stated by the Cross-Linguistic Data Formats initiative
-\citep{Forkel2018a}, reproduced in Figure \ref{fig:onevalue}. 
+\citep{Forkel2018a}, reproduced in Figure \ref{fig:onevalue}.
 
 \begin{figure}[htb]
   \centering
@@ -325,9 +325,9 @@ with our input. This includes
 
 We indicate words in the computer-readable form, by adding a column called \texttt{TOKENS} in which
 data is segmented with a space to distinguish different sounds, and with the plus-symbol to
-distinguish different morphemes. 
+distinguish different morphemes.
 
-Thus, our original data consists of a text-file, separated by tabstop, with the first row serving as
+Thus, our original data consists of a text-file, separated by tab-stop, with the first row serving as
 a header, and the following rows providing information for one word per language. Our software
 requires the following columns to be submitted:
 
@@ -345,12 +345,12 @@ column \texttt{FORM}, which shows the original data but corrected for multiple v
 software usually automatically creates a form \texttt{IPA}, which is not necessarily used, but a
 legacy form that will be replaced by the \texttt{FORM} in future updates.
 Additional values are then consistently added by our workflow and will be discussed later.
- 
+
 Note in general, the data can be prepared with typical spreadsheet programs, such as Excel or
-LibreOffice or GoogleDocs. In order to create the textfiles, we recommend to simply copy-paste the
+LibreOffice or GoogleDocs. In order to create the text files, we recommend to simply copy-paste the
 data from a spreadsheet by opening an empty text file, copying the data, and pasting it into the
 file. In this way, the tab-separated format required by our applications will always be preserved.
- 
+
 We offer procedures to ease the conversion of the data to the required formats. While the creation
 of long-table formats is usually done by applying a custom script, we use \emph{orthography
 profiles} to create morpheme-segmented IPA representations for our \texttt{TOKENS} column from the
@@ -401,17 +401,16 @@ Once the data is segmented and provided in the long table format as it is requir
 software package, as described in our tutorial \citep{List2018f}, we can use LingPy's partial
 cognate detection method to infer partial cognates in our linguistic data. Partial cognates are
 hereby understood as cognate assessments \emph{per morpheme} in our data, as opposed to cognate
-assessments \emph{per word}. 
-While it has always been clear to scholars working in the field of South-East Asian linguistics that
-cognacy should rather be assigned on the level of the morpheme than on the level of full words,
+assessments \emph{per word}.
+While it has always been clear to scholars working in the field of South-East Asian linguistics that cognacy should rather be assigned on the level of the morpheme than on the level of full words,
 given that the high degree of compounding would easily complicate the identification of cognate
 relations, automatic methods, and specifically phylogenetic reconstruction approaches usually still
-assume a rather naive one-word-one-cognate relation \citep{List2016f}. 
+assume a rather naive one-word-one-cognate relation \citep{List2016f}.
 
 In our framework, we explicitly address this problem by adopting a numerical annotation format in
 which each morpheme instead of each word form is assigned to a specific cognate set
 \citep{Hill2017a}. This framework is illustrated in Figure \ref{fig:pcogs}, where we contrast word
-forms for ``yesterday" in five Burmish varieties, indicating their detailed ``cognate relations". 
+forms for ``yesterday" in five Burmish varieties, indicating their detailed ``cognate relations".
 In the first ``traditional" style of cognate coding, we would proceed in a \emph{strict} way, only
 allowing those words which are completely cognate in all their morphemes to be judged as cognates.
 In the second, \emph{loose} cognate annotation, we judge all words that are in a \emph{connected
@@ -483,9 +482,9 @@ that corresponding segments are placed in the same column \citep{List2018d}. For
 annotation of sound correspondences, alignments are a \emph{sine qua non}, there is no way around
 them, even if scholars at times think otherwise. Since sound correspondences can only be annotated
 and detected when comparing sound sequences (words, morphemes) in full, we need alignments to
-identify them, specifically when working with more than just two languages. 
- 
-During the beginning of the second millenium, the methods for phonetic alignments have drastically
+identify them, specifically when working with more than just two languages.
+
+During the beginning of the second millennium, the methods for phonetic alignments have drastically
 improved. Starting with the work by \citet{Kondrak2000} on pairwise alignments, we have now stable
 algorithms for multiple alignments that yield accuracy scores almost comparable to the
 differences we would expect between human annotators \citep{List2014d}. With EDICTOR
@@ -494,14 +493,14 @@ tool that facilitates to align words across a larger number of languages, and th
 package \citep{List2018i} offers a very stable implementation of the Sound-Class-Based phonetic
 Alignment algorithm \citep{List2012c}, which can be considered the current state of the art, as far
 as multiple phonetic alignments are concerned.
- 
+
 Unfortunately, phonetic alignment algorithms are not perfect, and correcting alignments manually is
 tedious, specifically when working in computer-assisted workflows, where one runs a computational
 analysis and then has experts correct the results. If one changes one cognate set assignment, one
 has to re-do the whole alignment analysis, and if the algorithm constantly gets something wrong,
 this means that the researcher will need to correct the alignment ever and ever again, even when
-only small changes to the data are undertaken. 
- 
+only small changes to the data are undertaken.
+
 For this reason, we started to develop a new method for multiple phonetic alignments, specifically
 targeted to SEA languages with restricted syllable structure, which allows us to align words without
 actually aligning them. This method, which we call \emph{template-based alignments}, starts from the
@@ -512,8 +511,8 @@ phonotactic structure of each syllable. These \emph{templates} are stored in a c
 \texttt{STRUCTURE}, for convenience, and they are arbitrary in so far as we allow users to represent
 their template by any symbol sequence, as long as they respect our two-fold segmentation for
 segmentized IPA-strings, which uses space for the segmentation of sounds, and the plus sign to
-segment morphemes. 
- 
+segment morphemes.
+
 For reasons of simplicity, we started from the well-known structure of Sinitic languages, which --
 following \citet{Wang1996} --
 assumes syllable templates consisting of an \emph{initial} (\texttt{i}), a \emph{medial}
@@ -531,10 +530,10 @@ four Hmong-Mien languages are successively aligned with each other.
   \resizebox{\textwidth}{!}{%
   \tabular{ccccc}
   \tabular{llll}
-  \bfseries Doculect & 
-  \bfseries Concept & 
-  \bfseries Tokens & 
-  \bfseries Structure 
+  \bfseries Doculect &
+  \bfseries Concept &
+  \bfseries Tokens &
+  \bfseries Structure
   \\\hline\hline
   East Baheng                 & seven  &\sil tɕ a ³¹ &\ttfamily i n t \\
   West Baheng                 & seven  &\sil tɕ a ŋ ⁴⁴ &\ttfamily i n c t \\
@@ -551,8 +550,8 @@ four Hmong-Mien languages are successively aligned with each other.
   \sil tɕ &\sil - &\sil a &\sil ŋ &\sil ⁴⁴ \\
   \sil ɕ  &\sil - &\sil a &\sil ŋ &\sil ⁴⁴  \\
   \sil s  &\sil - &\sil ã &\sil - &\sil ²²   \\
-  \endtabular & → & 
-  \tabular{cccc} 
+  \endtabular & → &
+  \tabular{cccc}
   \multicolumn{4}{c}{\bfseries Alignment} \\\hline\hline
   \sil tɕ & \sil a &\sil - &\sil ³¹ \\
   \sil tɕ & \sil a &\sil ŋ &\sil ⁴⁴ \\
@@ -574,16 +573,16 @@ strings. Since our procedure also offers to capture the beginning and the end of
 allows for a rather straightforward handling that is usually sufficient for datasets of moderate
 size. We illustrate this procedure in Table \ref{tab:ortho2}. An alternative possibility is to use
 the SinoPy library, a Python package for quantitative tasks in Chinese historical linguistics
-\citep{List2018g} to create templates from input strings automatically. 
+\citep{List2018g} to create templates from input strings automatically.
 
-%As many SEA languages seem to have similar syllable structures as Sinitic languages, this phonotactic template can help us aligning the segmentations as well. For this task, we need a clear guideline to align the segmentations. For LingPy to align segmentations according to the template we set up, an orthography profile comes in handy for this aspect, to indicate the alignment rules, we use i, m, n, c and t to represent Initial, Meidial, Nucleus, Coda (ending) and Tone in the profile. 
+%As many SEA languages seem to have similar syllable structures as Sinitic languages, this phonotactic template can help us aligning the segmentations as well. For this task, we need a clear guideline to align the segmentations. For LingPy to align segmentations according to the template we set up, an orthography profile comes in handy for this aspect, to indicate the alignment rules, we use i, m, n, c and t to represent Initial, Meidial, Nucleus, Coda (ending) and Tone in the profile.
 
 \begin{table}[htb]
   \centering
 \begin{tabular}{llll}
-\bfseries Grapheme & 
-\bfseries Segmented & 
-\bfseries IPA   & 
+\bfseries Grapheme &
+\bfseries Segmented &
+\bfseries IPA   &
 \bfseries Structure \\\hline\hline
 \sil \textasciicircum{}tʰ & \sil tʰ    & \sil tʰ    & \ttfamily i \\
 \sil \textasciicircum{}v  & \sil v     & \sil v     & \ttfamily i \\
@@ -601,7 +600,7 @@ form, the third column contains a certain amount of corrections for IPA handling
 column offers the data in form of the phonotactic structure.}
 \label{tab:ortho2}
 \end{table}
- 
+
 Template-based alignments have not been extensively tested so far, although it is clear for our
 purpose, that they work at a level of 100\%, given that the user virtually provides the alignment
 without actually aligning sequences. We can think of additional experiments, in which our approach
@@ -644,7 +643,7 @@ which we dispose of little knowledge with respect to its patterns, we agree expl
 like \citet{Dybo2008} in emphasizing that we should always expect to find clear-cut etymologies
 within words of the same meaning, even if we know that more etymologies could be find when searching
 \emph{cross-semantically}, i.e., among words which differ with respect to their meanings.
- 
+
 There are only a few approaches that try to identify cognates across different concepts, and one
 could say that the task of \emph{cross-semantic cognate detection} is still one of the open problems
 in computational historical linguistics. Approaches proposed so far include a rather complex
@@ -653,13 +652,13 @@ proxies on colexifications, drawn from the database by \citet{Dellert2017}, to i
 different meaning slots. As this task is not completely evaluated, and only described in a short
 paper, it is difficult to access its usefulness for our purposes. Another approach is presented by
 \citet{Arnaud2017}, who apply Support Vector Machines trained on form and semantic similarities of
-word pairs along with a flat clustering algorithm to partition words into cognate sets. 
+word pairs along with a flat clustering algorithm to partition words into cognate sets.
 While this approach is publicly available and seems to yield promising results, we are not sure to
 which degree it would help us with our very specific goals of lifting an initially ``raw" dataset
 to a level where we can assess sound correspondence patterns across multiple languages, especially
 since the algorithms the authors use for cognate detection do \emph{not} take regular sound
 correspondences into account, and they are also \emph{not} sensitive to partial cognates.
- 
+
 Thus, instead of these previously proposed solutions, we propose our own, rather simple approach to
 search for cross-semantic partial cognate sets in our data. This approach is based on the
 well-observed fact that the majority of morphemes in South-East Asian languages with a certain
@@ -668,17 +667,17 @@ preference for compounding and a high degree of word formation, is highly \emph{
 that they recur within different words, surfacing in the form of \emph{partial colexifications}
 \citep[62]{Hill2017a}. The term \emph{partial colexification} hereby serves as a cover term for
 morphemes recurring across the lexicon of a language, with no specific distinction being made if
-they are polysemous or homophonous. 
- 
+they are polysemous or homophonous.
+
 Our search for partial colexifications would not allow us directly to identify cross-semantic
 cognates consistently, given that sound change may yield different morpheme mergers across different
 languages. As a result, we cannot take the information from one language alone, but have to smartly
 summarize all the information on recurring morphemes we can find in our data. The solution for this
 problem is nevertheless straightforward, and it builds on the idea to not only compare single words, as originally proposed in \citet{Hill2017a}, but to compare complete \emph{alignments} instead. As our data is already aligned, and we have identified
 cognates in a first run, potentially even refined by experts, we can compare whole cognate sets that
-contain \emph{identical words in the same language}. 
+contain \emph{identical words in the same language}.
 
-If two alignments are completely identical with respect to the words they contain, 
+If two alignments are completely identical with respect to the words they contain,
 there is no reason
 to assign them to different cognate sets, and we can directly assign them to the same cognate class.
 Even if they are simply homophonous, the assumption of regular sound change will allow us to treat
@@ -689,14 +688,14 @@ rather the rule than the exception.  We often will encounter cases where we have
 which are only filled in parts with data from the different languages, and we will usually have
 \emph{missing data} for one or more of the languages in our sample in a given alignment. Thus, when
 comparing two alignments with each other, we need to make sure that we have at least one word in one
-language in common. 
+language in common.
 
 As an example, consider the data on ``son'' and ``daughter'' in five language varieties of our
 illustration data. As can be seen immediately, two languages show striking \emph{partial
 colexifications} for the two concepts, Chuanqiandian and East Qiandong. In both cases, one morpheme
 recurs in the words for the two concepts. In the other cases, we find different words, but if we
 compare the overall cognacy, we can also see that all five languages share one cognate morpheme for
-``son'' (corresponding to the Proto-Hmong-Mien {\sil *tu̯ɛn} in Ratliff's reconstruction), 
+``son'' (corresponding to the Proto-Hmong-Mien {\sil *tu̯ɛn} in Ratliff's reconstruction),
 and three varieties share one cognate morpheme for ``daughter'' (corresponding to {\sil
 *mphje\textsuperscript{D}} in Ratliff's 2010 reconstruction), with the morpheme for ``son''
 occurring also in the words for ``daughter'' in East Qiandong and Chuanqiandian, as mentioned
@@ -735,7 +734,7 @@ alignments are \emph{compatible}, i.e., they have (1)~at least one morpheme in o
 occurring in both aligned cognate sets, which is (2)~identical, and (3)~no shared morphemes in two
 alignments which are \emph{not} identical, we treat them as belonging to one and the same cognate
 set. We iterate over all alignments in the data algorithmically, merging the alignments into larger
-sets in a greedy fashion, and re-assign cognate sets in the data. 
+sets in a greedy fashion, and re-assign cognate sets in the data.
 
 The results can be easily
 inspected with help of the EDICTOR tool, for example, by inspecting cognate set distributions in
@@ -750,7 +749,7 @@ languages in our sample, we find quite a few cross-semantically recurring morphe
   \tabular{llll}\hline
   Language &
   Concept &
-  Form & 
+  Form &
   Morphemes \\\hline\hline
   East Baheng & NOSE & ⁿpjau³¹ & \texttt{NOSE} \\
   East Baheng & NASAL MUCUS & qa³/⁰ + ⁿpjau³¹ & \texttt{qa NOSE} \\\hline
@@ -811,8 +810,8 @@ If we wish to reconstruct the proto-language, we \emph{need} to switch to a mult
 perspective, especially with respect to sound correspondences. For this reason, we adopt the term
 \emph{correspondence pattern} for those cases where we have more than just two languages in our
 data, and \emph{correspondence pattern detection} is the task by which we try to identify all
-patterns of regular sound correspondences in our data. 
- 
+patterns of regular sound correspondences in our data.
+
 In our specific, alignment-based interpretation of sound correspondences, sound correspondence
 patterns are understood as \emph{recurring alignment sites} in a given dataset.  An \emph{alignment
 site} is a column in a given alignment, following the terminology that is usually employed by
@@ -838,7 +837,7 @@ variations that their data offers.
   \label{fig:beekes}
 \end{figure}
 
- 
+
 An example for a very transparent form of presenting a reconstruction along with correspondence
 patterns is the Proto-Hmong-Mien reconstruction by \citet{Ratliff2010}. Ratliff herself talks about
 \emph{correspondence sets}, listing a proto-sound following her reconstruction and all
@@ -862,7 +861,7 @@ given the data in this form.
   \caption{Example from Ratliff (2010: 57), correspondence pattern for Proto-Hmong-Mien {\sil *hn-}.}
   \label{fig:ratliff}
 \end{figure}
- 
+
 The result of an correspondence pattern analysis as we imagine and propose it can be thought of as
 some kind of a table, in which languages are placed in the columns, and correspondence patterns are
 placed in rows, with each cell indicating for each individual correspondence pattern, which reflex
@@ -887,22 +886,22 @@ track of all steps that were done before.
   \caption{Interactive display of correspondence patterns within the EDICTOR tool.}
   \label{fig:ede}
 \end{figure}
- 
+
 Correspondence patterns can be computed in two ways, either by using the correspondence pattern
 detection algorithm by \citet{List2019a}, implemented in the LingRex package \citep{List2018j},
 which will probably later be included as part of LingPy. An alternative is to use the EDICTOR
 directly, although this algorithm is based on a simple sorting of alignment sites, and will have
 difficulties when being confronted with particularly patchy data, with many missing reflexes for a
 given cognate set.
- 
+
 When applying the algorithm by \citet{List2019a} to our data of 10 languages, we find as many as 786
 patterns in total for all five different phonotactic positions that we were assuming for this
 analysis. This may seem to be a lot, but it should be kept in mind that -- apart from errors in our
 identification of cognate sets and alignments -- it is quite common to find a lot of exceptional
 correspondence patterns, and even in Ratliff's data, we can see that essentially all four patterns
-offered for Proto-Hmong-Mien {\sil *hn-} are different from each other in at least one reflex. 
+offered for Proto-Hmong-Mien {\sil *hn-} are different from each other in at least one reflex.
 We still expect that a certain amount, especially of the 323 patterns in our analysis which occur only once in the data, may result from the fact that we did only use computational analyses for the data analysis, without any human interaction. In general, however, we are confident, that our approach
-could identify a quite substantial part of the patterns in the data, which is also confirmed by the comparison with Ratliff's work, which we qualitatively compared against our findings. 
+could identify a quite substantial part of the patterns in the data, which is also confirmed by the comparison with Ratliff's work, which we qualitatively compared against our findings.
 
 \begin{table}[htb]
   \centering
@@ -922,16 +921,16 @@ could identify a quite substantial part of the patterns in the data, which is al
   \bfseries 10&
   \bfseries 11\\\hline\hline
   \multicolumn{3}{c}{Pattern}                             &
-  \sil n̥h & 
-  \sil n̥h& 
-  \sil hn̥ & 
-  \sil n & 
-  \sil n̥ & 
-  \sil n̥ &  
-  \sil n̥ & 
-  \sil ? & 
+  \sil n̥h &
+  \sil n̥h&
+  \sil hn̥ &
   \sil n &
-  \sil n̥ & 
+  \sil n̥ &
+  \sil n̥ &
+  \sil n̥ &
+  \sil ? &
+  \sil n &
+  \sil n̥ &
   \sil n \\\hline\hline
   1 & grain head/bag    &\sil *hnɔn    &\sil n̥h   &\sil n̥h &\sil hn̥ & n & n̥ &\sil n̥    & n̥ &\sil Ø    &\sil n &\sil \cellcolor{lightgray} n &\sil  Ø\\
   2 & to hear           &\sil *hnəumX  &\sil n̥h   &\sil n̥h &\sil hn̥ & n & Ø &\sil n̥    & n̥ &\cellcolor{lightgray}\sil n &\sil n &\sil n̥    &\sil  Ø\\
@@ -951,7 +950,7 @@ essentially succeeded in identifying that the words under question are cognate, 
 divergent reflexes, including {\sil p-}, {\sil tʂ-}, {\sil ts-}, and {\sil t-}. The algorithm failed
 to identify East Qiandong (\texttt{qia}) {\sil ts a ²⁴} as cognate with the other words for
 ``five'', but this can be easily corrected, specifically when inspecting the correspondence pattern,
-as we would beyond doubt assume that the East Qiandong initial is {\sil ts-}. The final two forms, 
+as we would beyond doubt assume that the East Qiandong initial is {\sil ts-}. The final two forms,
 ``fruit'' and ``bear fruit'' probably reflect cognate forms, but they could not be captured by our
 cross-semantic cognate detection algorithm, since the words differ in tone, and can therefore not be
 considered as being \emph{strictly} cognate. Ratliff assigns the words to another correspondence
@@ -959,7 +958,7 @@ pattern {\sil *pj-}, which is justified when assuming that this would yield trac
 of our data. Indeed, when inspecting the data further, we can see that the algorithm missed
 to assign Chuanqiandian {\sil ts i ⁵⁵} ``fruit'' to the other cognate sets, but if the algorithm had
 done so, the ``fruit'' correspondence pattern would no longer be compatible with the ``five''
-correspondence pattern and therefore no longer be listed here. 
+correspondence pattern and therefore no longer be listed here.
 
 \begin{figure}[htb]
   \centering
