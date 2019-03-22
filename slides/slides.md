@@ -19,7 +19,7 @@
 </p>
 
 <aside class='notes'>
-Hello everyone, thanks for 
+Hello everyone, thanks for inviting me. I am Mei-Shin and I would like to introduce the workflows for computer-assisted language comparison.
 </aside>
 ---
 ## @head:"Introduction"
@@ -43,7 +43,7 @@ explain quickly what we mean when talking about
 The comparative method has been the key method of
 historical linguistics since the 19th century. Originally,
 it was applied to the Indo-European languages,
-developed by scholars like Rasmus Rask and Jacob
+developed by scholars like R[ʁ]asmus R[ʁ]ask and Jacob
 Grimm.
 </aside>
 --
@@ -78,8 +78,8 @@ language families is still rather fuzzy.
 </p>
 <aside class='notes'>
 The reason is that the comparative method is very
-tedious to apply, lacking consistency and efficiency.
-On the other hand, it has a high accuracy and a high
+tedious to apply. Also, comparing with computers, human lack of consistency and efficiency.
+However, it has a high accuracy and a high
 flexibility.
 
 Computational methods, on the other hand, are by
@@ -96,7 +96,7 @@ and flexibility.
 </p>
 
 <aside class='notes'>
-This calls for a new framework of computer-assistted
+This calls for a new framework of computer-assisted
 language comparison, following the idea in many
 computer-assisted disciplines. By combining the
 efforts, we can get the best of two worlds, the
@@ -129,12 +129,11 @@ the same time.
 </p>
 
 <aside class='notes'>
-<br style='font-size:70%'>
 Our workflows for computer-assisted language
 comparison have so far been intensively tested on a
 small set of 8 Burmish languages, which we
 investigated in collaboration with Nathan Hill, who
-was responsible for the qualita[ə]tive investigation of
+was responsible for the qualitative investigation of
 the data and for the common discussion of new
 computer-assisted methods which were then
 implemented by Mattis List.
@@ -147,7 +146,6 @@ Hill develop the workflow further to account also for
 (semi)-automatic reconstructions, but in this talk, only
 the identification of correspondence patterns will be
 discussed.
-</br>
 </aside>
 
 --
@@ -158,7 +156,7 @@ discussed.
 </p>
 <aside class='notes'>
 This picture presents the full workflow, it comprises 5
-different stages at this moment, in which we
+different processes at this moment, in which we
 successively lift linguistic data from their raw form
 up to a level where correspondence patterns across
 cognate words have been automatically identified and
@@ -220,7 +218,7 @@ this means.
 <aside class="notes">
 To see in detail, what this means, let’s have a look at
 one exemplary page from Chén’s book, with the data,
-as it has been prepared by the Wiktionary users.
+as it has been prepared by the SEALANG project.
 We can see that the data is essentially the same, but
 that the rows and columns of the tabular form have
 been swapped.
@@ -279,7 +277,7 @@ is the most easy-to-make way to provide data that is
 machine-readable.
 Each entry in this format consists of a unique id, a
 language name (Doculect), a concept identifier (if it’s
-not english then you can translate it into english), and
+not English then you can translate it into English), and
 a value. The value is the original entry we find in the
 source. This value is then further split, if it contains a
 comma, and we add the other entry to the FORM
@@ -355,7 +353,7 @@ should be converted in a second column.
 ### @subhead:"From raw data to machine-readable data"
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
-ID  \t DOCULECT        \t CONCEPT \t ENGLISH \t VALUE           \t FORM       \t TOKENS              \t COGID
+ID  \t DOCULECT        \t CONCEPT \t ENGLISH \t VALUE           \t FORM       \t TOKENS              \t COGIDS
  1  \t Baheng, east    \t 七      \t SEVEN   \t tsja³¹,tsjung⁴⁴ \t tsja³¹     \t tɕ a ³¹             \t
  2  \t Baheng, east    \t 七      \t SEVEN   \t tsja³¹,tsjung⁴⁴ \t tsjung⁴⁴   \t tɕ u ŋ ⁴⁴           \t
  3  \t Baheng, west    \t 七      \t SEVEN   \t tsjang⁴⁴        \t tsjang⁴⁴   \t tɕ a ŋ ⁴⁴           \t
@@ -501,7 +499,7 @@ have web-based tools that facilitate manual
 alignments greatly. This picture, for example, is taken
 from the EDICTOR application, and I will show you
 how to work with this tool in the last section. But
-even if this helps so save some time, it is still tedious
+even if this helps to save some time, it is still tedious
 to correct alignments manually.
 </aside>
 --
@@ -562,7 +560,7 @@ more information in the handout.
 
 @class:scrollable
 <div class="spreadsheet" data-delimiter="\t" data-width="100" fontsize="12">
-ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMENT \t COGID
+ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMENT \t COGIDS
  1   \t Baheng, east   \t SEVEN   \t tɕ a ³¹             \t i n t     \t tɕ a - ³¹ \t 3
  2   \t Baheng, west   \t SEVEN   \t tɕ a ŋ ⁴⁴           \t i n c t   \t tɕ a ŋ ⁴⁴ \t 3
  3   \t Qiandong, east \t SEVEN   \t ɕ u ŋ ⁵³            \t i n c t   \t  ɕ u ŋ ⁵³ \t 3
@@ -577,8 +575,8 @@ ID  \t DOCULECT        \t ENGLISH \t TOKENS             \t STRUCTURE \t ALIGNMEN
  12  \t Qiandong, wesst\t STAR    \t t ei - ⁴⁴ + q ei ⁴⁴\t　i n t + i n t \t t ei - ⁴⁴ + q ei - ⁴⁴\t 1871 1870
 </div>
 <aside class='notes'>
-The output file then has one more column which is
-called “Alignment”.
+The output file then has two more columnes which is
+called “Alignment” and “Structure”.
 </aside>
 
 --
@@ -615,9 +613,9 @@ Therefore, we need to find cross-semantic partial
 ## @head:"CALC workflows"
 ### @subhead:"From alignments to strict, cross-semantic cognates"
 
-* For this task, we employ a new algorithm to *merge* cognates in our data into larger groups.
+* For this task, we employ a new algorithm to <i>merge</i> cognates in our data into larger groups.
 * The basic idea is to check if two alignments are compatible with each other, and to fuse them to form a bigger alignment, if this is the case.
-* As a side effect, all words we identify in this way are *strictly* cognate, since our procedure does not allow to identify a morpheme in the same language to be cognate if this does not show the exact same form.
+* As a side effect, all words we identify in this way are <i>strictly</i> cognate, since our procedure does not allow to identify a morpheme in the same language to be cognate if this does not show the exact same form.
 
 <aside class='notes'>
 For this task, we employ a new algorithm to merge
@@ -743,7 +741,7 @@ examples, but only the morphemes
 the degree to which patterns are inconsistent,
 reflecting secondary variation in the individual
 languages
-(3) the representation is only to some degree machinereadable,
+(3) the representation is only to some degree machine-readable,
 not only because it is not digitized, but also
 because we do not know completely to which
 correspondence pattern (or set) each of the other
@@ -797,7 +795,7 @@ Possible improvements:
 
 <ul>
 <li>Semi-automatic reconstruction (currently tested by Nathan Hill and Johann-Mattis List).</li>
-<li>Clearer integration of automatic and semi-automatic methods in the workflow.</li>
+<li>Clearer integration of automatic and semi-automatic methods in the workflows.</li>
 <li>Enhancing the visualization of the results (Xun Gong is working on this for the Burmish Etymological Dictionary project).</li>
 </ul>
 
