@@ -79,7 +79,7 @@ language families is still rather fuzzy.
 <aside class='notes'>
 The reason is that the comparative method is very
 tedious to apply. Also, comparing with computers, human lack of consistency and efficiency.
-However, it has a high accuracy and a high
+However, human annotation can achieve a high accuracy and a high
 flexibility.
 
 Computational methods, on the other hand, are by

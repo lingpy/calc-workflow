@@ -1,49 +1,33 @@
-# calc-workflow
-Workflows for computer-assisted language comparison: State of the Art
+# Computer-Assisted Language Comparison: State of the Art
 
-## 1 Introduction
+This repository contains the data, the python scripts, the slides and the handout for the presentation at Workshop : Recent Advances in Comparative Linguistic Reconstruction (London, UK)
 
-- slides on calc, etc.
+## Data
+You can find data in the **code** folder.
+| File |Stage  |
+| ------:|:-----|
+|`chen-sublist.tsv` |Raw data to machine readable data|
+|`chen-cognates.tsv`|Machine readable data to partial cognate|
+|`chen-structure-aligned.tsv`|Partial cognate to template-based alignment|
+|`chen-crossids.tsv`|Template-based alignment to strict cognates|
+|`chen-patterns.tsv`|Strict cognates to Sound correspondence pattern|
+|`profile2.tsv`|Orthography profile for the template-based alignment|
+|10_language_geo.tsv|Geographic locations of the 10 HM languages|
 
-## 2 Workflows for Computer-Assisted Language Comparison
+## Python codes
+You can find all the python scripts in the **code** folder.
+| Python script | Functions |
+| -------------:|:----------|
+| `to_wordlist.py`|Extract 10 Hmong-Mien languages from raw data |
+| `P_alignments.py`|<ul><li>Partial cognate detection</li><li> Template-based alignments</li><li> cross-semantic cognate detection</li> </ul>|
+| `corrpat.py`|Summarise sound patterns|
+|P_map.py | The python script to generate map |
+## Handout
+You can find `handout.pdf` in the **handout** folder.
 
-### 2.1 From raw data to machine-readable data
+## Presentation slides
+The presenation slide is in HTML format, please find `slides.html` in the **slides** folder.
 
-- show, how data from tables is converted to long format
-- show how data is segmented (morphologically, and sound-segments)
-- demo on orthoprofiles
-- illustrational figure on bad table format and long format
-- show data in edictor, which is segmented
-
-### 2.2 From segmented words to computer-inferred cognates
-
-- show automatic partial cognate detection
-- illustrate how clusters are displayed (identifiers)
-- show edictor and how cognates can be annotated
-
-### 2.3 From cognates to alignments
-
-- show how the prosodic structure can be used to compute preliminary alignments
-- show how alignments can be inspected in edictor
-- show table on the structures (imnct, etc.)
-
-### 2.4 From alignments to strict, cross-semantic cognates
-
-- illustrate the problem of alignability
-- show how the algorithm works
-- show how word families can be viewed in edictor
-
-### 2.5 From strict cognates to correspondence patterns
-
-- show how correspondence patterns can be computed
-- show how they can be browsed in edictor
-- show how they look in table form
-
-## 3 Conclusion and Outlook
-
-- mention further steps for the future
-  1. semi-automated reconstruction
-  2. testing consistency of cognates 
-  3. testing consistency of reconstruction systems
-  
-- say bye bye to everybody
+## Interactive web-based application
+- Profile : http://calc.digling.org/profile/
+- EDICTOR : http://edictor.digling.org/
