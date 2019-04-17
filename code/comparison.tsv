@@ -1,12 +1,12 @@
-Language branch	Language name	Location	Language_name_Chen	Datapoint_name_Chen	Source
-East Hmongic (Qiandong)	Yanghao	Guizhou, Kali County, Yanghao Township, Yanghao	Qiandong, North	Yanghao 养蒿	Wang and Mao 1995
-North Hmongic (Xiangxi)	Jiwei	Hunan, Huayuan County, Jiwei Township, Jiwei	Xiangxi, West	Layiping 腊乙坪	Wang and Mao 1995
-West Hmongic (Chuanqiandian)	White Hmong	Laos/Thailand			Heimbach 1979, Bertrais 1979
-West Hmongic (Chuanqiandian)	Zongdi	Guizhou Province, ziyun Miao/Buyi A.C., Zongdi Township, Zongdi	Chuanqiandian, Southern Guizhou	Zongdi 宗地	Wang and Mao 1995, language 7
-West Hmongic (Chuanqiandian)	Fuyuan	Luopohe, Guizhou Province Fuyuan County, Fuyuan			Wang and Mao 1995 language 8
-Hmongic	Jiongnai	Cuangxi/Zhuang A.R., Jinxiu Yao A.C., Changdong Township, Jinognai.	Jiongnai	Longhua 龙华	Wang and Mao 1995, language 13
-Hmongic	Pa-Hng	Cuangxi/Zhuang A.R., Miao A.C., Rongshui District, Baiyun Pa-Hng, Jinognai.			Niederer 1997
-Mienic	Mien	Mien, Luoxiang vernacular: Guangxi/Zhuang A. R., Jinxiu Yao A.C., Luoxiang Township	Mien	Longding 龙定	Wang and Mao 1995, language 17
-Mienic	Mun	Guangxi/Zhuang A. R., Linguyun County, Lanjin Township	Kim Mun	Yanyuan 烟园	Wang and Mao 1995, language 20
-Mienic	Biao Min	Guangxi/Zhuang A.R., Quanzhou county, Dongshan Yao Township	Biao Min	Shuanglong 双龙	Wang and Mao 1995, language 21
-Mienic	Zao Min	Guangdong Province, Liannan Yao A.C., Daping Township	Zao Min	Youling 油岭	Wang and Mao 1995, language 23
+Language branch	Language name	Location	Glottolog	Language_name_Chen	Datapoint_name_Chen	Source
+East Hmongic (Qiandong)	Yanghao	Guizhou, Kali County, Yanghao Township, Yanghao	nort2747	Qiandong, North	Yanghao 养蒿	Wang and Mao 1995
+North Hmongic (Xiangxi)	Jiwei	Hunan, Huayuan County, Jiwei Township, Jiwei		Xiangxi, West	Layiping 腊乙坪	Wang and Mao 1995
+West Hmongic (Chuanqiandian)	White Hmong	Laos/Thailand				Heimbach 1979, Bertrais 1979
+West Hmongic (Chuanqiandian)	Zongdi	Guizhou Province, ziyun Miao/Buyi A.C., Zongdi Township, Zongdi		Chuanqiandian, Southern Guizhou	Zongdi 宗地	Wang and Mao 1995, language 7
+West Hmongic (Chuanqiandian)	Fuyuan	Luopohe, Guizhou Province Fuyuan County, Fuyuan				Wang and Mao 1995 language 8
+Hmongic	Jiongnai	Cuangxi/Zhuang A.R., Jinxiu Yao A.C., Changdong Township, Jinognai.	jion1236	Jiongnai	Longhua 龙华	Wang and Mao 1995, language 13
+Hmongic	Pa-Hng	Cuangxi/Zhuang A.R., Miao A.C., Rongshui District, Baiyun Pa-Hng, Jinognai.	pahn1237			Niederer 1997
+Mienic	Mien	Mien, Luoxiang vernacular: Guangxi/Zhuang A. R., Jinxiu Yao A.C., Luoxiang Township	mien1242	Mien	Longding 龙定	Wang and Mao 1995, language 17
+Mienic	Mun	Guangxi/Zhuang A. R., Linguyun County, Lanjin Township		Kim Mun	Yanyuan 烟园	Wang and Mao 1995, language 20
+Mienic	Biao Min	Guangxi/Zhuang A.R., Quanzhou county, Dongshan Yao Township	biao1255	Biao Min	Shuanglong 双龙	Wang and Mao 1995, language 21
+Mienic	Zao Min	Guangdong Province, Liannan Yao A.C., Daping Township	dzao1238	Zao Min	Youling 油岭	Wang and Mao 1995, language 23
