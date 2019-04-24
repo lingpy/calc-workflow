@@ -1,3 +1,4 @@
+import os.path
 import re
 from re import finditer
 
@@ -32,7 +33,7 @@ for dkey, dvalue in data_dictionary.items():
 
 ##### This section is for output orthography profiles by languages.
 for filetitle, values in data_dictionary_clean.items():
-    with open(filetitle, 'w') as outfile:
+    with open(os.path.join('Phoneme_Inventories',filetitle), 'w') as outfile:
         outfile.write("{0}\t{1}\t{2}\n".format('Grapheme','IPA','Template'))
         for v in values:
             outfile.write('{0}\t{1}\t{2}\n'.format(v,'',''))
