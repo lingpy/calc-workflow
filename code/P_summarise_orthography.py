@@ -32,12 +32,12 @@ for dkey, dvalue in data_dictionary.items():
     data_dictionary_clean[dkey]=temp
 
 ##### This section is for output orthography profiles by languages.
+
 for filetitle, values in data_dictionary_clean.items():
     with open(os.path.join('Phoneme_Inventories',filetitle), 'w') as outfile:
         outfile.write("{0}\t{1}\t{2}\n".format('Grapheme','IPA','Template'))
         for v in values:
             outfile.write('{0}\t{1}\t{2}\n'.format(v,'',''))
-
 
 #### this section is for output a summarised orthography profile ####
 # get unique values
@@ -55,4 +55,5 @@ for i in unique_phoneme:
 
 with open('summarised_orthography.tsv', 'w') as f:
     for dkey, dval in unique_phoneme_dict.items():
-        f.write("{0}\t{1}\n".format(dkey,' '.join(dval)))
+        f.write("{0}\t{1}\t{2}\t{3}\n".format('Grapheme','IPA','Template','Note'))
+        f.write("{0}\t{1}\t{2}\t{3}\n".format(dkey,'','',' '.join(dval)))
