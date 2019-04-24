@@ -30,6 +30,15 @@ for dkey, dvalue in data_dictionary.items():
         temp.extend([t for t in i if t != ''])
     data_dictionary_clean[dkey]=temp
 
+##### This section is for output orthography profiles by languages.
+for filetitle, values in data_dictionary_clean.items():
+    with open(filetitle, 'w') as outfile:
+        outfile.write("{0}\t{1}\t{2}\n".format('Grapheme','IPA','Template'))
+        for v in values:
+            outfile.write('{0}\t{1}\t{2}\n'.format(v,'',''))
+
+
+#### this section is for output a summarised orthography profile ####
 # get unique values
 unique_phoneme =set()
 for val in data_dictionary_clean.values():
