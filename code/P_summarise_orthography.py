@@ -54,6 +54,6 @@ for i in unique_phoneme:
     unique_phoneme_dict[i]=key_list
 
 with open('summarised_orthography.tsv', 'w') as f:
+    f.write("{0}\t{1}\t{2}\t{3}\n".format('Grapheme','IPA','Template','Note'))
     for dkey, dval in unique_phoneme_dict.items():
-        f.write("{0}\t{1}\t{2}\t{3}\n".format('Grapheme','IPA','Template','Note'))
         f.write("{0}\t{1}\t{2}\t{3}\n".format(dkey,'','',' '.join(dval)))
