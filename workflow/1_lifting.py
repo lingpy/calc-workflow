@@ -1,6 +1,6 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
-from sinopy import *
+#from sinopy import *
 
 
 wl = Wordlist.from_cldf(
