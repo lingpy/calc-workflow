@@ -1,6 +1,6 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
-#from sinopy import *
+
 
 
 wl = Wordlist.from_cldf(
@@ -28,6 +28,7 @@ wl.output('tsv', filename='D_Chen_subset',
         rows=dict(doculect='in '+str(languages))
         )
 
-# do I need a namespace argument there? 
+# do I need a namespace argument there? It runs fine without the namespace argument
 
-#sinopy to produce structure? next step.
+# merger? merge with Chen's old reconstruction?
+
