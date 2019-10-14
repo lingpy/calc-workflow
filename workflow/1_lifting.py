@@ -1,13 +1,12 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
 
-
-
 wl = Wordlist.from_cldf(
         ds().dir.joinpath('cldf','cldf-metadata.json'))
 
 languages = [
         "EasternLuobuohe",
+        "WesternLuobuohe"
         "Chuanqiandian",
         "CentralGuizhouChuanqiandian",
         "WesternXiangxi",
@@ -19,7 +18,7 @@ languages = [
         "WesternBaheng",
         "EasternQiandong",
         "WesternQiandong",
-        "'BiaoMin",
+        "BiaoMin",
         "ZaoMin"] # modify
 
 wl.output('tsv', filename='D_Chen_subset',
@@ -27,8 +26,3 @@ wl.output('tsv', filename='D_Chen_subset',
         subset=True,
         rows=dict(doculect='in '+str(languages))
         )
-
-# do I need a namespace argument there? It runs fine without the namespace argument
-
-# merger? merge with Chen's old reconstruction?
-
