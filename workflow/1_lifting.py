@@ -1,6 +1,9 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
 from pyconcepticon import Concepticon
+from pylexibank.__main__ import configure
+
+conf = configure()
 
 wl = Wordlist.from_cldf(
         ds().dir.joinpath('cldf', 'cldf-metadata.json'),
@@ -25,19 +28,28 @@ languages = [
         "ZaoMin"]  # modify
 
 # concepts
-api = Concepticon('./calcworkflow/concepticon-data/')
-abvd2008, chen2012 = {}, []
+concepts = set()
+for clist in [
+        'Blust-2008-210', 
+        'Swadesh-1952-200', 
+        'Swadesh-1955-100',
+        'Comrie-1977-207', 
+        'Matisoff-1978-200',
+        'Sagart-2019-250',
+        'Liu-2007-201',
+        'SoHartmann-1988-280',
+        ]:
+    for concept in conf.concepticon.conceptlists[clist].concepts.values():
+        concepts.add(concept.concepticon_id)
 
-for key, values in api.conceptlists['Blust-2008-210'].concepts.items():
-    abvd2008[values.concepticon_id] = values.concepticon_gloss
-
-for key, values in api.conceptlists['Chen-2012-888'].concepts.items():
-    if values.concepticon_gloss in abvd2008.values():
-        chen2012.append(values.gloss)
 
 wl.output('tsv', filename='D_Chen_subset', prettify=False,
-          subset=True, rows=dict(doculect='in '+str(languages)),
-          columns=dict(concept='in '+str(chen2012)))
+          subset=True, 
+          rows=dict(
+              doculect='in '+str(languages),
+              concepticon='in '+str(list(concepts))
+              )
+          )
 
 # revise columns commend
 wl = Wordlist('D_Chen_subset.tsv')
