@@ -1,21 +1,38 @@
 from sinopy import segments
 from lingpy import *
-from align import align_to_template
+from lingrex.align import template_alignment
 #from lingrex.util import align_by_structure
 
 
-wl=Wordlist('D_Chen_partial.tsv')
-wl.add_entries('structure', 'tokens', lambda x: list(segments.get_structure(x)))
-template_alignment(wl,
+alms = Alignments('D_Chen_partial.tsv', ref='cogids')
+alms.add_entries(
+        'structure', 
+        'tokens', 
+        lambda x: basictypes.lists(
+            ' + '.join([' '.join(y) for y in segments.get_structure(
+                x)]))
+        )
+print('[i] added segments')
+D = {0: [c for c in alms.columns]}
+for idx, tokens, structure in alms.iter_rows('tokens', 'structure'):
+    if len(tokens.n) != len(structure.n):
+        print('[!!!]', tokens, structure)
+    elif len(tokens) != len(structure):
+        print('[!]', tokens, structure)
+    else:
+        D[idx] = alms[idx]
+alms = Alignments(D, ref='cogids')
+
+template_alignment(alms,
                    ref='cogids',
-                   template='imnct_imnct_imnct',
+                   template='imnct+imnct+imnct+imnct+imnct+imnct',
                    structure = 'structure',
-                   fuzzy=False,
+                   fuzzy=True,
                    segments='tokens')
 
 
 
-wl.output('tsv', filename='D_Chen_structure', ignore=[], prettify=False)
+alms.output('tsv', filename='D_Chen_aligned', prettify=False)
 
 
 # print out for inspection
