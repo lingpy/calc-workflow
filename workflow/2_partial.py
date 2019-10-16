@@ -11,6 +11,6 @@ except:
     part.output('tsv', filename='D_Chen_partial.bin', ignore=[], prettify=False)
     print('save saved the scorer, load again to do more')
 finally:
-    part.partial_cluster(method='lexstat', threshold=0.55, ref='cogids')
+    part.partial_cluster(method='lexstat', threshold=0.55, ref='cogids', mode='global', gop=-2, cluster_method='infomap')
 
 part.output('tsv', filename='D_Chen_partial', prettify=False)
