@@ -1,13 +1,13 @@
 from sinopy import segments
 from lingpy import *
 from lingrex.align import template_alignment
-#from lingrex.util import align_by_structure
+
 
 
 alms = Alignments('D_Chen_partial.tsv', ref='cogids')
 alms.add_entries(
-        'structure', 
-        'tokens', 
+        'structure',
+        'tokens',
         lambda x: basictypes.lists(
             ' + '.join([' '.join(y) for y in segments.get_structure(
                 x)]))
