@@ -1,20 +1,16 @@
 import csv
 import cartopy.feature
 from matplotlib.transforms import offset_copy
-import cartopy.io.shapereader
 from cartopy.feature import *
 import cartopy.feature as cfeature
 import cartopy.crs as ccrs
 import matplotlib.pyplot as plt
 import shapely.geometry as sgeom
-from cartopy.io.shapereader import Reader
 import matplotlib.patheffects as PathEffects
-from owslib.wmts import WebMapTileService
 import cartopy.io.img_tiles as cimgt
 from matplotlib.legend import Legend
 from matplotlib.legend_handler import HandlerPatch
 import matplotlib.patches as mpatches
-from collections import OrderedDict
 
 # read in coordinates.
 target = {}
@@ -46,7 +42,8 @@ for key, value in target.items():
 #     #     ax.text(float(value[1]), float(value[0]), key, verticalalignment='center', horizontalalignment='right',
 #     #          transform=text_transform, bbox=dict(facecolor='sandybrown', alpha=0.5, boxstyle='round'))
 #
-plt.savefig('Image/map-paper-bottom.svg')
+plt.show()
+#plt.savefig('Image/map-paper-bottom.svg')
 # plt.savefig('Image/map-paper-bottom.png')
 
 # set up the background of an overlay picture
@@ -107,5 +104,5 @@ ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
 
 plt.legend(handles=patches, labels=labels, bbox_to_anchor=(1, 0.5),
            loc='center left', ncol=1, facecolor="white", numpoints=1,framealpha=0.5)
-
-plt.savefig('Image/map-paper-overlay.svg')
+plt.show()
+#plt.savefig('Image/map-paper-overlay.svg')
