@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1015" viewBox="0 0 1920 1015">
-  <defs>
-    <clipPath id="clip-Web_1920_1">
-      <rect width="1920" height="1015"/>
-    </clipPath>
-  </defs>
-  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
-    <rect width="1920" height="1015" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1877" height="985.532" viewBox="0 0 1877 985.532">
+  <g id="Group_19" data-name="Group 19" transform="translate(-22 -21)">
     <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(22 45)" fill="#fff" stroke="#000" stroke-width="4">
       <rect width="506" height="135" rx="25" stroke="none"/>
       <rect x="2" y="2" width="502" height="131" rx="23" fill="none"/>
