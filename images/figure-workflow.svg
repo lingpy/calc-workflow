@@ -17,7 +17,7 @@
         <rect x="2" y="2" width="502" height="131" rx="23" fill="none"/>
       </g>
       <text id="Segmented_Data" data-name="Segmented Data" transform="translate(1458 131)" font-size="50" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Segmented Data</tspan></text>
-      <text id="_1_Segment_raw_data" data-name="(1) Segment raw data" transform="translate(554 69)" font-size="50" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">(1) Segment raw data</tspan></text>
+      <text id="_1_Raw_data_segmentation" data-name="(1) Raw data segmentation" transform="translate(554 69)" font-size="50" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">(1) Raw data segmentation</tspan></text>
       <g id="Group_5" data-name="Group 5" transform="translate(792.416 22.235)" style="isolation: isolate">
         <path id="Union_1" data-name="Union 1" d="M73.086,163.042,5.365,96.974A17.586,17.586,0,0,1,.033,83.266,17.587,17.587,0,0,1,5.365,69.557L73.086,3.489a12.43,12.43,0,0,1,17.27,0l8.636,8.424a11.711,11.711,0,0,1,0,16.849L61.707,65.137H795.26a18,18,0,1,1,0,36H61.442l37.549,36.633a11.711,11.711,0,0,1,0,16.849l-8.636,8.424a12.428,12.428,0,0,1-17.27,0Z" transform="translate(574.844 174.297) rotate(180)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
       </g>
