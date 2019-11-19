@@ -1,153 +1,145 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1285" height="803" viewBox="0 0 1285 803">
-  <defs>
-    <clipPath id="clip-Table">
-      <rect width="1285" height="803"/>
-    </clipPath>
-  </defs>
-  <g id="Table" clip-path="url(#clip-Table)">
-    <rect width="1285" height="803" fill="#fff"/>
-    <g id="Group_16" data-name="Group 16">
-      <path id="Union_2" data-name="Union 2" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.746-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(195.5 -104.711)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
-      <path id="Union_1" data-name="Union 1" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.745-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(830.5 -104.711)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
-      <g id="Group_14" data-name="Group 14">
-        <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(12 99)" fill="#fff" stroke="#000" stroke-width="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="1262" height="784" viewBox="0 0 1262 784">
+  <g id="Group_16" data-name="Group 16" transform="translate(-12 -11)">
+    <path id="Union_2" data-name="Union 2" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.746-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(195.5 -104.711)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
+    <path id="Union_1" data-name="Union 1" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.745-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(830.5 -104.711)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
+    <g id="Group_14" data-name="Group 14">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(12 99)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="n̥u_" data-name="n̥u⁵⁵" transform="translate(105 152)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥u⁵⁵</tspan></text>
+      <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(12 187)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="ndɦu_" data-name="ndɦu³⁵" transform="translate(87 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ndɦu³⁵</tspan></text>
+      <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(12 276)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="ɬi_" data-name="ɬi³³" transform="translate(113 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬi³³</tspan></text>
+      <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(12 11)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="1" y="1" width="244" height="79" fill="none"/>
+      </g>
+      <text id="VALUE" transform="translate(86 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">VALUE</tspan></text>
+    </g>
+    <g id="Group_11" data-name="Group 11">
+      <g id="Rectangle_1-5" data-name="Rectangle 1" transform="translate(1028 100)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="n̥_u_" data-name="n̥ u ⁵⁵" transform="translate(1112 153)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥ u ⁵⁵</tspan></text>
+      <g id="Rectangle_1-6" data-name="Rectangle 1" transform="translate(1028 188)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="_d_u_" data-name="ⁿdʰ u ³⁵" transform="translate(1100 241)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ⁿdʰ u ³⁵</tspan></text>
+      <g id="Rectangle_1-7" data-name="Rectangle 1" transform="translate(1028 276)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+      </g>
+      <text id="ɬ_i_" data-name="ɬ i ³³" transform="translate(1120 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ i ³³</tspan></text>
+      <g id="Rectangle_1-8" data-name="Rectangle 1" transform="translate(1028 11)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="246" height="81" stroke="none"/>
+        <rect x="1" y="1" width="244" height="79" fill="none"/>
+      </g>
+      <text id="TOKENS" transform="translate(1088 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">TOKENS</tspan></text>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(-1)">
+      <g id="Group_13" data-name="Group 13">
+        <g id="Rectangle_1-9" data-name="Rectangle 1" transform="translate(394 539)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="n̥u_" data-name="n̥u⁵⁵" transform="translate(105 152)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥u⁵⁵</tspan></text>
-        <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(12 187)" fill="#fff" stroke="#000" stroke-width="1">
+        <text id="_" data-name="³³" transform="translate(506 592)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
+        <g id="Rectangle_1-10" data-name="Rectangle 1" transform="translate(394 626)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="ndɦu_" data-name="ndɦu³⁵" transform="translate(87 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ndɦu³⁵</tspan></text>
-        <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(12 276)" fill="#fff" stroke="#000" stroke-width="1">
+        <text id="_2" data-name="⁵⁵" transform="translate(506 679)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁵⁵</tspan></text>
+        <g id="Rectangle_1-11" data-name="Rectangle 1" transform="translate(394 714)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="ɬi_" data-name="ɬi³³" transform="translate(113 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬi³³</tspan></text>
-        <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(12 11)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="_3" data-name="³⁵" transform="translate(506 767)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
+        <g id="Rectangle_1-12" data-name="Rectangle 1" transform="translate(394 99)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="n̥" transform="translate(509 151)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        <g id="Rectangle_1-13" data-name="Rectangle 1" transform="translate(394 187)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="u" transform="translate(509 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">u</tspan></text>
+        <g id="Rectangle_1-14" data-name="Rectangle 1" transform="translate(394 364)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="ɬ" transform="translate(512 416)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ</tspan></text>
+        <g id="Rectangle_1-15" data-name="Rectangle 1" transform="translate(394 276)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="ndɦ" transform="translate(490 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ndɦ</tspan></text>
+        <g id="Rectangle_1-16" data-name="Rectangle 1" transform="translate(394 11)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="246" height="81" stroke="none"/>
           <rect x="1" y="1" width="244" height="79" fill="none"/>
         </g>
-        <text id="VALUE" transform="translate(86 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">VALUE</tspan></text>
+        <text id="GRAPHEME" transform="translate(428 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">GRAPHEME</tspan></text>
+        <g id="Rectangle_1-17" data-name="Rectangle 1" transform="translate(394 451)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="i" transform="translate(513 503)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">i</tspan></text>
       </g>
-      <g id="Group_11" data-name="Group 11">
-        <g id="Rectangle_1-5" data-name="Rectangle 1" transform="translate(1028 100)" fill="#fff" stroke="#000" stroke-width="1">
+      <g id="Group_12" data-name="Group 12">
+        <g id="Rectangle_1-18" data-name="Rectangle 1" transform="translate(648 539)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="n̥_u_" data-name="n̥ u ⁵⁵" transform="translate(1112 153)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥ u ⁵⁵</tspan></text>
-        <g id="Rectangle_1-6" data-name="Rectangle 1" transform="translate(1028 188)" fill="#fff" stroke="#000" stroke-width="1">
+        <text id="_4" data-name="³³" transform="translate(760 592)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
+        <g id="Rectangle_1-19" data-name="Rectangle 1" transform="translate(648 626)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="_d_u_" data-name="ⁿdʰ u ³⁵" transform="translate(1100 241)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ⁿdʰ u ³⁵</tspan></text>
-        <g id="Rectangle_1-7" data-name="Rectangle 1" transform="translate(1028 276)" fill="#fff" stroke="#000" stroke-width="1">
+        <text id="_5" data-name="⁵⁵" transform="translate(760 679)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁵⁵</tspan></text>
+        <g id="Rectangle_1-20" data-name="Rectangle 1" transform="translate(648 714)" fill="#fff" stroke="#000" stroke-width="1">
           <rect width="246" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <text id="ɬ_i_" data-name="ɬ i ³³" transform="translate(1120 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ i ³³</tspan></text>
-        <g id="Rectangle_1-8" data-name="Rectangle 1" transform="translate(1028 11)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="_6" data-name="³⁵" transform="translate(760 767)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
+        <g id="Rectangle_1-21" data-name="Rectangle 1" transform="translate(648 99)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="n̥-2" data-name="n̥" transform="translate(762 151)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        <g id="Rectangle_1-22" data-name="Rectangle 1" transform="translate(648 187)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="u-2" data-name="u" transform="translate(762 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">u</tspan></text>
+        <g id="Rectangle_1-23" data-name="Rectangle 1" transform="translate(648 364)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="ɬ-2" data-name="ɬ" transform="translate(766 416)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ</tspan></text>
+        <g id="Rectangle_1-24" data-name="Rectangle 1" transform="translate(648 276)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
+        </g>
+        <text id="_d_" data-name="ⁿdʰ" transform="translate(750 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ⁿdʰ</tspan></text>
+        <g id="Rectangle_1-25" data-name="Rectangle 1" transform="translate(648 11)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="246" height="81" stroke="none"/>
           <rect x="1" y="1" width="244" height="79" fill="none"/>
         </g>
-        <text id="TOKENS" transform="translate(1088 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">TOKENS</tspan></text>
-      </g>
-      <g id="Group_15" data-name="Group 15" transform="translate(-1)">
-        <g id="Group_13" data-name="Group 13">
-          <g id="Rectangle_1-9" data-name="Rectangle 1" transform="translate(394 539)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_" data-name="³³$" transform="translate(497 592)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³$</tspan></text>
-          <g id="Rectangle_1-10" data-name="Rectangle 1" transform="translate(394 626)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_2" data-name="⁵⁵$" transform="translate(497 679)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁵⁵$</tspan></text>
-          <g id="Rectangle_1-11" data-name="Rectangle 1" transform="translate(394 714)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_3" data-name="³⁵$" transform="translate(497 767)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵$</tspan></text>
-          <g id="Rectangle_1-12" data-name="Rectangle 1" transform="translate(394 99)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="n̥" transform="translate(508 151)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
-          <g id="Rectangle_1-13" data-name="Rectangle 1" transform="translate(394 187)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="u" transform="translate(508 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">u</tspan></text>
-          <g id="Rectangle_1-14" data-name="Rectangle 1" transform="translate(394 364)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="ɬ" transform="translate(512 416)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ</tspan></text>
-          <g id="Rectangle_1-15" data-name="Rectangle 1" transform="translate(394 276)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="ndɦ" transform="translate(490 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ndɦ</tspan></text>
-          <g id="Rectangle_1-16" data-name="Rectangle 1" transform="translate(394 11)" fill="#fff" stroke="#000" stroke-width="2">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="1" y="1" width="244" height="79" fill="none"/>
-          </g>
-          <text id="GRAPHEME" transform="translate(428 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">GRAPHEME</tspan></text>
-          <g id="Rectangle_1-17" data-name="Rectangle 1" transform="translate(394 451)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="i" transform="translate(512 503)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">i</tspan></text>
+        <text id="IPA" transform="translate(747 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">IPA</tspan></text>
+        <g id="Rectangle_1-26" data-name="Rectangle 1" transform="translate(648 451)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="246" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
         </g>
-        <g id="Group_12" data-name="Group 12">
-          <g id="Rectangle_1-18" data-name="Rectangle 1" transform="translate(648 539)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_4" data-name="³³" transform="translate(760 592)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
-          <g id="Rectangle_1-19" data-name="Rectangle 1" transform="translate(648 626)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_5" data-name="⁵⁵" transform="translate(760 679)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁵⁵</tspan></text>
-          <g id="Rectangle_1-20" data-name="Rectangle 1" transform="translate(648 714)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_6" data-name="³⁵" transform="translate(760 767)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
-          <g id="Rectangle_1-21" data-name="Rectangle 1" transform="translate(648 99)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="n̥-2" data-name="n̥" transform="translate(762 151)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
-          <g id="Rectangle_1-22" data-name="Rectangle 1" transform="translate(648 187)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="u-2" data-name="u" transform="translate(762 240)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">u</tspan></text>
-          <g id="Rectangle_1-23" data-name="Rectangle 1" transform="translate(648 364)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="ɬ-2" data-name="ɬ" transform="translate(766 416)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ɬ</tspan></text>
-          <g id="Rectangle_1-24" data-name="Rectangle 1" transform="translate(648 276)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="_d_" data-name="ⁿdʰ" transform="translate(750 329)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ⁿdʰ</tspan></text>
-          <g id="Rectangle_1-25" data-name="Rectangle 1" transform="translate(648 11)" fill="#fff" stroke="#000" stroke-width="2">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="1" y="1" width="244" height="79" fill="none"/>
-          </g>
-          <text id="IPA" transform="translate(747 63)" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">IPA</tspan></text>
-          <g id="Rectangle_1-26" data-name="Rectangle 1" transform="translate(648 451)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="246" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-          </g>
-          <text id="i-2" data-name="i" transform="translate(766 503)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">i</tspan></text>
-        </g>
+        <text id="i-2" data-name="i" transform="translate(766 503)" fill="#050505" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">i</tspan></text>
       </g>
     </g>
   </g>
