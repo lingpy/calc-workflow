@@ -1,287 +1,207 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1709" height="574" viewBox="0 0 1709 574">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1603" height="559" viewBox="0 0 1603 559">
   <defs>
-    <clipPath id="clip-Figure-templatealign_b_new">
-      <rect width="1709" height="574"/>
+    <clipPath id="clip-Figure-templatealign_b_">
+      <rect width="1603" height="559"/>
     </clipPath>
   </defs>
-  <g id="Figure-templatealign_b_new" data-name="Figure-templatealign(b) new" clip-path="url(#clip-Figure-templatealign_b_new)">
-    <rect width="1709" height="574" fill="#fff"/>
-    <g id="Group_26" data-name="Group 26">
-      <g id="Group_24" data-name="Group 24" transform="translate(-59 -99)">
-        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(927 109)" fill="#fff" stroke="#000" stroke-width="2">
-          <rect width="445" height="179" stroke="none"/>
-          <rect x="1" y="1" width="443" height="177" fill="none"/>
+  <g id="Figure-templatealign_b_" data-name="Figure-templatealign(b) " clip-path="url(#clip-Figure-templatealign_b_)">
+    <rect width="1603" height="559" fill="#fff"/>
+    <path id="Path_7" data-name="Path 7" d="M5098.953,1937" transform="translate(-4336.705 -1399)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Group_38" data-name="Group 38">
+      <g id="Group_31" data-name="Group 31" transform="translate(-279 -22)">
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(868 39)" fill="#fff" stroke="#000" stroke-width="2">
+          <rect width="445" height="150" stroke="none"/>
+          <rect x="1" y="1" width="443" height="148" fill="none"/>
         </g>
-        <text id="TEMPLATE" transform="translate(1072 192)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">TEMPLATE</tspan></text>
-        <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1108 207)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="TEMPLATE" transform="translate(1013 84)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">TEMPLATE</tspan></text>
+        <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1049 108)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="84" height="81" stroke="none"/>
           <rect x="1" y="1" width="82" height="79" fill="none"/>
         </g>
-        <text id="n" transform="translate(1141.5 258.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">n</tspan></text>
-        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1017 207)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="n" transform="translate(1082.5 159.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">n</tspan></text>
+        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(958 108)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="84" height="81" stroke="none"/>
           <rect x="1" y="1" width="82" height="79" fill="none"/>
         </g>
-        <text id="m" transform="translate(1050.5 258.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">m</tspan></text>
-        <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(926 207)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="m" transform="translate(991.5 159.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">m</tspan></text>
+        <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(867 108)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="84" height="81" stroke="none"/>
           <rect x="1" y="1" width="82" height="79" fill="none"/>
         </g>
-        <text id="i" transform="translate(964.5 259.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">i</tspan></text>
-        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1198 207)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="i" transform="translate(905.5 160.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">i</tspan></text>
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1139 108)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="84" height="81" stroke="none"/>
           <rect x="1" y="1" width="82" height="79" fill="none"/>
         </g>
-        <text id="c" transform="translate(1231.5 258.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">c</tspan></text>
-        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1288 207)" fill="#fff" stroke="#000" stroke-width="2">
+        <text id="c" transform="translate(1172.5 159.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">c</tspan></text>
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1229 108)" fill="#fff" stroke="#000" stroke-width="2">
           <rect width="84" height="81" stroke="none"/>
           <rect x="1" y="1" width="82" height="79" fill="none"/>
         </g>
-        <text id="t" transform="translate(1321.5 258.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">t</tspan></text>
-        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="84" height="81" transform="translate(1108 302)" fill="#f70000"/>
-        <text id="o" transform="translate(1139 358)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">o</tspan></text>
-        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="84" height="81" transform="translate(1017 302)" fill="#d1d1d1"/>
-        <text id="_-" data-name="-" transform="translate(1053 358)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <path id="Path_1" data-name="Path 1" d="M0,0H84V81H0Z" transform="translate(926 302)" fill="#25c2d0"/>
-        <text id="n̥" transform="translate(957 358)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
-        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="84" height="81" transform="translate(1198 302)" fill="#d1d1d1"/>
-        <text id="_--2" data-name="-" transform="translate(1234 358)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="84" height="81" transform="translate(1288 302)" fill="#ff7791"/>
-        <text id="_" data-name="⁴³" transform="translate(1316 358)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴³</tspan></text>
-        <rect id="Rectangle_5-3" data-name="Rectangle 5" width="84" height="81" transform="translate(1108 486)" fill="#f70000"/>
-        <text id="ai" transform="translate(1134 542)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ai</tspan></text>
-        <rect id="Rectangle_4-3" data-name="Rectangle 4" width="84" height="81" transform="translate(1017 486)" fill="#d1d1d1"/>
-        <text id="_--3" data-name="-" transform="translate(1053 542)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="84" height="81" transform="translate(926 486)" fill="#25c2d0"/>
-        <text id="n-2" data-name="n" transform="translate(957 542)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n</tspan></text>
-        <rect id="Rectangle_6-3" data-name="Rectangle 6" width="84" height="81" transform="translate(1198 486)" fill="#d1d1d1"/>
-        <text id="_--4" data-name="-" transform="translate(1234 542)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_7-3" data-name="Rectangle 7" width="84" height="81" transform="translate(1288 486)" fill="#ff7791"/>
-        <text id="_2" data-name="⁴⁴" transform="translate(1316 542)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴⁴</tspan></text>
-        <rect id="Rectangle_5-4" data-name="Rectangle 5" width="84" height="81" transform="translate(1108 394)" fill="#f70000"/>
-        <text id="a" transform="translate(1140 449)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">a</tspan></text>
-        <rect id="Rectangle_4-4" data-name="Rectangle 4" width="84" height="81" transform="translate(1017 394)" fill="#d1d1d1"/>
-        <text id="_--5" data-name="-" transform="translate(1053 449)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="84" height="81" transform="translate(926 394)" fill="#25c2d0"/>
-        <text id="n̥-2" data-name="n̥" transform="translate(957 449)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
-        <rect id="Rectangle_6-4" data-name="Rectangle 6" width="84" height="81" transform="translate(1198 394)" fill="#25c2d0"/>
-        <text id="ŋ" transform="translate(1229 449)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ŋ</tspan></text>
-        <rect id="Rectangle_7-4" data-name="Rectangle 7" width="84" height="81" transform="translate(1288 394)" fill="#ff7791"/>
-        <text id="_3" data-name="³³" transform="translate(1316 449)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
-        <rect id="Rectangle_5-5" data-name="Rectangle 5" width="84" height="81" transform="translate(1108 578)" fill="#f70000"/>
-        <text id="e" transform="translate(1140 633)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">e</tspan></text>
-        <rect id="Rectangle_4-5" data-name="Rectangle 4" width="84" height="81" transform="translate(1017 578)" fill="#d1d1d1"/>
-        <text id="_--6" data-name="-" transform="translate(1053 633)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_3-4" data-name="Rectangle 3" width="84" height="81" transform="translate(926 578)" fill="#25c2d0"/>
-        <text id="n̥-3" data-name="n̥" transform="translate(957 633)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
-        <path id="Path_2" data-name="Path 2" d="M0,0H84V81H0Z" transform="translate(1198 578)" fill="#d1d1d1"/>
-        <text id="_--7" data-name="-" transform="translate(1234 633)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
-        <rect id="Rectangle_7-5" data-name="Rectangle 7" width="84" height="81" transform="translate(1288 578)" fill="#ff7791"/>
-        <text id="_4" data-name="³⁵" transform="translate(1316 633)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
+        <text id="t" transform="translate(1262.5 159.5)" fill="#020202" stroke="#000" stroke-width="2" font-size="30" font-family="Monaco"><tspan x="0" y="0">t</tspan></text>
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="84" height="81" transform="translate(1049 203)" fill="#f70000"/>
+        <text id="o" transform="translate(1080 259)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">o</tspan></text>
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="84" height="81" transform="translate(958 203)" fill="#d1d1d1"/>
+        <text id="_-" data-name="-" transform="translate(994 259)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <path id="Path_1" data-name="Path 1" d="M0,0H84V81H0Z" transform="translate(867 203)" fill="#25c2d0"/>
+        <text id="n̥" transform="translate(898 259)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="84" height="81" transform="translate(1139 203)" fill="#d1d1d1"/>
+        <text id="_--2" data-name="-" transform="translate(1175 259)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="84" height="81" transform="translate(1229 203)" fill="#ff7791"/>
+        <text id="_" data-name="⁴³" transform="translate(1257 259)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴³</tspan></text>
+        <rect id="Rectangle_5-3" data-name="Rectangle 5" width="84" height="81" transform="translate(1049 387)" fill="#f70000"/>
+        <text id="ai" transform="translate(1075 443)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ai</tspan></text>
+        <rect id="Rectangle_4-3" data-name="Rectangle 4" width="84" height="81" transform="translate(958 387)" fill="#d1d1d1"/>
+        <text id="_--3" data-name="-" transform="translate(994 443)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="84" height="81" transform="translate(867 387)" fill="#25c2d0"/>
+        <text id="n-2" data-name="n" transform="translate(898 443)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n</tspan></text>
+        <rect id="Rectangle_6-3" data-name="Rectangle 6" width="84" height="81" transform="translate(1139 387)" fill="#d1d1d1"/>
+        <text id="_--4" data-name="-" transform="translate(1175 443)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_7-3" data-name="Rectangle 7" width="84" height="81" transform="translate(1229 387)" fill="#ff7791"/>
+        <text id="_2" data-name="⁴⁴" transform="translate(1257 443)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴⁴</tspan></text>
+        <rect id="Rectangle_5-4" data-name="Rectangle 5" width="84" height="81" transform="translate(1049 295)" fill="#f70000"/>
+        <text id="a" transform="translate(1081 350)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">a</tspan></text>
+        <rect id="Rectangle_4-4" data-name="Rectangle 4" width="84" height="81" transform="translate(958 295)" fill="#d1d1d1"/>
+        <text id="_--5" data-name="-" transform="translate(994 350)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="84" height="81" transform="translate(867 295)" fill="#25c2d0"/>
+        <text id="n̥-2" data-name="n̥" transform="translate(898 350)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        <rect id="Rectangle_6-4" data-name="Rectangle 6" width="84" height="81" transform="translate(1139 295)" fill="#25c2d0"/>
+        <text id="ŋ" transform="translate(1170 350)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ŋ</tspan></text>
+        <rect id="Rectangle_7-4" data-name="Rectangle 7" width="84" height="81" transform="translate(1229 295)" fill="#ff7791"/>
+        <text id="_3" data-name="³³" transform="translate(1257 350)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
+        <rect id="Rectangle_5-5" data-name="Rectangle 5" width="84" height="81" transform="translate(1049 479)" fill="#f70000"/>
+        <text id="e" transform="translate(1081 534)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">e</tspan></text>
+        <rect id="Rectangle_4-5" data-name="Rectangle 4" width="84" height="81" transform="translate(958 479)" fill="#d1d1d1"/>
+        <text id="_--6" data-name="-" transform="translate(994 534)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_3-4" data-name="Rectangle 3" width="84" height="81" transform="translate(867 479)" fill="#25c2d0"/>
+        <text id="n̥-3" data-name="n̥" transform="translate(898 534)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        <path id="Path_2" data-name="Path 2" d="M0,0H84V81H0Z" transform="translate(1139 479)" fill="#d1d1d1"/>
+        <text id="_--7" data-name="-" transform="translate(1175 534)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        <rect id="Rectangle_7-5" data-name="Rectangle 7" width="84" height="81" transform="translate(1229 479)" fill="#ff7791"/>
+        <text id="_4" data-name="³⁵" transform="translate(1257 534)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
       </g>
-      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1333 108)" fill="#fff" stroke="#000" stroke-width="2">
-        <rect width="360" height="81" stroke="none"/>
-        <rect x="1" y="1" width="358" height="79" fill="none"/>
+      <g id="Group_37" data-name="Group 37" transform="translate(-67 -22)">
+        <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(86 108)" fill="#fff" stroke="#000" stroke-width="2">
+          <rect width="385" height="81" stroke="none"/>
+          <rect x="1" y="1" width="383" height="79" fill="none"/>
+        </g>
+        <text id="ALIGNMENT" transform="translate(193 161)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ALIGNMENT</tspan></text>
+        <g id="Group_33" data-name="Group 33" transform="translate(186.776 203)">
+          <rect id="Rectangle_5-6" data-name="Rectangle 5" width="84" height="81" transform="translate(0.224)" fill="#f70000"/>
+          <text id="o-2" data-name="o" transform="translate(31.224 56)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">o</tspan></text>
+          <rect id="Rectangle_5-7" data-name="Rectangle 5" width="84" height="81" transform="translate(0.224 184)" fill="#f70000"/>
+          <text id="ai-2" data-name="ai" transform="translate(26.224 240)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ai</tspan></text>
+          <rect id="Rectangle_5-8" data-name="Rectangle 5" width="84" height="81" transform="translate(0.224 92)" fill="#f70000"/>
+          <text id="a-2" data-name="a" transform="translate(32.224 147)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">a</tspan></text>
+          <rect id="Rectangle_5-9" data-name="Rectangle 5" width="84" height="81" transform="translate(0.224 276)" fill="#f70000"/>
+          <text id="e-2" data-name="e" transform="translate(32.224 331)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">e</tspan></text>
+        </g>
+        <g id="Group_32" data-name="Group 32" transform="translate(86 203)">
+          <path id="Path_1-2" data-name="Path 1" d="M0,0H84V81H0Z" fill="#25c2d0"/>
+          <text id="n̥-4" data-name="n̥" transform="translate(31 56)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+          <rect id="Rectangle_3-5" data-name="Rectangle 3" width="84" height="81" transform="translate(0 184)" fill="#25c2d0"/>
+          <text id="n-3" data-name="n" transform="translate(31 240)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n</tspan></text>
+          <rect id="Rectangle_3-6" data-name="Rectangle 3" width="84" height="81" transform="translate(0 92)" fill="#25c2d0"/>
+          <text id="n̥-5" data-name="n̥" transform="translate(31 147)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+          <rect id="Rectangle_3-7" data-name="Rectangle 3" width="84" height="81" transform="translate(0 276)" fill="#25c2d0"/>
+          <text id="n̥-6" data-name="n̥" transform="translate(31 331)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥</tspan></text>
+        </g>
+        <g id="Group_34" data-name="Group 34" transform="translate(286.719 203)">
+          <rect id="Rectangle_6-5" data-name="Rectangle 6" width="84" height="81" transform="translate(0.281)" fill="#d1d1d1"/>
+          <text id="_--8" data-name="-" transform="translate(36.281 56)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+          <rect id="Rectangle_6-6" data-name="Rectangle 6" width="84" height="81" transform="translate(0.281 184)" fill="#d1d1d1"/>
+          <text id="_--9" data-name="-" transform="translate(36.281 240)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+          <rect id="Rectangle_6-7" data-name="Rectangle 6" width="84" height="81" transform="translate(0.281 92)" fill="#25c2d0"/>
+          <text id="ŋ-2" data-name="ŋ" transform="translate(31.281 147)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ŋ</tspan></text>
+          <path id="Path_2-2" data-name="Path 2" d="M0,0H84V81H0Z" transform="translate(0 276)" fill="#d1d1d1"/>
+          <text id="_--10" data-name="-" transform="translate(36.281 331)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">-</tspan></text>
+        </g>
+        <g id="Group_35" data-name="Group 35" transform="translate(387.495 203)">
+          <rect id="Rectangle_7-6" data-name="Rectangle 7" width="84" height="81" transform="translate(-0.495)" fill="#ff7791"/>
+          <text id="_5" data-name="⁴³" transform="translate(27.505 56)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴³</tspan></text>
+          <rect id="Rectangle_7-7" data-name="Rectangle 7" width="84" height="81" transform="translate(-0.495 184)" fill="#ff7791"/>
+          <text id="_6" data-name="⁴⁴" transform="translate(27.505 240)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">⁴⁴</tspan></text>
+          <rect id="Rectangle_7-8" data-name="Rectangle 7" width="84" height="81" transform="translate(-0.495 92)" fill="#ff7791"/>
+          <text id="_7" data-name="³³" transform="translate(27.505 147)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³³</tspan></text>
+          <rect id="Rectangle_7-9" data-name="Rectangle 7" width="84" height="81" transform="translate(-0.495 276)" fill="#ff7791"/>
+          <text id="_8" data-name="³⁵" transform="translate(27.505 331)" fill="#fff" font-size="40" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">³⁵</tspan></text>
+        </g>
       </g>
-      <text id="STRUCTURE" transform="translate(1424 160)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">STRUCTURE</tspan></text>
-      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1333 203)" fill="none" stroke="#000" stroke-width="1">
-        <rect width="84" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
-      </g>
-      <text id="i-2" data-name="i" transform="translate(1370 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
-      <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(1425 203)" fill="none" stroke="#000" stroke-width="1">
-        <rect width="84" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
-      </g>
-      <text id="n-3" data-name="n" transform="translate(1455 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
-      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1517 203)" fill="none" stroke="#000" stroke-width="1">
-        <rect width="84" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
-      </g>
-      <text id="t-2" data-name="t" transform="translate(1553 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
-      <g id="Group_25" data-name="Group 25" transform="translate(-369)">
-        <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(1702 387)" fill="none" stroke="#000" stroke-width="1">
+      <g id="Group_36" data-name="Group 36" transform="translate(-116 -22)">
+        <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1333 108)" fill="#fff" stroke="#000" stroke-width="2">
+          <rect width="360" height="81" stroke="none"/>
+          <rect x="1" y="1" width="358" height="79" fill="none"/>
+        </g>
+        <text id="STRUCTURE" transform="translate(1424 160)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">STRUCTURE</tspan></text>
+        <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1333 203)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="i-3" data-name="i" transform="translate(1739 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
-        <g id="Rectangle_22-2" data-name="Rectangle 22" transform="translate(1794 387)" fill="none" stroke="#000" stroke-width="1">
+        <text id="i-2" data-name="i" transform="translate(1370 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
+        <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(1425 203)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="n-4" data-name="n" transform="translate(1825 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
-        <g id="Rectangle_10-2" data-name="Rectangle 10" transform="translate(1886 387)" fill="none" stroke="#000" stroke-width="1">
+        <text id="n-4" data-name="n" transform="translate(1455 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
+        <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1517 203)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="t-3" data-name="t" transform="translate(1922 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
-        <text id="t-4" data-name="t" transform="translate(2014 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
-        <g id="Rectangle_14-3" data-name="Rectangle 14" transform="translate(1978 295)" fill="none" stroke="#000" stroke-width="1">
+        <text id="t-2" data-name="t" transform="translate(1553 259)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
+        <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(1333 387)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <g id="Rectangle_14-4" data-name="Rectangle 14" transform="translate(1702 295)" fill="none" stroke="#000" stroke-width="1">
+        <text id="i-3" data-name="i" transform="translate(1370 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
+        <g id="Rectangle_22-2" data-name="Rectangle 22" transform="translate(1425 387)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="i-4" data-name="i" transform="translate(1739 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
-        <g id="Rectangle_22-3" data-name="Rectangle 22" transform="translate(1794 295)" fill="none" stroke="#000" stroke-width="1">
+        <text id="n-5" data-name="n" transform="translate(1456 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
+        <g id="Rectangle_10-2" data-name="Rectangle 10" transform="translate(1517 387)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="n-5" data-name="n" transform="translate(1825 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
-        <g id="Rectangle_10-3" data-name="Rectangle 10" transform="translate(1886 295)" fill="none" stroke="#000" stroke-width="1">
+        <text id="t-3" data-name="t" transform="translate(1553 443)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
+        <text id="t-4" data-name="t" transform="translate(1645 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
+        <g id="Rectangle_14-3" data-name="Rectangle 14" transform="translate(1609 295)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="c-2" data-name="c" transform="translate(1917 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">c</tspan></text>
-        <g id="Rectangle_14-5" data-name="Rectangle 14" transform="translate(1702 479)" fill="none" stroke="#000" stroke-width="1">
+        <g id="Rectangle_14-4" data-name="Rectangle 14" transform="translate(1333 295)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="i-5" data-name="i" transform="translate(1739 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
-        <g id="Rectangle_22-4" data-name="Rectangle 22" transform="translate(1794 479)" fill="none" stroke="#000" stroke-width="1">
+        <text id="i-4" data-name="i" transform="translate(1370 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
+        <g id="Rectangle_22-3" data-name="Rectangle 22" transform="translate(1425 295)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="n-6" data-name="n" transform="translate(1825 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
-        <g id="Rectangle_10-4" data-name="Rectangle 10" transform="translate(1886 479)" fill="none" stroke="#000" stroke-width="1">
+        <text id="n-6" data-name="n" transform="translate(1456 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
+        <g id="Rectangle_10-3" data-name="Rectangle 10" transform="translate(1517 295)" fill="none" stroke="#000" stroke-width="1">
           <rect width="84" height="81" stroke="none"/>
           <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="t-5" data-name="t" transform="translate(1922 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
-      </g>
-      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(21 108)" fill="#fff" stroke="#000" stroke-width="2">
-        <rect width="246" height="81" stroke="none"/>
-        <rect x="1" y="1" width="244" height="79" fill="none"/>
-      </g>
-      <text id="DOCULECT" transform="translate(64 160)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">DOCULECT</tspan></text>
-      <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(21 203)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="246" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-      </g>
-      <text id="Chuanqiandian" transform="translate(43 255)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Chuanqiandian</tspan></text>
-      <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(21 387)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="246" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-      </g>
-      <text id="ZaoMin" transform="translate(94 439)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ZaoMin</tspan></text>
-      <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(21 295)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="246" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-      </g>
-      <text id="Numao" transform="translate(96 347)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Numao</tspan></text>
-      <g id="Rectangle_1-5" data-name="Rectangle 1" transform="translate(21 479)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="246" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="245" height="80" fill="none"/>
-      </g>
-      <text id="EasternBaheng" transform="translate(41 531)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">EasternBaheng</tspan></text>
-      <g id="Rectangle_1-6" data-name="Rectangle 1" transform="translate(287 108)" fill="#fff" stroke="#000" stroke-width="2">
-        <rect width="357" height="81" stroke="none"/>
-        <rect x="1" y="1" width="355" height="79" fill="none"/>
-      </g>
-      <text id="TOKENS" transform="translate(406 160)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">TOKENS</tspan></text>
-      <g id="Rectangle_1-7" data-name="Rectangle 1" transform="translate(287 203)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="357" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="356" height="80" fill="none"/>
-      </g>
-      <text id="n̥_o_" data-name="n̥ o ⁴³" transform="translate(427 256)" fill="#f70000" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">n̥ o ⁴³</tspan></text>
-      <g id="Rectangle_1-8" data-name="Rectangle 1" transform="translate(287 387)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="357" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="356" height="80" fill="none"/>
-      </g>
-      <text id="ʔ_a_n_ai_" data-name="ʔ a ⁵³ + n ai ⁴⁴" transform="translate(356 440)" fill="#020202" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">ʔ a ⁵³ +</tspan><tspan y="0" font-family="Monaco"> </tspan><tspan y="0" fill="#f70000">n ai ⁴⁴</tspan></text>
-      <g id="Rectangle_1-9" data-name="Rectangle 1" transform="translate(287 295)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="357" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="356" height="80" fill="none"/>
-      </g>
-      <text id="m_a_n̥_a_ŋ_" data-name="m a ⁴² + n̥ a ŋ ³³" transform="translate(466 347)" fill="#020202" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="-125.188" y="0">m a ⁴² +</tspan><tspan y="0" font-family="Monaco"> </tspan><tspan y="0" fill="#f70000">n̥ a ŋ ³³</tspan></text>
-      <g id="Rectangle_1-10" data-name="Rectangle 1" transform="translate(287 479)" fill="#fff" stroke="#000" stroke-width="1">
-        <rect width="357" height="81" stroke="none"/>
-        <rect x="0.5" y="0.5" width="356" height="80" fill="none"/>
-      </g>
-      <text id="l_a_n̥_e_" data-name="l a ⁰/³ + n̥ e ³⁵" transform="translate(356 531)" fill="#020202" font-size="32" font-family="CharisSIL, Charis SIL"><tspan x="0" y="0">l a ⁰/³ +</tspan><tspan y="0" font-family="Monaco"> </tspan><tspan y="0" fill="#f70000">n̥ e ³⁵</tspan></text>
-      <g id="Group_23" data-name="Group 23" transform="translate(-62 -99)">
-        <text id="COGIDS" transform="translate(760 259)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">COGIDS</tspan></text>
-        <g id="Rectangle_1-11" data-name="Rectangle 1" transform="translate(728 207)" fill="#fff" stroke="#000" stroke-width="2">
-          <rect width="181" height="81" stroke="none"/>
-          <rect x="1" y="1" width="179" height="79" fill="none"/>
+        <text id="c-2" data-name="c" transform="translate(1548 350)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">c</tspan></text>
+        <g id="Rectangle_14-5" data-name="Rectangle 14" transform="translate(1333 479)" fill="none" stroke="#000" stroke-width="1">
+          <rect width="84" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <text id="COGIDS-2" data-name="COGIDS" transform="translate(761 259)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">COGIDS</tspan></text>
-        <g id="Group_2" data-name="Group 2" transform="translate(-218 181)">
-          <g id="Rectangle_1-12" data-name="Rectangle 1" transform="translate(945 121)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="181" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="180" height="80" fill="none"/>
-          </g>
+        <text id="i-5" data-name="i" transform="translate(1370 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">i</tspan></text>
+        <g id="Rectangle_22-4" data-name="Rectangle 22" transform="translate(1425 479)" fill="none" stroke="#000" stroke-width="1">
+          <rect width="84" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <g id="Group_4" data-name="Group 4" transform="translate(-424.295 180.705)" style="isolation: isolate">
-          <g id="Path_3" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_1" data-name="1" transform="translate(1192 173)" fill="#fc4a2a" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
+        <text id="n-7" data-name="n" transform="translate(1456 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">n</tspan></text>
+        <g id="Rectangle_10-4" data-name="Rectangle 10" transform="translate(1517 479)" fill="none" stroke="#000" stroke-width="1">
+          <rect width="84" height="81" stroke="none"/>
+          <rect x="0.5" y="0.5" width="83" height="80" fill="none"/>
         </g>
-        <g id="Group_2-2" data-name="Group 2" transform="translate(-218 365)">
-          <g id="Rectangle_1-13" data-name="Rectangle 1" transform="translate(945 121)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="181" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="180" height="80" fill="none"/>
-          </g>
-        </g>
-        <g id="Group_4-2" data-name="Group 4" transform="translate(-424.295 364.705)">
-          <g id="Path_3-2" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_3-2" data-name="3" transform="translate(1192 173)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
-        </g>
-        <g id="Group_7" data-name="Group 7" transform="translate(-341.295 364.705)" style="isolation: isolate">
-          <g id="Path_3-3" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_1-2" data-name="1" transform="translate(1192 173)" fill="#fc4a2a" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
-        </g>
-        <g id="Group_2-3" data-name="Group 2" transform="translate(-218 273)">
-          <g id="Rectangle_1-14" data-name="Rectangle 1" transform="translate(945 121)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="181" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="180" height="80" fill="none"/>
-          </g>
-        </g>
-        <g id="Group_5" data-name="Group 5" transform="translate(-341.295 271.705)" style="isolation: isolate">
-          <g id="Path_3-4" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_1-3" data-name="1" transform="translate(1192 173)" fill="#fc4a2a" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
-        </g>
-        <g id="Group_6" data-name="Group 6" transform="translate(-424.295 271.705)" style="isolation: isolate">
-          <g id="Path_3-5" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_2-2" data-name="2" transform="translate(1192 173)" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2</tspan></text>
-        </g>
-        <g id="Group_2-4" data-name="Group 2" transform="translate(-218 457)">
-          <g id="Rectangle_1-15" data-name="Rectangle 1" transform="translate(945 121)" fill="#fff" stroke="#000" stroke-width="1">
-            <rect width="181" height="81" stroke="none"/>
-            <rect x="0.5" y="0.5" width="180" height="80" fill="none"/>
-          </g>
-        </g>
-        <g id="Group_10" data-name="Group 10" transform="translate(-341.295 455.705)" style="isolation: isolate">
-          <g id="Path_3-6" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_1-4" data-name="1" transform="translate(1192 173)" fill="#fc4a2a" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
-        </g>
-        <g id="Group_8" data-name="Group 8" transform="translate(-424.295 455.705)">
-          <g id="Path_3-7" data-name="Path 3" transform="translate(1175.295 137.295)" fill="#fff">
-            <path d="M 25 49.5 C 21.69230079650879 49.5 18.48381042480469 48.85229110717773 15.46364974975586 47.57487106323242 C 12.54625988006592 46.3409309387207 9.926079750061035 44.57432174682617 7.675879955291748 42.32411956787109 C 5.425680160522461 40.07392120361328 3.659070014953613 37.45373916625977 2.425129890441895 34.53635025024414 C 1.147709965705872 31.51618957519531 0.5 28.30769920349121 0.5 25 C 0.5 21.69230079650879 1.147709965705872 18.48381042480469 2.425129890441895 15.46364974975586 C 3.659070014953613 12.5462703704834 5.425680160522461 9.926090240478516 7.675879955291748 7.67588996887207 C 9.926079750061035 5.425690174102783 12.54625988006592 3.659080028533936 15.46364974975586 2.425129890441895 C 18.48381042480469 1.147709965705872 21.69230079650879 0.5 25 0.5 C 28.30769920349121 0.5 31.51618957519531 1.147709965705872 34.53635025024414 2.425129890441895 C 37.45373916625977 3.659080028533936 40.07392120361328 5.425690174102783 42.32411956787109 7.67588996887207 C 44.57432174682617 9.926090240478516 46.3409309387207 12.5462703704834 47.57487106323242 15.46364974975586 C 48.85229110717773 18.48381042480469 49.5 21.69230079650879 49.5 25 C 49.5 28.30769920349121 48.85229110717773 31.51618957519531 47.57487106323242 34.53635025024414 C 46.3409309387207 37.45373916625977 44.57432174682617 40.07392120361328 42.32411956787109 42.32411956787109 C 40.07392120361328 44.57432174682617 37.45373916625977 46.3409309387207 34.53635025024414 47.57487106323242 C 31.51618957519531 48.85229110717773 28.30769920349121 49.5 25 49.5 Z" stroke="none"/>
-            <path d="M 25 1 C 21.75958061218262 1 18.61661911010742 1.634418487548828 15.65842056274414 2.885631561279297 C 12.80064010620117 4.094371795654297 10.23387908935547 5.825000762939453 8.029441833496094 8.029441833496094 C 5.825000762939453 10.23387908935547 4.094371795654297 12.80064010620117 2.885631561279297 15.65842819213867 C 1.634418487548828 18.61661911010742 1 21.75958061218262 1 25 C 1 28.24041938781738 1.634418487548828 31.38338088989258 2.885631561279297 34.34157943725586 C 4.094371795654297 37.19935989379883 5.825000762939453 39.76612091064453 8.029441833496094 41.97055816650391 C 10.23387908935547 44.17499923706055 12.80064010620117 45.90563201904297 15.65842056274414 47.1143684387207 C 18.61661911010742 48.36558151245117 21.75958061218262 49 25 49 C 28.24041938781738 49 31.38338088989258 48.36558151245117 34.34157943725586 47.1143684387207 C 37.19935989379883 45.90563201904297 39.76612091064453 44.17499923706055 41.97055816650391 41.97055816650391 C 44.17499923706055 39.76612091064453 45.90563201904297 37.19935989379883 47.1143684387207 34.34157943725586 C 48.36558151245117 31.38338088989258 49 28.24041938781738 49 25 C 49 21.75958061218262 48.36558151245117 18.61661911010742 47.1143684387207 15.65842819213867 C 45.90563201904297 12.80064010620117 44.17499923706055 10.23387908935547 41.97055816650391 8.029441833496094 C 39.76612091064453 5.825000762939453 37.19935989379883 4.094371795654297 34.34157943725586 2.885631561279297 C 31.38338088989258 1.634418487548828 28.24041938781738 1 25 1 M 25 0 C 38.80712127685547 0 50 11.19289016723633 50 25 C 50 38.80712127685547 38.80712127685547 50 25 50 C 11.19287872314453 50 0 38.80712127685547 0 25 C 0 11.19289016723633 11.19287872314453 0 25 0 Z" stroke="none" fill="#101010"/>
-          </g>
-          <text id="_4-2" data-name="4" transform="translate(1192 173)" fill="#020202" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">4</tspan></text>
-        </g>
+        <text id="t-5" data-name="t" transform="translate(1553 534)" fill="#020202" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">t</tspan></text>
       </g>
+      <path id="Union_2" data-name="Union 2" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.746-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(366.5 23.789)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
+      <path id="Union_3" data-name="Union 3" d="M140.836,323.419l-3.851-3.757a5.221,5.221,0,0,1,0-7.513l16.627-16.221H86.027a8.027,8.027,0,0,1,0-16.054h67.7l-16.746-16.337a5.221,5.221,0,0,1,0-7.513l3.851-3.757a5.541,5.541,0,0,1,7.7,0l30.2,29.462a9.046,9.046,0,0,1,0,12.227l-30.2,29.463a5.543,5.543,0,0,1-7.7,0Z" transform="translate(995.5 23.789)" fill="rgba(0,110,255,0)" stroke="#000" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" x2="83" y2="357" transform="translate(679.5 181.5)" fill="none" stroke="#f70000" stroke-width="4"/>
     </g>
   </g>
 </svg>
