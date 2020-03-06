@@ -1,7 +1,5 @@
 from lingpy import *
-from lexibase import *
 from lingpy.compare.partial import Partial
-from lebor import *
 
 try:
     part = Partial('D_Chen_partial.bin.tsv')
