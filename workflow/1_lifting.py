@@ -1,9 +1,8 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
 from pyconcepticon import Concepticon
-from pylexibank.__main__ import configure
 
-conf = configure()
+conf = Concepticon('../../concepticon-data')
 
 wl = Wordlist.from_cldf(
         ds().dir.joinpath('cldf', 'cldf-metadata.json'),
@@ -39,8 +38,9 @@ for clist in [
         'Liu-2007-201',
         'SoHartmann-1988-280',
         ]:
-    for concept in conf.concepticon.conceptlists[clist].concepts.values():
-        concepts.add(concept.concepticon_id)
+    for concept in conf.conceptlists[clist].concepts.values():
+            if concept.concepticon_id:
+                concepts.add(concept.concepticon_id)
 
 
 wl.output('tsv', filename='D_Chen_subset', prettify=False,
