@@ -1,9 +1,9 @@
 from lexibank_chenhmongmien import Dataset as ds
 from lingpy import *
 from pyconcepticon import Concepticon
+from cldfcatalog import Config
 
-conf = Concepticon('../../concepticon-data')
-
+concepticon = Concepticon(Config.from_file().get_clone('concepticon'))
 wl = Wordlist.from_cldf(
         ds().dir.joinpath('cldf', 'cldf-metadata.json'),
         )
@@ -37,19 +37,19 @@ for clist in [
         'Sagart-2019-250',
         'Liu-2007-201',
         'SoHartmann-1988-280',
+        'BeijingDaxue-1964-905',
         ]:
-    for concept in conf.conceptlists[clist].concepts.values():
+    for concept in concepticon.conceptlists[clist].concepts.values():
             if concept.concepticon_id:
                 concepts.add(concept.concepticon_id)
 
 
-wl.output('tsv', filename='D_Chen_subset', prettify=False,
-          subset=True, 
-          rows=dict(
-              doculect='in '+str(languages),
-              concepticon='in '+str(list(concepts))
-              )
-          )
+D = {0: wl.columns}
+for idx, doculect, cid in wl.iter_rows('doculect', 'concepticon'):
+    if doculect in languages and cid in concepts:
+        D[idx] = wl[idx]
+
+Wordlist(D).output('tsv', filename='D_Chen_subset', prettify=False)
 
 # revise columns commend
 wl = Wordlist('D_Chen_subset.tsv')
