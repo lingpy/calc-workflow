@@ -3,7 +3,7 @@ from lingpy import Wordlist
 from lingpy.basic import ops
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--input')
+parser.add_argument('--input', help='input file')
 parser.add_argument('--column')
 test = "--input test --column cogids"
 args = parser.parse_args()
