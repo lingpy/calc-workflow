@@ -1,0 +1,1821 @@
+	NUMBER	ENGLISH	CHINESE	POS	STEDT_GLOSS	EVARS	CVARS	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	1	sky	天	n	sky			1732	SKY
+2	2	sun	太阳	n	sun			1343	SUN
+3	3	light	光	n	light				
+4	4	moon	月亮	n	moon			1313	MOON
+5	5	star	星星	n	star			1430	STAR
+6	6	weather	天气	n	weather				
+7	7	cloud	云	n	cloud			1489	CLOUD
+8	8	thunder	雷	n	thunder			1150	THUNDER
+9	9	wind	风	n	wind			960	WIND
+10	10	rain	雨	n	rain	rain (note:+v) v	雨 (下~)	658	RAIN (PRECIPITATION)
+11	11	rainbow	虹	n	rainbow			1733	RAINBOW
+12	12	snow	雪	n	snow			784	SNOW
+13	13	hail	雹子	n	hail			609	HAIL
+14	14	frost	霜	n	frost			2034	FROST
+15	15	dew	露水	n	dew			1977	DEW
+16	16	fog	雾	n	fog			249	FOG
+17	17	ice	冰	n	ice			617	ICE
+18	18	fire	火	n	fire			221	FIRE
+19	19	smoke	烟(火~)	n	smoke			778	SMOKE (EXHAUST)
+20	20	air; breath	气	n	air||breathe (exhale)||air; breath||breath	breathe (exhale) (note:breath) v||air (note:air) n||breath n	气 (~息)||气 (空~)||气 ((吹)~)		
+21	21	steam	蒸汽	n	steam				
+22	22	earth / ground	地	n	earth / ground				
+23	23	hill / mountain	山	n	hill / mountain			639	MOUNTAIN
+24	24	hillside / mountain slope	山坡	n	hillside / mountain slope				
+25	25	valley	山谷	n	valley				
+26	26	cliff	悬崖	n	cliff				
+27	27	rock	岩石	n	rock				
+28	28	cave (mountain)	山洞	n	cave (mountain)				
+29	29	cave / hole	洞	n	cave / hole				
+30	30	river (big) (note:+big)	河 (大~)	n	river||river (small)||river (big)	river n||river (small) (note:+small) n	河||河 (小~)	666	RIVER
+31	31	lake	湖	n	lake			624	LAKE
+32	32	sea	海	n	sea			1474	SEA
+33	33	pond	池塘	n	pond				
+34	34	ditch / gully	沟	n	ditch / gully				
+35	35	well	井	n	well				
+36	36	pit	坑	n	pit				
+37	37	dike / embankment	堤	n	dike / embankment				
+38	38	road	路	n	road			667	ROAD
+39	39	flatland (grassland) (note:field | meadow {lit. +grass})	平坝 (草坝)	n	flatland||flatland (grassland)	flatland n	平坝		
+40	40	soil / earth	土	n	soil / earth			1228	EARTH (SOIL)
+41	41	fields (wheat etc., slashed) (note:+plowed)	地(田~) (刀耕~)	n	fields (wheat etc.)||fields (wheat etc., slashed)	fields (wheat etc.) n	地(田~)		
+42	42	paddy field	水田	n	paddy fields||paddy field	paddy fields n	水田		
+43	43	stone	石头	n	stone				
+44	44	sand	沙子	n	sand			671	SAND
+45	45	dust	尘土	n	dust			2	DUST
+46	46	mud	泥巴	n	mud			640	MUD
+47	47	water	水	n	water (in a river, well)||water (in a vessel)||water	water (in a vessel) (note:+drinking {lit. already in a container}) n||water (in a river, well) (note:-drinking {lit. in a river or well}) n	水 ((盛好的)~)||水 ((河,井里的)~)	948	WATER
+48	48	wave	波浪	n	wave				
+49	49	spring (water)	泉水	n	spring (water)				
+50	50	forest	森林	n	forest			420	FOREST
+51	51	gold	金子	n	gold				
+52	52	silver	银子	n	silver				
+53	53	copper (cupronickel) (note:+white)	铜 (白~)	n	brass||copper (brass, red (pure))||copper||copper (red; pure copper)||copper (cupronickel)	copper (brass, red (pure)) (note:+red | yellow )||copper (note:+red) n||brass n||copper (red; pure copper) (note:+yellow) n	n||铜 (红~)||铜||铜 (黄~)		
+54	54	iron	铁	n	iron				
+55	55	tin	锡	n	tin				
+56	56	rust (iron) (note:+copper  |  +silver)	锈 ((铜,银)~)	n	rust (iron)||rust (copper, silver)||rust	rust (copper, silver) (note:+iron) n||rust n	锈 ((铁)~)||锈		
+57	57	aluminum	铝	n	aluminum				
+58	58	coal	煤	n	coal				
+59	59	charcoal	炭	n	charcoal				
+60	60	sulphur	硫磺	n	sulphur				
+61	61	salt	盐	n	salt			1274	SALT
+62	62	alkali / soda	碱	n	alkali / soda				
+63	63	plant ash	草木灰	n	plant ash				
+64	64	place	地方	n	place				
+65	65	street	街	n	street				
+66	66	village	村子	n	village				
+67	67	household	人家	n	others (people)||household	others (people) (note:somebody_else) n	人家 (别人)		
+68	68	prison	监狱	n	prison				
+69	69	temple	庙	nrel	temple				
+70	70	bridge (vine)	桥 ((*的)~)	n	bridge (made of a few pieces of wood)||bridge||bridge (small)||bridge (vine)	bridge (made of a few pieces of wood) n||bridge (small) (note:+vine) n||bridge n	桥 ((几根园木架成的)~)||桥 (藤~)||桥		
+71	71	tomb	坟	n	tomb				
+72	72	tower / pagoda	塔	n	tower / pagoda||tower / pagoda (for spirit worship)||tower / pagoda (big)	tower / pagoda (for spirit worship) (note:+large) n||tower / pagoda (big) (note:+worshipping) n	塔 ((大的)~)||塔 ((敬神的)~)		
+73	73	body (front) (note:+front)	身体 (前身)	n	body||body (front)||body (back)	body (back) (note:+back) n||body n	身体 (后身)||身体		
+74	74	head	头	n	head			1256	HEAD
+75	75	hair	头发	n	hair			1040	HAIR
+76	76	braid / plait (female's) (note:+female)	辫子 ((女人的)~)	n	braid / plait||braid / plait (female's)	braid / plait n	辫子		
+77	77	forehead	额头	n	forehead				
+78	78	eyebrow	眉毛	n	eyebrow				
+79	79	eye	眼睛	n	eye			1248	EYE
+80	80	nose	鼻子	n	nose			1221	NOSE
+81	81	ear	耳朵	n	ear			1247	EAR
+82	82	face (self-respect)	脸 (一画)	n	face||face (features of)||face (self-respect)	face (features of) (note:face  |  complexion) n||face n	脸 (面目,气色)||脸		
+83	83	cheek	腮	n	cheek				
+84	84	mouth (opening) (note:mouth  |  opening)	嘴 (口)	n	mouth (opening)||mouth	mouth n	嘴	674	MOUTH
+85	85	lip	嘴唇	n	lip			478	LIP
+86	86	beard / moustache / goatee (chin) (note:+chin)	胡子 (下巴胡)	n	beard / moustache / goatee (chin)||beard / moustache / goatee	beard / moustache / goatee n	胡子		
+87	87	beard	连鬓胡	n	beard				
+88	88	chin	下巴	n	chin				
+89	89	neck (back of, hindneck, nape) (note:+front)	脖子 (颈部)	n	neck (back of, hindneck, nape)||neck	neck n	脖子	1333	NECK
+90	90	shoulder	肩膀	n	shoulder			1482	SHOULDER
+91	91	back	背	n	back				
+92	92	armpit	腋	n	armpit			1886	ARMPIT
+93	93	chest	胸	n	chest				
+94	94	breast	乳房	n	breast			1402	BREAST
+95	95	milk	奶汁	n	milk||milk (cow's)	milk (cow's) (note:"cow-milk") n	奶汁 ("牛奶")		
+96	96	belly	肚子(腹部)	n	belly			1251	BELLY
+97	97	navel	肚脐	n	navel				
+98	98	waist	腰	n	waist				
+99	99	buttocks	屁股	n	buttocks				
+100	100	thigh (of human) (note:+human)	大腿 ((人的)~)	n	thigh (of animal)||thigh||thigh (of human)	thigh n||thigh (of animal) (note:+animal) n	大腿||大腿 ((禽兽的)~)	800	THIGH
+101	101	knee	膝盖	n	knee			1371	KNEE
+102	102	calf	小腿	nbp	calf				
+103	103	foot	脚	nbp	foot			1301	FOOT
+104	104	ankle	脚踝	n	ankle				
+105	105	forearm	胳膊	nbp	arm||forearm||arm (forearm and postbrachium)	arm nbp||arm (forearm and postbrachium) nbp	胳膊 ((指前臂和后臂))||胳膊		
+106	106	elbow	肘	nbp	elbow				
+107	107	hand	手	nbp	hand	hand	手	1277	HAND
+108	108	wrist	手腕	n	wrist				
+109	109	finger	手指	n	finger				
+110	110	thumb	拇指	n	thumb				
+111	111	finger (middle)	中指	n	finger (middle)				
+112	112	finger (little)	小指	n	finger (little)				
+113	113	nail	指甲	nbp	nail			2128	CLAW OR NAIL
+114	114	fist (solid) (note:-hollow)	拳 ((实心的)~)	n	fist (hollow, empty)||fist (solid)||fist	fist (hollow, empty) (note:+hollow) n||fist n	拳 ((空心的)~)||拳		
+115	115	anus	肛门	n	anus				
+116	116	genitals (male)	男生殖器	n	genitals (male)				
+117	117	testicle	睾丸	n	testicle				
+118	118	genitals (female)	女生殖器	n	genitals (female)				
+119	119	placenta	胎盘	n	placenta				
+120	120	skin	皮肤	n	skin			763	SKIN
+121	121	wrinkle (on forehead) (note:+face)	皱纹 ((脸上的)~)	n	wrinkle (on forehead)||wrinkle (on face)||wrinkle	wrinkle (on face) (note:+forehead) n||wrinkle n	皱纹 (抬头纹)||皱纹		
+122	122	mole	痣	nbp	mole||wart	wart (note:+black) nbp	痣 (黑~)		
+123	123	sore / boil	疮	n	sore / boil				
+124	124	wound	伤口	n	wound				
+125	125	scar	疤	n	scar				
+126	126	measles	疹子	n	measles				
+127	127	tinea (erythrasma) (note:+red)	癣 (红~)	n	tinea alba||tinea (erythrasma)||tinea	tinea alba (note:+white) n||tinea n	癣 (白~)||癣		
+128	128	flesh / muscle	肌肉	n	flesh / muscle				
+129	129	blood	血	n	blood			946	BLOOD
+130	130	tendon / sinew	筋	n	tendon / sinew				
+131	131	pulse (wrist)	手脉	n	pulse (wrist)				
+132	132	brains	脑髓	n	brains				
+133	133	bone	骨头	n	bone			1394	BONE
+134	134	spine / backbone	脊椎骨	n	spine / backbone				
+135	135	rib	肋骨	n	rib				
+136	136	joint	骨节	nbp	joint				
+137	137	tooth	牙齿	nbp	tooth			1380	TOOTH
+138	138	gum	牙龈	nbp	gum				
+139	139	tongue	舌头	nbp	tongue			1205	TONGUE
+140	140	uvula	小舌	n	uvula				
+141	141	throat	喉咙	n	throat				
+142	142	Adam's apple	喉结	n	Adam's apple				
+143	143	lung	肺	n	lung			688	LUNG
+144	144	heart	心脏	n	heart			1223	HEART
+145	145	liver	肝	nbp	liver			1224	LIVER
+146	146	kidney	肾	nbp	kidney				
+147	147	gall bladder	胆	nbp	gall bladder				
+148	148	stomach (cow, goat) (note:+livestock {lit. cow, sheep})	胃 ((牛,羊)~)	nbp	stomach (cow, goat)||stomach||stomach (person)	stomach (person) (note:+human) nbp||stomach nbp	胃 ((人)~)||胃		
+149	149	intestine	肠子	nbp	intestine				
+150	150	bladder	膀胱	nbp	bladder				
+151	151	excrement	屎	nbp	excrement				
+152	152	urine	尿	nbp	urine				
+153	153	fart	屁	nbp	fart				
+154	154	sweat	汗	nbp	sweat				
+155	155	sputum	痰	nbp	sputum				
+156	156	saliva	口水	nbp	saliva				
+157	157	mucus (nasal)	鼻涕	nbp	mucus (nasal)				
+158	158	tears	眼泪	nbp	tears				
+159	159	pus	脓	nbp	pus				
+160	160	dirt / filth	污垢	n	dirt / filth				
+161	161	sound	声音	n	sound				
+162	162	corpse	尸体	n	corpse				
+163	163	life	生命	n	life				
+164	164	life span	寿命	n	life span				
+165	165	Chinese (Han)	汉族(人)	n	Chinese (Han)				
+166	166	Tibetan	藏族(人)	Tibetan	Tibetan||Tibetan (from Tibet (Xizang))||Tibetan (called 'Gami' locally)||Tibetan (of Pumi language)	Tibetan (from Tibet (Xizang)) (note:+Pumi)||Tibetan (of Pumi language) (note:+Gami)||Tibetan (called 'Gami' locally) (note:+Tibetan)	藏族(人) ((指说普米语的~))||藏族(人) ((指当地称之为"嘎米"的~))||藏族(人) ((西藏~))		
+167	167	human being	人	n	human being				
+168	168	adult (male) (note:+male)	成年了 (成年男人)	n	adult||adult (male)||adult (female)	adult n||adult (female) (note:+female) n	成年了||成年了 (成年女人)		
+169	169	child	小孩儿	n	child			1304	CHILD (YOUNG HUMAN)
+170	170	baby	婴儿	n	baby				
+171	171	old man	老头儿	n	old man				
+172	172	old lady	老太太	n	old lady				
+173	173	man	男人	n	man			2106	MALE PERSON
+174	174	woman	妇女	n	woman			962	WOMAN
+175	175	lad / chap (young)	小伙子	n	lad / chap (young)				
+176	176	girl	姑娘	n	girl				
+177	177	common people	百姓	n	common people				
+178	178	peasant	农民	n	peasant				
+179	179	soldier	士兵	n	soldier				
+180	180	merchant	商人	n	merchant				
+181	181	doctor	医生	n	doctor				
+182	182	leader in a (stockaded) village	头人(寨首)	n	leader in a (stockaded) village ('official')||leader in a (stockaded) village (Mand. 'tu3si1')||leader in a stockaded village||leader in a (stockaded) village	leader in a stockaded village (note:chief) n||leader in a (stockaded) village ('official') (note:"village_headman") n||leader in a (stockaded) village (Mand. 'tu3si1') (note:"official") n	头人(寨首) (寨首)||头人(寨首) ("土司")||头人(寨首) (同"官")		
+183	183	servant (slave) (note:+female)	仆人 (女~)	n	servant (male)||servant||servant (hired)||servant (slave)||servant (female)	servant n||servant (hired) (note:hired_labor) n||servant (male) (note:+male) n||servant (female) (note:assistant) n	仆人||仆人 (雇工)||仆人 (男~)||仆人 (帮手)		
+184	184	shepherd boy	牧童	n	shepherd boy				
+185	185	carpenter	木匠	n	carpenter				
+186	186	blacksmith	铁匠	n	blacksmith				
+187	187	boatman	船夫	n	boatman				
+188	188	hunter	猎人	n	hunter				
+189	189	monk	和尚	n	monk				
+190	190	nun (Buddhist) (female lama) (note:"female_Lama")	尼姑 ("女喇嘛")	n	nun (Buddhist)||nun (Buddhist) (female lama)	nun (Buddhist) n	尼姑		
+191	191	wizard / sorcerer	巫师	n	wizard / sorcerer||wizard / sorcerer (local area)||wizard / sorcerer (pastoral area)	wizard / sorcerer (local area) (note:+local) n||wizard / sorcerer (pastoral area) (note:+pastoral_area) n	巫师 ((本地的)~)||巫师 ((牧区的)~)		
+192	192	witch / sorceress	巫婆	n	dance||witch / sorceress				
+193	193	beggar	乞丐	n	beggar				
+194	194	thief	贼	n	thief				
+195	195	robber	强盗	n	robber				
+196	196	patient	病人	n	patient				
+197	197	enemy (personal) / antagonizer	仇人	n	enemy (personal) / antagonizer				
+198	198	emperor	皇帝	n	emperor				
+199	199	official (government)	官	n	official (government)				
+200	200	king (chieftain (Mand. 'tu3si1')) (note:"emperor")	国王 (同"皇帝")	n	king (chieftain (Mand. 'tusi'))||king||king (emperor)||king (chieftain (Mand. 'tu3si1'))	king n||king (emperor) n||king (chieftain (Mand. 'tusi')) (note:"village_headman") n	国王||国王||国王 ("土司")		
+201	201	friend (male-to-male) (note:+male-male)	朋友 ((男朋友互称))	n	friend||friend (male-to-male)||friend (female-to-female)	friend n||friend (female-to-female) (note:+general) n	朋友||朋友 ((泛称))		
+202	202	blind person (one eye) (note:+both_eyes)	瞎子 ((双眼)~)	n	blind person (half-blind)||blind person||blind person (both eyes)||blind person (one eye)	blind person (half-blind) (note:+half) n||blind person (both eyes) (note:+one_eye) n||blind person n	瞎子 (半瞎)||瞎子 ((单眼)~)||瞎子		
+203	203	lame person	跛子	n	lame person				
+204	204	deaf person	聋子	n	deaf person				
+205	205	baldhead	秃子	n	baldhead				
+206	206	person w / pockmarked face (as an insult) (note:?)	麻子 ((用子骂人))	n	person w / pockmarked face||person w / pockmarked face (as an insult)	person w / pockmarked face n	麻子		
+207	207	hunchback	驼子	n	hunchback				
+208	208	fool / blockhead	傻子	n	fool / blockhead||fool / blockhead (female)||fool / blockhead (male)	fool / blockhead (female) (note:+female) n||fool / blockhead (male) (note:+male) n	傻子 ((女)~)||傻子 ((男)~)		
+209	209	lunatic	疯子	n	lunatic				
+210	210	stutterer	结巴	n	stutterer				
+211	211	mute (female) (note:+female)	哑巴 ((女)~)	n	mute (female)||mute (male)||mute	mute (male) (note:+male) n||mute n	哑巴 ((男)~)||哑巴		
+212	212	host (note:host)	主人 ((接待客人的)~)	n	master||host / master||host	host / master n||master (note:master (wrong number)) n	主人||主人 ((雇用仆人的)~)		
+213	213	guest	客人	n	guest				
+214	214	pal / partner	伙伴	n	pal / partner||pal / partner (singular)||pal / partner (plural)	pal / partner (plural) (note:+singular) n||pal / partner (singular) (note:+plural) n	伙伴 ((指单数))||伙伴 ((指复数))		
+215	215	ancestors / forebears	祖宗	n	ancestors / forebears				
+216	216	grandfather (address) (note:+address)	爷爷 ((对称))	n	grandfather||grandfather (reference)||grandfather (address)	grandfather n||grandfather (reference) (note:+citation) n	爷爷||爷爷 ((引称))		
+217	217	grandmother (address) (note:?)	奶奶 (亲~)	n	grandmother (used by women of her gen.)||grandmother (address)||grandmother (by marriage)||grandmother (reference)||grandmother	grandmother (used by women of her gen.) (note:+citation) n||grandmother (by marriage) (note:+address) n||grandmother n||grandmother (reference) (note:"granny" - familiar term for older women) n	奶奶 ((引称))||奶奶 ((对称))||奶奶||奶奶 ((对祖母辈女性的称呼))		
+218	218	father (reference) (note:+citation)	父亲 ((引称))	n	father (reference)||father (address)||father	father n||father (address) (note:+address) n	父亲||父亲 ((对称))	1217	FATHER
+219	219	mother (reference) (note:+citation)	母亲 ((引称))	n	mother||mother (address)||mother (reference)	mother (address) (note:+address) n||mother n	母亲 ((对称))||母亲	1216	MOTHER
+220	220	son (intimate) (note:+citation)	儿子 ((一般称谓))	n	son||son (honorific)||son (general term)||son (intimate)	son (general term) (note:+respectful) n||son n||son (honorific) (note:+familiar) n	儿子 ((尊称))||儿子||儿子 ((昵称))	1620	SON
+221	221	daughter-in-law (address) (note:+citation)	媳妇(儿~) ((引称))	n	daughter-in-law||daughter-in-law (reference)||daughter-in-law (address)	daughter-in-law (reference) (note:+address) n||daughter-in-law n	媳妇(儿~) ((对称))||媳妇(儿~)		
+222	222	daughter	女儿	n	daughter			1357	DAUGHTER
+223	223	son-in-law (doesn't come calling) (note:+married_in)	女婿 ((上门)~)	n	son-in-law (comes calling)||son-in-law (doesn't come calling)||son-in-law	son-in-law (comes calling) (note:-married_in) n||son-in-law n	女婿 ((不上门)~)||女婿		
+224	224	grandson	孙子	n	grandson				
+225	225	granddaughter	孙女	n	granddaughter				
+226	226	elder brother	哥哥	n	elder brother (reference by y. sister)||elder brother (reference)||elder brother (addressed by y. brother)||elder brother (addressed by y. sister)||elder brother (address)||elder brother||elder brother (reference by y. brother)	elder brother (address) (note:+address) n||elder brother (reference by y. sister) (note:+younger_sister_address) n||elder brother (reference by y. brother) (note:+younger_brother_address) n||elder brother (addressed by y. sister) (note:+younger_brother_citation) n||elder brother (reference) (note:+citation) n||elder brother (addressed by y. brother) (note:+younger_sister_citation) n	哥哥 ((对称))||哥哥 ((妹称兄))||哥哥 ((弟称兄))||哥哥 ((弟引称))||哥哥 ((引称))||哥哥 ((妹引称))		
+227	227	elder sister (address by y. sister) (note:+younger_brother_citation)	姐姐 ((弟引称))	n	elder sister (address by y. brother)||elder sister||elder sister (reference by y. brother)||elder sister (reference)||elder sister (address by y. sister)||elder sister (reference by y. sister)||elder sister (address)	elder sister (address) (note:+address) n||elder sister (reference by y. sister) (note:+younger_brother_address (wrong number)) n||elder sister (reference) (note:+citation) n||elder sister (address by y. brother) (note:+younger_sister_citation) n||elder sister n||elder sister (reference by y. brother) (note:+younger_sister_address) n	姐姐 ((对称))||姐姐 ((弟称姐))||姐姐 ((引称))||姐姐 ((妹引称))||姐姐||姐姐 ((妹称姐))		
+228	228	younger brother (address)	弟弟	n	younger brother (address by o. sister)||younger brother (address by o. brother)||younger brother (reference)||younger brother (addressby o. sister)||younger brother (address)||younger brother	younger brother (reference) (note:+citation) n||younger brother (addressby o. sister) (note:+address) n||younger brother (address by o. brother) (note:+older_brother_address) n||younger brother n||younger brother (address by o. sister) (note:+older_sister_address) n	弟弟 ((引称))||弟弟 ((对称))||弟弟 ((兄称弟))||弟弟||弟弟 ((姐称弟))		
+229	229	younger sister (address) (note:+brother_citation (wrong number))	妹妹 ((兄弟引称))	n	younger sister||younger sister (address)||younger sister (address by o. sister)||younger sister (reference by brothers)||younger sister (address by o. brother)	younger sister (address by o. brother) (note:+older_brother_address) n||younger sister n||younger sister (reference by brothers) n||younger sister (address by o. sister) (note:+older_sister_address) n	妹妹 ((兄称妹))||妹妹||妹妹||妹妹 ((姐称妹))		
+230	230	uncle (father's elder brother}} (address) (note:+address)	伯父 ((对称))	n	uncle <father's elder brother>||uncle <father's elder brother> (address)				
+231	231	aunt (wife of father's elder brother}} (address) (note:+address)	伯母 ((对称))	n	aunt <wife of father's elder brother>||aunt <wife of father's elder brother> (address)				
+232	232	uncle (father's younger brother}} (address) (note:+address)	叔叔	n					
+233	233	aunt (wife of father’s younger brother }} 	嬸母	n					
+234	234	nephew	侄子	n					
+235	235	brothers	兄弟	n	brothers (also 'sisters', 'brothers and sisters')||brothers	brothers (also 'sisters', 'brothers and sisters') (note:sibling) n	兄弟 ((亦指"姐妹"和"兄弟姐妹"))		
+236	236	sisters (reference by brothers) (note:+brother_address)	姐妹 ((兄弟引称))	n	sisters (reference by brothers)||sisters	sisters n	姐妹		
+237	237	sister-in-law	嫂子	n					
+238	238	uncle (mother’s borther)	舅父	n					
+239	239	aunt (mother’s brother’s wife)	舅母	n					
+240	240	uncle (mother's sister's husband (= as 'mom's br.') (note:"mother's_brother")	姨父 (同"舅父")	n	uncle <mother's sister's husba (= as 'mom's br.')||uncle <mother's older sister's husband>||uncle <mother's sister's husband>||uncle <mother's younger sister's husband>				
+241	241	aunt (mother's sister}} (= wife of mom's bro) (note:"mother's_brother's_wife")	姨母 (同"舅母")	n	aunt <mother's sister>||aunt <mother's younger sister>||aunt <mother's sister> (= wife of mom's bro)||aunt <mother's older sister>				
+242	242	uncle (father's sister's husband}}nd (= father's o. bro) (note:father's_older_sister's_husband)	姑父 (大~(父之姐丈))	n	uncle <father's older sister's husba||uncle <father's sister's husba (= father's o. bro)||uncle <father's younger sister's husba||uncle <father's sister's husba||uncle <father's sister's husband>				
+243	243	aunt (father's sister}} (= 'wife of f's o. bro') (note:"father's_older_brother's_wife" (wrong number))	姑母 (同"伯母")	n	aunt <father's younger sister>||aunt <father's older sister>||aunt <father's sister> (= 'wife of f's o. bro')||aunt <father's sister>				
+244	244	relatives	亲戚	n	father-in-law||relatives				
+245	245	father-in-law	岳父	n	mother-in-law||father-in-law				
+246	246	mother-in-law	岳母	n	mother-in-law				
+247	247	husband (address) (note:+citation)	丈夫 ((引称))	n	husband||husband (reference)||husband (proper, honorable)||husband (vulgo)||husband (address)	husband (proper, honorable) (note:+formal) n||husband (vulgo) (note:-formal) n||husband n||husband (reference) (note:+address) n	丈夫 ((雅称))||丈夫 ((俗称))||丈夫||丈夫 ((对称))	1200	HUSBAND
+248	248	wife (address) (note:+citation)	妻子 ((引称))	n	wife (proper, honorable)||wife (address)||wife (reference)||wife (vulgo)||wife	wife n||wife (reference) (note:+address) n||wife (proper, honorable) (note:-formal) m||wife (vulgo) (note:+formal) n	妻子||妻子 ((对称))||妻子 ((俗称))||妻子 ((雅称))	1199	WIFE
+249	249	stepmother (younger than birth mother) (note:+older_than_biological_mother)	继母 ((比生母大的)~)	n	stepmother (older than birth mother)||stepmother (younger than birth mother)||stepmother	stepmother (older than birth mother) (note:+younger_than_biological_mother) n||stepmother n	继母 ((比生母小的)~)||继母		
+250	250	stepfather (younger than birth father) (note:+older_than_biological_father)	继父 ((比生父大的)~)	n	stepfather||stepfather (older than birth father)||stepfather (younger than birth father)	stepfather n||stepfather (older than birth father) (note:+younger_than_biological_father) n	继父||继父 ((比生父小的)~)		
+251	251	widow	寡妇	n	widow				
+252	252	orphan	孤儿	n	orphan				
+253	253	livestock / animal (domestic)	牲畜	n	livestock / animal (domestic)				
+254	254	cattle	牛	n	cattle				
+255	255	cattle (common) (note:+female)	黄牛 (母~)	n	cattle (common, male)||cattle (common)||cattle (common, female)	cattle (common, male) (note:+male) n||cattle (common, female) n	黄牛 (公~)||黄牛		
+256	256	buffalo	水牛	n	buffalo				
+257	257	yak (male)	牦牛	n	yak (female)||yak||yak (male)	yak (female) (note:+male) n||yak (note:+female) n	牦牛 (公~)||牦牛 (母~)		
+258	258	cattle (bull-yak crossbreed, male)	犏牛	n	cattle (bull-yak crossbreed, male)||cattle (bull-yak crossbreed, female)||yak||cattle (bull-yak crossbreed)	cattle (bull-yak crossbreed) (note:+female) n||cattle (bull-yak crossbreed, female) (note:+male) n	犏牛 (母~)||犏牛 (公~)		
+259	259	calf (bull-yak crossbreed) (note:+bull-yak)	牛犊 (犏~)	n	calf (bull-yak crossbreed)||calf (common)||calf (yak)||calf||calf (common or bull-yak crossbreed)	calf (common) (note:+cattle) n||calf (yak) (note:+yak) n||calf n||calf (common or bull-yak crossbreed) (note:+cattle | bull-yak) n	牛犊 (黄~)||牛犊 (牦~)||牛犊||牛犊 (黄,犏~)		
+260	260	bull	公牛	n	bull				
+261	261	cow	母牛	n	cow				
+262	262	dung (cow) (dry) (note:+wet)	牛粪 (湿~)	n	dung (cow) (dry)||dung (cow)||dung (cow) (wet)	dung (cow) (wet) (note:+dry) n||dung (cow) n	牛粪 (干~)||牛粪		
+263	263	horn	犄角	n	horn			1393	HORN (ANATOMY)
+264	264	hoof (odd number) (note:+odd_toed)	蹄 (奇数~)	n	hoof||hoof (odd number)||hoof (even number)	hoof (even number) n||hoof (note:+even_toed) n	蹄||蹄 (偶数~)	152	HOOF
+265	265	skin (leather, hide) (note:+furry{i.e. not leather})	皮 ((带毛的)~)	n	skin (with hair)||skin||skin (leather, hide)	skin (with hair) (note:+leather) n||skin n	皮 (皮革)||皮		
+266	266	hair / down (of yak) (note:+yak)	毛 ((牦牛)~)	n	hair / down||hair / down (of yak)	hair / down n	毛	189	HAIR (BODY)
+267	267	bee	尾巴	Nanim	bee||tail	tail n	尾巴	1220	TAIL
+268	268	horse	马	n	horse			615	HORSE
+269	269	pony	马驹	n	pony				
+270	270	stallion	公马	n	stallion				
+271	271	mare	母马	n	mare				
+272	272	mane (horse)	马鬃	n	mane (horse)				
+273	273	dung (horse)	马粪	n	dung (horse)				
+274	274	sheep (general)	羊	n	sheep (general)				
+275	275	sheep	绵羊	n	sheep			1331	SHEEP
+276	276	goat (male) (note:+female)	山羊 (母~)	n	goat (male)||goat (female)||goat	goat (female) (note:+male) n||goat n	山羊 (公~)||山羊	1502	GOAT
+277	277	lamb	山羊羔	n	lamb				
+278	278	kid	绵羊羔	n	kid				
+279	279	wool / fleece (goat) (note:goat)	羊毛 (山~)	n	wool / fleece||wool / fleece (goat)||wool / fleece (sheep)	wool / fleece (sheep) (note:sheep) n||wool / fleece n	羊毛 (绵~)||羊毛		
+280	280	dung (goat, sheep)	羊粪	n	dung (goat)||dung (goat, sheep)||dung (sheep)	dung (goat) (note:+sheep) n||dung (sheep) (note:+goat) n	羊粪 (绵~)||羊粪 (山~)		
+281	281	mule	骡子	n	mule				
+282	282	donkey	驴	n	donkey				
+283	283	camel	骆驼	n	camel				
+284	284	pig	猪	n	pig			1337	PIG
+285	285	boar	公猪	n	boar				
+286	286	sow	母猪	n	sow				
+287	287	piglet	猪崽	n	piglet				
+288	288	dung (pig)	猪粪	n	dung (pig)				
+289	289	dog	狗	n	dog			2009	DOG
+290	290	hound	猎狗	n	hound				
+291	291	cat	猫	n	cat				
+292	292	rabbit	兔子	n	rabbit				
+293	293	chicken	鸡	n	chicken				
+294	294	cock	公鸡	n	cock				
+295	295	hen	母鸡	n	hen				
+296	296	chick (newly hatched) (note:"newly hatched chicken")	雏鸡 ("才孵出的鸡")	n	chick (newly hatched)||chick	chick n	雏鸡		
+297	297	cockscomb	鸡冠	n	cockscomb				
+298	298	wing	翅膀	n	wing			1257	WING
+299	299	feather / plume (bird) (note:+chicken)	羽毛 (鸡~)	n	feather / plume (bird)||feather / plume (chicken)||feather / plume	feather / plume n||feather / plume (chicken) (note:+bird) n	羽毛||羽毛 (鸟~)	1201	FEATHER
+300	300	duck (domestic) (note:+domestic)	鸭子 (家鸭)	n	duck||duck (mallard)||duck (domestic)	duck n||duck (mallard) (note:+wild) n	鸭子||鸭子 (野水鸭)		
+301	301	goose	鹅	n	goose				
+302	302	dove	鸽子	n	dove				
+303	303	animal / beast (carnivore)	野兽	n	animal / beast (carnivore)||animal / beast||animal / beast (herbivore)	animal / beast (note:+carnivore) n||animal / beast (herbivore) (note:+herbivore) n	野兽 (食肉~)||野兽 (食草~)		
+304	304	tiger	老虎	n	tiger			846	TIGER
+305	305	lion	狮子	n	lion				
+306	306	dragon (water) (note:+water)	龙 ((水中的)~)	n	dragon||dragon (sky)||dragon (water)	dragon n||dragon (sky) (note:+sky) n	龙||龙 ((天上的)~)		
+307	307	claw / talon	爪子	n	claw / talon||claw / talon (chicken's rear claws)	claw / talon (chicken's rear claws) (note:"chicken rear talons") n	爪子 ("鸡后爪")		
+308	308	monkey	猴子	n	monkey				
+309	309	elephant	象	n	elephant				
+310	310	leopard / panther	豹子	n	leopard / panther				
+311	311	bear	熊	n	bear				
+312	312	boar (wild)	野猪	n	boar (wild)				
+313	313	deer (female) (note:+male)	鹿 (公~)	n	deer (female)||deer (male)||deer	deer n||deer (male) (note:+female) n	鹿||鹿 (母~)		
+314	314	muntjac / deer (barking)	麂子	n	muntjac / deer (barking) (yellow)||muntjac / deer (barking) (blue-green)||muntjac / deer (barking)	muntjac / deer (barking) (yellow) (note:+green) n||muntjac / deer (barking) (blue-green) (note:+yellow) n	麂子 (青~)||麂子 (黄~)		
+315	315	deer (river) (male) (note:+female)	獐子 (母~)	n	deer (river) (female)||deer (river)||deer (river) (male)	deer (river) (female) (note:+male) n||deer (river) n	獐子 (公~)||獐子		
+316	316	musk	麝香	n	musk				
+317	317	otter	水獭	n	otter			15	OTTER
+318	318	porcupine	豪猪	n	porcupine				
+319	319	hedgehog	刺猬	n	hedgehog				
+320	320	mouse	老鼠	n	mouse			2139	MUROID (MOUSE OR RAT)
+321	321	squirrel	松鼠	n	squirrel				
+322	322	weasel (yellow)	黄鼠狼	n	weasel (yellow)				
+323	323	jackal	豺	n	jackal				
+324	324	wolf	狼	n	wolf			522	WOLF
+325	325	fox	狐狸	n	fox			1312	FOX
+326	326	bird	鸟	n	bird			937	BIRD
+327	327	nest (bird)	鸟窝	n	nest (bird)				
+328	328	kite (black-eared) / hawk	老鹰	n	kite (black-eared) / hawk				
+329	329	sparrow hawk	鹞子	n	sparrow hawk				
+330	330	eagle / vulture	雕	n	eagle / vulture				
+331	331	vulture (cinereous)	秃鹫	n	eagle, vulture||vulture (cinereous)				
+332	332	owl	猫头鹰	n	owl				
+333	333	swallow	燕子	n	swallow				
+334	334	goose (wild)	大雁	n	goose (wild)				
+335	335	crane	白鹤	n	crane||wild goose				
+336	336	sparrow	麻雀	n	sparrow			1854	SPARROW
+337	337	bat	蝙蝠	Nanim	bat				
+338	338	magpie	喜鹊	n	magpie				
+339	339	crow	乌鸦	n	crow||pheasant				
+340	340	pheasant	野鸡	n	pheasant (short-tailed)||pheasant||pheasant (long-tailed)	pheasant (long-tailed) (note:+short-feathered) n||pheasant (short-tailed) (note:+long-feathered) n	野鸡 (短毛~)||野鸡 (长毛~)		
+341	341	parrot	鹦鹉	n	parrot				
+342	342	turtledove	斑鸠	n	turtledove				
+343	343	woodpecker	啄木鸟	n	woodpecker				
+344	344	cuckoo	布谷鸟	n	cuckoo				
+345	345	peacock	孔雀	n	peacock				
+346	346	tortoise	乌龟	n	peacock||tortoise				
+347	347	snake	蛇	n	snake			730	SNAKE
+348	348	lizard	四脚蛇	n	lizard				
+349	349	frog	青蛙	n	frog			503	FROG
+350	350	tadpole	蝌蚪	n	tadpole				
+351	351	fish	鱼	n	fish			227	FISH
+352	352	scale	鳞	Nbp	scale				
+353	353	insect / worm (flying) (note:+flying)	虫 (飞~)	n	insect / worm||insect / worm (flying)||insect / worm (crawling)	insect / worm n||insect / worm (crawling) (note:+crawly) n	虫||虫 (爬~)		
+354	354	bedbug	臭虫	n	bedbug				
+355	355	flea	跳蚤	n	flea			232	FLEA
+356	356	louse	虱	n	louse			1392	LOUSE
+357	357	nit	虮子	n	nit			267	NIT
+358	358	fly	苍蝇	Nanim	fly				
+359	359	maggot (meat) (note:+meat)	蛆 (肉~)	n	maggot (dung)||maggot (meat)||maggot	maggot n||maggot (dung) (note:+dung) n	蛆||蛆 (粪~)		
+360	360	mosquito (relatively small) (note:+larger)	蚊子 ((较大的)~)	n	mosquito||mosquito (relatively small)||mosquito (relatively large)	mosquito n||mosquito (relatively large) (note:+small) n	蚊子||蚊子 ((较小的)~)	1509	MOSQUITO
+361	361	spider	蜘蛛	n	spider			843	SPIDER
+362	362	centipede	蜈蚣	n	centipede				
+363	363	earthworm	蚯蚓	n	earthworm			2350	EARTHWORM
+364	364	leech	蚂蟥	n	leech||leech (water)||leech (mountain, arid area)	leech (mountain, arid area) (note:+water) n||leech (water) (note:+mountain | field) n	蚂蟥 ((水中的)~)||蚂蟥 ((山上或草地的)~)		
+365	365	ant	蚂蚁	n	ant			587	ANT
+366	366	silkworm	蚕	n	silkworm				
+367	367	bee	蜜蜂	Nanim	bee				
+368	368	locust	蝗虫(蚂蚱)	n	locust				
+369	369	dragonfly	蜻蜓	n	dragonfly				
+370	370	butterfly	蝴蝶	n	butterfly				
+371	371	snail	蜗牛	n	snail				
+372	372	tree	树	n	tree			906	TREE
+373	373	trunk	树干	nveg	tree||trunk				
+374	374	branch / twig	树枝	n	branch / twig			1531	BRANCH
+375	375	root	根	nveg	root			670	ROOT
+376	376	leaf	叶子	nveg	leaf			2250	LEAF (LEAFLIKE OBJECT)
+377	377	flower	花	nveg	flower			239	FLOWER
+378	378	fruit (lit. 'pear peach apricot') (note:"plum-peach-apricot")	水果 ("梨桃杏")	nveg	fruit||fruit (lit. 'pear peach apricot')	fruit nveg	水果	1507	FRUIT
+379	379	pit / stone	核儿	n	pit / stone			857	STONE
+380	380	sprout / shoot	柏树	nveg	sprout / shoot				
+381	381	bud	蓓蕾	nveg	bud				
+382	382	willow	柳树	nveg	willow				
+383	383	poplar	杨树	nveg	poplar				
+384	384	fir (China) (mid-elevation 'hanging' fir)	杉树 (吊杉(长于山*))	nveg	fir (China) (mid-elevation 'hanging' fir)||fir (China) (high-elevation spruce)||fir (China)	fir (China) nveg||fir (China) (high-elevation spruce) (note:+mountain) nveg	杉树||杉树 (白泡云杉(长于高山上))		
+385	385	pine (said by youth) (note:+elderly{speech})	松树 ((老人语))	nveg	pine||pine (said by youth)||pine (said by elderly)	pine nveg||pine (said by elderly) (note:+younger{speech}) nveg	松树||松树 ((青年语))		
+386	386	cypress (big)	芽儿	nveg	pine||cypress (small)||cypress||cypress (big)	cypress (small) nveg||cypress nveg	芽儿||芽儿		
+387	387	resin / colophony (of a qiang1 pine tree) (note:+qiang_pine)	松香 ((椌松树上的)~)	nveg	resin / colophony (of a qiang1 pine tree)||resin / colophony	resin / colophony nveg	松香		
+388	388	torches (pine)	松明	n	torches (pine)				
+389	389	bamboo (thick, coarse) (note:+thick)	竹子 (粗~)	n	bamboo (thin, fine)||bamboo (thick, coarse)||bamboo	bamboo n||bamboo (thin, fine) (note:+thin) n	竹子||竹子 (细~)	1927	BAMBOO
+390	390	cane / vine (tendrilled) (note:+bamboo)	藤子 (藤竹)	n	cane / vine (herba fibraureae recisae)||cane / vine (for making rattan chairs)||cane / vine (tendrilled)||cane / vine||cane / vine (black)||vine (melon)	vine (melon) (note:+yellow) n||cane / vine (for making rattan chairs) (note:+black) n||cane / vine n||cane / vine (black) (note:+rope) n||cane / vine (herba fibraureae recisae) (note:+melon) n	藤子 (黄藤)||藤子 (黑藤)||藤子||藤子 (藤绳)||藤子 (瓜藤)		
+391	391	thorn / splinter	刺儿	n	thorn / splinter				
+392	392	peach	桃子	n	peach				
+393	393	pear (flat: Ch. 'bian3 li2') (note:+small +yellow)	梨 ((小黄)~)	n	pear (flat: Ch. 'bian3 li2')||pear||pear (small yellow)	pear (small yellow) (note:+flat) n||pear n	梨 ((扁)~)||梨		
+394	394	tangerine	桔子	n	tangerine				
+395	395	persimmon	柿子	n	persimmon (big)||persimmon||persimmon (small)||persimmon (dried)||persimmon (fresh)	persimmon (small) (note:+large) n||persimmon (fresh) (note:+fresh) n||persimmon (dried) (note:+preserved) n||persimmon (big) (note:+small) n	柿子 (大~)||柿子 (鲜~)||柿子 (柿饼子)||柿子 (小~)		
+396	396	grape	葡萄	n	grape				
+397	397	chestnut (Chinese)	板栗	n	chestnut (Chinese)				
+398	398	banana (plantain)	芭蕉	n	banana (plantain)				
+399	399	sugarcane	甘蔗	n	sugarcane				
+400	400	walnut	核桃	n	walnut				
+401	401	crops	庄稼	n	crops				
+402	402	foodstuff / grain	粮食	n	foodstuff / grain				
+403	403	rice (paddy)	水稻	n	rice (paddy)				
+404	404	rice (glutinous)	糯米	n	rice (glutinous)				
+405	405	seed	种子	n	seed			714	SEED
+406	406	seedling (rice)	秧	n	seedling (rice)				
+407	407	ear / spike	穗[?]	n	ear / spike				
+408	408	straw (rice)	稻草	n	straw (rice)||straw (rice) (standing stalks)	straw (rice) (standing stalks) (note:+grain) n	稻草 (禾稻)		
+409	409	rice (unhusked)	谷粒	n	rice (unhusked)				
+410	410	wheat	小麦	n	wheat			1077	WHEAT
+411	411	barley	大麦	n	barley			932	BARLEY
+412	412	barley (highland)	青稞	n	barley (highland)				
+413	413	buckwheat	荞麦	n	buckwheat (flower)||buckwheat||buckwheat (sweet)||buckwheat (tartary, hulless, duck wheat)	buckwheat (flower) (note:+flowery) n||buckwheat (tartary, hulless, duck wheat) (note:+bitter) n||buckwheat (sweet) (note:+sweet) n	荞麦 (花荞)||荞麦 (苦荞)||荞麦 (甜荞)		
+414	414	straw (wheat)	麦秸	n	straw (wheat)				
+415	415	awn of wheat	麦芒	n	awn of wheat				
+416	416	maize / corn	玉米	n	maize / corn				
+417	417	millet	小米	n	millet				
+418	418	cotton	棉花	n	cotton				
+419	419	hemp	麻	n	hemp				
+420	420	vegetable	蔬菜	n	vegetable||vegetable (cooked)||vegetable (uncooked)	vegetable (cooked) (note:+uncooked) n||vegetable (uncooked) (note:+cooked) n	蔬菜 ((已炒的)~)||蔬菜 ((未炒的)~)		
+421	421	radish	萝卜	n	radish				
+422	422	pepper (hot) / chili	辣椒	n	pepper (hot) / chili				
+423	423	onion / scallion	葱	n	onion / scallion				
+424	424	garlic	蒜	n	garlic				
+425	425	ginger	姜	n	ginger				
+426	426	potato	马铃薯	n	potato				
+427	427	melon / gourd	瓜	n	melon / gourd				
+428	428	pumpkin	南瓜	n	pumpkin				
+429	429	cucumber	黄瓜	n	cucumber				
+430	430	pea / bean	豆	n	pea / bean				
+431	431	soya bean	黄豆	n	soya bean				
+432	432	bean (broad)	蚕豆	n	bean (broad)				
+433	433	pea	豌豆	n	pea				
+434	434	peanut	花生	n	peanut				
+435	435	sesame	芝麻	n	sesame				
+436	436	grass (not eaten by draught animals) (note:+small)	草 (小~)	n	grass (not eaten by draught animals)||grass (eaten by draught animals)||grass (long-stemmed)||grass (small)||grass	grass n||grass (eaten by draught animals) (note:+long-stemmed) n||grass (small) (note:+edible{livestock}) n||grass (long-stemmed) (note:+edible{livestock}) n	草||草 (长茎)||草 ((牲口不吃的)~)||草 ((牲口可吃的)~)	606	GRASS
+437	437	mushroom	蘑菇	n	mushroom||mushroom (white)||mushroom (yellow)	mushroom (white) (note:+yellow) n||mushroom (yellow) (note:+white) n	蘑菇 (黄~)||蘑菇 (白~)		
+438	438	fungus (edible) (lit. 'mouse's ear') (note:"old-person ear")	木耳 ("老人耳朵")	n	fungus (edible)||fungus (edible) (lit. 'old person's ear')||fungus (edible) (lit. 'mouse's ear')	fungus (edible) (lit. 'old person's ear') (note:"mouse ear") n||fungus (edible) n	木耳 ("老鼠耳朵")||木耳		
+439	439	rice	米	n	rice			2026	RICE PLANT
+440	440	meal (note:meal)	饭 ((早晚)~)	n	rice (cooked)||meal	rice (cooked) n	饭		
+441	441	gruel / porridge	粥(稀饭)	n	gruel / porridge				
+442	442	flour	面粉	n	flour				
+443	443	meat	肉	n	meat			634	MEAT
+444	444	meat (lean)	瘦肉	n	meat (lean)				
+445	445	oil (animal) (lard)	脂肪油 (熟的大油)	n	oil (animal) (intestine)||oil (animal) (cooked lard)||oil (animal) (flead; leaf fat; leaf lard)||oil (animal)||oil (animal) (lard)	oil (animal) (cooked lard) (note:+pig) n||oil (animal) n||oil (animal) (flead; leaf fat; leaf lard) n||oil (animal) (intestine) (note:+leaf) n	脂肪油 (猪油)||脂肪油||脂肪油 (肠油)||脂肪油 (板油)		
+446	446	oil (vegetable)	清油	n	oil (vegetable)				
+447	447	butter	酥油(黄油)	n	butter||animal oil				
+448	448	seed of Chinese prickly ash	花椒	n	seed of Chinese prickly ash				
+449	449	sugar	糖	n	sugar (honey)||sugar (brown)||sugar	sugar (honey) (note:+crystal) n||sugar (brown) (note:+red) n	糖 (冰~)||糖 (红~)		
+450	450	egg	蛋(鸡~)	n	egg			744	EGG
+451	451	soup (vegetable) (note:+vegetable)	汤 (菜~)	n	soup||soup (vegetable)	soup n	汤		
+452	452	alcoholic beverage (sorghum / maize) (note:+highland_barley)	酒 (青稞~)	n	alcoholic beverage (corn)||alcoholic beverage (highland barley)||alcoholic beverage (sorghum / maize)||alcoholic beverage||alcoholic beverage (yellow rice / millet / Shaoxing)	alcoholic beverage (highland barley) (note:+corn) n||alcoholic beverage (corn) (note:+white) n||alcoholic beverage n||alcoholic beverage (yellow rice / millet / Shaoxing) (note:+yellow) n	酒 (玉米~)||酒 (白~)||酒||酒 (黄~)		
+453	453	water (boiled)	开水	n	water (boiled)				
+454	454	tea	茶	n	tea				
+455	455	cigarette / tobacco	烟(吸的~)	n	cigarette / tobacco				
+456	456	medicine	药	n	medicine				
+457	457	chaff / bran	糠	n	chaff / bran||chaff / bran (wheat)||chaff / bran (highland barley)	chaff / bran (highland barley) (note:+wheat) n||chaff / bran (wheat) (note:+highland_barley) n	糠 (麦~)||糠 (青稞~)		
+458	458	wheat bran	麦麸	n	wheat bran				
+459	459	feed (pig) / pigwash	猪食	n	feed (pig) / pigwash				
+460	460	fodder / feed (horse)	马料	n	fodder / feed (horse)				
+461	461	thread	线	n	cloth||thread (knitting wool)||thread	thread (knitting wool) (note:wool) n	线 (毛~)		
+462	462	cloth	布	n	cloth				
+463	463	silk thread (note:+thread)	丝 (~线)	n	silk||silk thread	silk n	丝		
+464	464	fabric (silk)	绸子	n	fabric (silk)				
+465	465	fabric (satin)	缎子	n	fabric (satin)				
+466	466	cloth (woollen) (tweed native to area) (note:+homespun)	呢子 (本地粗呢)	n	cloth (woollen) (tweed native to area)||cloth (woollen)	cloth (woollen) n	呢子		
+467	467	clothing / garment	衣服	n	clothing / garment				
+468	468	collar	衣领	n	collar				
+469	469	sleeve	衣袖	n	sleeve				
+470	470	button	扣子	n	pants / trousers||button				
+471	471	pants / trousers (female's) (note:+male)	裤子 (男裤)	n	pants / trousers||pants / trousers (female's)||pants / trousers (male's)	pants / trousers (male's) (note:+female) n||pants / trousers n	裤子 (女裤)||裤子		
+472	472	apron (note:apron)	裙子 (围裙)	n	skirt (male's)||apron||skirt	skirt n||skirt (male's) (note:+male) n	裙子||裙子 (男裙)		
+473	473	cloth (colorful, worn on the head)	头帕	n	cloth (colorful, worn on the head) (for women)||cloth (colorful, worn on the head)||skirt	cloth (colorful, worn on the head) (for women) (note:+female) n	头帕 ((女用)~)		
+474	474	head-cloth / turban	包头	n	head-cloth / turban||head-cloth / turban (for men)	head-cloth / turban (for men) (note:+male) n	包头 ((男用)~)		
+475	475	hat (men's) (note:+male)	帽子 (男帽)	n	hat||hat (men's)||hat (women's long-tubed hat)	hat n||hat (women's long-tubed hat) (note:+female) n	帽子||帽子 (女用长筒帽)		
+476	476	belt / girdle (soft) (note:+hard)	腰带 ((硬的)~)	n	belt / girdle||belt / girdle (hard)||belt / girdle (soft)	belt / girdle n||belt / girdle (hard) (note:+soft) n	腰带||腰带 ((软的)~)		
+477	477	puttee	裹腿	n	puttee				
+478	478	sock / stocking	袜子	n	sock / stocking				
+479	479	shoe	鞋	n	shoe				
+480	480	boot	靴子	n	boot (made of 'pulu', Tibetan woolen fabric)||boot||shoe	boot (made of 'pulu', Tibetan woolen fabric) (note:+Tibetan_wool_fabric) n	靴子 ((氆氇)~)		
+481	481	comb	梳子	n	comb				
+482	482	treasured object / treasure	宝贝	n	treasured object / treasure				
+483	483	coral	珊瑚	n	coral				
+484	484	earrings (small) (note:+large)	耳环 (大~)	n	earrings (small)||earrings (male's)||earrings||earrings (female's)||earrings (big)	earrings (big) (note:+small) n||earrings (male's) n||earrings (note:+female) n||earrings (female's) (note:+male) n	耳环 (小~)||耳环||耳环 ((女用)~)||耳环 ((男用)~)		
+485	485	necklace / necklet (male's) (note:+male)	项圈 ((男用)~)	n	necklace / necklet (male's)||necklace / necklet||necklace / necklet (female's)||necklace / necklet (chain)	necklace / necklet n||necklace / necklet (chain) (note:+female) n||necklace / necklet (female's) (note:necklace) n	项圈||项圈 ((女用)~)||项圈 (项链)		
+486	486	ring	戒指	n	ring				
+487	487	bracelet	手镯	n	bracelet				
+488	488	blanket (felt)	毡子	n	blanket (felt)				
+489	489	cloth (Tibetan, woollen)	氆氇	n	cloth (Tibetan, woollen)				
+490	490	pillow	枕头	n	pillow				
+491	491	mat (woven bamboo) (note:+straw)	席子 (草~)	n	mat (grass, straw)||mat (for drying things in the sun)||mat||mat (woven bamboo)	mat (grass, straw) (note:+bamboo) n||mat n||mat (for drying things in the sun) (note:+sunning) n	席子 (篾席)||席子||席子 (晒~)		
+492	492	pad / cushion	垫子	n	pad / cushion				
+493	493	cape (for rain, of straw or palm bark)	蓑衣	n	cape (for rain, of straw or palm bark)				
+494	494	house	房子	n	house			1252	HOUSE
+495	495	roof	房顶	n	roof				
+496	496	eaves	房檐	n	eaves				
+497	497	foundation	地基	n	foundation				
+498	498	kitchen	厨房	n	kitchen				
+499	499	building	楼房	n	building				
+500	500	upstairs	楼上	n	upstairs||upstairs (second floor, where people live)	upstairs (second floor, where people live) (note:{?second floor, for people})	楼上 ((指二楼,住人的))		
+501	501	downstairs	楼下	n	downstairs||downstairs (first floor, the draught animal pen)	downstairs (first floor, the draught animal pen) (note:{?first floor, for livestock})	楼下 ((指一楼,圈牲口的))		
+502	502	warehouse / storehouse	仓库	n	warehouse / storehouse				
+503	503	shed (cow) / fence (ox)	牛圈	n	shed (cow) / fence (ox)				
+504	504	pigsty / pen (hog)	猪圈	n	pigsty / pen (hog)				
+505	505	stable / fence (horse)	马圈	n	stable / fence (horse)				
+506	506	sheepfold / pen (sheep)	羊圈	n	sheepfold / pen (sheep)				
+507	507	pen (chicken)	鸡圈	n	pen (chicken)||shed (chicken)	shed (chicken) n	鸡圈 (鸡栅)		
+508	508	brick	砖	n	brick				
+509	509	tile	瓦	n	shingle||tile	shingle (note:+board) n	瓦 (木板~)		
+510	510	wall (earthen, cob wall)	墙	n	wall (earthen, cob wall)||wall (stone)||wall	wall (stone) (note:+stone) n||wall (note:+earthen) n	墙 (石~)||墙 (土~)		
+511	511	wood / log	木头	n	wood / log			1803	WOOD
+512	512	plank / board (coffin) (note:+small)	木板 (小~)	n	plank / board (coffin)||plank / board (small)||plank / board	plank / board (small) n||plank / board n	木板 (棺~)||木板		
+513	513	pillar / column	柱子	n	pillar / column				
+514	514	door	门	n	door				
+515	515	threshold	门坎	n	threshold				
+516	516	door (front) / door (entrance)	大门	n	door (front) / door (entrance)				
+517	517	window	窗子	n	window				
+518	518	beam (of building)	梁	n	beam (of building) (small)||beam (of building)||beam (of building) (big)	beam (of building) (big) (note:+large) n||beam (of building) (small) (note:+small) n	梁 (大~)||梁 (小~)		
+519	519	rafter (of building)	椽子	n	rafter (of building)||flight of steps				
+520	520	flight of steps	台阶	n	flight of steps				
+521	521	fence (bamboo / twig)	篱笆	n	fence (bamboo / twig)				
+522	522	garden (plot)	园子	n	garden (plot)				
+523	523	thing	东西	n	thing				
+524	524	table (word used by elderly) (note:younger{language})	桌子 ((青年语))	n	table||table (word used by younger people)||table (word used by elderly)	table (word used by younger people) (note:elderly{language}) n||table n	桌子 ((老人语))||桌子		
+525	525	stool / bench	凳子	n	stool / bench				
+526	526	bed	床	n	bed||bed (without bedding)||bed (with bedding)	bed (without bedding) (note:+made) n||bed (with bedding) (note:-made) n	床 ((有铺盖的)~)||床 ((没铺盖的)~)		
+527	527	chest / box / trunk	箱子	n	chest / box / trunk				
+528	528	cupboard / cabinet	柜子	n	cupboard / cabinet				
+529	529	box / case	盒子	n	cupboard, cabinet||box / case				
+530	530	soap	肥皂	n	soap				
+531	531	mirror	镜子	n	mirror				
+532	532	broom	扫帚	n	broom				
+533	533	light / lamp	灯	n	light / lamp (pine torch)||light / lamp||light / lamp (butter)||light / lamp (oil)	light / lamp (butter) (note:+pine) n||light / lamp (pine torch) (note:+butter) n||light / lamp (oil) (note:+oil) n	灯 (松明)||灯 (酥油~)||灯 (油~)		
+534	534	firewood	柴	n	firewood			10	FIREWOOD
+535	535	charcoal (live)	火炭(燃着的炭)	n	charcoal (live)||charcoal (live) (burned out by wood)	charcoal (live) (burned out by wood) n	火炭(燃着的炭) ((木头燃尽的火炭))		
+536	536	flint	火石	n	flint				
+537	537	tinder	火绒	n	tinder				
+538	538	steel (for flint)	火镰	n	steel (for flint)				
+539	539	match	火柴	n	match				
+540	540	torch	火把	n	torch				
+541	541	joss stick / incense	香(烧的~)	n	joss stick / incense				
+542	542	garbage / rubbish	垃圾	n	garbage / rubbish				
+543	543	dye (stuff)	染料	n	dye (stuff)				
+544	544	stove (cooking) / range (kitchen)	灶	n	wok (large, iron) / pan||stove (cooking) / range (kitchen)				
+545	545	wok (large, iron) / pan	铁锅	n	wok (large, iron) / pan				
+546	546	wok (frying)	炒菜锅	n	wok (frying)				
+547	547	lid / cover	盖子	n	lid / cover				
+548	548	steamer (rice) (note:+bottle)	蒸笼 (瓶子)	n	steamer (rice)||steamer (of bamboo, for food)	steamer (of bamboo, for food) n	蒸笼		
+549	549	knife (long) (note:+long)	刀 (长~)	n	knife||knife (long)	knife n	刀		
+550	550	handle (specifically of a knife) (note:+knife)	把儿(刀~) (刀~)	n	handle (of a knife)||handle (specifically of a knife)	handle (of a knife) n	把儿(刀~)		
+551	551	ladle (bamboo) (note:+iron)	勺子 (铁~)	n	ladle (bamboo)||ladle||ladle (iron)	ladle (iron) (note:+bamboo) n||ladle n	勺子 (竹~)||勺子		
+552	552	spoon	匙(调羹)	n	ladle||spoon				
+553	553	bowl (tea) (note:+tea)	碗 (茶~)	n	bowl||bowl (wooden)||bowl (tea)||bowl (porcelain)	bowl (porcelain) (note:+ceramic) n||bowl n||bowl (wooden) (note:+wood) n	碗 (瓷~)||碗||碗 (木~)		
+554	554	plate / dish	盘子	n	plate / dish				
+555	555	chopsticks (term used by old people) (note:younger{language})	筷子 ((青年语))	n	chopsticks||chopsticks (term used by younger people)||chopsticks (term used by old people)	chopsticks (term used by younger people) (note:elderly{language}) n||chopsticks n	筷子 ((老人语))||筷子		
+556	556	bottle	瓶子	n	bottle				
+557	557	pot / jar / tin	罐子	n	pot / jar / tin (big)||bottle||pot / jar / tin (earthenware)||pot / jar / tin (water)||pot / jar / tin (copper)||pot / jar / tin	pot / jar / tin (water) n||pot / jar / tin (copper) n||pot / jar / tin (earthenware) n||pot / jar / tin (big) n	罐子 (铜罐)||罐子 (水罐)||罐子 (瓦罐)||罐子		
+558	558	jar (earthen)	坛子	n	jar (earthen)				
+559	559	kettle / pot (glossy porcelain)	壶 ((一般的)~)	n	kettle / pot||kettle / pot (generic term)||kettle / pot (glossy porcelain)	kettle / pot (generic term) n||kettle / pot n	壶 ((光滑的)瓷~)||壶		
+560	560	vat / jar	缸	n	vat / jar||vat / jar (copper)||kettle / pot||vat / jar (pottery / earthenware)||vat / jar (stone)	vat / jar (pottery / earthenware) (note:+stone) n||vat / jar (stone) (note:+copper) n||vat / jar (copper) (note:+pottery) n	缸 (石~)||缸 (铜~)||缸 (陶~)		
+561	561	bucket	水桶	n	bucket (for carrying water on back)||bucket (red copper)||bucket	bucket (red copper) n||bucket (for carrying water on back) n	水桶 (柴铜~)||水桶 (背水~)		
+562	562	tray (wooden)	木盆	n	tray (wooden)				
+563	563	hoop / band	箍儿	n	hoop / band (iron)||hoop / band||hoop / band (bamboo)	hoop / band (iron) (note:+iron) n||hoop / band (bamboo) (note:+bamboo) n	箍儿 (铁~)||箍儿 (竹~)		
+564	564	ladle (gourd) / dipper (calabash) (note:+copper)	瓢 (铜~)	n	ladle (gourd) / dipper (calabash)||ladle (gourd) / dipper (wooden)||ladle (gourd) / dipper (copper)||wooden tray	ladle (gourd) / dipper (copper) (note:+wooden) n||ladle (gourd) / dipper (wooden) n	瓢 (木~)||瓢		
+565	565	trivet	三脚架	n	trivet				
+566	566	tongs (fire)	火钳	n	tongs (fire)				
+567	567	tube (sheepskin pantsleg) for blowing on a fire	吹火筒 (羊皮风装)	n	tube (bamboo) for blowing on a fire||tube (sheepskin pantsleg) for blowing on a fire	tube (bamboo) for blowing on a fire n	吹火筒		
+568	568	section of bamboo used as container (for water) (note:+water)	竹筒 ((装水用的)~)	n	sect. of bamboo used as cont. (rice, salt, liquor)||sect. of bamboo used as cont. (to serve tea in)||section of bamboo used as container (for water)||section of bamboo used as container	section of bamboo used as container n||sect. of bamboo used as cont. (rice, salt, liquor) (note:+tea) n||sect. of bamboo used as cont. (to serve tea in) n	竹筒||竹筒 ((打茶用的)~)||竹筒 ((装米,盐,酒用的)~)		
+569	569	piece of cloth with straps for carrying a toddler	背带(背小孩用)	n	piece of cloth w.s.f.c.a.t. (piece of its outside)||piece of cloth w.s.f.c.a.t. (piece of its inside)||piece of cloth with straps for carrying a toddler	piece of cloth w.s.f.c.a.t. (piece of its outside) n||piece of cloth w.s.f.c.a.t. (piece of its inside) n	背带(背小孩用) ((指背带外面的一块))||背带(背小孩用) ((指背带里面的一块))		
+570	570	steelyard / scales (small) (note:+small)	秤 (小~)	n	steelyard / scales||steelyard / scales (big)||steelyard / scales (small)	steelyard / scales n||steelyard / scales (big) (note:+large) n	秤||秤 (大~)		
+571	571	container for measuring grain (=1 decaliter)	斗	n	container for measuring grain (=1 decaliter)				
+572	572	container (measuring, 1-liter-volume)	升	n	container (measuring, 1-liter-volume)				
+573	573	money (lit. 'conch shell') (note:"shells")	钱(货币) ("贝壳")	n	money (lit. 'paper money')||money||money (lit 'paper money')||money (lit. 'silver')||money (lit. 'conch shell')||money (lit. 'copper coin')	money (lit. 'silver') (note:"silver") n||money n||money (lit. 'copper coin') (note:"coins") n||money (lit. 'paper money') (note:{Indian loan}) n||money (lit 'paper money') (note:"bills") n	钱(货币) ("银子")||钱(货币)||钱(货币) ("铜板")||钱(货币) ((印地语借词))||钱(货币) ("纸币")		
+574	574	capital / principal	本钱	n	capital / principal				
+575	575	goods / merchandise	货物	n	goods / merchandise||interest (financial)				
+576	576	interest (financial)	利息	n	interest (financial)				
+577	577	ruler (measure)	尺子	n	ruler (measure)				
+578	578	needle	针	n	needle			1382	NEEDLE (FOR SEWING)
+579	579	awl	锥子	n	awl				
+580	580	nail / tack	钉子	n	nail / tack				
+581	581	scissors	剪子	n	scissors				
+582	582	ladder	梯子	n	ladder				
+583	583	umbrella (lit. 'cloth hat') (note:"cloth hat")	伞 ("布帽子")	n	umbrella||umbrella (lit. 'cloth hat')	umbrella n	伞		
+584	584	lock	锁	n	lock				
+585	585	key	钥匙	n	key				
+586	586	rod / stick	棍子	n	rod / stick			1295	STICK
+587	587	wheel	轮子	n	wheel				
+588	588	saddle	马鞍	n	saddle				
+589	589	halter / bridle	马笼头	n	halter / bridle				
+590	590	bellyband	马肚带	n	bellyband (front part of belly)||bellyband	bellyband (front part of belly) n	马肚带 (前肚带)		
+591	591	bit (for horse)	马嚼子	n	bit (for horse)				
+592	592	stirrup	马蹬子	n	stirrup				
+593	593	horseshoe	马掌	n	horseshoe				
+594	594	manger	马槽	n	manger				
+595	595	crupper-strap	后鞦	n	crupper-strap||manger				
+596	596	reins	缰绳	n	reins				
+597	597	whip (for urging a cow) (note:+horse)	鞭子 ((赶马用的)~)	n	whip (for urging a cow)||whip||whip (for urging a horse)	whip (for urging a horse) (note:+cow) n||whip n	鞭子 ((赶牛用的)~)||鞭子		
+598	598	rack (pack)	驮架	n	rack (pack)||whip				
+599	599	yoke	牛轭	n	yoke				
+600	600	ring in cow's nose used to lead it about	牛鼻圈	n	ring in cow's nose used to lead it about				
+601	601	string (oxhide) (thin / fine) (note:+thick)	牛皮绳 (粗~)	n	string (oxhide) (thin / fine)||ring in a cow's nose (used to lead it about)||string (oxhide)||string (oxhide) (thick / coarse)	string (oxhide) n||string (oxhide) (thick / coarse) (note:+thin) n	牛皮绳||牛皮绳 (细~)		
+602	602	boat / ship (wooden) (note:+wooden)	船 (木船)	n	boat / ship (wooden)||boat / ship (cowhide)||boat / ship	boat / ship (cowhide) (note:+leather) n||boat / ship n	船 (牛皮~)||船		
+603	603	raft	木筏	n	raft (bamboo)||raft	raft (bamboo) (note:bamboo_raft) n	木筏 (竹筏)		
+604	604	tool	工具	n	tool				
+605	605	axe	斧头	n	axe				
+606	606	hammer	锤子	n	hammer||hammer (small)||hammer (big)	hammer (small) (note:+small) n||hammer (big) (note:+large) n	锤子 (小~)||锤子 (大~)		
+607	607	chisel (round) (note:+round)	凿子 (园~)	n	chisel (square)||chisel (round)||chisel	chisel (square) (note:+square) n||chisel n	凿子 (方~)||凿子		
+608	608	saw	锯子	n	saw				
+609	609	drill / auger	钻子	n	drill / auger				
+610	610	file (tool)	锉	n	file (tool)				
+611	611	plane (tool)	刨子	n	plane (tool)				
+612	612	marker (ink, carpenter's)	墨斗	n	marker (ink, carpenter's)||plane				
+613	613	glue / gum	胶	n	glue / gum				
+614	614	plow	犁	n	plow				
+615	615	plowshare	铧	n	plowshare				
+616	616	rake	耙	n	rake (iron-toothed)||rake (wooden)||rake	rake (wooden) (note:+wooden) n||rake (iron-toothed) n	耙 (木~)||耙 (钉~)		
+617	617	hoe (pointed) (note:+small)	锄头 (小锄)	n	hoe (pointed)||hoe (small)||hoe (digging)||hoe	hoe n||hoe (small) (note:+sharp) n||hoe (digging) (note:+digging) n	锄头||锄头 (尖锄)||锄头 (挖锄)		
+618	618	pole (carrying / shoulder)	扁担	n	pole (carrying / shoulder)				
+619	619	rope / string	绳子	n	rope / string			1218	ROPE
+620	620	wedge	楔子	n	wedge||wedge (wooden)	wedge (wooden) (note:+wooden) n	楔子 (木~)		
+621	621	grip / handle	把儿(茶缸~)	n	grip / handle				
+622	622	basket carried on the back	背篓	n	basket carried on the back (sparse strips)||basket carried on the back (sparse strips )||basket carried on the back (sharp-bottomed)||basket carried on the back (square-mouthed)||basket carried on the back (dense, uniform-sized)||basket carried on the back||basket carried on the back (dense strips)	basket carried on the back (dense, uniform-sized) n||basket carried on the back (dense strips) n||basket carried on the back (sharp-bottomed) n||basket carried on the back (sparse strips) n||basket carried on the back (square-mouthed) n	背篓 (稀条篓)||背篓 (方口篓)||背篓 ((密的,上下一样大的篓))||背篓 (尖底篓)||背篓 (密条篓)		
+623	623	fertilizer / manure	肥料	n	fertilizer / manure				
+624	624	net	镰刀	n	sickle||net	sickle n	镰刀	341	SICKLE
+625	625	conduit (open, for water)	水槽	n	conduit (open, for water)				
+626	626	trip-hammer for hulling rice	碓(水~)	n	trip-hammer for hulling rice (stone)||trip-hammer for hulling rice (wooden)||trip-hammer for hulling rice	trip-hammer for hulling rice (wooden) (note:+stone) n||trip-hammer for hulling rice (stone) (note:+wooden) n	碓(水~) (石~)||碓(水~) (木~)		
+627	627	mortar (stone) (note:+stone)	臼 (石~)	n	mortar (rice-hulling trip-hammer)||mortar (wooden)||mortar||mortar (salt)||mortar (stone)||mortar (rice)	mortar (salt) (note:+rice) n||mortar (wooden) (note:+wooden) n||mortar (rice) (note:+salt) n||mortar n||mortar (rice-hulling trip-hammer) n	臼 (米~)||臼 (木~)||臼 (盐~)||臼||臼 (碓~)		
+628	628	pestle	杵	n	pestle (big, wooden)||pestle (salt mortar)||pestle (rice-hulling trip-hammer)||pestle||pestle (small, stone)	pestle (big, wooden) n||pestle (salt mortar) (note:+salt) n||pestle (rice-hulling trip-hammer) n||pestle (small, stone) n	杵 (小石~)||杵 (盐臼~)||杵 (碓~)||杵 (大木~)		
+629	629	sieve / sifter (coarse) (note:+thick)	筛子 (粗~)	n	sieve / sifter||sieve / sifter (fine)||sieve / sifter (coarse)	sieve / sifter n||sieve / sifter (fine) (note:+thin) n	筛子||筛子 (细~)		
+630	630	fan (winnowing)	簸箕	n	fan (winnowing)				
+631	631	millstones (small mill) (note:water-mill)	磨(石~) (水~)	n	water mill||millstones||millstones (small mill)	water mill (note:+hand_powered) n||millstones n	磨(石~) (小手碓~)||磨(石~)		
+632	632	loom	织布机	n	loom				
+633	633	chopper	柴刀	n	chopper				
+634	634	sheath / scabbard	刀鞘	n	sheath / scabbard				
+635	635	gun / rifle	枪	n	gun / rifle				
+636	636	bow (for arrow)	弓	n	bow (for arrow)				
+637	637	arrow	箭	n	arrow (poison, bamboo)||arrow||arrow (poison, with iron clusters)	arrow (poison, bamboo) (note:+bamboo +poisoned) n||arrow (poison, with iron clusters) (note:+iron +poisoned) n	箭 (毒竹~)||箭 (带铁*的毒~)		
+638	638	snare / trap (for catching birds) (note:+bird)	圈套(捕兽~) ((捅鸟的)~)	n	snare / trap (made of metal)||snare / trap (cow hair rope)||snare / trap (for catching birds)||snare / trap	snare / trap (cow hair rope) n||snare / trap n||snare / trap (made of metal) (note:+metal) n	圈套(捕兽~) (牛毛绳套)||圈套(捕兽~)||圈套(捕兽~) ((金属制的)~)		
+639	639	trap / pitfall	陷阱	n	trap / pitfall				
+640	640	gunpowder	火药	n	gunpowder				
+641	641	poison / toxin	毒	n	poison / toxin				
+642	642	net	网	n	net				
+643	643	character / word	字	n	character / word				
+644	644	letter	信	n	letter				
+645	645	painting	画	n	letter||painting				
+646	646	book (Tibetan style long strips) (note:+Tibetan_scroll)	书 ((藏式长条)~)	n	book||book (Tibetan style long strips)||book (published using modern printing)	book n||book (published using modern printing) (note:+modern) n	书||书 ((现代印刷出版的)~)		
+647	647	paper	纸	n	paper				
+648	648	pen (writing instrument) (brush) (note:+bamboo)	笔 (竹~)	n	pen (writing instrument) (bamboo)||pen (writing instrument) (brush)||pencil||pen (writing instrument)	pen (writing instrument) (bamboo) (note:brush) n||pencil (note:pencil) n||pen (writing instrument) n	笔 (毛~)||笔 (铅~)||笔		
+649	649	ink (Chinese)	墨	n	ink (Chinese)				
+650	650	learning / knowledge	学问	n	learning / knowledge				
+651	651	speech / words	话	n	speech / words				
+652	652	story	故事	n	story				
+653	653	proverb / saying	谚语	n	story||proverb / saying				
+654	654	joke / jest	笑话	n	joke / jest				
+655	655	riddle	谜语	n	riddle				
+656	656	song (folk, sung in fields during or after work)	歌 (山~)	n	song (antiphonal)||song (folk)||song (folk, sung in fields during or after work)||song||song and dance	song and dance n||song (antiphonal) n||song (folk) n||song n	歌 (民~)||歌 (~舞)||歌 (对~)||歌		
+657	657	dance (xian2zi dance, 3-stringed plucked instr)	舞蹈 (踢踏舞)	n	dance (xian2zi dance, 3-stringed plucked instr)||dance (guo1zhuang1, a Tibetan dance)||dance (step, tap)||dance	dance (step, tap) n||dance n||dance (guo1zhuang1, a Tibetan dance) n	舞蹈 (弦子舞~)||舞蹈||舞蹈 (锅庄舞)		
+658	658	chess	棋	n	chess||drum				
+659	659	drum (big) (note:+small)	鼓 (小手~)	n	gong||drum||drum (big)||drum (small, hand-drum)	drum (small, hand-drum) (note:+large) n||drum n	鼓 (大~)||鼓		
+660	660	gong	锣	n	gong				
+661	661	cymbals	钹	n	cymbals				
+662	662	chime	钟	n	chime				
+663	663	flute (bamboo)	笛子	n	flute (bamboo)				
+664	664	flute (bamboo, vertical)	箫	n	flute (bamboo, vertical)||flute (bamboo,vertical)||flute (bamboo, vertical, of reed or rice stalks)	flute (bamboo, vertical, of reed or rice stalks) n	箫 ((用芦苇杆或稻杆制作的)~)		
+665	665	instrument (two-stringed, bowed)	胡琴	n	instrument (two-stringed, bowed)				
+666	666	bell (small) (note:+temple)	铃 ((庙里挂的)~)	n	bell (copper)||bell (iron, hung over necks of draught animals)||bell (small)||bell (hung in a temple)||bell	bell (hung in a temple) (note:+small) n||bell n||bell (copper) (note:+iron) n||bell (iron, hung over necks of draught animals) (note:+copper) n	铃 (小~)||铃||铃 (铁~(牲口肚子上挂的))||铃 (铜~)		
+667	667	horn (woodwind)	喇叭(唢呐)	n	horn (woodwind)||horn (woodwind) (made of human bone)||horn (woodwind) (suo3na4--Mand. term)||horn (woodwind) (long)	horn (woodwind) (suo3na4--Mand. term) n||horn (woodwind) (made of human bone) (note:+human_bone) n||horn (woodwind) (long) (note:+long) n	喇叭(唢呐) (唢呐)||喇叭(唢呐) ((人骨制的)~)||喇叭(唢呐) (长~)		
+668	668	celestial being	神仙	n	celestial being				
+669	669	ghost / spirit	鬼	n	ghost / spirit				
+670	670	spirit (evil) / demon	妖精	n	spirit (evil) / demon (woman)||spirit (evil) / demon	spirit (evil) / demon (woman) (note:+female) n	妖精 (女~)		
+671	671	god of rain / Dragon King	龙王	n	god of rain / Dragon King				
+672	672	Buddha	佛	n	Buddha				
+673	673	soul / spirit	灵魂	n	soul / spirit (lit. 'ghost spirit')||soul / spirit	soul / spirit (lit. 'ghost spirit') (note:"ghost | spirit") n	灵魂 ("鬼魂")		
+674	674	fortune / luck	运气	n	fortune / luck				
+675	675	strength (physical)	力气	n	strength (physical)				
+676	676	idea / opinion	想法	n	idea / opinion				
+677	677	matter / affair	事情	n	matter / affair				
+678	678	means / solution	办法	n	means / solution				
+679	679	temper	脾气	n	temper				
+680	680	news / message	信息	n	news / message				
+681	681	mark / sign	记号	n	mark / sign				
+682	682	birthday	生日	n	birthday				
+683	683	life / livelihood	生活	n	life / livelihood				
+684	684	gift / present	礼物	n	gift / present (offered as tribute)||gift / present||gift / present (offered as a gift)	gift / present (offered as a gift) (note:tribute) n||gift / present (offered as tribute) (note:present) n	礼物 (奉献物)||礼物 (赠送物)		
+685	685	age	年纪	n	age				
+686	686	surname / name (family)	姓	n	surname / name (family) (lit. 'house name')||surname / name (family)	surname / name (family) (lit. 'house name') (note:"house-name") n	姓 ("房名")		
+687	687	name	名字	n	name			1405	NAME
+688	688	pain / agony (emotional) (note:"arduous")	痛苦 ("辛苦")	n	pain / agony||pain / agony (emotional)	pain / agony n	痛苦		
+689	689	mistake / error	错误	n	mistake / error				
+690	690	danger	危险	n	danger				
+691	691	difference / distinction	区别	n	difference / distinction				
+692	692	part / portion / share	份儿	n	part / portion / share (lit. 'share')||part / portion / share	part / portion / share (lit. 'share') n	份儿 ("(一)股子")		
+693	693	gap / crevice	空隙	n	gap / crevice				
+694	694	crack / rift / fissure (in a board, stone, wall, etc.) (note:+board | stone | wall)	裂缝 ((指木板,石头,墙等的)~)	n	crack / rift / fissure||crack / rift / fissure (in a board, stone, wall, etc.)	crack / rift / fissure n	裂缝		
+695	695	mark / trace / track	痕迹	n	mark / trace / track				
+696	696	dregs / sediment	渣滓	n	dregs / sediment				
+697	697	shape / appearance	样子	n	shape / appearance				
+698	698	shadow	影子	n	shadow				
+699	699	dream	梦	n	dream			2374	DREAM
+700	700	advantage / benefit	好处	n	advantage / benefit				
+701	701	use	用处	n	use				
+702	702	color	颜色	n	color				
+703	703	direction / orientation	方向	n	direction / orientation				
+704	704	east	东(~方)	n	east (lit. 'sun rise place')||east	east (lit. 'sun rise place') (note:"sunrise-place") n	东(~方) ("太阳出处")		
+705	705	south	南(~方)	n	south				
+706	706	west (lit. 'sun set place') (note:"sunset-place")	西(~方) ("太阳落处")	n	west||west (lit. 'sun set place')	west n	西(~方)		
+707	707	north	北(~方)	n	north				
+708	708	middle	中间	n	middle			1093	MIDDLE
+709	709	side	旁边	n	side				
+710	710	left	左边	n/adv	left			244	LEFT
+711	711	right	右边	n/adv	right			1019	RIGHT
+712	712	front	前(~边)	n/adv	front			2194	FRONT (PART)
+713	713	back	后(~边)	n/adv	back				
+714	714	outside	外(~边)	n/adv	outside (distal)||outside (proximal)||outside	outside (distal) (note:+distal) n/adv||outside (proximal) (note:+proximal) n/adv	外(~边) ((远指))||外(~边) ((近指))	762	OUTSIDE
+715	715	inside (the sea, a well) (note:+building)	里(~边) ((房屋)~)	n/adv	inside||inside (the sea, a well)||inside (a room)	inside n/adv||inside (a room) (note:+water_body) n/adv	里(~边)||里(~边) ((海,井)~)	1606	INSIDE
+716	716	corner / angle	角儿	n	corner / angle||corner / angle (nook, concave)||corner / angle (edge, convex)	corner / angle (edge, convex) (note:+concave) n||corner / angle (nook, concave) (note:+convex) n	角儿 (角落)||角儿 (棱角)		
+717	717	point / tip	尖儿	n	point / tip				
+718	718	edge / rim / margin	边儿	n	edge / rim / margin				
+719	719	surroundings	周围	n	surroundings (of a village)||surroundings (of a room)||surroundings	surroundings (of a room) (note:+village) n||surroundings (of a village) (note:+building) n	周围 ((村子)~)||周围 ((房屋)~)		
+720	720	vicinity / nearby (of a village) (note:+village)	附近 ((村子)~)	n/adv	vicinity / nearby||vicinity / nearby (of a village)	vicinity / nearby n/adv	附近		
+721	721	boundary line / demarcation line	界线	n	boundary line / demarcation line				
+722	722	upper part of / upper reaches	上方(地势、河流)	n	upper part of / upper reaches (headwaters)||upper part of / upper reaches (proximal)||upper part of / upper reaches||upper part of / upper reaches (distal)	upper part of / upper reaches (proximal) (note:+distal) n||upper part of / upper reaches (headwaters) (note:upstream) n||upper part of / upper reaches (distal) (note:+proximal) n	上方(地势、河流) ((远指))||上方(地势、河流) (上游)||上方(地势、河流) ((近指))		
+723	723	lower part of / lower reaches	下方(地势、河流)	n	lower part of / lower reaches (downstream)||lower part of / lower reaches	lower part of / lower reaches (downstream) (note:downstream) n	下方(地势、河流) (下游)		
+724	724	on (the table)	上(桌子~)	prep	on (the table)				
+725	725	under (the table)	下(桌子~)	prep	under (the table)				
+726	726	in (the sky)	上(天~)	prep	in (the sky)				
+727	727	under (the sky)	底下(天~)	prep	under (the sky)				
+728	728	on (the wall)	上(挂在墙~)	prep	on (the wall)				
+729	729	on top (of the roof)	顶上(房~)	prep	on top (of the roof)||on top (of a mountain)	on top (of a mountain) (note:+mountain) prep	顶上(房~) ((山)~)		
+730	730	at the bottom of (a hill)	下(山~)	prep	at the bottom of (a hill)				
+731	731	over / above	以上	prep	over / above			1741	ABOVE
+732	732	below / under	以下	prep	below / under			1485	BELOW OR UNDER
+733	733	upwards	往上	adv	upwards				
+734	734	downwards	往下	adv	downwards				
+735	735	upper half of the body	上半身	n	upper half of the body				
+736	736	lower half of the body	下半身	n	lower half of the body				
+737	737	time	时间	n	time				
+738	738	today	今天	n/adv	today			1283	TODAY
+739	739	yesterday	昨天	n/adv	yesterday			1174	YESTERDAY
+740	740	day before yesterday	前天	n/adv	day before yesterday				
+741	741	three days ago	大前天	adv	three days ago				
+742	742	tomorrow	明天	n/adv	tomorrow			1329	TOMORROW
+743	743	day after tomorrow	后天	n/adv	day after tomorrow				
+744	744	three days from now	大后天	adv	three days from now				
+745	745	tonight	今晚	n/adv	tonight				
+746	746	tomorrow night / evening	明晚	n/adv	tomorrow night / evening				
+747	747	yesterday evening / last night	昨晚	n/adv	yesterday evening / last night				
+748	748	day (time)	白天	n	day (time)				
+749	749	morning	早晨	n	morning			1339	MORNING
+750	750	noon	中午	n	noon			12	MIDDAY
+751	751	dusk / twilight	黄昏	n	dusk / twilight				
+752	752	night, at / evening, in the	晚上	adv	night, at / evening, in the				
+753	753	night, at	夜里	adv	night, at				
+754	754	midnight	半夜	n/adv	midnight				
+755	755	year of the mouse	子(鼠)	n	year of the mouse				
+756	756	year of the ox	丑(牛)	n	year of the ox				
+757	757	year of the tiger	寅(虎)	n	year of the tiger				
+758	758	year of the rabbit	卯(兔)	n	year of the rabbit				
+759	759	year of the dragon	辰(龙)	n	year of the dragon				
+760	760	year of the snake	巳(蛇)	n	year of the snake				
+761	761	year of the horse	午(马)	n	year of the horse				
+762	762	year of the ram	未(羊)	n	year of the ram				
+763	763	year of the monkey	申(猴)	n	year of the monkey				
+764	764	year of the chicken	酉(鸡)	n	year of the chicken				
+765	765	year of the dog	戌(狗)	n	year of the dog				
+766	766	year of the pig	亥(猪)	n	year of the pig				
+767	767	animals (twelve) (different system but analogous)	属相	n	animals (twelve) representing the twelve years||animals (twelve) (different system but analogous)	animals (twelve) representing the twelve years n	属相		
+768	768	date (time)	日子	n	date (time)				
+769	769	day (first of lunar month)	初一	n	day (first of lunar month)				
+770	770	day (second of lunar month)	初二	n	day (second of lunar month)				
+771	771	month	月	n	month				
+772	772	January (year in which New Year is celebrated)	一月 (正月(过年的月份))	n	January (year in which New Year is celebrated)||January	January n	一月		
+773	773	February (lit. 'second month') (note:"the second month")	二月 ("第二个月")	n	February||February (lit. 'second month')	February n	二月		
+774	774	beginning of a month	月初	n	beginning of a month				
+775	775	middle of a month	月中	n	middle of a month				
+776	776	end of a month	月底	n	end of a month				
+777	777	year	年	n	year			1226	YEAR
+778	778	this year	今年	n/adv	this year				
+779	779	last year	去年	n/adv	last year				
+780	780	year before last	前年	n/adv	year before last				
+781	781	next year	明年	n/adv	next year				
+782	782	year after next	后年	n/adv	year after next				
+783	783	past, in the	从前	adv	past, in the				
+784	784	ancient times, in	古时候	adv	ancient times, in				
+785	785	present, the (time)	现在	n	present, the (time)				
+786	786	recently / lately	近来	adv	recently / lately				
+787	787	future (near) (note:+proximal)	将来 ((指近期))	n	future (near)||future	future n	将来		
+788	788	initially / beginning, in the	开始(~时)	adv	initially / beginning, in the				
+789	789	Monday	星期一	n/adv	Monday				
+790	790	Tuesday	星期二	n/adv	Tuesday				
+791	791	spring (season)	春	n	spring (season) (lit. 'second, third months')||spring (season)	spring (season) (lit. 'second, third months') (note:{February,March") n	春 ("二,三月")		
+792	792	summer (lit. 'rainy season') (note:"rainy season")	夏 ("雨季")	n	summer (lit. 'hot moon')||summer||summer (lit. 'rainy season')	summer (lit. 'hot moon') (note:"hot month") n||summer n	夏 ("热月")||夏		
+793	793	fall / autumn	秋	n	fall / autumn				
+794	794	winter (lit. 'dry season') (note:"dry season")	冬 ("旱季")	n	winter (lit. 'dry season')||winter	winter n	冬		
+795	795	New Year's Day (in Burmese system, around April)	新年	n	New Year's Day (in Burmese system, around April)||New Year's Day	New Year's Day n	新年		
+796	796	festival	节日	n	festival				
+797	797	one	一	num	one			1493	ONE
+798	798	two	二	num	two			1498	TWO
+799	799	three	三	num	three			492	THREE
+800	800	four	四	num	four			1500	FOUR
+801	801	five	五	num	five			493	FIVE
+802	802	six	六	num	six			1703	SIX
+803	803	seven	七	num	seven			1704	SEVEN
+804	804	eight	八	num	eight			1705	EIGHT
+805	805	nine	九	num	nine			1483	NINE
+806	806	ten	十	num	ten			1515	TEN
+807	807	eleven	十一	num	eleven				
+808	808	twelve	十二	num	twelve				
+809	809	thirteen	十三	num	thirteen				
+810	810	fourteen	十四	num	fourteen				
+811	811	fifteen	十五	num	fifteen				
+812	812	sixteen	十六	num	sixteen				
+813	813	seventeen	十七	num	seventeen				
+814	814	eighteen	十八	num	eighteen				
+815	815	nineteen	十九	num	nineteen				
+816	816	twenty	二十	num	twenty			1710	TWENTY
+817	817	thirty	三十	num	thirty				
+818	818	forty	四十	num	forty				
+819	819	fifty	五十	num	fifty				
+820	820	sixty	六十	num	sixty				
+821	821	seventy	七十	num	seventy				
+822	822	eighty	八十	num	eighty				
+823	823	ninety	九十	num	ninety				
+824	824	hundred	百	num	hundred			1634	HUNDRED
+825	825	one hundred and one	一百零一	num	one hundred and one				
+826	826	thousand	千	num	thousand				
+827	827	ten thousand	万	num	ten thousand				
+828	828	one hundred thousand	十万	num	one hundred thousand				
+829	829	million	百万	num	million				
+830	830	ten million	千万	num	ten million				
+831	831	billion	亿	num	billion				
+832	832	half	一半	num	half				
+833	833	first	第一	num	first				
+834	834	second	第二	num	second				
+835	835	classifier for people	个(一~人)	clf	classifier for people				
+836	836	classifier for bowls	个(一~碗)	clf	classifier for bowls				
+837	837	classifier for river	条(一~河)	clf	classifier for river				
+838	838	classifier for rope	条(一~绳子)	clf	classifier for rope				
+839	839	sheet (of paper)	张(一~纸)	clf	sheet (of hide)||sheet (of paper)	sheet (of hide) clf	张(一~纸) ((一)张皮子)		
+840	840	page	页(一~书)	clf	page				
+841	841	classifier for eggs	个(一~鸡旦)	clf	classifier for eggs				
+842	842	classifier for two birds	只(两~鸟)	clf	classifier for two birds||classifier for birds	classifier for birds clf	只(两~鸟)		
+843	843	classifier for sticks (big) (note:+long)	根(一~棍子) ((用于修饰"大棍子"))	clf	classifier for sticks (big)||classifier for sticks||classifier for sticks (small)	classifier for sticks (small) (note:+short) clf||classifier for sticks clf	根(一~棍子) ((用于修饰"小棍子"))||根(一~棍子)		
+844	844	blade (of grass)	根(一~草)	clf	blade (of grass)				
+845	845	grain (of rice)	粒(一~米)	clf	grain (of rice)				
+846	846	classifier for brooms	把(一~扫帚)	clf	classifier for brooms				
+847	847	classifier for knives	把(一~刀)	clf	classifier for knives				
+848	848	classifier for trees	棵(一~树)	clf	classifier for trees				
+849	849	classifier for two books	本(两~书)	clf	classifier for two books||classifier for books	classifier for books clf	本(两~书)		
+850	850	line (of wheat)	行(一~麦子)	clf	line (of wheat)				
+851	851	classifier for bridges	座(一~桥)	clf	classifier for bridges				
+852	852	bunch / bundle (of vegetable)	把(一~菜)	clf	bunch / bundle (of vegetable)				
+853	853	handful (of rice)	把(一~米)	clf	handful (of rice)				
+854	854	classifier for pens	枝(一~笔)	clf	classifier for pens				
+855	855	pile (of excrement)	堆(一~粪)	clf	pile (of excrement)				
+856	856	bucket (of water)	桶(一~水)	clf	bucket (of water)				
+857	857	bowl (of cooked rice)	碗(一~饭)	clf	bowl (of cooked rice)				
+858	858	patch (of ground / field)	块(一~地)	clf	patch (of ground / field)				
+859	859	classifier for rocks, stones	块(一~石头)	clf	classifier for rocks, stones				
+860	860	classifier for leaves	片(一~树叶)	clf	classifier for leaves				
+861	861	classifier for flowers	朵(一~花)	clf	classifier for flowers				
+862	862	sentence (of speech)	句(一~话)	clf	sentence (of speech)				
+863	863	classifier for songs	首(一~歌)	clf	classifier for songs				
+864	864	classifier for garments	件(一~衣)	clf	classifier for garments				
+865	865	pair (of shoes)	双(一~鞋)	clf	pair (of shoes)				
+866	866	pair (of rabbits)	对(一~兔子)	clf	pair (of rabbits)				
+867	867	flock (of sheep)	群(一~羊)	clf	load (of firewood) on the back||flock (of sheep)	load (of firewood) on the back clf	群(一~羊)		
+868	868	section (of road / journey)	段(一~路)	clf	section (of road / journey)				
+869	869	section (of bamboo between two joints)	节(一~竹子)	clf	section (of bamboo between two joints)				
+870	870	day's (journey)	天(一~路)	clf	day's (journey)				
+871	871	classifier for one of a pair	只(一~鞋)	clf	classifier for one of a pair				
+872	872	roll (of cloth)	卷(一~布)	clf	roll (of cloth)				
+873	873	bolt (of cloth)	匹(一~布)	clf	bolt (of cloth)				
+874	874	square (area unit for selling cloth)	方(一~布)	clf	square (area unit for selling cloth)				
+875	875	basketful (of vegetable)	筐(一~菜)	clf	basketful (of vegetable)||basketful (of vegetable) (carried on back)	basketful (of vegetable) (carried on back) clf	筐(一~菜) ("(一)篓菜")		
+876	876	load (of firewood) on the back	背(一~柴)	clf	load (of firewood) on the back				
+877	877	bundle / sheaf	捆(一~)	clf	bundle / sheaf				
+878	878	load of cupped-hands	捧(一~)	clf	load of cupped-hands				
+879	879	classifier for age of animals (cows) (note:+horse)	岁口(一~牛、马) ((马的)~)	clf	classifier for age of animals (cows)||classifier for age of animals||classifier for age of animals (horses)	classifier for age of animals (horses) (note:+cow) clf||classifier for age of animals clf	岁口(一~牛、马) ((牛的)~)||岁口(一~牛、马)		
+880	880	load on an animal's back	驮(一~)	clf	load on an animal's back				
+881	881	bowl (of tobacco) (lit. 'pole / shaft')	袋(抽一~烟) ("杆")	clf	bowl (of tobacco)||bowl (of tobacco) (lit. 'pole / shaft')	bowl (of tobacco) clf	袋(抽一~烟)		
+882	882	team / line (of people (&animals))	队(一~人马)	clf	team / line (of people (&animals))				
+883	883	row (of houses)	排(一~房子)	clf	row (of houses)				
+884	884	string (of beads)	串(一~珠子)	clf	string (of beads)				
+885	885	drop (of oil)	滴(一~油)	clf	drop (of oil)				
+886	886	classifier for flags	面(一~旗子)	clf	classifier for flags (lit. 'pole / shaft')||classifier for flags	classifier for flags (lit. 'pole / shaft') clf	面(一~旗子) ("杆")		
+887	887	story (of building)	层(两~楼)	clf	story (of building)				
+888	888	classifier for letters	封(一~信)	clf	classifier for letters				
+889	889	classifier for rooms	间(一~房)	clf	classifier for rooms				
+890	890	parcel / sack (of things)	包(一~东西)	clf	parcel / sack (of medicine)||parcel / sack (of vegetables)||parcel / sack (of things)||parcel / sack (of presents)	parcel / sack (of vegetables) clf||parcel / sack (of medicine) clf||parcel / sack (of presents) clf	包(一~东西) ((一)~(礼品))||包(一~东西) ((一)~(药))||包(一~东西) ((一)~(柴))		
+891	891	bottle (of wine)	瓶(一~酒)	clf	bottle (of wine)				
+892	892	puddle (of mud)	滩(一~泥)	clf	puddle (of mud)				
+893	893	measure of weight (Tibetan 'big')	斤(一~) ((藏式大斤))	clf	measure of weight (Tibetan 'big')||measure of weight (Tibetan 'small')||measure of weight (=1 / 2 kilogram)	measure of weight (Tibetan 'small') clf||measure of weight (=1 / 2 kilogram) clf	斤(一~) ((藏式小斤))||斤(一~)		
+894	894	tael (=50 grams)	两(一~)	clf	tael (= .01 of Burmese jin1 (catty), =16.46g)||tael (=50 grams)	tael (= .01 of Burmese jin1 (catty), =16.46g) clf	两(一~) ((一缅两等于百分之一缅斤，即16.46克))		
+895	895	m.o.w. borrowed from Eng. 'ounce' (=0.1 tael)	钱(两~) (英语借词"盎司")	clf	m.o.w. borrowed from Eng. 'ounce' (=0.1 tael)||measure of weight (=0.1 tael)	measure of weight (=0.1 tael) clf	钱(两~)		
+896	896	unit of dry measure for grain (lit. 'small liter')	斗(一~) ("小升")	clf	unit of dry measure for grain (=1 decaliter)||unit of dry measure for grain (lit. 'small liter')	unit of dry measure for grain (=1 decaliter) clf	斗(一~)		
+897	897	liter	升(一~)	clf	liter				
+898	898	mile (=0.5 kilometer) (borr. from Ch. 'gong1li3')	里(一~) ("公里")	clf	mile (=0.5 kilometer) (borr. from Eng. 'mile')||mile (=0.5 kilometer)||mile (=0.5 kilometer) (borr. from Ch. 'gong1li3')	mile (=0.5 kilometer) (borr. from Eng. 'mile') clf||mile (=0.5 kilometer) clf	里(一~) ("英里")||里(一~)		
+899	899	fathom	庹(一~)	clf	fathom				
+900	900	foot (=1 / 3 meter)	尺(一~)	clf	foot (=1 / 3 meter)				
+901	901	span (thumb to index finger)	拃(一~) ((拇指与中指张开的长度))	clf	span (thumb to index finger)||span (thumb to middle finger)	span (thumb to middle finger) clf	拃(一~)		
+902	902	fingersbreadth	指(一~宽)	clf	fingersbreadth				
+903	903	cubit	肘(一~的长度)	clf	cubit				
+904	904	team (of oxen)	架(一~牛)	clf	team (of oxen) (lit. 'pair', from Ch. 'shuang1')||team (of oxen)	team (of oxen) (lit. 'pair', from Ch. 'shuang1') clf	架(一~牛) ("双")		
+905	905	inch	寸(一~)	clf	inch				
+906	906	yuan (Chinese money)	元(一~)	clf	yuan (Chinese money) (renminbi)||yuan (Chinese money) (silver dollar)||yuan (Chinese money) (lit. = clf. for flat obj.)||yuan (Chinese money)	yuan (Chinese money) (lit. = clf. for flat obj.) clf||yuan (Chinese money) (renminbi) clf||yuan (Chinese money) (silver dollar) clf	元(一~) ((一)"张")||元(一~) ((指人民币))||元(一~) ((一)"元")		
+907	907	ten cents	角(一~)	clf	ten cents				
+908	908	hectare, 1 / 15 of	亩(一~)	clf	hectare, 1 / 15 of				
+909	909	while, a	一会儿	adv	while, a				
+910	910	day's (work)	天(一~)	clf	day's (work)				
+911	911	night's (work)	夜(一~)	clf	night's (work)				
+912	912	month's (work)	月(一个~)	clf	month's (work)				
+913	913	year's (work)	年(一~)	clf	year's (work)				
+914	914	classifier for age	岁(一~)	clf	classifier for age				
+915	915	lifetime	辈子(一~)	clf	lifetime				
+916	916	step / stride	步(走一~)	clf	step / stride				
+917	917	time / instance (of going somewhere)	次(去~)	clf	time / instance (of going somewhere)				
+918	918	meal	顿(吃一~)	clf	meal				
+919	919	shout	声(喊一~)	clf	shout				
+920	920	time / instance (of hitting)	下(打一~)	clf	time / instance (of hitting)				
+921	921	time / instance (of kicking)	脚(踢一~)	clf	time / instance (of kicking)				
+922	922	time / instance (of biting)	口(咬一~)	clf	time / instance (of biting)				
+923	923	some	一些	clf	some				
+924	924	several / few, a	几个	clf	several / few, a (things)||several / few, a (people)||several / few, a	several / few, a (people) (note:+thing) clf||several / few, a (things) (note:+human) clf	几个 ((指几个"东西"))||几个 ((指几个"人"))		
+925	925	every day	每天	adv	every day				
+926	926	each / every (thing) (note:+human)	每个 ((指每"人"))	clf	each / every (thing)||each / every||each / every (person)	each / every clf||each / every (person) (note:+thing) clf	每个||每个 ((指每个"东西"))		
+927	927	double / twice	倍(一~)	clf	double / twice				
+928	928	I	我	pron	I			1209	I
+929	929	we (two)	我俩	pron	we (two)				
+930	930	we	我们	pron	we			1131	WE (INCLUSIVE)
+931	931	you	你	pron	you			1215	THOU
+932	932	you two	你俩	pron	you two				
+933	933	you (pl.)	你们	pron	you (pl.)			1213	YOU
+934	934	he	他	pron	he			262	HE OR SHE OR IT
+935	935	they two	他俩	pron	they two				
+936	936	they	他们	pron	they				
+937	937	we (inclusive)	咱们	pron	we (inclusive)				
+938	938	we (dual, inclusive)	咱们俩	pron	we (dual, inclusive)				
+939	939	we all	大家	pron	we all				
+940	940	myself (note:+2nd_person)	自己 (你~)	pron	yourself||himself / herself||oneself||myself	oneself pron||yourself (note:3rd_person) pron||himself / herself (note:1st_person) pron	自己||自己 (他~)||自己 (我~)		
+941	941	other person(s)	别人	pron	other persons||other person(s)||other person(s) (lit. 'person home')	other persons (note:+plural) pron||other person(s) (lit. 'person home') (note:"somebody") pron	别人 ((复数))||别人 ("人家")		
+942	942	this	这	dem	this			1214	THIS
+943	943	these	这些	dem	these (things)||these||these (people)	these (people) (note:+human) dem||these (things) (note:+thing) dem	这些 ((指人))||这些 ((指物))		
+944	944	here	这里	dem	here			136	HERE
+945	945	this side / here	这边	dem	this side / here				
+946	946	thus / this (way) / (like) this	这样	dem	thus / this (way) / (like) this				
+947	947	that	那(近指)	dem	that			78	THAT
+948	948	that (over yonder)	那(远指)	dem	that (over yonder)				
+949	949	those (people) (note:+human)	那些 ((指人))	dem	those (people)||those (things)||those	those dem||those (things) (note:+thing) dem	那些||那些 ((指物))		
+950	950	there	那里	dem	there			1937	THERE
+951	951	that side / there	那边	dem	that side / there				
+952	952	that (way) / (like) that	那样	dem	that (way) / (like) that				
+953	953	who	谁	intg	who			1235	WHO
+954	954	what	什么	intg	what			1236	WHAT
+955	955	where	哪里	intg	where			1237	WHERE
+956	956	when	几时	intg	when				
+957	957	how	怎么	intg	how				
+958	958	how many / how much	多少	intg	how many / how much				
+959	959	how many (a small number) (things) (note:+human)	几个(疑问代词) (~(人))	intg	how many (a small number)||how many (a small number) (things)||how many (a small number) (people)	how many (a small number) (people) (note:+thing) intg||how many (a small number) intg	几个(疑问代词) (~(东西))||几个(疑问代词)		
+960	960	others / miscellaneous	其他	num	others / miscellaneous				
+961	961	respective / individual / each	各自	num	respective / individual / each				
+962	962	all / everything	一切	num	all / everything			98	ALL
+963	963	all / whole, the	全部	num	all / whole, the				
+964	964	big / large	大	adj	big / large			1202	BIG
+965	965	small	小	adj	small			1246	SMALL
+966	966	wide (in diameter) / coarse (of roasted barley)	粗	adj	wide (in diameter) / coarse (of a rope)||wide (in diameter) / coarse (of roasted barley)||wide (in diameter) / coarse||wide (in diameter) / coarse (of texture)	wide (in diameter) / coarse (of texture) (note:rough) adj||wide (in diameter) / coarse (note:coarse) adj||wide (in diameter) / coarse (of a rope) (note:thick) adj	粗 ((质地粗糙))||粗 (~糌粑)||粗 (~(绳子))		
+967	967	thin (in diameter) / fine / tiny (of a rope)	细	adj	thin (in diameter) / fine / tiny (of roasted barley)||thin (in diameter) / fine / tiny (of texture)||thin (in diameter) / fine / tiny||thin (in diameter) / fine / tiny (of a rope)	thin (in diameter) / fine / tiny (of texture) (note:smooth) adj||thin (in diameter) / fine / tiny (note:fine) adj||thin (in diameter) / fine / tiny (of roasted barley) (note:thin) adj	细 ((质地细))||细 (~(糌粑))||细 (~(绳子))		
+968	968	high / tall (of trees) (note:tall)	高 ((个子)~)	adj	high / tall (of person's physique)||high / tall||high / tall (of trees)	high / tall (of person's physique) (note:high) adj||high / tall adj	高 ((树)~)||高	1265	HIGH
+969	969	low / short (person) (note:short)	低(矮) (人(矮))	adj	low / short||low / short (person)	low / short adj	低(矮)		
+970	970	protruding / raised	凸	adj	protruding / raised				
+971	971	sunken / dented	凹	adj	sunken / dented				
+972	972	long	长	adj	long			1203	LONG
+973	973	short	短	adj	short			1645	SHORT
+974	974	far / distant	远	adj	far / distant			1406	FAR
+975	975	near	近	adj	near			1942	NEAR
+976	976	wide / broad (clothing) (note:wide)	宽 ((路)~)	adj	wide / broad||wide / broad (road)||wide / broad (clothing)	wide / broad (road) (note:broad) adj||wide / broad adj	宽 ((衣)~)||宽		
+977	977	narrow	窄	adj	narrow			1267	NARROW
+978	978	spacious / commodious	宽敞	adj	spacious / commodious				
+979	979	cramped / narrow	狭窄	adj	cramped / narrow				
+980	980	thick	厚	adj	thick			1244	THICK
+981	981	thin	薄	adj	thin				
+982	982	deep	深	adj	deep				
+983	983	shallow	浅	adj	shallow				
+984	984	full	满	adj	full			1429	FULL
+985	985	empty	空	adj	empty				
+986	986	shrivelled / shrunken	瘪	adj	shrivelled / shrunken				
+987	987	many / much	多	adj	many / much			1198	MANY
+988	988	few / little	少	adj	few / little				
+989	989	square / rectangular (lit. 'four face four corner') (note:"four-face-four-angle")	方 ("四面四角")	adj	square / rectangular||square / rectangular (lit. 'four sides')||square / rectangular (lit. 'four corners')||square / rectangular (lit. 'four face four corner')||square / rectangular (lit. 'four square body')	square / rectangular (lit. 'four sides') (note:"four-angles") adj||square / rectangular (lit. 'four square body') (note:"square-body") adj||square / rectangular adj||square / rectangular (lit. 'four corners') (note:"four-sides") adj	方 ("四角")||方 ("四方体")||方||方 ("四边")		
+990	990	circle / circular (planar)	圆 ((圆筒形))	(note:cylindrical)	circle / circular (planar)||circle / circular||circle / circular (spherical)||circle / circular (tubular)	circle / circular (tubular) (note:circular)||circle / circular (spherical) (note:spherical)||circle / circular	圆 ((指平面))||圆 ((球形))||圆	1395	ROUND
+991	991	flat / shallow	扁	adj	flat / shallow				
+992	992	pointed	尖	adj	pointed				
+993	993	bald / bare	秃	adj	bald / bare (mountain)||bald / bare||bald / bare (lit. 'bald mountain package')||bald / bare (tail)||bald / bare (head)	bald / bare (mountain) (note:bare (bald +mountain)) adj||bald / bare (tail) (note:+tail) adj||bald / bare (head) adj||bald / bare (lit. 'bald mountain package') (note:bald) adj	秃 ((山)~)||秃 ((尾)~)||秃 ("秃山包")||秃 ((头~))		
+994	994	level / flat	平	adj	level / flat				
+995	995	wrinkled / creased	皱	adj	wrinkled / creased				
+996	996	right / obverse side	正(~面)	n	right / obverse side (lit. 'outside side')||right / obverse side	right / obverse side (lit. 'outside side') (note:"outside") n	正(~面) ("外面")		
+997	997	reverse side	反(~面)	n	reverse side				
+998	998	hit sthg on the target	准(打得~)	v	hit sthg on the target				
+999	999	slanting / leaning	偏	adj	slanting / leaning				
+1000	1000	askew / awry / slanting	歪	adj	askew / awry / slanting				
+1001	1001	horizontal	横(~的)	horizontal	horizontal			2376	HORIZONTAL
+1002	1002	vertical	竖(~的)	vertical	vertical				
+1003	1003	straight	直(~的)	straight	straight (horizontal)||straight||straight (vertical)	straight (vertical) (note:+vertical)||straight (horizontal) (note:+horizontal)	直(~的) (垂~)||直(~的) (平~)	1404	STRAIGHT
+1004	1004	curved / crooked /	弯(~的)	bent	curved / crooked / bent				
+1005	1005	black (of faces)	黑 ((脸)~)	(note:+face)	black (of faces)||black	black	黑	163	BLACK
+1006	1006	white	白	white	white			1335	WHITE
+1007	1007	red	红	red	red			156	RED
+1008	1008	yellow	黄	yellow	yellow			1424	YELLOW
+1009	1009	green	绿	green	green			1425	GREEN
+1010	1010	blue	蓝	blue	blue||blue (lit. 'sky color')	blue (lit. 'sky color') (note:"sky-color")	蓝 ("天色")		
+1011	1011	grey (deep)	灰(~的) ("鸽子色")	(note:"pigeon-color")	grey (deep)||grey||grey (lit. 'pigeon color')	grey (lit. 'pigeon color') (note:+dark)||grey	灰(~的) (深灰)||灰(~的)		
+1012	1012	bright	亮(~的)	bright	bright				
+1013	1013	dark	暗	dark	dark			706	DARK
+1014	1014	heavy	重	heavy	heavy			1210	HEAVY
+1015	1015	light	轻	(weight)	light (weight)			1052	LIGHT (WEIGHT)
+1016	1016	quick /	快	fast	quick / fast||quick / fast (body movement)||quick / fast (speed)	quick / fast (body movement) (note:+velocity)||quick / fast (speed) (note:+manner {lit. of actions})	快 ((速度)~)||快 ((动作)~)		
+1017	1017	slow (body movement) (note:+manner {lit. of	慢 ((动作)~)	actions})	slow (travel)||slow (body movement)||slow	slow||slow (travel) (note:+velocity)	慢||慢 ((行走)~)		
+1018	1018	early	早	early	early			672	EARLY
+1019	1019	late	迟	late	late			477	LATE
+1020	1020	sharp	锋利	sharp	sharp			1396	SHARP
+1021	1021	blunt /	钝	dull	blunt / dull				
+1022	1022	clear	清(~的)	(water)	clear (water)				
+1023	1023	muddy /	浑浊	turbid	muddy / turbid				
+1024	1024	fat	胖	fat	fat||fat (adult)||fat (infant)	fat (infant) (note:+adult)||fat (adult) (note:+infant)	胖 ((成人)~)||胖 ((婴儿)~)		
+1025	1025	fat (adult pig)	肥(猪~) ((大猪)~)	(note:+adult_pig)	fat (young pig)||fat (adult pig)||fat (pig)	fat (pig)||fat (young pig) (note:+young_pig)	肥(猪~)||肥(猪~) ((小猪)~)		
+1026	1026	thin	瘦	thin	thin				
+1027	1027	poor	瘦(地~)	(land)	poor (land)				
+1028	1028	dry (inside of	干 ((物体内部)~)	object)	dry (of damp objects: become dry)||dry||dry (inside of object)	dry||dry (of damp objects: become dry) (note:+vegetables | water)	干||干 ((菜,水)~)	1398	DRY
+1029	1029	wet	湿	wet	wet			1726	WET
+1030	1030	thick	稠(粥~)	(porridge)	thick (porridge)				
+1031	1031	watery / thin	稀(粥~)	(porridge)	watery / thin (porridge)				
+1032	1032	woven, tightly	密(布~)	(fabric)	woven, tightly (fabric)				
+1033	1033	thin	稀(头发~)	(hair)	thin (fabric)||thin (hair)	thin (fabric) (note:+cloth)	稀(头发~) ((布)~)		
+1034	1034	hard	硬	hard	hard			1884	HARD
+1035	1035	soft	软	soft	soft / spongy / loose||soft	soft / spongy / loose (note:+loose)	软 (松~)	1856	SOFT
+1036	1036	sticky /	粘	glutinous	sticky / glutinous				
+1037	1037	smooth / glossy /	光滑	sleek	smooth / glossy / sleek			1234	SMOOTH
+1038	1038	rough /	粗糙	coarse	rough / coarse				
+1039	1039	slippery	滑(路~)	(road)	slippery (road)				
+1040	1040	tense / tight /	紧	taut	tense / tight / taut				
+1041	1041	lax / loose /	松	slack	lax / loose / slack||lax / fluffy / puffy	lax / fluffy / puffy (note:puffy)	松 (蓬~)		
+1042	1042	crisp /	脆	brittle	crisp / brittle				
+1043	1043	solid (of objects)	结实 ((身体)~)	(note:+body)	solid (of objects)||solid (of the body)||solid	solid||solid (of the body) (note:+objects)	结实||结实 ((物体)~")		
+1044	1044	chaotic / disorderly /	乱	messy	chaotic / disorderly / messy				
+1045	1045	right /	对	correct	right / correct			1725	CORRECT (RIGHT)
+1046	1046	wrong	错	wrong	wrong				
+1047	1047	true	真	true	true (words)||true	true (words) (note:true)	真 ((话)~)		
+1048	1048	fake (goods)	假 ((货)~)	(note:fake)	fake (goods)||false (words)||false	false (words) (note:false)||false	假 ((话)~)||假		
+1049	1049	uncooked /	生(~的)	raw	uncooked / raw				
+1050	1050	new	新	new	new			1231	NEW
+1051	1051	used /	旧	old	used / old||used / old (of things)	used / old (of things) (note:"old-things")	旧 ("旧东西")		
+1052	1052	good	好	good	good||good (thought)||good (quality of material)	good (quality of material) (note:+thought)||good (thought) (note:+thing)	好 ((思想)~)||好 ((质地)~)	1035	GOOD
+1053	1053	bad (things) (note:broken (bad	坏 ((东西)~)	+things))	bad (things)||bad||bad (words)	bad (words) (note:mean (bad +speech))||bad	坏 ((话)~)||坏	1292	BAD
+1054	1054	expensive	贵(~价钱)	expensive	expensive				
+1055	1055	cheap	便宜	cheap	cheap				
+1056	1056	overgrown	老(植物~)	(plant)	overgrown (plant)				
+1057	1057	tender young	嫩(植物~)	(plant)	tender young (plant)				
+1058	1058	old, elderly	年老	elderly	old / elderly			2112	OLD (AGED)
+1059	1059	young	年轻	young	young			1207	YOUNG
+1060	1060	beautiful, grow to be	美 ("长得好")	(note:"good-appearance")	beautiful, grow to be||beautiful	beautiful	美		
+1061	1061	ugly (looking)	丑 ("不好看")	(note:"bad-looking")	ugly (bad)||ugly (looking)||ugly	ugly||ugly (bad) (note:"bad")	丑||丑 ("不好")		
+1062	1062	hot (water)	热 ((水)~)	(note:+water)	hot (weather)||hot||hot (water)	hot||hot (weather) (note:+weather)	热||热 ((天气)~)	1286	HOT
+1063	1063	cold (weather,	冷	water)	cold (weather, water)||cold (water)||cold (weather)	cold (weather) (note:+weather)||cold (water) (note:+water)	冷 ((天气)~)||冷 ((水)~)	1287	COLD
+1064	1064	lukewarm	温(水~)	(water)	lukewarm (water)				
+1065	1065	warm	暖和	warm	warm				
+1066	1066	pleasantly cool	凉快	pleasantly	cool, pleasantly				
+1067	1067	difficult	难	difficult	difficult				
+1068	1068	easy	容易	easy	easy				
+1069	1069	fragrant	香(气味~)	(smell)	fragrant (smell)				
+1070	1070	stinking /	臭	smelly	stinking / smelly				
+1071	1071	savory /	香(味道~)	appetizing	savory / appetizing				
+1072	1072	sour	酸	sour	sour				
+1073	1073	sweet	甜	sweet	sweet				
+1074	1074	bitter	苦	bitter	bitter				
+1075	1075	hot /	辣	spicy	hot / spicy				
+1076	1076	salty	咸	salty	salty			1091	SALTY
+1077	1077	tasteless /	淡(盐~)	insipid	tasteless / insipid				
+1078	1078	astringent, like unripe persimmon	涩	astringent	astringent				
+1079	1079	fishy-smelling	腥	fishy-smelling	fishy-smelling				
+1080	1080	bored	腻 ("做事烦")	(note:"troublesome")	greasy / oily (food)||bored||greasy / oily	greasy / oily||greasy / oily (food) (note:sick_of{food})	腻||腻 ((吃食)~)		
+1081	1081	idle / not	闲	busy	idle / not busy				
+1082	1082	busy	忙	busy	busy				
+1083	1083	rich	富	rich	rich				
+1084	1084	poor	穷	poor	poor				
+1085	1085	clean	干净	clean	clean				
+1086	1086	dirty	脏	dirty	dirty			1230	DIRTY
+1087	1087	living (adj.) (animals)	活(~的) ((指植物))	(note:+plants)	living (adj.) (animals)||living (adj.) (plants)||living (adj.)	living (adj.) (plants) (note:+animals)||living (adj.)	活(~的) ((指动物))||活(~的)	1422	BE ALIVE
+1088	1088	fresh	新鲜	fresh	fresh				
+1089	1089	dead	死(~的)	dead	dead				
+1090	1090	clear /	清楚	lucid	clear / lucid				
+1091	1091	tasty /	好吃	delicious	tasty / delicious				
+1092	1092	pleasant to the	好听	ears	pleasant to the ears				
+1093	1093	beautiful / pleasant to the	好看	eyes	beautiful / pleasant to the eyes				
+1094	1094	loud	响	loud	loud				
+1095	1095	hard /	辛苦	laborious	hard / laborious				
+1096	1096	bored	闷	bored	bored				
+1097	1097	hurriedly /	急忙	hastily	hurriedly / hastily				
+1098	1098	multicolored / patterned	花(~的)	(cloth)	multicolored / patterned (cloth)				
+1099	1099	clever	聪明	clever	clever				
+1100	1100	stupid	蠢	stupid	stupid (male)||stupid	stupid (male) (note:+male)	蠢 ((男人)~)		
+1101	1101	honest /	老实	well-behaved	honest / well-behaved				
+1102	1102	sly /	狡猾	cunning	sly / cunning				
+1103	1103	careful /	细心	attentive	careful / attentive				
+1104	1104	gentle /	和气	amiable	gentle / amiable				
+1105	1105	arrogant /	骄傲	conceited	arrogant / conceited				
+1106	1106	suitable	合适	suitable	suitable				
+1107	1107	fierce /	凶恶	ferocious	fierce / ferocious				
+1108	1108	severe / fierce /	厉害	sharp	severe / fierce / sharp||severe / fierce / sharp (potent liquor)||severe / fierce / sharp (temper)	severe / fierce / sharp (temper) (note:"strong-of-wine")||severe / fierce / sharp (potent liquor) (note:+temper)	厉害 ("(酒性)烈")||厉害 ((脾气)~)		
+1109	1109	polite /	客气	courteous	polite / courteous				
+1110	1110	stingy	吝啬	stingy	stingy				
+1111	1111	industrious /	勤快	hardworking	industrious / hardworking				
+1112	1112	lazy	懒	lazy	lazy				
+1113	1113	clumsy /	笨拙	awkward	clumsy / awkward				
+1114	1114	well-behaved / lovable	乖(~孩子)	(child)	well-behaved / lovable (child)				
+1115	1115	hardworking / exerting	努力	oneself	hardworking / exerting oneself				
+1116	1116	pitiable /	可怜	pitiful	pitiable / pitiful				
+1117	1117	happy /	高兴	excited	happy / excited				
+1118	1118	blissful	幸福	blissful	blissful				
+1119	1119	safe and	平安	sound	safe and sound				
+1120	1120	sad	悲哀	sad	sad				
+1121	1121	affectionate /	亲热	intimate	affectionate / intimate				
+1122	1122	bothersome /	讨厌	disagreeable	bothersome / disagreeable				
+1123	1123	alone	单独	alone	alone				
+1124	1124	cliffy /	陡峭	precipitous	cliffy / precipitous				
+1125	1125	near / close	接近	to	near / close to				
+1126	1126	love /	爱	like	love / like (one's child)||love / like	love / like (one's child) (note:+child)	爱 (~(小孩))		
+1127	1127	like (to	爱(~吃)	eat)	like (to eat)				
+1128	1128	install	安装	install	install				
+1129	1129	press (with palm or	按	finger)	press (with palm or finger) (a bell)||press (with palm or finger)	press (with palm or finger) (a bell) (note:+bell)	按 (~(铃))		
+1130	1130	decoct (herbal	熬	medicine)	decoct (porridge / conjee)||decoct (herbal medicine)	decoct (porridge / conjee) (note:+medicine)	熬 (~(药))		
+1131	1131	thin out (seedlings) (note:thin_out	拔(~草) (间(苗))	+seedlings)	thin out (seedlings)||pull up (weeds)	pull up (weeds)	拔(~草)		
+1132	1132	rake (the	耙(~田)	fields)	rake (the fields)				
+1133	1133	grasp (with the fingers and thumb of both	掰开	hands)	grasp (with the fingers and thumb of both hands)				
+1134	1134	put in order / arrange (things w / out	摆(~整齐) ((摆放的东西无腿儿))	legs)	put in order / arrange (things with legs)||put in order / arrange||put in order / arrange (things w / out legs)	put in order / arrange||put in order / arrange (things with legs)	摆(~整齐)||摆(~整齐) ((摆放的东西有腿儿))		
+1135	1135	swing /	摆动	sway	swing / sway				
+1136	1136	lose /	败	defeated	lose / defeated				
+1137	1137	worship / make obeisance	拜(~菩萨)	to	worship / make obeisance to				
+1138	1138	move	搬(~家)	(house)	move (house)				
+1139	1139	move (a	搬(~凳子)	stool)	move (a stool)				
+1140	1140	help	帮助	help	help				
+1141	1141	bind / tie	绑	up	bind / tie up				
+1142	1142	wrap	包(~药)	v	wrap				
+1143	1143	strip off sticky things (note:pare (peel +fruit))	剥(~花生) (~(瓜果皮))	v	strip off sticky things||shell (peanuts)||shell (melon seeds)	shell (melon seeds) v||shell (peanuts) v	剥(~花生) (~(贴着的东西))||剥(~花生)		
+1144	1144	skin (cattle)	剥(~牛皮)	v	skin (cattle)				
+1145	1145	peel off (paint)	剥落	vt	peel off (paint)				
+1146	1146	secret,	保密	keep	secret, keep				
+1147	1147	protect	保护	protect	protect				
+1148	1148	eaten one's fill,	饱	have	eaten one's fill, have				
+1149	1149	hug / hold in the arms (a child)	抱 (~(孩子))	(note:+child)	hug / hold in the arms||hug / hold in the arms (a child)	hug / hold in the arms	抱		
+1150	1150	dig	刨	dig	dig				
+1151	1151	carry (a child) on the	背(~孩子)	back)	carry (a child) on the back)				
+1152	1152	spout / burst	迸(~出)	forth	spout / burst forth				
+1153	1153	force /	逼迫	compel	force / compel				
+1154	1154	compare	比 ((助词))	('than'--functor)	compare ('than'--functor)||compare	compare	比		
+1155	1155	close (the	闭(~口)	mouth)	close (the mouth)				
+1156	1156	plait	编(~辫子)	v	plait				
+1157	1157	weave (a	编(~篮子)	basket)	weave (a basket)				
+1158	1158	change	变化	change	change				
+1159	1159	alter	改变	alter	alter				
+1160	1160	ill, to	病	be	ill, to be				
+1161	1161	patch	补(~衣)	(clothing)	patch (clothing)				
+1162	1162	tinker	补(~锅)	(pans)	tinker (pans)				
+1163	1163	wipe (the	擦(~桌子)	table)	wipe (the table)			1454	WIPE
+1164	1164	wipe away /	擦掉	erase	wipe away / erase				
+1165	1165	guess (a	猜(~谜)	riddle)	guess (a riddle)				
+1166	1166	guessed right,	猜中	have	guessed right, have				
+1167	1167	cut (cloth)	裁 (~(纸))	(note:+paper)	cut (paper, cloth)||cut (cloth)||cut (paper)	cut (paper) (note:+cloth)||cut (paper, cloth)	裁 (~(衣))||裁		
+1168	1168	step on /	踩	tread	step on / tread				
+1169	1169	hide	藏(~东西)	(sthg.)	hide (sthg.)			602	HIDE (CONCEAL)
+1170	1170	scratch (an itch against	蹭(~痒)	sthg.)	scratch (an itch against sthg.)				
+1171	1171	poke (a sign into earth) /	插(~牌子)	insert	poke (a sign into earth) / insert				
+1172	1172	transplant (rice	插(~秧)	seedlings)	transplant (rice seedlings)				
+1173	1173	audit	查(~帐)	(accounts)	audit (accounts)				
+1174	1174	unseam (clothing) (simplex)	拆(~衣服) ((自己)~)	(note:+intr)	unseam (clothing) (simplex)||unseam (clothing)||unseam (clothing) (causative)	unseam (clothing)||unseam (clothing) (causative) (note:+tran)	拆(~衣服)||拆(~衣服) ((使)~)		
+1175	1175	pull down (a	拆(~房子)	house)	pull down (a house)				
+1176	1176	fall down (a house) /	塌毁	collapse	fall down (a house) / collapse				
+1177	1177	support s.b. with one's hand (simplex)	搀扶 ((使)~)	(note:+tran)	support s.b. with one's hand||support s.b. with one's hand (causative)||support s.b. with one's hand (simplex)	support s.b. with one's hand||support s.b. with one's hand (causative) (note:+intr)	搀扶||搀扶 ((自己)~)		
+1178	1178	add water	掺(~水) (兑(水))	(note:+add_water)	dilute water||add water||dilute / add water	dilute water (note:+add_water)||dilute / add water	掺(~水) (加(水))||掺(~水)		
+1179	1179	wind (thread onto a	缠(~线)	keel)	wind (thread onto a keel)				
+1180	1180	want to eat (meat)	馋(~肉)	badly	want to eat (meat) badly				
+1181	1181	gluttonous	馋(嘴~)	gluttonous	gluttonous				
+1182	1182	taste ('have a look')	尝 ("看一下")	(note:"take-a-look")	taste ('have a look')||taste / try the flavor of	taste / try the flavor of	尝		
+1183	1183	repay	偿还	repay	repay				
+1184	1184	sing (own songs)	唱 (~(本族歌曲))	(note:+native_songs)	sing||sing (Han songs)||sing (own songs)	sing (Han songs) (note:+Han_songs)||sing	唱 (~(汉族歌曲))||唱	1261	SING
+1185	1185	make a row,	吵	racket	make a row, racket||make a row, racket ('yell at each other')	make a row, racket ('yell at each other') (note:"yell-at-each-other")	吵 ("相骂")		
+1186	1186	stir-fry	炒	stir-fry	stir-fry||stir-fry (grain)	stir-fry (grain) (note:+vegetables)	炒 (~(菜))		
+1187	1187	sink	沉	sink	sink				
+1188	1188	weigh	称(~粮食)	(food)	weigh (food)				
+1189	1189	commend /	称赞	praise	commend / praise				
+1190	1190	prop up /	撑住	support	prop up / support				
+1191	1191	open (an	撑(~伞)	umbrella)	open (an umbrella)				
+1192	1192	done, be /	成了	accomplished	done, be / accomplished				
+1193	1193	accomplish /	完成	succeed	accomplish / succeed				
+1194	1194	fill (a bowl with porridge)	盛(~饭) (~(干饭))	(note:+dry_rice)	fill (a bowl with rice)||fill (a bowl with porridge)	fill (a bowl with rice)	盛(~饭)		
+1195	1195	hold,	盛得下	can	hold, can				
+1196	1196	admit	承认	admit	admit				
+1197	1197	clarify / clear	澄清	up	clarify / clear up				
+1198	1198	eat	吃	eat	eat (meat, corn, etc.)||eat (rice, etc.)||eat	eat (meat, corn, etc.) (note:+rice)||eat (rice, etc.) (note:-rice (eat +meat | corn | etc.))	吃 (~(米饭等))||吃 (~(肉,玉米等))	1336	EAT
+1199	1199	charge / sprint (in the	冲(~在前)	front)	charge / sprint (in the front)				
+1200	1200	rinse /	冲(用水~)	flush	rinse / flush||rinse / flush ('sprinkle, splash')	rinse / flush ('sprinkle, splash') (note:"spill")	冲(用水~) ("泼")		
+1201	1201	pestle / pound	舂	v	pestle / pound				
+1202	1202	take out (from in between, a part from a	抽(~出)	whole)	take out (from in between, a part from a whole)				
+1203	1203	smoke (a cigarette)	抽(~烟)	v	smoke (a cigarette)||smoke (an opium cigarette)	smoke (an opium cigarette) (note:+cigarette) v	抽(~烟) (~(纸烟))		
+1204	1204	whip /	抽打	thrash	whip / thrash				
+1205	1205	produce	出产	produce	produce				
+1206	1206	go	出去	out	go out (past)||go out (future)||go out	go out (past) (note:+future)||go out (future) (note:+past)	出去 ((将来时))||出去 ((过去时))		
+1207	1207	come out (the	出(~太阳)	sun)	come out (the sun)				
+1208	1208	come out (future)	出来 ((将来时))	(note:+past)	come out (past)||come out||come out (future)	come out (past) (note:+future)||come out	出来 ((过去时))||出来		
+1209	1209	withdraw / take	取出	out	withdraw / take out				
+1210	1210	hoe up	锄(~草)	(weeds)	hoe up (weeds)				
+1211	1211	wear (a	穿(~衣)	garment)	wear (a garment)				
+1212	1212	put on	穿(~鞋)	(shoes)	put on (shoes)				
+1213	1213	thread (a	穿(~针)	needle)	thread (a needle)				
+1214	1214	puncture	穿孔(胃~)	(sthg.)	puncture (sthg.)				
+1215	1215	punch a hole /	穿孔(用针~)	perforate	punch a hole / perforate				
+1216	1216	hand down (to	传(~给下代)	posterity)	hand down (to posterity)				
+1217	1217	infect	传染	infect	infect				
+1218	1218	blow (the	吹(~喇叭)	trumpet)	blow (the trumpet)				
+1219	1219	blow away (a speck of	吹(~灰)	dust)	blow away (a speck of dust)				
+1220	1220	beat /	捶打	thump	beat / thump				
+1221	1221	jab / poke /	戳	stab	jab / poke / stab				
+1222	1222	pierce	戳破(被~)	through	pierce through				
+1223	1223	hurt by	刺痛	stinging	hurt by stinging				
+1224	1224	urge / hurry / speed	催	up	urge / hurry / speed up				
+1225	1225	twist (hemp fibers) between the	搓(~绳)	palms	twist (hemp fibers) between the palms				
+1226	1226	wrong,	错(~了)	be	wrong, be				
+1227	1227	promise /	答应	consent	promise / consent				
+1228	1228	hit (a	打(~人)	person)	hit (a person) (with a fist)||hit (a person)	hit (a person) (with a fist) (note:+with_fist)	打(~人) ((用拳头)~)		
+1229	1229	gesticulate	打手势	gesticulate	gesticulate				
+1230	1230	hunt	打猎	hunt	hunt			1435	HUNT
+1231	1231	fire (a	打枪	shot)	fire (a shot)				
+1232	1232	hit, have (the	打中	target)	hit, have (the target)				
+1233	1233	war, go to / battle	打仗	v	war, go to / battle				
+1234	1234	fight ('mutually hit') (note:"hit-each-other")	打架 ("互相打")	v.	fight||fight ('mutually hit')	fight v.	打架	1423	FIGHT
+1235	1235	break up / scatter	打散(队伍~)	v.	break up / scatter				
+1236	1236	separated accidentally and lose contact with, get	失散	v.	separated accidentally and lose contact with, get				
+1237	1237	overthrow / down with (traitors) (note:+overthrow (knock_over +traitor))	打倒 (~(叛徒))	v.	overthrow / down with (traitors)||overthrow / down with	overthrow / down with v.	打倒		
+1238	1238	fetch / draw (water)	打(水)	v.	fetch / draw (water)				
+1239	1239	gather (firewood)	打(柴)	v.	chop (firewood)||gather (firewood)	chop (firewood) (note:chop +firewood) v.	打(柴) (砍(柴))		
+1240	1240	bet	打赌	v.	bet				
+1241	1241	thresh grain (lit. 'hit chain cangue') (note:"use-flails")	打场 ("打链枷")	v.	thresh grain (lit. 'hit chain cangue')||thresh grain	thresh grain v.	打场		
+1242	1242	doze / nod off	打瞌睡	v.	doze / nod off				
+1243	1243	yawn	打哈欠	v.	yawn				
+1244	1244	hiccup	打嗝儿(呃逆)	v.	hiccup				
+1245	1245	belch	打饱嗝儿	v.	belch				
+1246	1246	open (door, lock) (note:unlock)	打开 (~(门,锁))	v.	open (chest, trunk)||open||open (door, lock)	open v.||open (chest, trunk) (note:+trunk) v.	打开||打开 (~(箱子))		
+1247	1247	break (thunderbolt)	大霹雳	v.	break (thunderbolt)				
+1248	1248	thunder	打雷	v.	thunder				
+1249	1249	carry (money) on one	带(~钱)	v.	carry (money) on one				
+1250	1250	bring up (children)	带(~孩子)	v.	bring up (children)				
+1251	1251	lead (the way) / guide (lit. 'lead head') (note:"pioneer")	带(~路) ("带头")	v.	lead (the way) / guide (lit. 'lead head')||lead (the way) / guide	lead (the way) / guide v.	带(~路)		
+1252	1252	wear (a hat)	戴(~帽子)	v.	wear (a hat)				
+1253	1253	wear (a turban)	戴(~包头)	v.	wear (a turban)				
+1254	1254	wear (a bracelet)	戴(~手镯)	v.	wear (a bracelet)				
+1255	1255	hold up / delay	耽误	v.	hold up / delay				
+1256	1256	block (the wind)	挡(~风)	v.	block (the wind)				
+1257	1257	fall down (a wall) / topple	倒(墙~)	v.	fall down (a wall) / topple				
+1258	1258	topple / tear down (a wall)	弄倒(~墙)	v.	topple / tear down (a wall)				
+1259	1259	pound to pieces	捣碎	v.	pound to pieces				
+1260	1260	reverse	倒(~过来)	v.	reverse				
+1261	1261	pour or throw out (water)	倒掉(~水)	v.	pour or throw out (water)				
+1262	1262	arrive	到达	v.	arrive (2nd / 3rd person singular)||arrive	arrive (2nd / 3rd person singular) v.	到达 ((二,三人称单数形式))		
+1263	1263	get / acquire	得到	v.	get / acquire				
+1264	1264	wait	等待	v.	wait				
+1265	1265	quake (earth)	地震	v.	quake (earth)				
+1266	1266	lower (the head)	低(~头)	v.	lower (the head)				
+1267	1267	nod	点(~头)	v.	nod				
+1268	1268	light (a fire)	点(~火)	v.	light (a fire)				
+1269	1269	burn	燃烧	v.	burn			1428	BURNING
+1270	1270	light (a light)	点(~灯)	v.	light (a light)				
+1271	1271	pad	垫	v.	pad				
+1272	1272	wither	凋谢	v.	wither				
+1273	1273	hold danglingly in the mouth	叼	v.	hold danglingly in the mouth				
+1274	1274	drop	掉(~下)	v.	drop				
+1275	1275	hang	吊	v.	hang				
+1276	1276	fish	钓(~鱼)	v.	fish				
+1277	1277	fall over / down	跌倒	v.	fall over / down				
+1278	1278	fold up (a quilt)	叠(~被)	v.	fold up (a quilt)				
+1279	1279	bite (mosquito)	叮(蚊子~)	v.	bite (mosquito)				
+1280	1280	hammer in (a nail)	钉(~钉子)	v.	hammer in (a nail||hammer in (a nail)				
+1281	1281	lose / mislay	丢失	v.	lose / mislay	lose / mislay	丢失		
+1282	1282	understand / grasp	懂	v.	understand / grasp				
+1283	1283	freeze (meat)	冻(肉~)	v.	freeze (meat)				
+1284	1284	frostbitten, be (hand)	冻(手~了)	v.	frostbitten, be (hand)				
+1285	1285	move	动(虫子在~)	v.	move				
+1286	1286	stir / budge	动(~一~)	v.	stir / budge				
+1287	1287	read	读	v.	read				
+1288	1288	block up / plug	堵塞	v.	block up / plug				
+1289	1289	cross (a river)	渡(~河)	v.	cross (a river)				
+1290	1290	snap (thread)	断(绳子~)	vi	snap (thread)				
+1291	1291	snap (a thread)	弄断(~线)	v.	snap (a thread)				
+1292	1292	break / snap (stick)	断(棍子~)	itr.v.	break / snap (stick)				
+1293	1293	snap / break (a stick)	弄断(~棍子)	v.	snap / break (a stick)				
+1294	1294	heap / stack (hay, grass)	堆(~草)	v.	heap / stack (hay, grass)				
+1295	1295	hide oneself	躲藏	v.	hide oneself				
+1296	1296	chop / cut (meat)	剁(~肉)	v.	chop / cut (meat)				
+1297	1297	stamp (one's foot)	跺(~脚)	v.	stamp (one's foot)				
+1298	1298	hungry, be	饿	v.	hungry, be				
+1299	1299	occur / happen	发生	v.	occur / happen				
+1300	1300	develop (career / undertaking)	发展(事业~)	itr.v.	develop (career / undertaking)				
+1301	1301	develop (a career / undertaking)	发展(~事业)	v.	develop (a career / undertaking)				
+1302	1302	swear / vow	发誓	v.	swear / vow				
+1303	1303	shiver / tremble (from fear) (note:shiver (shiver | tremble +cold))	发抖 ((冷得)~)	v.	shiver / tremble||shiver / tremble (from cold)||shiver / tremble (from fear)	shiver / tremble (from cold) (note:tremble (shiver | tremble +fright)) v.||shiver / tremble v.	发抖 ((怕得)~)||发抖		
+1304	1304	ferment	发酵	v.	ferment				
+1305	1305	fever, have	发烧	v.	fever, have				
+1306	1306	worry / anxious, be	发愁	v.	worry / anxious, be				
+1307	1307	germinate / sprout	发芽	v.	germinate / sprout				
+1308	1308	punish	罚(处~)	v.	punish				
+1309	1309	turn inside out (clothing) or the reverse	翻过来(把衣服~)	v.	turn inside out (clothing) or the reverse	turn inside out (clothing) or the reverse v	翻过来(把衣服~)		
+1310	1310	turn over (on bed)	翻身(在床上~)	v.	turn over (on bed)				
+1311	1311	oppose	反对	v.	oppose				
+1312	1312	ruminate (cow) (note:+cow)	反刍 (牛~)	v.	ruminate||ruminate (cow)	ruminate v.	反刍		
+1313	1313	spin (into yarn)	纺(~纱)	v.	spin (into yarn)				
+1314	1314	put sthg. somewhere	放(~置)	v.	put sthg. somewhere				
+1315	1315	put in (salt)	放(~盐)	v.	put in (salt)				
+1316	1316	put out to pasture (sheep) (note:+sheep)	放牧 (放(羊))	v.	put out to pasture (cows)||put out to pasture||put out to pasture (sheep)	put out to pasture (cows) (note:+cattle) v.||put out to pasture v.	放牧 (放(牛))||放牧		
+1317	1317	set on fire	放火	v.	set on fire				
+1318	1318	fly	飞	v.	fly			1441	FLY (MOVE THROUGH AIR)
+1319	1319	divide / share (things)	分(~东西)	v.	divide / share (things)				
+1320	1320	divide family property and live apart (offspring)	分家	v.	divide family property and live apart (offspring)				
+1321	1321	separate	分离	v.	separate				
+1322	1322	separate (cause to)	分开(使~)	v.	separate (cause to)				
+1323	1323	crazy, become	疯	v.	crazy, become				
+1324	1324	sew (up)	缝	v.	sew (up)				
+1325	1325	apply (ointment)	敷	v.	apply (ointment)				
+1326	1326	hatch / incubate	孵	v.	hatch / incubate				
+1327	1327	put one's hand on (sthg.) for	扶(~着栏杆)	v.	put one's hand on (sthg.) for				
+1328	1328	satisfy(conditions, requirements)	符合(~條件)	v.					
+1329	1329	conform (cause to) / satisfy	符合(使~)	v.	conform (cause to) / satisfy				
+1330	1330	rot	腐烂	v.	rot				
+1331	1331	put (soil) on	盖(~土)	v.	put (soil) on				
+1332	1332	pull (a quilt) over oneself	盖(~被)	v.	pull (a quilt) over oneself (simplex)||pull (a quilt) over (causative)||pull (a quilt) over oneself	pull (a quilt) over (causative) (note:+tran) v.||pull (a quilt) over oneself (simplex) (note:+intr) v.	盖(~被) ((使)~)||盖(~被) ((自己)~)		
+1333	1333	dry, be	干(~了)	v.	dry, be				
+1334	1334	go (to market / a fair)	赶集	v.	go (to market / a fair)				
+1335	1335	dare	敢	v.	dare				
+1336	1336	work / labor	干活儿	v.	work / labor				
+1337	1337	tell	告诉	v.	tell				
+1338	1338	complain about s.b. to his sup	告状	v.	complain about s.b. to his sup				
+1339	1339	cut (meat)	割(~肉)	v.	cut (meat)				
+1340	1340	sever (a rope)	割(~绳)	v.	sever (a rope)				
+1341	1341	cut off / sever	割断	v.	cut off / sever||cut off / sever (intransitive)||cut off / sever (transitive)	cut off / sever (transitive) (note:+tran) v.||cut off / sever (intransitive) (note:+intr) v.	割断 ((及物动词))||割断 ((不及物动词))		
+1342	1342	mow / cut (grass)	割(~草)	v.	mow / cut (grass)				
+1343	1343	be on the other side of (a river)	隔（～河）	v.					
+1344	1344	hurt (the foot from grit in the shoe)	硌(~脚)	v.	hurt (the foot from grit in the shoe)||hurt (the foot from grit in the shoe) (simplex)||hurt (the foot from grit in the shoe) (causative)	hurt (the foot from grit in the shoe) (simplex) (note:+intr) v.||hurt (the foot from grit in the shoe) (causative) (note:+tran) v.	硌(~脚) ((自动))||硌(~脚) ((使动))		
+1345	1345	give	给	v.	give (hand over)||give||give (as a gift)	give (hand over) (note:+gift) v.||give (as a gift) v.	给 (送~)||给 (交~)	1447	GIVE
+1346	1346	follow	跟(~在后面)	v.	follow				
+1347	1347	plough / till	耕	v.	plough / till				
+1348	1348	hook	钩	v.	hook				
+1349	1349	enough, be	够	v.	enough, be				
+1350	1350	assess / estimate	估计	v.	assess / estimate				
+1351	1351	hire / employ (a draught animal) (note:+person)	雇 (~(人))	v.	hire / employ (a person)||hire / employ (a draught animal)||hire / employ	hire / employ (a person) (note:+livestock) v.||hire / employ v.	雇 (~(牲口))||雇		
+1352	1352	shave (hairs) / scrape	刮(~毛)	v.	shave (hairs) / scrape				
+1353	1353	blow (whirlwind) (note:+whirlwind)	刮(~风) (~(旋风))	v.	blow (whirlwind)||blow (wind)	blow (wind) v.	刮(~风)		
+1354	1354	hang (on the wall)	挂(~在墙上)	v.	hang (on the wall)				
+1355	1355	hung, be	挂(被~住)	v.	hung, be				
+1356	1356	close (the door)	关(~门)	v.	close (the door)				
+1357	1357	pen in (sheep)	关(~羊)	v.	pen in (sheep)				
+1358	1358	manage (note:manage)	管 (管理)	v.	manage / control||manage	manage / control v.	管		
+1359	1359	fill (with water) (field) (note:irrigate)	灌(~水) (~(田))	v.	fill (with water) (kettle)||fill (with water)||fill (with water) (field)||fill (with medicine)	fill (with medicine) (note:force_feed_medicine) v.||fill (with water) (kettle) (note:+kettle) v.||fill (with water) v.	灌(~水) (~(药))||灌(~水) (~(壶))||灌(~水)		
+1360	1360	kneel	跪	v.	kneel				
+1361	1361	roll (transitive) (note:tran)	滚 ((及物动词))	v.	roll (intransitive)||roll (transitive)||roll	roll (intransitive) (note:intr) v.||roll v.	滚 ((不及物动词))||滚		
+1362	1362	celebrate (the New Year)	过年	v.	celebrate (the New Year)				
+1363	1363	cross (a bridge)	过(~桥)	v.	cross (a bridge)				
+1364	1364	go by (two years) / pass	过(~了两年)	v.	go by (two years) / pass				
+1365	1365	shy, be / bashful	害羞	v.	shy, be / bashful			487	SHY
+1366	1366	afraid, be	害怕	v.	afraid, be				
+1367	1367	ask s.b. to come here / fetch	喊(~人开会)	v.	ask s.b. to come here / fetch				
+1368	1368	yell / shout	喊叫	v.	yell / shout				
+1369	1369	weld / solder	焊	v.	weld / solder				
+1370	1370	drink	喝	v.	drink			1401	DRINK
+1371	1371	suitable	合适	adj.	suitable				
+1372	1372	close (a book)	合上(~书本)	v.	close (a book)				
+1373	1373	hate	恨	v.	hate				
+1374	1374	dry by fire	烘	v.	dry by fire				
+1375	1375	coax / fool	哄	v.	coax / fool				
+1376	1376	regret	后悔	v.	regret				
+1377	1377	paddle / row	划(~船)	v.	paddle / row				
+1378	1378	draw (a picture)	画(~画儿)	v.	draw (a picture)				
+1379	1379	pregnant, be (person) (note:+person)	怀孕 ((指人))	v.	pregnant, be (person)||pregnant, be	pregnant, be v.	怀孕		
+1380	1380	doubt	怀疑	v.	doubt				
+1381	1381	repay (a debt)	还(~帐)	v.	repay (a debt)				
+1382	1382	return (a pen)	还(~钢笔)	v.	return (a pen)				
+1383	1383	change	换	v.	change||take (a breath)	take (a breath) (note:take_breath) v.	换 (~(气))		
+1384	1384	wave / wield	挥动	v	wave / wield				
+1385	1385	return (come back) (note:+go)	回 (~去)	v.	return||return (come back)||return (future)||return (go back)||return (past)	return (future) (note:+past) v.||return (past) (note:+future) v.||return (go back) (note:+come) v.||return v.	回 ((过去时))||回 ((将来时))||回 (~来)||回		
+1386	1386	return, cause to	回(使~)	v.	return, cause to				
+1387	1387	turn one's head to the back	回头(~看)	v.	turn one's head to the back				
+1388	1388	recall / recollect	回忆	v.	recall / recollect				
+1389	1389	answer / reply	回答	v.	answer / reply				
+1390	1390	destroy / exterminate	毁灭	v.	destroy / exterminate				
+1391	1391	destroy (cause to)	毁灭(使~)	v.	destroy (cause to)				
+1392	1392	know (to write)	会(~写)	v.	know (to write)				
+1393	1393	mix / blend / mingle (rice, bread, etc.)	混合 ((米,面等)~)	v.	mix / blend / mingle (cows, horses, etc.)||mix / blend / mingle||mix / blend / mingle (rice, bread, etc.)	mix / blend / mingle v.||mix / blend / mingle (cows, horses, etc.) (note:mingle +animals intr (mix +animals)) v.	混合||混合 ((牛马等)~)		
+1394	1394	mix (cause to) (rice, bread, etc.)	混合(使~) ((米,面等)~)	v.	mix (cause to) (rice, bread, etc.)||mix (cause to) (cows, horses, etc.)||mix (cause to)	mix (cause to) (cows, horses, etc.) v.||mix (cause to) v.	混合(使~) ((牛,马等)~)||混合(使~)		
+1395	1395	muddle (the water)	搅浑	v.	muddle (the water)				
+1396	1396	alive, become / active (people)	活(~了) ((人)~)	v.	alive, become / active (people)||survive (plants)||alive, become / active||revive (vi.) (animals)	survive (plants) v.||alive, become / active v.||revive (vi.) (animals) vi.	活(~了) ((动物)苏醒)||活(~了)||活(~了) ((植物)成活)		
+1397	1397	support / raise	养活	v.	support / raise				
+1398	1398	get / gain	获得	v.	get / gain				
+1399	1399	mix (powder) with water (stomp w / feet)	和(~泥) ((用脚)踩)	v.	mix (powder) with water (stomp w / feet)||mix (powder) with water	mix (powder) with water v.	和(~泥)		
+1400	1400	gather (of water) / build up	积(~水)	itr.v.	gather ( of water) / build up				
+1401	1401	accumulate	积攒	v.	accumulate				
+1402	1402	gather / assemble	集(聚~)	v.	gather / assemble				
+1403	1403	assemble / muster (a team)	集合(~队伍)	v.	assemble / muster (a team)				
+1404	1404	press (a tube of toothpaste)	挤(~牙膏)	v.	press (a tube of toothpaste)				
+1405	1405	squeeze (for milk)	挤(~奶)	v.	squeeze (for milk)	squeeze (for milk) v	挤(~奶)		
+1406	1406	pinch (of a shoe)	挤(~脚)	v.	pinch (of a shoe)				
+1407	1407	remember	记得	v.	remember				
+1408	1408	deposit / leave with	寄存	v.	deposit / leave with				
+1409	1409	send (a letter)	寄(~信)	v.	send (a letter)				
+1410	1410	envy	忌妒	v.	envy				
+1411	1411	avoid certain food (because of allergy)	忌（~嘴）	v.					
+1412	1412	buckle up / fasten (a belt)	系(~腰带)	v.	buckle up / fasten (a belt)				
+1413	1413	pick up (food with chopsticks)	夹(~菜)	v.	pick up (food with chopsticks)				
+1414	1414	pick up	捡	v.	pick up				
+1415	1415	reduce	减	v.	reduce				
+1416	1416	scissor (wool, hair)	剪	v.	scissor (for cutting cloth)||scissor||scissor (paper)||scissor (wool, hair)	scissor v.||scissor (for cutting cloth) n.||scissor (paper) v.	剪 (~(羊毛,头发))||剪 ((裁)~)||剪 (~(纸))		
+1417	1417	tell (a story)	讲(~故事)	v.	tell (a story)				
+1418	1418	land / descend (simplex)	降落 ((自动))	v.	land / descend (causative)||land / descend||land / descend (simplex)	land / descend (causative) v.||land / descend v.	降落 ((使动))||降落		
+1419	1419	exchange	交换	v.	exchange				
+1420	1420	turn / hand over / consign	交付	v.	turn / hand over / consign				
+1421	1421	make friends with	交(~朋友)	v.	make friends with||make friends with (sbj. = male)||make friends with (sbj. = female)	make friends with (sbj. = female) v.||make friends with (sbj. = male) v.	交(~朋友) (~(男友))||交(~朋友) (~(女友))		
+1422	1422	water / sprinkle / irrigate	浇(~水)	v.	water / sprinkle / irrigate (flowers)||water / sprinkle / irrigate (earth)||water / sprinkle / irrigate	water / sprinkle / irrigate (earth) v.||water / sprinkle / irrigate (flowers) v.	浇(~水) (~(地))||浇(~水) (~(花))		
+1423	1423	burnt / scorched	焦(烧~)	vi	burnt / scorched				
+1424	1424	chew	嚼	v.	chew			321	CHEW
+1425	1425	teach	教	v.	teach				
+1426	1426	crow (of cocks)	叫(公鸡~)	v.	crow (of cocks)				
+1427	1427	crow (of hens)	叫(母鸡~)	v.	crow (of hens)				
+1428	1428	meow	叫(猫~)	v.	meow				
+1429	1429	bray	叫(驴~)	v.	bray				
+1430	1430	neigh	叫(马~)	v.	neigh				
+1431	1431	moo	叫(牛~)	v.	moo ((female) cow)||moo||moo (bull)	moo (bull) v.||moo ((female) cow) v.	叫(牛~) ((公牛)~)||叫(牛~) ((母牛)~)		
+1432	1432	bark	叫(狗~)	v.	bark				
+1433	1433	grunt (of pigs)	叫(猪~)	v.	grunt (of pigs)				
+1434	1434	baa / bleat	叫(羊~)	v.	baa / bleat				
+1435	1435	growl (of wild animals)	叫(老虎~) ((兽)~)	v.	growl (of tigers)||growl (of wild animals)	growl (of tigers) v.	叫(老虎~)		
+1436	1436	howl (of wolves) (lit. 'cry')	叫(狼~) ("呻吟")	v.	howl (of wolves)||howl (of wolves) (lit. 'groan / moan')||howl (of wolves) (lit. 'cry')	howl (of wolves) v.||howl (of wolves) (lit. 'groan / moan') v.	叫(狼~)||叫(狼~) ("哭")		
+1437	1437	called, be / named (lit. = copula)	叫(~名字) ("是")	v.	called, be / named||called, be / named (lit. = copula)	called, be / named v.	叫(~名字)		
+1438	1438	lift (the lid)	揭(~盖子)	v.	lift (the lid)				
+1439	1439	bear (fruit)	结(~果子)	v.	bear (fruit)				
+1440	1440	freeze / ice up	结冰	v.	freeze / ice up				
+1441	1441	marry (lit. 'drink liquor')	结婚 ("举行完婚仪式")	v.	marry (lit. 'drink liquor')||marry||marry (lit. 'hold wedding ceremony')||marry (of a woman)||marry (of a man)	marry (of a woman) v.||marry v.||marry (lit. 'hold wedding ceremony') v.||marry (of a man) v.	结婚 (出嫁)||结婚||结婚 ("喝酒")||结婚 (迎娶,入赘)		
+1442	1442	borrow (money)	借(~钱)	v.	borrow (money)||lend (money)	lend (money) v.	借(~钱) (~进)		
+1443	1443	borrow (tools)	借(~工具)	v.	borrow (tools)||lend (tools)	lend (tools) v.	借(~工具) (~进)		
+1444	1444	soak / steep	浸泡	v.	soak / steep				
+1445	1445	ban / forbid / prohibit	禁止	v.	ban / forbid / prohibit				
+1446	1446	immerse / submerge	浸入	v.	immerse / submerge				
+1447	1447	enter (a house)	进(~屋)	v.	enter (a house) (future)||enter (a house)||enter (a house) (past)	enter (a house) (future) v.||enter (a house) (past) v.	进(~屋) ((过去时))||进(~屋) ((将来时))		
+1448	1448	pass / go by	经过	v.	pass / go by				
+1449	1449	startle / disturb	惊动	v.	startle / disturb				
+1450	1450	startled, be / shy (of animals)	受惊	v.	startled, be / shy (of animals)				
+1451	1451	rescue / save	救	v.	rescue / save				
+1452	1452	live / reside (lit. 'be at')	居住 ("在")	v.	live / reside (lit. 'be at')||live / reside (lit. 'sit')||live / reside	live / reside v.||live / reside (lit. 'sit') v.	居住||居住 ("坐")	1099	RESIDE
+1453	1453	raise (the hand)	举(~手)	v.	raise (the hand)				
+1454	1454	saw	锯	v.	saw				
+1455	1455	get together, all / assemble	聚齐	v.	get together, all / assemble				
+1456	1456	roll up (cloth)	卷(~布)	v.	roll up (cloth)||roll up (sleeve)	roll up (sleeve) v.	卷(~布) (~(袖子))		
+1457	1457	huddle / curl up	蜷缩	v.	huddle / curl up				
+1458	1458	dig / excavate	掘	v.	dig / excavate				
+1459	1459	block / obstruct (by a thorn)	卡主 ((被石头)~)	v.	block / obstruct (by a thorn)||block / obstruct||block / obstruct (by a rock)	block / obstruct v.||block / obstruct (by a rock) v.	卡主||卡主 ((被刺)~)		
+1460	1460	obstruct (cause to) / block	卡主(使~)	v.	obstruct (cause to) / block				
+1461	1461	open (a door)	开(~门)	v.	open (a door)				
+1462	1462	boiling, be (water)	开(水~了)	v.	boiling, be (water)				
+1463	1463	blossom (of flowers)	开(花~了)	v.	blossom (of flowers)				
+1464	1464	start / drive (a car)	开(~车)	v.	start / drive (a car)				
+1465	1465	start / begin	开始	v.	start / begin				
+1466	1466	open up wasteland	开荒	v.	open up wasteland				
+1467	1467	chop down (trees)	砍(~树)	v.	chop (wood)||chop (firewood, bamboo)||chop down (trees)	chop (firewood, bamboo) v.||chop (wood) (note: (wrong number)) v.	砍(~树) (~(柴,竹))||砍(~树) (~(木头))		
+1468	1468	chop / hew	砍(~骨头)	v.	chop / hew				
+1469	1469	watch	看	v.	watch				
+1470	1470	let s.b. see / show	看(给~)	v.	let s.b. see / show				
+1471	1471	see	看见	v.	see			1409	SEE
+1472	1472	see (a doctor)	看病(病人~)	v.	see ( a doctor)				
+1473	1473	shoulder	扛	v.	shoulder				
+1474	1474	warm oneself by (a fire)	烤(~火)	v.	warm oneself by (a fire)||roast (meat)	roast (meat) v.	烤(~火) (~(肉))		
+1475	1475	rely / depend on	靠	v.	rely / depend on				
+1476	1476	kowtow	磕头	v.	kowtow				
+1477	1477	cough	咳嗽	v.	cough				
+1478	1478	thirsty, be	渴	v.	thirsty, be				
+1479	1479	woodcut	刻 ((木)~)	v.	woodcut||carve / engrave	carve / engrave v.	刻		
+1480	1480	agree / consent	肯	v.	agree / consent				
+1481	1481	gnaw / nibble	啃	v.	gnaw / nibble				
+1482	1482	dig out with finger	抠	v.	dig out with finger				
+1483	1483	buckle / button up	扣(~扣子)	v.	buckle / button up				
+1484	1484	idle, be / unoccupied	空闲	v.	idle, be / unoccupied				
+1485	1485	cry	哭	v.	cry			1420	COUNT
+1486	1486	sleepy, be	困(~倦)	v.	sleepy, be				
+1487	1487	pull / tug	拉	v.	pull / tug				
+1488	1488	empty the bowels	拉屎	v.	empty the bowels				
+1489	1489	peppery	辣	adj.	peppery				
+1490	1490	leave sthg. behind	落(遗漏[?])	v.	leave sthg. behind				
+1491	1491	come (imperative)	来 ((将来时))	v.	come (imperative)||come (1sg)||come (future)||come (past)||come	come (past) v.||come (future) v.||come (1sg) v.||come v.	来 ((命令式))||来 ((过去时))||来 ((我)~)||来	1446	COME
+1492	1492	drag for / dredge up	捞	v.	drag for / dredge up				
+1493	1493	old, be	老	v.	old, be				
+1494	1494	rein in	勒	v.	rein in				
+1495	1495	tired, be / fatigued	累	v.	tired, be / fatigued				
+1496	1496	connect / join	连接	v.	connect / join				
+1497	1497	measure	量	v.	measure (with a grain measure (Ch. 'dou3')||measure||measure (with the hands)||measure (length)	measure (with the hands) v.||measure (length) v.||measure (with a grain measure (Ch. 'dou3') v.	量 ((用手)~)||量 ((用斗)~)||量 (~(长度))		
+1498	1498	dry (clothes) in the air	晾(~衣)	v.	dry (clothes) in the air				
+1499	1499	chat	聊天	v.	chat				
+1500	1500	split open / rend (earth, melon, etc.)	裂开 ((地,瓜等)~)	v.	split open / rend (earth, melon, etc.)||split open / rend||split open / rend (wooden things)	split open / rend (wooden things) v.||split open / rend v.	裂开 ((木制品)~)||裂开		
+1501	1501	drench	淋	v.	drench				
+1502	1502	flow (of water)	流(水~)	v.	flow (of water)			2003	FLOW
+1503	1503	reserve (seeds)	留(~种)	v.	reserve (seeds)				
+1504	1504	deaf, be	聋	v.	deaf, be				
+1505	1505	cuddle / embrace	搂(~在怀里)	v.	cuddle / embrace				
+1506	1506	leak (iron pot)	漏(~水) ((石锅)~)	v.	leak (iron pot)||leak (stone pot)||leak (room)||leak	leak (stone pot) v.||leak v.||leak (room) v.	漏(~水) ((铁锅)~)||漏(~水)||漏(~水) ((房子)~)		
+1507	1507	s.b.'s turn be	轮到	v.	s.b.'s turn				
+1508	1508	filter / strain	滤	v.	old / elderly||filter / strain	old / elderly	滤		
+1509	1509	messy, be / in chaos	乱(~了)	v.	messy, be / in chaos				
+1510	1510	mess up	弄乱	v.	mess up				
+1511	1511	pile / stack up (books, quilts, etc.)	摞 (~(书,被等))	v.	pile / stack up (books, quilts, etc.)||pile / stack up||pile / stack up (firewood)	pile / stack up (firewood) v.||pile / stack up v.	摞 (~(柴))||摞		
+1512	1512	set (of the sun)	落(太阳~)	v	set (of the sun)	set (of the sun) v.	落(太阳~)		
+1513	1513	numb, be (hand)	麻木 ((手)~)	v.	numb, be||numb, be (mouth)||numb, be (foot)||numb, be (hand)	numb, be (foot) v.||numb, be (mouth) v.||numb, be v.	麻木 ((口)~)||麻木 ((脚)~)||麻木		
+1514	1514	scold	骂	v.	scold				
+1515	1515	bury	埋	v.	bury				
+1516	1516	buy	买	v.	buy			1869	BUY
+1517	1517	sell	卖	v.	sell				
+1518	1518	full, be / filled up	满(~了)	v.	full, be / filled up				
+1519	1519	there isn't / aren't	没有 (~(人))	v.	there isn't / aren't||have, do not	have, do not v.	没有		
+1520	1520	cover up (objects)	蒙盖	v.	cover up (objects)				
+1521	1521	cry / chirp (of birds)	鸣(鸟~)	v.	cry / chirp (of birds)				
+1522	1522	die out (of fire)	灭(火~)	v.	die out (of fire)				
+1523	1523	close (the mouth) lightly	抿着(~嘴)	v.	close (the mouth) lightly				
+1524	1524	understand	明白	v.	understand				
+1525	1525	stroke / touch	摸	v.	stroke / touch				
+1526	1526	whet (a knife)	磨(~刀)	v.	whet (a knife)				
+1527	1527	grind (flour)	磨(~面)	v.	grind (flour)				
+1528	1528	take / hold / get	拿	v.	take / hold / get				
+1529	1529	taken hold of, have / gotten	拿到	v.	taken hold of, have / gotten				
+1530	1530	scratch (an itch)	挠(~痒)	v.	scratch (an itch)			1436	SCRATCH
+1531	1531	can	能够	v.	can				
+1532	1532	shrivel up / wither	蔫(花~)	v.	shrivel up / wither				
+1533	1533	twist (a towel)	拧(~毛巾)	v.	twist (a towel)				
+1534	1534	solidify / congeal	凝固	v.	solidify / congeal				
+1535	1535	throw up / vomit	呕吐	v.	throw up / vomit			1278	VOMIT
+1536	1536	crawl (of people)	爬(人~)	v.	crawl (of babies)||crawl (of people)||crawl (upwards)	crawl (of babies) v.||crawl (upwards) v.	爬(人~) ((向上)~)||爬(人~) ((婴儿)~)		
+1537	1537	crawl (of insects)	爬(虫子~)	v.	crawl (of insects)||crawl (of insects, horizontally)||crawl (of insects, upwards)	crawl (of insects, horizontally) v.||crawl (of insects, upwards) v.	爬(虫子~) ((平着)~)||爬(虫子~) ((向上)~)		
+1538	1538	climb (a mountain)	爬(~山)	v.	climb (a mountain)				
+1539	1539	climb up (a tree)	爬(~树)	v.	climb up (a tree)				
+1540	1540	strike (the table)	拍(~桌子)	v.	strike (the table)				
+1541	1541	line up	排(~队)	v.	line up				
+1542	1542	send / dispatch (a person)	派(~人)	v.	send / dispatch (a person)				
+1543	1543	circle / hover / wheel	盘旋	v.	circle / hover / wheel				
+1544	1544	run	跑	v.	run				
+1545	1545	pickle (vegetables)	泡(~菜) (~(菜))	v.	pickle (vegetables)||make (tea)	make (tea) v.	泡(~菜)		
+1546	1546	compensate	赔偿	v.	compensate				
+1547	1547	sustain losses (in business)	赔(~本)	v.	sustain losses (in business)				
+1548	1548	wear / bear	佩带	v.	wear / bear				
+1549	1549	expand / swell	膨胀	v.	expand / swell				
+1550	1550	collide / run into	碰撞	v.	collide / run into				
+1551	1551	drape (a garment) over one's shoulders	披(~衣)	v.	drape (a garment) over one's shoulders				
+1552	1552	chop (firewood)	劈(~柴)	v.	chop (firewood)				
+1553	1553	float	漂浮	v.	float			1574	FLOAT
+1554	1554	splash / sprinkle	泼(~水)	v.	splash / sprinkle				
+1555	1555	split up (bamboo strips)	破(~篾)	v.	split up (bamboo strips)				
+1556	1556	become worn through (clothing)	破(衣服~了)	v.	become worn through (clothing)				
+1557	1557	split up (bamboo pole)	破(竹竿~了)	v.	split up (bamboo pole)				
+1558	1558	damaged, be (house) / cave in	破(房子~了)	v.	damaged, be (house) / cave in				
+1559	1559	broken, be (bowls)	破(碗~了)	v.	broken, be (bowls)||broken (bowls)	broken (bowls) vi	破(碗~了)		
+1560	1560	break / smash (a bowl)	打破(~碗)	v.	break / smash (a bowl)				
+1561	1561	cut / rip open	剖	v.	cut / rip open				
+1562	1562	pave / lay	铺	v.	pave / lay				
+1563	1563	bully / treat s.b. rough	欺负	v.	bully / treat s.b. rough				
+1564	1564	deceive / cheat (people)	欺骗 (骗(人))	v.	deceived, be / cheated, be||deceive / cheat (people)||deceive / cheat	deceive / cheat v.||deceived, be / cheated, be v.	欺骗||欺骗 (受骗)		
+1565	1565	build by laying bricks, stones, etc.	砌	v.	build (stove) by laying bricks, stones, etc.||build (wall) by laying bricks, stones, etc.||build by laying bricks, stones, etc.	build (stove) by laying bricks, stones, etc. v.||build (wall) by laying bricks, stones, etc. v.	砌 (~(墙))||砌 (~(灶))		
+1566	1566	ride (a horse)	骑	v.	ride (a horse)				
+1567	1567	rise / stand up	起来	v.	get up (out of bed)||rise / stand up	get up (out of bed) v.	起来 ((站)~)		
+1568	1568	pull / lead (a cow) along	牵(~牛)	v.	pull / lead (a cow) along			1455	PULL
+1569	1569	owe (money)	欠(~钱)	v.	owe (money)				
+1570	1570	rob / loot	抢	v.	rob / loot				
+1571	1571	knock / strike	敲	v.	knock / strike				
+1572	1572	warped, be (e.g. wooden boards)	翘(~尾巴) (~(板子))	v.	warped, be (e.g. wooden boards)||raise (the tail)	raise (the tail) v.	翘(~尾巴)		
+1573	1573	prize / pry	撬	v.	prize / pry				
+1574	1574	cut up (vegetable)	切(~菜)	v.	cut up (meat)||cut up (melon)||cut up (vegetable)	cut up (melon) v.||cut up (meat) v.	切(~菜) (~(瓜))||切(~菜) (~(肉))		
+1575	1575	embrace a child cheek to cheek	亲(~小孩)	v.	embrace a child cheek to cheek				
+1576	1576	drive out / expel	驱逐	v.	drive out / expel				
+1577	1577	get / fetch	取	v.	get / fetch				
+1578	1578	marry (a woman)	娶	v.	marry (a woman)				
+1579	1579	go / leave	去	v	go / leave (past)||go / leave||go / leave (future)	go / leave v.||go / leave (past) v.||go / leave (future) v.	去||去 ((将来时))||去 ((过去时))		
+1580	1580	recover, fully (from an illness)	痊愈(病~)	v.	recover, fully (from an illness)				
+1581	1581	healed, have (of a wound)	痊愈(伤~)	v.	healed, have (of a wound)				
+1582	1582	chip (the rim)	缺(~个口)	v.	chip (the rim)				
+1583	1583	complete, be	全(~了)	v.	complete, be				
+1584	1584	dye	染	v.	dye				
+1585	1585	shout / yell	嚷	v	shout / yell	shout / yell v.	嚷		
+1586	1586	make way for / give way	让路	v.	make way for / give way				
+1587	1587	fry (cold rice)	热(~饭) ((炒)~)	v.	steam (cold rice)||fry (cold rice)||heat up (cold rice)	heat up (cold rice) v.||steam (cold rice) v.	热(~饭)||热(~饭) ((蒸)~)		
+1588	1588	endure / be patient	忍耐	v.	endure / be patient				
+1589	1589	look at and distinguish (characters)	认(~字)	v.	look at and distinguish (characters)				
+1590	1590	recognize	认得	v.	recognize				
+1591	1591	throw / toss	扔	v.	throw / toss (away from speaker)||throw / toss||throw / toss (towards speaker)	throw / toss (towards speaker) v.||throw / toss (away from speaker) v.	扔 (~(过去))||扔 (~(过来))		
+1592	1592	dissolve	融化(~了)	v.	dissolve				
+1593	1593	dissolve (cause to)	融化(使~)	v.	dissolve (cause to)				
+1594	1594	knead (dough)	揉(~面)	v.	knead (dough)				
+1595	1595	sprinkle / spray	洒(~水)	v.	sprinkle / spray				
+1596	1596	piss / pee	撒(~尿)	v.	piss / pee				
+1597	1597	scatter (seeds)	撒(~种)	v.	scatter (seeds)				
+1598	1598	break up (meeting) / end	散(会~了)	v.	break up (meeting) / end				
+1599	1599	come loose (shoelace)	散开(鞋带~)	v.	come loose (shoelace)				
+1600	1600	untie / undo	解开	v.	untie / undo				
+1601	1601	sweep	扫	v.	sweep				
+1602	1602	kill (a person)	杀 (~(人))	v.	kill / slaughter (an animal)||kill||kill (a person)	kill v.||kill / slaughter (an animal) v.	杀||杀 (牵(鸡))	1417	KILL
+1603	1603	sieve / sift	筛(~米)	v.	sieve / sift				
+1604	1604	dry (clothes) in the sun	晒(~衣服)	v.	dry (grain) in the sun||dry (clothes) in the sun	dry (grain) in the sun v.	晒(~衣服) (~(粮食))		
+1605	1605	sunbathe	晒(~太阳)	v.	sunbathe				
+1606	1606	lightning	闪电	v.	lightning				
+1607	1607	injure / hurt (the arm)	伤(~了手)	v.	injure / hurt (the arm, by chopping)||injure / hurt (the arm)	injure / hurt (the arm, by chopping) v.	伤(~了手) ((砍)~)		
+1608	1608	consult / discuss	商量	v.	consult / discuss				
+1609	1609	go upstairs (future)	上(~楼) ((过去时))	v.	go upstairs||go upstairs (past)||go upstairs (future)	go upstairs v.||go upstairs (past) v.	上(~楼)||上(~楼) ((将来时))		
+1610	1610	burn the grass on wasteland	烧荒	v.	burn the grass on wasteland				
+1611	1611	shoot (an arrow)	射(~箭)	v.	shoot (an arrow)			1172	SHOOT
+1612	1612	shot, have (the target)	射中	v.	shot, have (the target)				
+1613	1613	stretch out (the foot)	伸 (~(手))	v.	stretch out (the waist)||stretch out (the arm)||stretch out (the foot)	stretch out (the arm) v.||stretch out (the waist) v.	伸||伸 (~(腰))		
+1614	1614	extend / elongate	伸长	v.	extend / elongate				
+1615	1615	draw out / stretchdraw out / stret	抻长	v.	draw out / stretch||draw out / stretchdraw out / stret	draw out / stretch v.	抻长		
+1616	1616	seep into / permeate	渗(~入)	v.	seep into / permeate				
+1617	1617	grow	生长	v.	grow (appear)||grow (mature)||grow	grow (appear) v.||grow (mature) v.	生长 (生长,成长)||生长 (出现,长出)		
+1618	1618	rust (iron)	生锈 ((铁)~)	v.	rust (iron)||rust (lit. 'eat mud')||rust||rust (copper)	rust (lit. 'eat mud') v.||rust (copper) v.||rust v.	生锈 ("吃泥巴")||生锈 ((铜)~)||生锈		
+1619	1619	grow (a boil)	生疮	v.	grow (a boil)				
+1620	1620	birth, give to	生(~孩子)	v.	birth, give to				
+1621	1621	angry, be / take offense	生气	v.	angry, be / take offense				
+1622	1622	left over, be / remain	剩	v.	left over, be / remain				
+1623	1623	rise / go up	升起	v.	rise / go up				
+1624	1624	lose (sthg.)	失落	v.	lose (sthg.)				
+1625	1625	make / cause	使	v.	make / cause				
+1626	1626	release / set free	释放	v.	release / set free				
+1627	1627	try / attempt	试	v.	try / attempt				
+1628	1628	be (3rd person)	是 ((第一人称))	v.	be||be (3rd person)||be (1st person)	be (1st person) v.||be v.	是 ((第三人称))||是		
+1629	1629	harvest / reap (the root)	收割 (~(穗子))	v.	harvest / reap (the root)||harvest / reap (the ear / tassel)||harvest / reap	harvest / reap (the ear / tassel) v.||harvest / reap v.	收割 (~(根部))||收割		
+1630	1630	receive	收到	v.	receive				
+1631	1631	close (an umbrella)	收(~伞)	v.	close (an umbrella)				
+1632	1632	put in order / tidy (things)	收拾 (~(东西))	v.	put in order / tidy (crops)||put in order / tidy (things)||put in order / tidy	put in order / tidy (crops) v.||put in order / tidy v.	收拾 (~(住稼))||收拾		
+1633	1633	guard / defend	守卫	v.	guard / defend				
+1634	1634	comb	梳	v.	comb				
+1635	1635	lose (a game) (gambling)	输 ((赌~))	v.	lose (a game)||lose (a fight)||lose (a game) (gambling)	lose (a game) v.||lose (a fight) v.	输||输 ((打架)e)		
+1636	1636	familiar with, be / know sthg. o	熟悉	v.	familiar with, be / know sthg. o				
+1637	1637	cooked, be (rice) / done	熟(饭~)	v.	cooked, be (rice) / done				
+1638	1638	ripe, be (melons, nuts, etc.)	熟(果子~) ((瓜,花生等)~)	v.	ripe, be (corn, beans, etc.)||ripe, be (melons, nuts, etc.)||ripe, be (fruit)||ripe, be (paddies, etc.)	ripe, be (fruit) v.||ripe, be (corn, beans, etc.) v.||ripe, be (paddies, etc.) v.	熟(果子~)||熟(果子~) ((稻谷等)~)||熟(果子~) ((玉米,豆等)~)		
+1639	1639	thinner, get (body) (people)	瘦(~了) ((牲畜)~)	v.	thinner, get (body) (livestock)||thinner, get (body)||thinner, get (body) (people)	thinner, get (body) v.||thinner, get (body) (livestock) v.	瘦(~了)||瘦(~了) ((人)~)		
+1640	1640	count (numbers)	数(~数目)	v.	count (numbers)			1420	COUNT
+1641	1641	rinse (the mouth)	漱(~口)	v.	rinse (the mouth)				
+1642	1642	fall / tumble down	摔(~下来)	v.	fall / tumble down				
+1643	1643	fling / toss	甩	v.	fling / toss				
+1644	1644	bolt (the door)	闩(~门)	v.	bolt (the door)				
+1645	1645	tie (a cow) to	拴(~牛)	v.	tie (a cow) to				
+1646	1646	sleep	睡	v.	sleep			1585	SLEEP
+1647	1647	asleep, fall	睡着	v.	asleep, fall				
+1648	1648	suck	吮	v.	suck				
+1649	1649	speak	说	v.	speak				
+1650	1650	tear up / rip	撕	v.	tear up / rip	tear up / rip v	撕		
+1651	1651	die	死	v.	die			1494	DIE
+1652	1652	calculate	算	v.	calculate				
+1653	1653	break to pieces (grain)	碎(米粒~了)	v.	break to pieces (grain)				
+1654	1654	crush to pieces	压碎	v.	crush to pieces				
+1655	1655	damage / spoil (simplex)	损坏 ((自动))	v.	damage / spoil (simplex)||damage / spoil||damage / spoil (intransitive)||damage / spoil (transitive)	damage / spoil v.||damage / spoil (intransitive) v.||damage / spoil (transitive) v.	损坏||损坏 ((及物动词))||损坏 ((他动))		
+1656	1656	lock (the door)	锁(~门)	v.	lock (the door)				
+1657	1657	collapse / cave in / fall down	塌	v.	collapse / cave in / fall down				
+1658	1658	step on / trample / stamp	踏	v.	step on / trample / stamp				
+1659	1659	lift up / carry	抬	v.	lift up / carry				
+1660	1660	shed (tears)	淌(~泪)	v.	shed (tears)				
+1661	1661	lie down	躺	v.	lie down			215	LIE DOWN
+1662	1662	scald / burn (the hand)	烫(~手)	v.	scald / burn (the hand)				
+1663	1663	escape / run away	逃跑	v.	escape / run away				
+1664	1664	beg (for food)	讨(~饭)	v.	beg (for food)				
+1665	1665	put on (another layer of clothing)	套（～衣服）						
+1666	1666	wound	痛(头~) ((伤口)~)	v.	ache (head)||wound	ache (head) v.	痛(头~)		
+1667	1667	kick	踢	v.	kick				
+1668	1668	shave (the head)	剃(~头)	v.	shave (the head)				
+1669	1669	cloudy, be (sky) / overcast	天阴	v.	cloudy, be (sky) / overcast				
+1670	1670	clear, be (weather) / sunny	天晴	v.	clear, be (weather) / sunny				
+1671	1671	dawn (the day)	天亮	v.	dawn (the day)				
+1672	1672	dark, get	天黑	v.	dark, get				
+1673	1673	fill up (a hollow)	填(~坑)	v.	fill up (a hollow)				
+1674	1674	lick / lap	舔	v.	lick / lap			319	LICK
+1675	1675	choose / pick	挑选	v.	choose / pick				
+1676	1676	carry (sthg.) with a pole on t	挑(~担)	v.	carry (sthg.) with a pole on t				
+1677	1677	dance	跳舞	v.	dance||dance (the 'guo1zhuang1')	dance (the 'guo1zhuang1') v.	跳舞 (跳锅庄)		
+1678	1678	jump	跳(~远)	v.	jump				
+1679	1679	pulse / beat	跳(脉~)	v.	pulse / beat				
+1680	1680	paste / stick / glue	贴	v.	paste / stick / glue				
+1681	1681	listen	听	v.	listen				
+1682	1682	hear	听见	v.	hear			1408	HEAR
+1683	1683	stop / cease	停止	v.	stop / cease				
+1684	1684	throw out (one's chest)	挺(~胸)	v.	throw out (one's chest)				
+1685	1685	notify / inform	通知	v.	notify / inform				
+1686	1686	steal	偷	v.	steal			713	STEAL
+1687	1687	throw / hurl	投掷	v	throw / hurl	throw / hurl v.	投掷	1456	THROW
+1688	1688	spit	吐(~痰)	v.	spit			1440	SPIT
+1689	1689	push / shove (people, cars)	推 (~(车,人))	v.	push / shove||push / shove (people, cars)||turn a mill / grindstone	push / shove v.||turn a mill / grindstone v.	推||推 (~(磨))	1452	PUSH
+1690	1690	refuse by making excuses	推托	v.	refuse by making excuses				
+1691	1691	back up / retreat	退(后~)	v.	back up / retreat				
+1692	1692	swallow	吞	v.	swallow				
+1693	1693	slough off (of a snake)	蜕(蛇~皮)	v.	slough off (of a snake)				
+1694	1694	pull / drag (a log)	拖(~木头)	v.	pull / drag (a log)				
+1695	1695	take off (clothes)	脱(~衣)	v.	take off (clothes)				
+1696	1696	dislocate (a joint)	脱(~臼)	v.	dislocate (a joint)				
+1697	1697	carry (loads; of pack animals)	驮	v.	carry (loads; of pack animals)				
+1698	1698	dig / scoop out	挖	v.	dig / scoop out			1418	DIG
+1699	1699	cut / gouge out	剜	v.	cut / gouge out				
+1700	1700	curved, become / bent	弯	v.	bend at the waist||curved, become / bent	bend at the waist v.	弯 (~(腰))		
+1701	1701	bend	弄弯	v.	bend				
+1702	1702	finish / be over	完	v.	finish / be over				
+1703	1703	play / amuse oneself	玩耍	v.	play / amuse oneself			1413	PLAY
+1704	1704	forget	忘记	v.	forget				
+1705	1705	violate / breach	违反	v.	violate / breach				
+1706	1706	breastfeed / suckle	喂(~奶)	v.	breastfeed / suckle				
+1707	1707	smell	闻(臭)	v.	smell			1586	SMELL (PERCEIVE)
+1708	1708	ask / question	问	v.	ask / question				
+1709	1709	hold (a pen)	握(~笔)	v.	hold (a pen)			1448	HOLD
+1710	1710	cover (the mouth)	捂(~嘴)	v.	cover (the mouth)				
+1711	1711	inhale	吸(~气)	v.	inhale				
+1712	1712	accustomed to, be / habit of, haveve	习惯	v.	accustomed to, be / habit of, ha				
+1713	1713	wash (clothes)	洗(~衣)	v.	wash (clothes)				
+1714	1714	like / love	喜欢	v.	like / love				
+1715	1715	blind, be (acquired / postnatally)	瞎 ((先天)~)	v.	blind, be (congenitally)||blind, be||blind, be (acquired / postnatally)	blind, be (congenitally) v.||blind, be v.	瞎 (~(后天)~)||瞎		
+1716	1716	go downstairs	下(~楼)	v.	go downstairs				
+1717	1717	birth, give to (piglets)	下(~猪崽)	v.	birth, give to (piglets)				
+1718	1718	lay (eggs)q	下(~蛋)	v.	lay (eggs)q||lay (eggs)	lay (eggs) v.	下(~蛋)		
+1719	1719	fall (rain)	下(~雨)	v.	fall (rain)				
+1720	1720	hang down / droop	下垂	v.	hang down / droop				
+1721	1721	frighten / scare	吓唬	v.	frighten / scare				
+1722	1722	cave in / sink	下陷	v.	cave in / sink				
+1723	1723	offer / dedicate	献	v.	offer / dedicate				
+1724	1724	admire and envy	羡慕	v.	admire and envy				
+1725	1725	believe / trust	相信	v.	believe / trust				
+1726	1726	think	想	v.	think			1415	THINK (REFLECT)
+1727	1727	recall / remember	想起	v.	recall / remember				
+1728	1728	want (to go)	想(~去)	v.	want (to go)				
+1729	1729	look like / resemble	像	v.	look like / resemble				
+1730	1730	digest	消化	v.	digest				
+1731	1731	disappear / vanish	消失	v.	disappear / vanish||disappear / vanish (lit. 'not seen anymore')	disappear / vanish (lit. 'not seen anymore') v.	消失 ("不见了")		
+1732	1732	subside (of swelling)	消(肿~)	v.	subside (of swelling)				
+1733	1733	pare / peel with a knife	削	v.	pare / peel with a knife				
+1734	1734	careful, be / cautious	小心	v.	careful, be / cautious				
+1735	1735	laugh / smile	笑	v.	laugh / smile			1355	LAUGH
+1736	1736	write	写	v.	write				
+1737	1737	diarrhea, have	泻	v.	diarrhea, have				
+1738	1738	blow (one's nose)	擤	v.	blow (one's nose)			175	BLOW (OF WIND)
+1739	1739	sober up	醒(睡~) ((睡)~)	v.	wake up (from sleep when it's loud)||wake up||sober up||wake up (from sleep)	wake up v.||wake up (from sleep) v.||wake up (from sleep when it's loud) v.	醒(睡~)||醒(睡~) ((酒)~)||醒(睡~) ((睡着时吵)~)		
+1740	1740	rest (while on the road)	休息 ((工作时)~)	v.	rest (from work)||rest||rest (while on the road)	rest v.||rest (from work) v.||rest v	休息||休息 ((路途中)~)||休息		
+1741	1741	embroider	绣(~花)	v.	embroider				
+1742	1742	learn	学	v.	learn				
+1743	1743	smoke / fumigate	熏	v.	smoke / fumigate||smoke / fumigate (with a cypress branch)	smoke / fumigate (with a cypress branch) v.	熏 ((用柏枝)~)		
+1744	1744	display structure	寻找	v.	find / look for||display structure	find / look for v.	寻找		
+1745	1745	press / push down	压	v.	press / push down				
+1746	1746	castrate (cocks)	阉(~鸡)	v.	castrate (cocks)				
+1747	1747	grind / pestle (medicine)	研(~药)	v.	grind / pestle (medicine)				
+1748	1748	winnow	扬场	v.	winnow				
+1749	1749	itch / tickle	痒	v.	itch / tickle				
+1750	1750	raise (chickens)	养(~鸡)	v.	raise (chickens)				
+1751	1751	rock / sway	摇晃	v.	rock / sway				
+1752	1752	shake (one's head)	摇(~头)	v.	shake (one's head)				
+1753	1753	bite (of snakes) (note: (wrong number))	咬 (~(牙))	v.	bite (of snakes)||bite (of draught animals, wild animals)||bite||grit one's teeth	grit one's teeth v.||bite v.||bite (of draught animals, wild animals) v.	咬 ((蛇)~)||咬||咬 ((牲口,兽)~)	1403	BITE
+1754	1754	scoop up (water) / ladle out	舀(~水)	v.	scoop up (water) / ladle out				
+1755	1755	want / need	要	v.	want / need				
+1756	1756	lead the way	引(~路)	v.	lead the way				
+1757	1757	rely / lean on	依靠	v.	rely / lean on				
+1758	1758	overflow / spill	溢(~出来)	v.	overflow / spill				
+1759	1759	withhold the facts / conceal	隐瞒	v.	withhold the facts / conceal				
+1760	1760	win	赢	v.	win				
+1761	1761	welcome, bid s.b. / greet	迎接	v.	welcome, bid s.b. / greet				
+1762	1762	embrace / hug	拥抱	v.	embrace / hug				
+1763	1763	swim	游泳	v.	swim				
+1764	1764	have (money)	有(~钱)	v.	have (money)				
+1765	1765	there are (people)	有(~人)	v.	there are (people)				
+1766	1766	there are (trees on the mountain)	有(山上~树)	v.	there are (trees on the mountain)				
+1767	1767	have (eyes)	有(~眼睛)	v.	have (eyes)				
+1768	1768	there is (water in the bowl)	有(碗里~水)	v.	there is (water in the bowl)				
+1769	1769	meet / come across	遇见	v.	meet / come across				
+1770	1770	agree on / arrange	约定	v.	agree on / arrange				
+1771	1771	cross / pass	越过	v.	cross / pass				
+1772	1772	dizzy, feel / giddy	晕(头~)	v.	dizzy, feel / giddy				
+1773	1773	permit / allow	允许	v.	permit / allow				
+1774	1774	plant (trees)	栽(~树)	v.	plant (trees)			1486	PLANT (SOMETHING)
+1775	1775	be (in the house)	在(~屋里)	v.	be (in the house)				
+1776	1776	increase / gain	增加	v.	increase / gain				
+1777	1777	chisel / bore (a hole)	凿	v.	chisel / bore (a hole)				
+1778	1778	stick into / stab	扎(刀~)	v.	stick into / stab				
+1779	1779	pricked, be (on a thorn)	扎(~刺)	v.	pricked, be (on a thorn)				
+1780	1780	blink / wink	眨(~眼)	v.	blink / wink				
+1781	1781	extract (oil)	榨(~油)	v.	extract (oil)				
+1782	1782	pluck (flowers)	摘(~花)	v.	pick (fruit)||pluck (flowers)	pick (fruit) v.	摘(~花) (~(果子))		
+1783	1783	stick down (an envelope)	粘[?](~信)	v.	stick down (an envelope)				
+1784	1784	stand	站	v.	stand			1442	STAND
+1785	1785	open (the mouth)	张(~嘴)	v.	open (the mouth)				
+1786	1786	grow up (of animals)	长(~大) ((植物)~)	v.	grow up||grow up (of animals)||grow up (of plants)	grow up v.||grow up (of plants) v.	长(~大)||长(~大) ((动物)~)		
+1787	1787	go up (water level) / rise	涨(~水)	v.	go up (water level) / rise				
+1788	1788	bloated, feel (of the stomach)	胀(肚子~)	v.	bloated, feel (of the stomach)				
+1789	1789	catch (fire) / be (on fire) (a house)	着(~火) ((房子)~火)	v.	catch (fire) / be (on fire) (a house)||catch (fire) / be (on fire)||catch (fire) / be (on fire) (on mountain)	catch (fire) / be (on fire) v.||catch (fire) / be (on fire) (on mountain) v.	着(~火)||着(~火) ((山上)~火)		
+1790	1790	catch cold	着凉	v.	catch cold				
+1791	1791	call together / convene	召集	v.	call together / convene				
+1792	1792	found / located	找到	v.	found / located				
+1793	1793	sting (of	蜇(马蜂~)	wasps)	sting (of wasps)	sting (of wasps) v.	蜇(马蜂~)		
+1794	1794	cover / hide from view	遮蔽	v.	cover / hide from view				
+1795	1795	shake / quake	震动	v.	shake / quake				
+1796	1796	fight / vie for (contend)	争夺 ("争名")	v.	fight / vie for||fight / vie for (contend)	fight / vie for v.	争夺		
+1797	1797	steam	蒸	v.	steam				
+1798	1798	know	知道	v.	know				
+1799	1799	weave / knit	织	v.	weave / knit				
+1800	1800	point at / to / out	指	v.	point at / to / out				
+1801	1801	plant / raise (wheat) (scatter)	种(~麦子) (点~)	v.	plant / raise (wheat) (scatter)||plant / raise (wheat) (dibbling)||plant / raise (wheat)	plant / raise (wheat) v.||plant / raise (wheat) (dibbling) v.	种(~麦子)||种(~麦子) (撒~)		
+1802	1802	swell (of tissue)	肿	v.	swell (of tissue)				
+1803	1803	use or lean on ( a walking stick)	柱（～拐棍）	v.					
+1804	1804	cook / boil (water, meat)	煮 (~(水,肉))	v.	cook / boil (water, meat)||cook / boil||cook / boil (rice)	cook / boil v.||cook / boil (rice) v.	煮||煮 (~(饭))		
+1805	1805	grab / seize / catch	抓	v.	grab / seize / catch				
+1806	1806	turn around	转(~身)	v.	turn around				
+1807	1807	turn (a corner)	转弯	v.	turn (a corner)				
+1808	1808	turn (round and round)	转动(~了)	v.	turn (round and round)				
+1809	1809	turn (cause to)	转动(使~)	v.	turn (cause to)				
+1810	1810	put into a container / pack	装(~进)	v.	put into a container / pack				
+1811	1811	chase after	追	v.	chase after				
+1812	1812	prepare / get ready / intend	准备	v.	prepare / get ready / intend				
+1813	1813	catch / capture	捉	v.	catch / capture				
+1814	1814	peck at (rice; of a chicken)	啄(鸡~米)	v.	peck at (rice; of a chicken)				
+1815	1815	walk	走	v.	walk			1443	WALK
+1816	1816	bore / drill (a hole)	钻(~洞)	v.	bore / drill (a hole)				
+1817	1817	drill	钻(用钻子)	v.	drill				
+1818	1818	drunk, be	醉	v.	drunk, get||drunk, be	drunk, get v.	醉 ("酒上去了")		
+1819	1819	sit down	坐	v.	sit down				
+1820	1820	do / make	做	v.	do / make (past)||do / make||do / make (future)	do / make (future) v.||do / make (past) v.	做 ((将来时))||做 ((过去时))		
