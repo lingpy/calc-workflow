@@ -1,36 +1,41 @@
 # Computer-Assisted Language Comparison: State of the Art
 
-This repository contains the data, the python scripts, the slides and the handout for the presentation at Workshop : Recent Advances in Comparative Linguistic Reconstruction (London, UK)
+This repository contains the python scripts of the CALC-workflow and the tutorial. The CALC-workflow was presented at Workshop: Workshop : Recent Advances in Comparative Linguistic Reconstruction (London, UK), therefore, the presentation slides can be found in the **slides** folder.
 
 ## Data
-You can find data in the **code** folder.
+
+You can find data in the **workflow** folder.
 
 | File |Stage  |
 | ------:|:-----|
-|`chen-sublist.tsv` |Raw data to machine readable data|
-|`chen-cognates.tsv`|Machine readable data to partial cognate|
-|`chen-structure-aligned.tsv`|Partial cognate to template-based alignment|
-|`chen-crossids.tsv`|Template-based alignment to strict cognates|
-|`chen-patterns.tsv`|Strict cognates to Sound correspondence pattern|
-|`profile2.tsv`|Orthography profile for the template-based alignment|
-|10_language_geo.tsv|Geographic locations of the 10 HM languages|
+|`D_Chen_subset.tsv` |Raw data to machine readable data|
+|`D_Chen_partial.tsv`|Machine readable data to partial cognate|
+|`D_Chen_structure.tsv`|Partial cognate to template-based alignment|
+|`D_Chen_crossids.tsv`|Template-based alignment to strict cognates|
+|`D_Chen_patterns.tsv`|Strict cognates to Sound correspondence pattern|
+|`profile2.tsv`|An example of orthography profile for the template-based alignment|
+
 
 ## Python codes
-You can find all the python scripts in the **code** folder.
 
-| Python script | Functions |
-| -------------:|:----------|
-| `to_wordlist.py`|Extract 10 Hmong-Mien languages from raw data |
-| `P_alignments.py`|<ul><li>Partial cognate detection</li><li> Template-based alignments</li><li> cross-semantic cognate detection</li> </ul>|
-| `corrpat.py`|Summarise sound patterns|
-|P_map.py | The python script to generate map |
+You can find all the python scripts in the **workflow** folder.
+
+| Python script | Functions |Manuscript|
+| -------------:|:----------|:----------|
+| `1_lifting.py`|From raw data to tokenized data| 3.2.1 |
+| `2_partial.py`|From tokenized data to cognate sets| 3.2.2|
+| `3_alignment.py`|From cognate sets to alignments| 3.2.3 |
+| `4_crosssemantic.py`|From alignments to cross-semantic cognates| 3.2.4|
+| `5_correspondence.py`|From ross-semantic cognates to sound correspondence patterns| 3.2.5|
+| `P_validate.py` | The python script to generate a distance matrix |
+
 ## Handout
 
-You can find `handout.pdf` in the **handout** folder.
+You can find `handout.pdf` in the **workshop > handout** folder.
 
 ## Presentation slides
 
-The presenation slide is in HTML format, please find `slides.html` in the **slides** folder.
+The presenation slide is in HTML format, please find `slides.html` in the **workshop > slides** folder.
 
 ## Interactive web-based application
 
