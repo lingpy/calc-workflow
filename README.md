@@ -1,6 +1,6 @@
 # Computer-Assisted Language Comparison: State of the Art
 
-This repository contains the python scripts of the CALC-workflow and the tutorial. The CALC-workflow was presented at Workshop: Workshop : Recent Advances in Comparative Linguistic Reconstruction (London, UK), therefore, the presentation slides can be found in the **slides** folder.
+This repository contains the python scripts of the CALC-workflow and the tutorial. The CALC-workflow was presented at Workshop: Workshop : Recent Advances in Comparative Linguistic Reconstruction (London, UK), therefore, the presentation slides can be found in the **workshop> slides** folder.
 
 ## Data
 
@@ -13,6 +13,10 @@ You can find data in the **workflow** folder.
 |`D_Chen_structure.tsv`|Partial cognate to template-based alignment|
 |`D_Chen_crossids.tsv`|Template-based alignment to strict cognates|
 |`D_Chen_patterns.tsv`|Strict cognates to Sound correspondence pattern|
+
+| File |Supplementary |
+| ------:|:-----|
+|`D_Doculects.tsv`|The metadata of the selected languages|
 |`profile2.tsv`|An example of orthography profile for the template-based alignment|
 
 
