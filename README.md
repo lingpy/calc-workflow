@@ -27,7 +27,7 @@ You can find all the python scripts in the **workflow** folder.
 | `3_alignment.py`|From cognate sets to alignments| 3.2.3 |
 | `4_crosssemantic.py`|From alignments to cross-semantic cognates| 3.2.4|
 | `5_correspondence.py`|From ross-semantic cognates to sound correspondence patterns| 3.2.5|
-| `P_validate.py` | The python script to generate a distance matrix |
+| `P_validate.py` | The python script to generate a distance matrix |Discussion|
 
 ## Handout
 
